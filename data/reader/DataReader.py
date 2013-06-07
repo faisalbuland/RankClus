@@ -5,28 +5,34 @@ import numpy as np
 from data.structure.network import Network
 
 
-def removeNonAscii(s): return "".join(filter(lambda x: ord(x)<128, s))
+def removeNonAscii(s): return "".join(filter(lambda x: ord(x) < 128, s))
+
 
 def cleanDic(obj):
     for key in obj.keys():
         if key == "time" or type(key) == int or key == "intTime" or key == "postID":
             continue
-        obj[key] =removeNonAscii(obj[key])
+        obj[key] = removeNonAscii(obj[key])
 
 
 class DataReader:
-
     """ An Data Reader interface"""
 
     def __init__(self):
         pass
 
     def read(self):
+        """
+        read data, and should RETURN the NETWORK
+        """
         pass
 
     def getData(self):
-        pass
+        """
 
+        Return the data that has already been read.
+        """
+        pass
 
 
 class DiskDataReader(DataReader):
@@ -35,7 +41,8 @@ class DiskDataReader(DataReader):
     each thread will be in one file
     each file should be an array of json obj
     """
-    def __init__(self,rootPath, fileList):
+
+    def __init__(self, rootPath, fileList):
         """
 
         :param rootPath: the root of all files
@@ -53,8 +60,8 @@ class DiskDataReader(DataReader):
         self.threads = {}
         self.user = {}
         for file in self.fileList:
-            ins = open(self.root+"/"+file,"r")
-            obj=json.loads(ins.read())
+            ins = open(self.root + "/" + file, "r")
+            obj = json.loads(ins.read())
             if not obj[0]['postID'] == 1:
                 # if is is not started from the day, just ignore it
                 continue
@@ -78,17 +85,17 @@ class DiskDataReader(DataReader):
 
                         quote = quote[:idx]
                         if "Originally posted by " in quote:
-                            cited = quote.replace("Originally posted by ","")
+                            cited = quote.replace("Originally posted by ", "")
                             # print cited
-                    except ValueError,e:
+                    except ValueError, e:
                         #if error rasied, means data needs to clean
                         # ie. wrong format of quoting text
                         # we need to go through all posts to look posts
                         q = list(obj).index(post)
-                        for i in range(q-1,-1,-1):
+                        for i in range(q - 1, -1, -1):
                             if str(post['quote']) in str(obj[i]['reply']):
                                 cited = obj[i]['userID']
-                post['quoteUserId']=cited
+                post['quoteUserId'] = cited
                 # print post['userID'],"->",cited
 
         # now we need to parse the data into matrix
@@ -111,36 +118,48 @@ class DiskDataReader(DataReader):
         n = len(userTable)
 
         # looks at the __init__ function of network to see specification
-        wxx = np.zeros((m,m))
-        wxy = np.zeros((m,n))
-        wyx = np.zeros((n,m))
-        wyy = np.zeros((n,n))
+        wxx = np.zeros((m, m))
+        wxy = np.zeros((m, n))
+        wyx = np.zeros((n, m))
+        wyy = np.zeros((n, n))
 
         #go over threads and posts and generated the 4 matrix.
-        for i in range(0,m):
+        for i in range(0, m):
             threadID = threadTable[i]
             thread = self.threads[threadID]
             NumPost = len(thread)
             wxx[i][i] += NumPost
-            for post in self.threads[key]:
+            for post in thread:
                 postUser = post['userID']
                 j = userTable.index(postUser)
-                wyx[j][i]+=1
-                wxy[i][j]+=1
+                wyx[j][i] += 1
+                wxy[i][j] += 1
                 replyUser = post['quoteUserId']
                 if replyUser == "":
                     pass
                 else:
-                    k = userTable.index(replyUser)
-                    wyy[j][k]+=1
+                    try:
+                        k = userTable.index(replyUser)
+                        wyy[j][k] += 1
+                    except ValueError,e:
+                        replyUser = ""
+
 
         # now we have the network, construct it
 
 
 
-        matrix = [wxx,wxy,wyx,wyy]
+        matrix = [wxx, wxy, wyx, wyy]
         # print matrix
-        network = Network(matrix,[threadTable,userTable])
+        for i in range(len(threadTable)):
+            tid = threadTable[i]
+            title_x = self.threads[tid][0]['title']
+            obj_to_add = {"tid":tid,"Title":title_x}
+            threadTable[i]=obj_to_add
+
+
+
+        network = Network(matrix, [threadTable, userTable])
 
         return network
 
