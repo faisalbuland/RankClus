@@ -1,0 +1,78 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Human_rights", 
+            "President_of_the_United_States", 
+            "National_security", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Preventive_detention", 
+            "United_States_Constitution", 
+            "George_W._Bush", 
+            "Statute", 
+            "Horizon", 
+            "Barack_Obama", 
+            "Australian_immigration_detention_facilities", 
+            "United_States", 
+            "Terrorism", 
+            "White_House", 
+            "Detainee"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Paint"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)", 
+            "Friendly_fire", 
+            "Milk", 
+            "Fish", 
+            "Democracy", 
+            "Central_Intelligence_Agency", 
+            "Aviation_accidents_and_incidents", 
+            "Bar_association", 
+            "Natural_gas", 
+            "Military_discharge", 
+            "Filling_station"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Jail", 
+            "Terrorism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Liberalism_in_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 7
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Politics", 
+            "George_H._W._Bush", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Baitullah_Mehsud", 
+            "World_war", 
+            "Baitullah"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Olive", 
+            "Olive_branch", 
+            "Bill_Clinton", 
+            "Taliban"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nice_guy", 
+            "Villain"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Stunt", 
+            "Taliban", 
+            "Intelligence"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Black_people", 
+            "Horse", 
+            "New_Orleans,_Louisiana", 
+            "Taliban", 
+            "Town", 
+            "Barack_Obama", 
+            "God", 
+            "Orl\u00e9ans", 
+            "Water", 
+            "African_American"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Etiquette"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "North-West_Frontier_Province", 
+            "Lunatic", 
+            "North_West_England"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Welfare_(financial_aid)", 
+            "Permanent_residence_(United_States)", 
+            "War_on_Terrorism", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Western_Hemisphere", 
+            "United_States", 
+            "Pashtun_people", 
+            "President_of_the_United_States", 
+            "Language", 
+            "Washington,_D.C.", 
+            "Western_Hemisphere", 
+            "Language", 
+            "White_House", 
+            "Taliban", 
+            "United_States", 
+            "North_America", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Dog"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Politics", 
+            "George_H._W._Bush", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Baitullah_Mehsud", 
+            "World_war", 
+            "Baitullah"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Olive", 
+            "Olive_branch", 
+            "Bill_Clinton", 
+            "Taliban"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Nice_guy", 
+            "Villain"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Stunt", 
+            "Taliban", 
+            "Intelligence"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Black_people", 
+            "Horse", 
+            "New_Orleans,_Louisiana", 
+            "Taliban", 
+            "Town", 
+            "Barack_Obama", 
+            "God", 
+            "Orl\u00e9ans", 
+            "Water", 
+            "African_American"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Etiquette"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "North-West_Frontier_Province", 
+            "Lunatic", 
+            "North_West_England"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Welfare_(financial_aid)", 
+            "Permanent_residence_(United_States)", 
+            "War_on_Terrorism", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Western_Hemisphere", 
+            "United_States", 
+            "Pashtun_people", 
+            "President_of_the_United_States", 
+            "Language", 
+            "Washington,_D.C.", 
+            "Western_Hemisphere", 
+            "Language", 
+            "White_House", 
+            "Taliban", 
+            "United_States", 
+            "North_America", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Dog"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

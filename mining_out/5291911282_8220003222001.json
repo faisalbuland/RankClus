@@ -1,0 +1,149 @@
+[
+    {
+        "entity": [
+            "Bash", 
+            "United_States_Marine_Corps", 
+            "The_Rolling_Stones", 
+            "Generation_Kill_(TV_series)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Miniseries", 
+            "Generation_Kill_(TV_series)", 
+            "Thread_(computer_science)", 
+            "Documentary_film", 
+            "Bubbles_(band)", 
+            "God", 
+            "Home_Box_Office", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Trash", 
+            "American_Soldier", 
+            "United_States", 
+            "United_States", 
+            "Trash", 
+            "Soldier_(Destiny's_Child_song)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Bubbles_(band)", 
+            "Bubbles_(band)", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Amphibious_Assault_Vehicle", 
+            "Boating", 
+            "United_States_Marine_Corps", 
+            "United_States_Coast_Guard", 
+            "Barbecue", 
+            "Fuck", 
+            "United_States_Marine_Corps", 
+            "Potato"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Defence_mechanism", 
+            "Firefighter", 
+            "Black_comedy", 
+            "Insanity", 
+            "Emergency_medical_technician", 
+            "Natural_History_(Pliny)", 
+            "Mountain", 
+            "Humour", 
+            "Mountain_rescue", 
+            "Mutilation", 
+            "Civil_defense", 
+            "Emergency_medical_technician"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Infantry", 
+            "Humour", 
+            "United_States_Army", 
+            "Iraq", 
+            "Infantry", 
+            "Gulf_War", 
+            "United_States_Marine_Corps", 
+            "Gulf_War", 
+            "Grunts_(novel)", 
+            "Infantry", 
+            "Black_comedy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Language", 
+            "Defence_mechanism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Black_comedy", 
+            "Humour", 
+            "Firefighter", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Black_comedy", 
+            "Flavor", 
+            "Emergency_medical_technician", 
+            "Animal_control_officer", 
+            "Thomas_Paine", 
+            "Animal", 
+            "United_States_Marine_Corps", 
+            "Thomas_Paine", 
+            "Humour"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hollyweird"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hollywood,_Los_Angeles,_California", 
+            "World_War_II", 
+            "God", 
+            "Bubbles_(band)", 
+            "Pansy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "Grief", 
+            "Blew_(EP)", 
+            "Iraq", 
+            "2003", 
+            "T-shirt", 
+            "Off-color_humor", 
+            "Teh", 
+            "Language"
+        ], 
+        "postID": 12
+    }
+]

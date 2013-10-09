@@ -1,0 +1,938 @@
+[
+    {
+        "entity": [
+            "Police_state", 
+            "PROTECT", 
+            "CARE_(relief)", 
+            "Stuff_(magazine)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Parking_lot", 
+            "Arthur_William_Baden_Powell", 
+            "March_17", 
+            "Robert_Powell", 
+            "Ryan_Moats", 
+            "Hospital"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Training_film", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "One_Heart", 
+            "Police", 
+            "Film", 
+            "Hospital", 
+            "Cam", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mother-in-law", 
+            "H._L._Mencken", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Cam", 
+            "Chief_of_police", 
+            "Police", 
+            "Hospital"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Speeder"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Hospital", 
+            "Low_Earth_orbit", 
+            "Dude", 
+            "Association_football", 
+            "Cruiser", 
+            "Police", 
+            "Chief_of_police", 
+            "Vermin", 
+            "Urination", 
+            "Politician", 
+            "Police", 
+            "National_Crime_Information_Center"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Cowboy", 
+            "Hospital", 
+            "Shame", 
+            "Suspension_(vehicle)", 
+            "State_legislature_(United_States)", 
+            "Weapon", 
+            "District", 
+            "Association_football", 
+            "Hospital", 
+            "Union_(American_Civil_War)", 
+            "Citizenship", 
+            "Harassment", 
+            "Sheriff", 
+            "Nurse", 
+            "Police", 
+            "Police_officer", 
+            "Police", 
+            "Chief_of_police"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Driver's_license", 
+            "Traffic_stop", 
+            "Law", 
+            "Philosophy", 
+            "Law", 
+            "IMHO", 
+            "Warrant_(law)", 
+            "Warrant_(law)", 
+            "Insurance", 
+            "Compassion", 
+            "Firearm", 
+            "Infraction"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Police", 
+            "Fire_apparatus", 
+            "Safety_(American_football)", 
+            "Public_safety"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "State_police", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Car_accident", 
+            "Ambulance", 
+            "Hospital", 
+            "Police", 
+            "Westbound_Records", 
+            "Ambulance", 
+            "Pregnancy", 
+            "Hospital", 
+            "Miles_per_hour", 
+            "State_police"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "Police_state", 
+            "States_and_territories_of_India", 
+            "Police", 
+            "Parking_lot", 
+            "Hospital"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Police_officer", 
+            "Bomb", 
+            "Hospital", 
+            "Police_officer"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Chief_of_police", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Human_behavior", 
+            "Sensitivity_training", 
+            "Sensitivity_and_specificity", 
+            "Departments_of_France", 
+            "Fault_(geology)", 
+            "State", 
+            "Probation", 
+            "State", 
+            "Traffic_stop", 
+            "Police", 
+            "Police_state"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Police", 
+            "Heat", 
+            "Quarterback", 
+            "Safety_(American_football)", 
+            "Law", 
+            "Political_argument", 
+            "Decision_making", 
+            "Crystal", 
+            "Safety_(American_football)", 
+            "Crystal_ball", 
+            "Latitude"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Hospital", 
+            "Bank"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Paramedic", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "Hospital", 
+            "First_officer", 
+            "Hospital"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Police_state", 
+            "PROTECT", 
+            "CARE_(relief)", 
+            "Stuff_(magazine)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Parking_lot", 
+            "Arthur_William_Baden_Powell", 
+            "March_17", 
+            "Robert_Powell", 
+            "Ryan_Moats", 
+            "Hospital"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Training_film", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "One_Heart", 
+            "Police", 
+            "Film", 
+            "Hospital", 
+            "Cam", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mother-in-law", 
+            "H._L._Mencken", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Cam", 
+            "Chief_of_police", 
+            "Police", 
+            "Hospital"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Speeder"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Hospital", 
+            "Low_Earth_orbit", 
+            "Dude", 
+            "Association_football", 
+            "Cruiser", 
+            "Police", 
+            "Chief_of_police", 
+            "Vermin", 
+            "Urination", 
+            "Politician", 
+            "Police", 
+            "National_Crime_Information_Center"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Cowboy", 
+            "Hospital", 
+            "Shame", 
+            "Suspension_(vehicle)", 
+            "State_legislature_(United_States)", 
+            "Weapon", 
+            "District", 
+            "Association_football", 
+            "Hospital", 
+            "Union_(American_Civil_War)", 
+            "Citizenship", 
+            "Harassment", 
+            "Sheriff", 
+            "Nurse", 
+            "Police", 
+            "Police_officer", 
+            "Police", 
+            "Chief_of_police"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Driver's_license", 
+            "Traffic_stop", 
+            "Law", 
+            "Philosophy", 
+            "Law", 
+            "IMHO", 
+            "Warrant_(law)", 
+            "Warrant_(law)", 
+            "Insurance", 
+            "Compassion", 
+            "Firearm", 
+            "Infraction"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Police", 
+            "Fire_apparatus", 
+            "Safety_(American_football)", 
+            "Public_safety"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "State_police", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Car_accident", 
+            "Ambulance", 
+            "Hospital", 
+            "Police", 
+            "Westbound_Records", 
+            "Ambulance", 
+            "Pregnancy", 
+            "Hospital", 
+            "Miles_per_hour", 
+            "State_police"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "Police_state", 
+            "States_and_territories_of_India", 
+            "Police", 
+            "Parking_lot", 
+            "Hospital"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Police_officer", 
+            "Bomb", 
+            "Hospital", 
+            "Police_officer"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Chief_of_police", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Human_behavior", 
+            "Sensitivity_training", 
+            "Sensitivity_and_specificity", 
+            "Departments_of_France", 
+            "Fault_(geology)", 
+            "State", 
+            "Probation", 
+            "State", 
+            "Traffic_stop", 
+            "Police", 
+            "Police_state"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Police", 
+            "Heat", 
+            "Quarterback", 
+            "Safety_(American_football)", 
+            "Law", 
+            "Political_argument", 
+            "Decision_making", 
+            "Crystal", 
+            "Safety_(American_football)", 
+            "Crystal_ball", 
+            "Latitude"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Hospital", 
+            "Bank"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Paramedic", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "Hospital", 
+            "First_officer", 
+            "Hospital"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Police_state", 
+            "PROTECT", 
+            "CARE_(relief)", 
+            "Stuff_(magazine)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Parking_lot", 
+            "Arthur_William_Baden_Powell", 
+            "March_17", 
+            "Robert_Powell", 
+            "Ryan_Moats", 
+            "Hospital"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Training_film", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "One_Heart", 
+            "Police", 
+            "Film", 
+            "Hospital", 
+            "Cam", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Mother-in-law", 
+            "H._L._Mencken", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Cam", 
+            "Chief_of_police", 
+            "Police", 
+            "Hospital"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Speeder"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Hospital", 
+            "Low_Earth_orbit", 
+            "Dude", 
+            "Association_football", 
+            "Cruiser", 
+            "Police", 
+            "Chief_of_police", 
+            "Vermin", 
+            "Urination", 
+            "Politician", 
+            "Police", 
+            "National_Crime_Information_Center"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Cowboy", 
+            "Hospital", 
+            "Shame", 
+            "Suspension_(vehicle)", 
+            "State_legislature_(United_States)", 
+            "Weapon", 
+            "District", 
+            "Association_football", 
+            "Hospital", 
+            "Union_(American_Civil_War)", 
+            "Citizenship", 
+            "Harassment", 
+            "Sheriff", 
+            "Nurse", 
+            "Police", 
+            "Police_officer", 
+            "Police", 
+            "Chief_of_police"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Driver's_license", 
+            "Traffic_stop", 
+            "Law", 
+            "Philosophy", 
+            "Law", 
+            "IMHO", 
+            "Warrant_(law)", 
+            "Warrant_(law)", 
+            "Insurance", 
+            "Compassion", 
+            "Firearm", 
+            "Infraction"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Police", 
+            "Fire_apparatus", 
+            "Safety_(American_football)", 
+            "Public_safety"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "State_police", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Car_accident", 
+            "Ambulance", 
+            "Hospital", 
+            "Police", 
+            "Westbound_Records", 
+            "Ambulance", 
+            "Pregnancy", 
+            "Hospital", 
+            "Miles_per_hour", 
+            "State_police"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "Police_state", 
+            "States_and_territories_of_India", 
+            "Police", 
+            "Parking_lot", 
+            "Hospital"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Police_officer", 
+            "Bomb", 
+            "Hospital", 
+            "Police_officer"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Chief_of_police", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Human_behavior", 
+            "Sensitivity_training", 
+            "Sensitivity_and_specificity", 
+            "Departments_of_France", 
+            "Fault_(geology)", 
+            "State", 
+            "Probation", 
+            "State", 
+            "Traffic_stop", 
+            "Police", 
+            "Police_state"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Police", 
+            "Heat", 
+            "Quarterback", 
+            "Safety_(American_football)", 
+            "Law", 
+            "Political_argument", 
+            "Decision_making", 
+            "Crystal", 
+            "Safety_(American_football)", 
+            "Crystal_ball", 
+            "Latitude"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Hospital", 
+            "Bank"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Paramedic", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "Hospital", 
+            "First_officer", 
+            "Hospital"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Police_state", 
+            "PROTECT", 
+            "CARE_(relief)", 
+            "Stuff_(magazine)"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Parking_lot", 
+            "Arthur_William_Baden_Powell", 
+            "March_17", 
+            "Robert_Powell", 
+            "Ryan_Moats", 
+            "Hospital"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Training_film", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "One_Heart", 
+            "Police", 
+            "Film", 
+            "Hospital", 
+            "Cam", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Mother-in-law", 
+            "H._L._Mencken", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Cam", 
+            "Chief_of_police", 
+            "Police", 
+            "Hospital"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Speeder"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Hospital", 
+            "Low_Earth_orbit", 
+            "Dude", 
+            "Association_football", 
+            "Cruiser", 
+            "Police", 
+            "Chief_of_police", 
+            "Vermin", 
+            "Urination", 
+            "Politician", 
+            "Police", 
+            "National_Crime_Information_Center"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Cowboy", 
+            "Hospital", 
+            "Shame", 
+            "Suspension_(vehicle)", 
+            "State_legislature_(United_States)", 
+            "Weapon", 
+            "District", 
+            "Association_football", 
+            "Hospital", 
+            "Union_(American_Civil_War)", 
+            "Citizenship", 
+            "Harassment", 
+            "Sheriff", 
+            "Nurse", 
+            "Police", 
+            "Police_officer", 
+            "Police", 
+            "Chief_of_police"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Driver's_license", 
+            "Traffic_stop", 
+            "Law", 
+            "Philosophy", 
+            "Law", 
+            "IMHO", 
+            "Warrant_(law)", 
+            "Warrant_(law)", 
+            "Insurance", 
+            "Compassion", 
+            "Firearm", 
+            "Infraction"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Police", 
+            "Fire_apparatus", 
+            "Safety_(American_football)", 
+            "Public_safety"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "State_police", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Car_accident", 
+            "Ambulance", 
+            "Hospital", 
+            "Police", 
+            "Westbound_Records", 
+            "Ambulance", 
+            "Pregnancy", 
+            "Hospital", 
+            "Miles_per_hour", 
+            "State_police"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "Police_state", 
+            "States_and_territories_of_India", 
+            "Police", 
+            "Parking_lot", 
+            "Hospital"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Police_officer", 
+            "Bomb", 
+            "Hospital", 
+            "Police_officer"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Chief_of_police", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Human_behavior", 
+            "Sensitivity_training", 
+            "Sensitivity_and_specificity", 
+            "Departments_of_France", 
+            "Fault_(geology)", 
+            "State", 
+            "Probation", 
+            "State", 
+            "Traffic_stop", 
+            "Police", 
+            "Police_state"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Police", 
+            "Heat", 
+            "Quarterback", 
+            "Safety_(American_football)", 
+            "Law", 
+            "Political_argument", 
+            "Decision_making", 
+            "Crystal", 
+            "Safety_(American_football)", 
+            "Crystal_ball", 
+            "Latitude"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Hospital", 
+            "Bank"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Paramedic", 
+            "Indecent_exposure", 
+            "Hospital", 
+            "Hospital", 
+            "First_officer", 
+            "Hospital"
+        ], 
+        "postID": 80
+    }
+]

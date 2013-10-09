@@ -1,0 +1,61 @@
+[
+    {
+        "entity": [
+            "Real_estate_economics", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Senate", 
+            "United_States", 
+            "Charitable_organization", 
+            "Middle_America_(United_States)", 
+            "Tax", 
+            "Chair_(official)", 
+            "United_States_Senate_Committee_on_Finance", 
+            "Real_estate_economics", 
+            "Democratic_Party_(United_States)", 
+            "Max_Baucus", 
+            "United_States_Senate_Committee_on_Finance", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Max_Baucus", 
+            "Tax", 
+            "United_States_Senate_Committee_on_Finance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Clan_Kennedy", 
+            "Inheritance_tax", 
+            "Inheritance_tax", 
+            "Tax", 
+            "John_F._Kennedy", 
+            "Scottish_clan", 
+            "Mite"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Golden_parachute", 
+            "Immunity_(medical)", 
+            "Parachutes"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Charity", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Charity"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Deduction"
+        ], 
+        "postID": 5
+    }
+]

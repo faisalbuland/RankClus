@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [
+            "United_Nations", 
+            "Racism", 
+            "Language", 
+            "Freedom_of_speech", 
+            "United_States_Department_of_State", 
+            "Boycott", 
+            "Israel", 
+            "Barack_Obama", 
+            "Mythology", 
+            "Racism", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Mythology", 
+            "Racism", 
+            "United_Nations"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "World_Conference_(Community_of_Christ)", 
+            "Defamation", 
+            "South_Africa", 
+            "2001", 
+            "Geneva", 
+            "Racism", 
+            "Religion", 
+            "Freedom_of_speech", 
+            "Africa", 
+            "United_States_Department_of_State", 
+            "United_States", 
+            "Israel", 
+            "Conscription", 
+            "Robert_Wood_(engraver)", 
+            "Durban"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Middle_management", 
+            "Subjectivity", 
+            "Fiasco", 
+            "Manager_(baseball)", 
+            "Brand"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Racism", 
+            "Aryan", 
+            "Ku_Klux_Klan", 
+            "First_Amendment_to_the_United_States_Constitution", 
+            "Aryan_Nations", 
+            "Nice"
+        ], 
+        "postID": 8
+    }
+]

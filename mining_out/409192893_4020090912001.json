@@ -1,0 +1,686 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Director_of_National_Intelligence", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Barack_Obama", 
+            "Showbiz_and_A.G.", 
+            "United_States", 
+            "Eric_Holder", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bounty_(reward)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cultural_assimilation", 
+            "2009", 
+            "Thought", 
+            "March_27", 
+            "Euromissile_HOT", 
+            "580"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Country_music"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "False_dilemma", 
+            "Certainty"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Prison_camp", 
+            "Presidency_of_George_W._Bush", 
+            "Prison", 
+            "United_States_Department_of_Defense", 
+            "P.S.", 
+            "United_States_Department_of_Defense", 
+            "Internet_forum", 
+            "George_W._Bush", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Physical_abuse"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Orange_(fruit)", 
+            "Student_overall"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Town"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "United_States", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Manitoba_Liberal_Party", 
+            "Prison", 
+            "Prosecutor", 
+            "United_States_Navy", 
+            "David_Hicks", 
+            "Taliban", 
+            "Military_prison", 
+            "United_States", 
+            "Major", 
+            "Bound_(film)", 
+            "Incarceration_in_the_United_States", 
+            "United_States", 
+            "Basketball", 
+            "Athletic_shoe", 
+            "Basketball", 
+            "Association_football", 
+            "Australia", 
+            "Prison", 
+            "Mass_media", 
+            "United_States", 
+            "Headlands_and_bays", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "United_States_Marine_Corps", 
+            "Picnic", 
+            "Honor_Bound_series", 
+            "Brooks_Brothers", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "Brooks,_Alberta", 
+            "Guantanamo_Bay_detention_camp", 
+            "Internment"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "United_States", 
+            "Knife"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "Brain", 
+            "Drill", 
+            "Brain_damage"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Suburban_Mobility_Authority_for_Regional_Transportation", 
+            "KNOW-FM", 
+            "Terrorism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "JAG", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Brain", 
+            "One-liner_joke", 
+            "Demo_(music)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law", 
+            "National_security"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Liberalism", 
+            "United_States", 
+            "National_security"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Director_of_National_Intelligence", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Barack_Obama", 
+            "Showbiz_and_A.G.", 
+            "United_States", 
+            "Eric_Holder", 
+            "United_States"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Bounty_(reward)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cultural_assimilation", 
+            "2009", 
+            "Thought", 
+            "March_27", 
+            "Euromissile_HOT", 
+            "580"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Country_music"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "False_dilemma", 
+            "Certainty"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Prison_camp", 
+            "Presidency_of_George_W._Bush", 
+            "Prison", 
+            "United_States_Department_of_Defense", 
+            "P.S.", 
+            "United_States_Department_of_Defense", 
+            "Internet_forum", 
+            "George_W._Bush", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Physical_abuse"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Orange_(fruit)", 
+            "Student_overall"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Town"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "United_States", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Manitoba_Liberal_Party", 
+            "Prison", 
+            "Prosecutor", 
+            "United_States_Navy", 
+            "David_Hicks", 
+            "Taliban", 
+            "Military_prison", 
+            "United_States", 
+            "Major", 
+            "Bound_(film)", 
+            "Incarceration_in_the_United_States", 
+            "United_States", 
+            "Basketball", 
+            "Athletic_shoe", 
+            "Basketball", 
+            "Association_football", 
+            "Australia", 
+            "Prison", 
+            "Mass_media", 
+            "United_States", 
+            "Headlands_and_bays", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "United_States_Marine_Corps", 
+            "Picnic", 
+            "Honor_Bound_series", 
+            "Brooks_Brothers", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "Brooks,_Alberta", 
+            "Guantanamo_Bay_detention_camp", 
+            "Internment"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "United_States", 
+            "Knife"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "Brain", 
+            "Drill", 
+            "Brain_damage"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Suburban_Mobility_Authority_for_Regional_Transportation", 
+            "KNOW-FM", 
+            "Terrorism"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "JAG", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Brain", 
+            "One-liner_joke", 
+            "Demo_(music)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law", 
+            "National_security"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Liberalism", 
+            "United_States", 
+            "National_security"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Director_of_National_Intelligence", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Barack_Obama", 
+            "Showbiz_and_A.G.", 
+            "United_States", 
+            "Eric_Holder", 
+            "United_States"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Bounty_(reward)"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Cultural_assimilation", 
+            "2009", 
+            "Thought", 
+            "March_27", 
+            "Euromissile_HOT", 
+            "580"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Country_music"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "False_dilemma", 
+            "Certainty"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Prison_camp", 
+            "Presidency_of_George_W._Bush", 
+            "Prison", 
+            "United_States_Department_of_Defense", 
+            "P.S.", 
+            "United_States_Department_of_Defense", 
+            "Internet_forum", 
+            "George_W._Bush", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Physical_abuse"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Orange_(fruit)", 
+            "Student_overall"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Town"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "United_States", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Manitoba_Liberal_Party", 
+            "Prison", 
+            "Prosecutor", 
+            "United_States_Navy", 
+            "David_Hicks", 
+            "Taliban", 
+            "Military_prison", 
+            "United_States", 
+            "Major", 
+            "Bound_(film)", 
+            "Incarceration_in_the_United_States", 
+            "United_States", 
+            "Basketball", 
+            "Athletic_shoe", 
+            "Basketball", 
+            "Association_football", 
+            "Australia", 
+            "Prison", 
+            "Mass_media", 
+            "United_States", 
+            "Headlands_and_bays", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "United_States_Marine_Corps", 
+            "Picnic", 
+            "Honor_Bound_series", 
+            "Brooks_Brothers", 
+            "Guantanamo_Bay_detention_camp", 
+            "Rotunda", 
+            "Brooks,_Alberta", 
+            "Guantanamo_Bay_detention_camp", 
+            "Internment"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "United_States", 
+            "Knife"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "Brain", 
+            "Drill", 
+            "Brain_damage"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Suburban_Mobility_Authority_for_Regional_Transportation", 
+            "KNOW-FM", 
+            "Terrorism"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "JAG", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Brain", 
+            "One-liner_joke", 
+            "Demo_(music)"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law", 
+            "National_security"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Liberalism", 
+            "United_States", 
+            "National_security"
+        ], 
+        "postID": 90
+    }
+]

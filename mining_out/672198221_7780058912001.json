@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Deadly_force", 
+            "Oklahoma"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Instinct", 
+            "Law"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Scots_law", 
+            "The_Holocaust", 
+            "Ala_(Roman_military)", 
+            "Perversion", 
+            "Scots_law", 
+            "Scots_law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Stomach", 
+            "Multiple_birth", 
+            "Manslaughter", 
+            "United_States", 
+            "Supreme_court", 
+            "Michigan"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Murder"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Acquittal", 
+            "Jury"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Michigan", 
+            "Alabama", 
+            "Partisan_(military)", 
+            "Oklahoma", 
+            "Right_of_self-defense", 
+            "Right_of_self-defense"
+        ], 
+        "postID": 8
+    }
+]

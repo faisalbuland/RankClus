@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "Government_debt", 
+            "Government_debt", 
+            "Government_debt", 
+            "Debt"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "House_Mouse", 
+            "Christopher_Walken", 
+            "Mouse_(computing)", 
+            "Butter", 
+            "Christopher_Walken", 
+            "Cohort_(military_unit)", 
+            "Cancer", 
+            "House_Mouse", 
+            "Rerun", 
+            "Energy", 
+            "Cream", 
+            "Cream"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "French_Revolution", 
+            "United_States", 
+            "Stratosphere", 
+            "Population", 
+            "Depreciation", 
+            "Tax", 
+            "Tax", 
+            "Deficit"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Abraham_Lincoln", 
+            "Liberal_Party_(UK)", 
+            "Political_corruption", 
+            "Politician", 
+            "Conservative_Party_(UK)", 
+            "Logic", 
+            "Greed", 
+            "Democratic_Party_(United_States)", 
+            "Collusion", 
+            "Mon_people", 
+            "March_30", 
+            "2009"
+        ], 
+        "postID": 6
+    }
+]

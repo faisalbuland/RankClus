@@ -1,0 +1,109 @@
+[
+    {
+        "entity": [
+            "Mitsubishi", 
+            "Riverside,_California", 
+            "Gerald_Ford", 
+            "Hit_and_run_(vehicular)", 
+            "Felony", 
+            "Chrysler_minivans", 
+            "Andy_Thomas", 
+            "Silver", 
+            "Los_Angeles_Angels_of_Anaheim", 
+            "Pitcher", 
+            "Sports_car", 
+            "Chrysler_minivans", 
+            "Police", 
+            "Ford_Motor_Company", 
+            "Los_Angeles_Angels_of_Anaheim", 
+            "Nick_Adenhart", 
+            "Los_Angeles,_California", 
+            "Sports_car", 
+            "Chrysler_minivans", 
+            "Rookie", 
+            "Gallo_language", 
+            "Police"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "KGO-TV", 
+            "Gallo_language", 
+            "December_2005", 
+            "Riverside,_California", 
+            "Hit_and_run_(vehicular)", 
+            "Department_of_Motor_Vehicles", 
+            "Vehicular_homicide", 
+            "Cannabis_(drug)", 
+            "Driving_under_the_influence", 
+            "Seat_belt", 
+            "Minivan", 
+            "Gallo_language", 
+            "Containerization", 
+            "Driving_under_the_influence", 
+            "Minivan", 
+            "Police", 
+            "United_States_open_container_laws", 
+            "Felony", 
+            "Blood_alcohol_content", 
+            "Blood_alcohol_content", 
+            "State_College,_Pennsylvania", 
+            "2005", 
+            "Manslaughter", 
+            "2007", 
+            "Felony", 
+            "Gallo_language"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Law", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Imperial_(automobile)", 
+            "1956", 
+            "Apple", 
+            "Chrysler"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Lawyer", 
+            "Car_accident", 
+            "April_11", 
+            "Bail", 
+            "Driving_under_the_influence", 
+            "Common_year_starting_on_Thursday"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "Safety_standards"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Routing_Information_Protocol", 
+            "Pain"
+        ], 
+        "postID": 9
+    }
+]

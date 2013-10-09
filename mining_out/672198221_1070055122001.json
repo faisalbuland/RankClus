@@ -1,0 +1,127 @@
+[
+    {
+        "entity": [
+            "Pakistan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Clear_and_present_danger", 
+            "Pakistan", 
+            "Clear_and_present_danger", 
+            "President_of_the_United_States", 
+            "Terrorism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Frontline_(U.S._TV_series)", 
+            "Public_Broadcasting_Service", 
+            "Taliban", 
+            "BUMP_(comics)", 
+            "Pakistan", 
+            "Frontline_(U.S._TV_series)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Nevermind", 
+            "British_Army", 
+            "Afghanistan", 
+            "Conscription_in_the_United_States", 
+            "Iraq"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pakistan_national_cricket_team", 
+            "Taliban", 
+            "Pakistan_national_cricket_team"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Nuclear_weapon", 
+            "Sarcasm", 
+            "!!!", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Nuclear_power", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Load_(album)", 
+            "Taliban", 
+            "Nuclear_weapon", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Pakistan"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Pakistan_Army", 
+            "Taliban", 
+            "United_States_Army", 
+            "Politics", 
+            "Access_Co.", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "India", 
+            "Regions_of_France", 
+            "Brewing", 
+            "States_and_territories_of_India", 
+            "Pakistan", 
+            "Nuclear_weapon", 
+            "F-16_Fighting_Falcon", 
+            "Iran", 
+            "Pakistan", 
+            "Failed_state"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Taliban", 
+            "Taliban", 
+            "Pakistan", 
+            "Iraq", 
+            "Pakistan", 
+            "India", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "Russia", 
+            "Stew"
+        ], 
+        "postID": 12
+    }
+]

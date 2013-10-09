@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "MEPS", 
+            "Marine_(military)", 
+            "MEPS", 
+            "United_States_Marine_Corps", 
+            "My_paper", 
+            "Dizziness", 
+            "Physician", 
+            "Marine_(military)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Internet_forum"
+        ], 
+        "postID": 3
+    }
+]

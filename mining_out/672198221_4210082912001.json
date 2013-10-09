@@ -1,0 +1,725 @@
+[
+    {
+        "entity": [
+            "March_19", 
+            "United_States", 
+            "United_States", 
+            "General_Motors", 
+            "Wagoner,_Oklahoma", 
+            "General_Motors", 
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Automotive_industry", 
+            "Wagoner,_Oklahoma", 
+            "Chief_executive_officer", 
+            "Wagoner,_Oklahoma", 
+            "President_of_the_United_States", 
+            "Wagoner,_Oklahoma", 
+            "Rick_Wagoner", 
+            "Automotive_industry"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "United_States_Senate", 
+            "Small_business", 
+            "Gun_politics", 
+            "Bail_(disambiguation)", 
+            "United_States_Congress", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Great_Depression", 
+            "Wagoner,_Oklahoma", 
+            "Fiat", 
+            "Chrysler", 
+            "Detroit,_Michigan", 
+            "United_States", 
+            "Great_Depression", 
+            "Barack_Obama", 
+            "General_Motors", 
+            "White_House", 
+            "Automotive_industry", 
+            "Great_Depression", 
+            "Washington,_D.C.", 
+            "Overhaul_(Transformers)", 
+            "Chief_executive_officer", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Rick_Wagoner", 
+            "Oconaluftee_Indian_Village", 
+            "President_of_the_United_States", 
+            "Rein", 
+            "Italy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Maize", 
+            "Corncob", 
+            "Maize"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sport_utility_vehicle", 
+            "Wagoner,_Oklahoma"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Wagoner,_Oklahoma", 
+            "Richard_Holbrooke", 
+            "Holbrook", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Option_(finance)", 
+            "Trade_union", 
+            "Stock", 
+            "2008", 
+            "1998", 
+            "Trade_union", 
+            "Income_tax", 
+            "Bond_(finance)", 
+            "Ton", 
+            "Corncob", 
+            "Pickup_truck", 
+            "FYI", 
+            "Sport_utility_vehicle", 
+            "Tax", 
+            "Bank", 
+            "Bank_account"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "South_Africa", 
+            "Sport_utility_vehicle", 
+            "Fiat", 
+            "Wagoner,_Oklahoma", 
+            "Daimler_AG", 
+            "Wagoner,_Oklahoma", 
+            "Africa", 
+            "Mercedes-Benz", 
+            "Mercedes-Benz", 
+            "Bail_(disambiguation)", 
+            "Bail_(disambiguation)", 
+            "Benz", 
+            "Chrysler", 
+            "Sedan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Bank"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Chrysler", 
+            "2100", 
+            "Chrysler", 
+            "Donkey", 
+            "Chrysler", 
+            "2100", 
+            "Lever"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Lever", 
+            "2100", 
+            "Federal_government_of_the_United_States", 
+            "Working_capital", 
+            "2100", 
+            "Smoke", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cabinet", 
+            "Boss_Corporation", 
+            "Prez_(DC_Comics)", 
+            "United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "American_International_Group", 
+            "Beef"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Prez", 
+            "Prez", 
+            "Trade_union"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Debt"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Labor_unions_in_the_United_States", 
+            "Trade_union", 
+            "Labor_unions_in_the_United_States", 
+            "The_Union_(political_coalition)", 
+            "Labor_unions_in_the_United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Ford_Motor_Company", 
+            "Nut_(hardware)", 
+            "Wing", 
+            "Wow", 
+            "Trade_union", 
+            "Nerve", 
+            "Nut_(fruit)", 
+            "Gerald_Ford", 
+            "Conservatism", 
+            "Rush_(band)", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Horse", 
+            "Sarcasm"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "March_19", 
+            "United_States", 
+            "United_States", 
+            "General_Motors", 
+            "Wagoner,_Oklahoma", 
+            "General_Motors", 
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Automotive_industry", 
+            "Wagoner,_Oklahoma", 
+            "Chief_executive_officer", 
+            "Wagoner,_Oklahoma", 
+            "President_of_the_United_States", 
+            "Wagoner,_Oklahoma", 
+            "Rick_Wagoner", 
+            "Automotive_industry"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "United_States_Senate", 
+            "Small_business", 
+            "Gun_politics", 
+            "Bail_(disambiguation)", 
+            "United_States_Congress", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Great_Depression", 
+            "Wagoner,_Oklahoma", 
+            "Fiat", 
+            "Chrysler", 
+            "Detroit,_Michigan", 
+            "United_States", 
+            "Great_Depression", 
+            "Barack_Obama", 
+            "General_Motors", 
+            "White_House", 
+            "Automotive_industry", 
+            "Great_Depression", 
+            "Washington,_D.C.", 
+            "Overhaul_(Transformers)", 
+            "Chief_executive_officer", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Rick_Wagoner", 
+            "Oconaluftee_Indian_Village", 
+            "President_of_the_United_States", 
+            "Rein", 
+            "Italy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Maize", 
+            "Corncob", 
+            "Maize"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Sport_utility_vehicle", 
+            "Wagoner,_Oklahoma"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Wagoner,_Oklahoma", 
+            "Richard_Holbrooke", 
+            "Holbrook", 
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Option_(finance)", 
+            "Trade_union", 
+            "Stock", 
+            "2008", 
+            "1998", 
+            "Trade_union", 
+            "Income_tax", 
+            "Bond_(finance)", 
+            "Ton", 
+            "Corncob", 
+            "Pickup_truck", 
+            "FYI", 
+            "Sport_utility_vehicle", 
+            "Tax", 
+            "Bank", 
+            "Bank_account"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "South_Africa", 
+            "Sport_utility_vehicle", 
+            "Fiat", 
+            "Wagoner,_Oklahoma", 
+            "Daimler_AG", 
+            "Wagoner,_Oklahoma", 
+            "Africa", 
+            "Mercedes-Benz", 
+            "Mercedes-Benz", 
+            "Bail_(disambiguation)", 
+            "Bail_(disambiguation)", 
+            "Benz", 
+            "Chrysler", 
+            "Sedan"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Bank"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Chrysler", 
+            "2100", 
+            "Chrysler", 
+            "Donkey", 
+            "Chrysler", 
+            "2100", 
+            "Lever"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Lever", 
+            "2100", 
+            "Federal_government_of_the_United_States", 
+            "Working_capital", 
+            "2100", 
+            "Smoke", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Cabinet", 
+            "Boss_Corporation", 
+            "Prez_(DC_Comics)", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "American_International_Group", 
+            "Beef"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Prez", 
+            "Prez", 
+            "Trade_union"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Debt"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Labor_unions_in_the_United_States", 
+            "Trade_union", 
+            "Labor_unions_in_the_United_States", 
+            "The_Union_(political_coalition)", 
+            "Labor_unions_in_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Ford_Motor_Company", 
+            "Nut_(hardware)", 
+            "Wing", 
+            "Wow", 
+            "Trade_union", 
+            "Nerve", 
+            "Nut_(fruit)", 
+            "Gerald_Ford", 
+            "Conservatism", 
+            "Rush_(band)", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Horse", 
+            "Sarcasm"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "March_19", 
+            "United_States", 
+            "United_States", 
+            "General_Motors", 
+            "Wagoner,_Oklahoma", 
+            "General_Motors", 
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Automotive_industry", 
+            "Wagoner,_Oklahoma", 
+            "Chief_executive_officer", 
+            "Wagoner,_Oklahoma", 
+            "President_of_the_United_States", 
+            "Wagoner,_Oklahoma", 
+            "Rick_Wagoner", 
+            "Automotive_industry"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "United_States_Senate", 
+            "Small_business", 
+            "Gun_politics", 
+            "Bail_(disambiguation)", 
+            "United_States_Congress", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Great_Depression", 
+            "Wagoner,_Oklahoma", 
+            "Fiat", 
+            "Chrysler", 
+            "Detroit,_Michigan", 
+            "United_States", 
+            "Great_Depression", 
+            "Barack_Obama", 
+            "General_Motors", 
+            "White_House", 
+            "Automotive_industry", 
+            "Great_Depression", 
+            "Washington,_D.C.", 
+            "Overhaul_(Transformers)", 
+            "Chief_executive_officer", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Rick_Wagoner", 
+            "Oconaluftee_Indian_Village", 
+            "President_of_the_United_States", 
+            "Rein", 
+            "Italy"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Maize", 
+            "Corncob", 
+            "Maize"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Sport_utility_vehicle", 
+            "Wagoner,_Oklahoma"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Wagoner,_Oklahoma", 
+            "Richard_Holbrooke", 
+            "Holbrook", 
+            "Barack_Obama"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Option_(finance)", 
+            "Trade_union", 
+            "Stock", 
+            "2008", 
+            "1998", 
+            "Trade_union", 
+            "Income_tax", 
+            "Bond_(finance)", 
+            "Ton", 
+            "Corncob", 
+            "Pickup_truck", 
+            "FYI", 
+            "Sport_utility_vehicle", 
+            "Tax", 
+            "Bank", 
+            "Bank_account"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "South_Africa", 
+            "Sport_utility_vehicle", 
+            "Fiat", 
+            "Wagoner,_Oklahoma", 
+            "Daimler_AG", 
+            "Wagoner,_Oklahoma", 
+            "Africa", 
+            "Mercedes-Benz", 
+            "Mercedes-Benz", 
+            "Bail_(disambiguation)", 
+            "Bail_(disambiguation)", 
+            "Benz", 
+            "Chrysler", 
+            "Sedan"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Bank"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Chrysler", 
+            "2100", 
+            "Chrysler", 
+            "Donkey", 
+            "Chrysler", 
+            "2100", 
+            "Lever"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Chrysler", 
+            "Lever", 
+            "2100", 
+            "Federal_government_of_the_United_States", 
+            "Working_capital", 
+            "2100", 
+            "Smoke", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Cabinet", 
+            "Boss_Corporation", 
+            "Prez_(DC_Comics)", 
+            "United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "American_International_Group", 
+            "Beef"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Prez", 
+            "Prez", 
+            "Trade_union"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Debt"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Labor_unions_in_the_United_States", 
+            "Trade_union", 
+            "Labor_unions_in_the_United_States", 
+            "The_Union_(political_coalition)", 
+            "Labor_unions_in_the_United_States"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Ford_Motor_Company", 
+            "Nut_(hardware)", 
+            "Wing", 
+            "Wow", 
+            "Trade_union", 
+            "Nerve", 
+            "Nut_(fruit)", 
+            "Gerald_Ford", 
+            "Conservatism", 
+            "Rush_(band)", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Horse", 
+            "Sarcasm"
+        ], 
+        "postID": 60
+    }
+]

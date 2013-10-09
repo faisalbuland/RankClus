@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "United_States_Army", 
+            "George_W._Bush", 
+            "Legal_systems_of_the_world", 
+            "United_States_federal_courts", 
+            "Habeas_corpus", 
+            "United_States_federal_courts", 
+            "United_States_Constitution", 
+            "Universality", 
+            "United_States_Constitution", 
+            "Iraq", 
+            "Hamdan_v._Rumsfeld", 
+            "Equal_Protection_Clause", 
+            "Law", 
+            "Enemy_combatant", 
+            "Text_corpus", 
+            "United_States", 
+            "Hamdan", 
+            "American_Civil_Liberties_Union", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "United_States", 
+            "Donald_Rumsfeld", 
+            "Enemy_combatant", 
+            "President_of_the_United_States", 
+            "Ad_hominem"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chain_of_command", 
+            "United_States_Army", 
+            "Lawyer", 
+            "Law", 
+            "Undergarment", 
+            "Constitutionality"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Law_school", 
+            "Law_school", 
+            "Bachelor_of_Laws", 
+            "Bachelor_of_Laws"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pencil", 
+            "Soldier"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Flat_fee", 
+            "Hell", 
+            "Mechanics"
+        ], 
+        "postID": 5
+    }
+]

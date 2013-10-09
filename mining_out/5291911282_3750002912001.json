@@ -1,0 +1,130 @@
+[
+    {
+        "entity": [
+            "Physician", 
+            "Physician", 
+            "Dementia", 
+            "French_fries", 
+            "Chocolate", 
+            "Dog", 
+            "Chocolate_bar", 
+            "Coffee", 
+            "Soft_drink"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Friends", 
+            "Derelict", 
+            "God", 
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sanitation", 
+            "Google", 
+            "Dual_in-line_package", 
+            "Ageing", 
+            "Homework", 
+            "Privacy", 
+            "Physician", 
+            "Jewish_views_of_marriage"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Cob_(material)", 
+            "FIL", 
+            "Yesterday_(song)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Geriatrics", 
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "FIL", 
+            "Opal"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "FIL", 
+            "Diabetes_mellitus"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Storm_door", 
+            "LOL", 
+            "Storm_door", 
+            "Hawk", 
+            "Pound_(mass)", 
+            "Storm_door", 
+            "LOL"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Yesterday_(song)", 
+            "LOL_(film)", 
+            "LOL_(film)", 
+            "FIL", 
+            "Dare_(album)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Yak", 
+            "FIL", 
+            "Cheek", 
+            "Retirement"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Caregiver", 
+            "LOL", 
+            "Major_depressive_disorder"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mood_(psychology)", 
+            "Diabetes_mellitus", 
+            "Counselor", 
+            "Respite_care", 
+            "Mood_swing"
+        ], 
+        "postID": 13
+    }
+]

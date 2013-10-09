@@ -1,0 +1,20 @@
+[
+    {
+        "entity": [
+            "NASCAR", 
+            "Dodge"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Ford_Motor_Company", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Dodge", 
+            "Alewife_(multiprocessor)"
+        ], 
+        "postID": 2
+    }
+]

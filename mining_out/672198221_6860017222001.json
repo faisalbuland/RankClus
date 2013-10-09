@@ -1,0 +1,76 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "Statistic", 
+            "Drug", 
+            "Mexico", 
+            "Statistic", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "United_States", 
+            "Cartel", 
+            "Cocaine", 
+            "Recreational_drug_use", 
+            "Hawaii", 
+            "Prison", 
+            "Hell", 
+            "Yea,_Victoria", 
+            "Drug", 
+            "AK-47"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Patriot_(American_Revolution)", 
+            "Weapon", 
+            "Mexico", 
+            "Remington_Arms", 
+            "Patriot_(American_Revolution)", 
+            "The_Pentagon", 
+            "Patriot_(American_Revolution)", 
+            "Fragmentation_(weaponry)", 
+            "The_Pentagon", 
+            "Mexico", 
+            "Mexican_Army", 
+            "Purchasing_power", 
+            "Founding_Fathers_of_the_United_States", 
+            "United_States", 
+            "Load_(album)", 
+            "Military_of_Mexico", 
+            "Weapon", 
+            "Hand_grenade", 
+            "Shame", 
+            "Anger", 
+            "Desertion", 
+            "Mexico", 
+            "Tyrant", 
+            "Firearm", 
+            "United_States_Department_of_Defense", 
+            "Rifle", 
+            "Treason", 
+            "Sniper_rifle", 
+            "United_States_Army", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Liberty", 
+            "Sniper", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Irish_republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 4
+    }
+]

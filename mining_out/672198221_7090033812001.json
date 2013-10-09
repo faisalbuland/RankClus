@@ -1,0 +1,125 @@
+[
+    {
+        "entity": [
+            "Terrorism", 
+            "Terrorism", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Guilt", 
+            "Terrorism", 
+            "Jihad", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wind_power", 
+            "Liberty_(pressure_group)", 
+            "United_States_Constitution", 
+            "United_States", 
+            "United_States", 
+            "United_States_Constitution", 
+            "Constitution_of_Turkey", 
+            "Perl", 
+            "George_W._Bush"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Rummy", 
+            "Dick_Cheney", 
+            "Bachelor_of_Science", 
+            "Lawrence_Wilkerson", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Colin_Powell", 
+            "George_W._Bush", 
+            "Lawrence,_Kansas"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Departments_of_France", 
+            "Intelligence_(information_gathering)", 
+            "United_States_Department_of_State", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Colin_Powell", 
+            "Oval", 
+            "The_Oval", 
+            "Arthur_William_Baden_Powell", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Oval_Office", 
+            "Collin_County,_Texas", 
+            "White_House", 
+            "United_States_Department_of_State", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "United_States_Department_of_State", 
+            "United_States_Department_of_State", 
+            "Colin_Powell", 
+            "Pencil", 
+            "United_States_Department_of_State", 
+            "Colin_Powell", 
+            "United_States_National_Security_Council", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Office_management", 
+            "Manager_(baseball)", 
+            "Colonel", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States_Cabinet", 
+            "White_House", 
+            "Address_(geography)", 
+            "President_of_the_United_States", 
+            "Departments_of_France", 
+            "Colin_Powell"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States", 
+            "Intelligence_(information_gathering)", 
+            "Terrorism", 
+            "Terrorism", 
+            "President_of_the_United_States", 
+            "State", 
+            "Classified_information", 
+            "Wisdom", 
+            "George_W._Bush", 
+            "560", 
+            "2001"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)", 
+            "Intelligence_(information_gathering)", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 9
+    }
+]

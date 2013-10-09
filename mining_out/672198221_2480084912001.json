@@ -1,0 +1,118 @@
+[
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Tax_law", 
+            "Law", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tax_credit", 
+            "Tax", 
+            "Hybrid_electric_vehicle", 
+            "Hybrid_vehicle"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Turbocharger", 
+            "Plug_(comic)", 
+            "Insurance", 
+            "Faith"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Penalty_shootout_(association_football)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Computer_software", 
+            "Completeness", 
+            "Old_school", 
+            "Turbocharger", 
+            "Radio"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Palin_Majere"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Crash_test_dummy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Acronym_and_initialism", 
+            "Tax", 
+            "United_States_Department_of_Justice", 
+            "Jail", 
+            "Internal_Revenue_Service", 
+            "Palin_Majere"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Stanley_Osher", 
+            "E._L._Doctorow"
+        ], 
+        "postID": 17
+    }
+]

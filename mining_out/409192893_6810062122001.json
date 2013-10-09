@@ -1,0 +1,742 @@
+[
+    {
+        "entity": [
+            "Police", 
+            "Non-profit_organization", 
+            "Virginia", 
+            "Virginia_Tech_massacre", 
+            "2008", 
+            "Non-profit_organization", 
+            "West_Virginia", 
+            "Handgun", 
+            "College", 
+            "Safety_(American_football)", 
+            "Concealed_carry_in_the_United_States", 
+            "Central_Connecticut_State_University", 
+            "2009", 
+            "Virginia", 
+            "Utah", 
+            "Central_Connecticut_State_University", 
+            "Connecticut", 
+            "Central_Connecticut_State_University", 
+            "Adler", 
+            "Firearm", 
+            "Violence", 
+            "2004", 
+            "Gun_violence_in_the_United_States", 
+            "Mass", 
+            "Adler", 
+            "Colorado", 
+            "Mass_murder", 
+            "Handgun", 
+            "Adler", 
+            "University_of_Connecticut", 
+            "Law", 
+            "Richard_Courant", 
+            "Law", 
+            "Holster", 
+            "State_law", 
+            "Federal_Bureau_of_Investigation", 
+            "State", 
+            "Statistics", 
+            "Meriden,_Connecticut", 
+            "Free_school", 
+            "Shopping_mall", 
+            "Free_school", 
+            "2007", 
+            "University", 
+            "Columbine_High_School", 
+            "Columbine_High_School_massacre", 
+            "Background_check", 
+            "Handgun", 
+            "Gun_violence_in_the_United_States", 
+            "Metal_detector", 
+            "Metal", 
+            "College", 
+            "Handgun", 
+            "Sara_Sidle", 
+            "Sara_Adler", 
+            "Crime", 
+            "2008", 
+            "Statistics", 
+            "Mass", 
+            "Self-defense", 
+            "Colorado", 
+            "Concealed_carry_in_the_United_States", 
+            "Missouri", 
+            "Adler", 
+            "Connecticut", 
+            "University_of_Connecticut", 
+            "University_of_Connecticut", 
+            "Violence", 
+            "April_16", 
+            "April_16", 
+            "Virginia_Polytechnic_Institute_and_State_University", 
+            "Movie_theater", 
+            "University_of_Connecticut", 
+            "United_States", 
+            "Front_line", 
+            "Federal_Bureau_of_Investigation", 
+            "Virginia", 
+            "Seung-Hui_Cho", 
+            "Barack_Obama", 
+            "Suicide", 
+            "Hartford,_Connecticut", 
+            "The_Hartford_Courant", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Texas", 
+            "Handgun", 
+            "2007", 
+            "The_Hartford", 
+            "Police", 
+            "1994", 
+            "The_Hartford_Courant", 
+            "Murder", 
+            "2009", 
+            "Storrs,_Connecticut", 
+            "University", 
+            "April_17"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Weapon"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "California", 
+            "California", 
+            "U.S._state", 
+            "Murder", 
+            "Mugging"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Concealed_carry_in_the_United_States", 
+            "Lahaina,_Hawaii", 
+            "Brinson,_Georgia", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Marine_Corps", 
+            "Concealed_carry_in_the_United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Coach_(vehicle)", 
+            "Jail", 
+            "Rifle", 
+            "High_school", 
+            "WISE", 
+            "North_Carolina", 
+            "Cable_television", 
+            "Felony", 
+            "Law", 
+            "Hunting", 
+            "Ham_(son_of_Noah)", 
+            "Antenna_(radio)", 
+            "Amateur_radio", 
+            "Dispensation", 
+            "Radio", 
+            "Shooting_sports", 
+            "Bus", 
+            "High_school", 
+            "Operator", 
+            "Pigeon_(disambiguation)", 
+            "Clay", 
+            "Pocket_knife", 
+            "Rifle"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Planet"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "California", 
+            "San_Diego,_California", 
+            "U.S._state", 
+            "U.S._state", 
+            "Crime"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Los_Angeles_County,_California", 
+            "YouTube", 
+            "Sheriff", 
+            "County_(United_States)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "San_Bernardino,_California", 
+            "San_Bernardino_County,_California", 
+            "Northern_California", 
+            "Sheriff", 
+            "San_Diego,_California", 
+            "California", 
+            "Sheriff", 
+            "Sheriff", 
+            "Desert", 
+            "Concealed_carry_in_the_United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Collage", 
+            "Chicken", 
+            "Association_football", 
+            "Gang", 
+            "Collage", 
+            "Chicken", 
+            "News_(band)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "State", 
+            "Gun_politics_in_the_United_States", 
+            "Gun_politics", 
+            "Firearm", 
+            "Prison", 
+            "College", 
+            "Handgun", 
+            "Punk_subculture", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Firearm"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Firearm", 
+            "BB_gun", 
+            "Rifle", 
+            "Rifle", 
+            "Air_gun", 
+            "North_Carolina", 
+            "Felony", 
+            "Handgun", 
+            "Handgun", 
+            "Firearm", 
+            "Felony", 
+            "Electroshock_weapon", 
+            "Rifle", 
+            "Handgun"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hunting", 
+            "Geostationary_Operational_Environmental_Satellite", 
+            "Duck", 
+            "Waterfowl_hunting", 
+            "Federation_Against_Copyright_Theft"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Scots_law", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "John_A._Lejeune", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "Scots_law", 
+            "Highway", 
+            "Truck", 
+            "Scots_law", 
+            "John_A._Lejeune", 
+            "Scots_law"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Nancy_Pelosi", 
+            "Dude"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "University_of_Connecticut", 
+            "Britain", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Metal", 
+            "Drug", 
+            "Collage", 
+            "Metal_detector", 
+            "Baseball", 
+            "Safety_(American_football)", 
+            "American_football", 
+            "Rape", 
+            "Law", 
+            "Booing", 
+            "Changeroom"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Weapon", 
+            "Deadly_weapon", 
+            "Concealed_carry_in_the_United_States", 
+            "Michigan", 
+            "Firearm"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Mugging", 
+            "Chicken", 
+            "Teh", 
+            "Nice", 
+            "Firearm", 
+            "Internet", 
+            "Weapon", 
+            "Nice_name", 
+            "Firecracker"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dam", 
+            "Chicken"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Non-profit_organization", 
+            "Virginia", 
+            "Virginia_Tech_massacre", 
+            "2008", 
+            "Non-profit_organization", 
+            "West_Virginia", 
+            "Handgun", 
+            "College", 
+            "Safety_(American_football)", 
+            "Concealed_carry_in_the_United_States", 
+            "Central_Connecticut_State_University", 
+            "2009", 
+            "Virginia", 
+            "Utah", 
+            "Central_Connecticut_State_University", 
+            "Connecticut", 
+            "Central_Connecticut_State_University", 
+            "Adler", 
+            "Firearm", 
+            "Violence", 
+            "2004", 
+            "Gun_violence_in_the_United_States", 
+            "Mass", 
+            "Adler", 
+            "Colorado", 
+            "Mass_murder", 
+            "Handgun", 
+            "Adler", 
+            "University_of_Connecticut", 
+            "Law", 
+            "Richard_Courant", 
+            "Law", 
+            "Holster", 
+            "State_law", 
+            "Federal_Bureau_of_Investigation", 
+            "State", 
+            "Statistics", 
+            "Meriden,_Connecticut", 
+            "Free_school", 
+            "Shopping_mall", 
+            "Free_school", 
+            "2007", 
+            "University", 
+            "Columbine_High_School", 
+            "Columbine_High_School_massacre", 
+            "Background_check", 
+            "Handgun", 
+            "Gun_violence_in_the_United_States", 
+            "Metal_detector", 
+            "Metal", 
+            "College", 
+            "Handgun", 
+            "Sara_Sidle", 
+            "Sara_Adler", 
+            "Crime", 
+            "2008", 
+            "Statistics", 
+            "Mass", 
+            "Self-defense", 
+            "Colorado", 
+            "Concealed_carry_in_the_United_States", 
+            "Missouri", 
+            "Adler", 
+            "Connecticut", 
+            "University_of_Connecticut", 
+            "University_of_Connecticut", 
+            "Violence", 
+            "April_16", 
+            "April_16", 
+            "Virginia_Polytechnic_Institute_and_State_University", 
+            "Movie_theater", 
+            "University_of_Connecticut", 
+            "United_States", 
+            "Front_line", 
+            "Federal_Bureau_of_Investigation", 
+            "Virginia", 
+            "Seung-Hui_Cho", 
+            "Barack_Obama", 
+            "Suicide", 
+            "Hartford,_Connecticut", 
+            "The_Hartford_Courant", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Texas", 
+            "Handgun", 
+            "2007", 
+            "The_Hartford", 
+            "Police", 
+            "1994", 
+            "The_Hartford_Courant", 
+            "Murder", 
+            "2009", 
+            "Storrs,_Connecticut", 
+            "University", 
+            "April_17"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Weapon"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "California", 
+            "California", 
+            "U.S._state", 
+            "Murder", 
+            "Mugging"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Concealed_carry_in_the_United_States", 
+            "Lahaina,_Hawaii", 
+            "Brinson,_Georgia", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Marine_Corps", 
+            "Concealed_carry_in_the_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Coach_(vehicle)", 
+            "Jail", 
+            "Rifle", 
+            "High_school", 
+            "WISE", 
+            "North_Carolina", 
+            "Cable_television", 
+            "Felony", 
+            "Law", 
+            "Hunting", 
+            "Ham_(son_of_Noah)", 
+            "Antenna_(radio)", 
+            "Amateur_radio", 
+            "Dispensation", 
+            "Radio", 
+            "Shooting_sports", 
+            "Bus", 
+            "High_school", 
+            "Operator", 
+            "Pigeon_(disambiguation)", 
+            "Clay", 
+            "Pocket_knife", 
+            "Rifle"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Planet"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "California", 
+            "San_Diego,_California", 
+            "U.S._state", 
+            "U.S._state", 
+            "Crime"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Los_Angeles_County,_California", 
+            "YouTube", 
+            "Sheriff", 
+            "County_(United_States)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "San_Bernardino,_California", 
+            "San_Bernardino_County,_California", 
+            "Northern_California", 
+            "Sheriff", 
+            "San_Diego,_California", 
+            "California", 
+            "Sheriff", 
+            "Sheriff", 
+            "Desert", 
+            "Concealed_carry_in_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Collage", 
+            "Chicken", 
+            "Association_football", 
+            "Gang", 
+            "Collage", 
+            "Chicken", 
+            "News_(band)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "State", 
+            "Gun_politics_in_the_United_States", 
+            "Gun_politics", 
+            "Firearm", 
+            "Prison", 
+            "College", 
+            "Handgun", 
+            "Punk_subculture", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Firearm"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Firearm", 
+            "BB_gun", 
+            "Rifle", 
+            "Rifle", 
+            "Air_gun", 
+            "North_Carolina", 
+            "Felony", 
+            "Handgun", 
+            "Handgun", 
+            "Firearm", 
+            "Felony", 
+            "Electroshock_weapon", 
+            "Rifle", 
+            "Handgun"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Hunting", 
+            "Geostationary_Operational_Environmental_Satellite", 
+            "Duck", 
+            "Waterfowl_hunting", 
+            "Federation_Against_Copyright_Theft"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Scots_law", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "John_A._Lejeune", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "Scots_law", 
+            "Highway", 
+            "Truck", 
+            "Scots_law", 
+            "John_A._Lejeune", 
+            "Scots_law"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Nancy_Pelosi", 
+            "Dude"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "University_of_Connecticut", 
+            "Britain", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "Central_Connecticut_State_University", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Metal", 
+            "Drug", 
+            "Collage", 
+            "Metal_detector", 
+            "Baseball", 
+            "Safety_(American_football)", 
+            "American_football", 
+            "Rape", 
+            "Law", 
+            "Booing", 
+            "Changeroom"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Weapon", 
+            "Deadly_weapon", 
+            "Concealed_carry_in_the_United_States", 
+            "Michigan", 
+            "Firearm"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Mugging", 
+            "Chicken", 
+            "Teh", 
+            "Nice", 
+            "Firearm", 
+            "Internet", 
+            "Weapon", 
+            "Nice_name", 
+            "Firecracker"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Dam", 
+            "Chicken"
+        ], 
+        "postID": 54
+    }
+]

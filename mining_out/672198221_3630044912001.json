@@ -1,0 +1,104 @@
+[
+    {
+        "entity": [
+            "Blank_cheque", 
+            "The_Pentagon", 
+            "Military_budget", 
+            "Weapon_of_mass_destruction", 
+            "Defense_contractor", 
+            "United_States", 
+            "Audit", 
+            "Government_Accountability_Office", 
+            "Oconaluftee_Indian_Village", 
+            "Cost_overrun", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2010"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Audit", 
+            "Project_manager", 
+            "Manager_(baseball)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Venetian_Arsenal", 
+            "Arsenal_F.C."
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Layman", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Pork_barrel"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "American_International_Group", 
+            "!!!", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Paint", 
+            "Automotive_industry", 
+            "Hood_ornament", 
+            "Barack_Obama", 
+            "Swastika"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Option_(finance)", 
+            "Bond_(finance)", 
+            "United_States", 
+            "Bond_(finance)", 
+            "Bond_(finance)", 
+            "Chief_executive_officer", 
+            "Bond_(finance)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sheitel", 
+            "Chrysler", 
+            "American_International_Group", 
+            "Sheitel", 
+            "Bail_out_(finance)", 
+            "Economic_system", 
+            "Economic_system"
+        ], 
+        "postID": 10
+    }
+]

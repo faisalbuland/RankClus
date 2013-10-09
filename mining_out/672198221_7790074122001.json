@@ -1,0 +1,63 @@
+[
+    {
+        "entity": [
+            "Quincy,_Massachusetts", 
+            "Apartment", 
+            "Textbook", 
+            "Handgun", 
+            "John_Edward_Gray", 
+            "Undergarment", 
+            "Law", 
+            "Craigslist", 
+            "Anatomy", 
+            "Dream_Team"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ted_Bundy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Duct", 
+            "Duct_tape", 
+            "Camera", 
+            "Prostitution", 
+            "Weapon"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "All-America", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Engagement"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Yeshiva", 
+            "Counseling"
+        ], 
+        "postID": 8
+    }
+]

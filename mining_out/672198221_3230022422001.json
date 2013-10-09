@@ -1,0 +1,110 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Swift"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "District_(China)", 
+            "Paddle"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Child_abuse"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Trailer_trash", 
+            "Film_trailer", 
+            "Donkey"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Spanking", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "PlayStation", 
+            "Corrections_officer", 
+            "Corrections_officer", 
+            "Cell_(biology)", 
+            "Tongue", 
+            "Sport_utility_vehicle", 
+            "Motto", 
+            "Washroom", 
+            "Apartment", 
+            "Prison", 
+            "Prison", 
+            "PlayStation_2", 
+            "Condominium"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Television", 
+            "Parenting", 
+            "Video_game", 
+            "Cell_(biology)", 
+            "Mobile_phone"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Liberal_democracy", 
+            "Liberalism", 
+            "Education"
+        ], 
+        "postID": 16
+    }
+]

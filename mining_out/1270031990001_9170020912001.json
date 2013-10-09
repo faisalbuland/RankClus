@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "Islam", 
+            "E-mail", 
+            "Writer", 
+            "Atheism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Personal_message", 
+            "Muslim", 
+            "List_of_converts_to_Islam", 
+            "E-mail", 
+            "Writer"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Salaam", 
+            "Google"
+        ], 
+        "postID": 4
+    }
+]

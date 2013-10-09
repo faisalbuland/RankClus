@@ -1,0 +1,71 @@
+[
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Cancer", 
+            "Toxicity", 
+            "Health_assessment", 
+            "Atlanta,_Georgia", 
+            "Gerald_Ford", 
+            "John_A._Lejeune", 
+            "John_A._Lejeune", 
+            "Drinking_water", 
+            "Film_director", 
+            "Leukemia", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "Damages", 
+            "Public_health", 
+            "Water_pollution", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "John_A._Lejeune", 
+            "Patriot_(American_Revolution)", 
+            "Water", 
+            "Dry_cleaning", 
+            "Water", 
+            "Cancer", 
+            "Ens", 
+            "United_States_Marine_Corps", 
+            "Fetus", 
+            "Toxicity", 
+            "Toxin", 
+            "1987", 
+            "Science", 
+            "Water", 
+            "Internet", 
+            "Water", 
+            "1997"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Government_agency"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "1976-77_in_English_football"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

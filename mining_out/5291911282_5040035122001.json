@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "Tennessee", 
+            "Posttraumatic_stress_disorder", 
+            "New_Mexico", 
+            "United_States_Army", 
+            "Los_Alamitos,_California", 
+            "Traumatic_brain_injury", 
+            "Diving", 
+            "Los_Angeles,_California", 
+            "Iraq", 
+            "Vietnam", 
+            "Walter_Reed", 
+            "February_25", 
+            "Scuba_diving", 
+            "Scuba_diving", 
+            "2009", 
+            "Long_Beach,_California", 
+            "Scuba_diving", 
+            "782", 
+            "2009", 
+            "Walter_Reed_Army_Medical_Center", 
+            "Scuba_diving", 
+            "2007", 
+            "Scuba_diving", 
+            "Paraplegia", 
+            "Iraq", 
+            "Afghanistan", 
+            "Water", 
+            "Scuba_diving", 
+            "Wheelchair", 
+            "West_Los_Angeles,_Los_Angeles,_California", 
+            "Mexico", 
+            "Scuba_diving", 
+            "Penny", 
+            "Sport", 
+            "The_Price", 
+            "April_23", 
+            "Texas", 
+            "Quadriplegia", 
+            "Post_office_box", 
+            "Walter_Reed", 
+            "Scuba_diving"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Christmas_card", 
+            "Christmas", 
+            "Return_address", 
+            "Envelope"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Scuba_diving", 
+            "Scuba", 
+            "Southern_California", 
+            "Christmas_card", 
+            "Scuba", 
+            "Christmas", 
+            "Scuba", 
+            "April_23", 
+            "Underwater_diving", 
+            "Bylaw", 
+            "Fundraiser", 
+            "2009", 
+            "Scuba"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Florida_Keys", 
+            "Sharks", 
+            "Florida", 
+            "National_Association_of_Underwater_Instructors", 
+            "Scuba_diving"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

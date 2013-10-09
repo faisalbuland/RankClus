@@ -1,0 +1,536 @@
+[
+    {
+        "entity": [
+            "Gun_politics", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "National_Rifle_Association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Sorry_(Madonna_song)", 
+            "God", 
+            "Dead_hand", 
+            "Traction"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Urban_stoop", 
+            "Barack_Obama", 
+            "Krzysztof_Raczkowski"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Aluminium_foil", 
+            "Tin_foil", 
+            "Tin", 
+            "Federal_Emergency_Management_Agency", 
+            "Right_to_keep_and_bear_arms"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Power-on_self-test", 
+            "Mon_people", 
+            "2009", 
+            "Atari_TOS", 
+            "DONT"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Incarnation", 
+            "United_States", 
+            "Indonesian_language", 
+            "Time_(magazine)", 
+            "Precedent", 
+            "Boy_Scout", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "Michael_Palin", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "Hero", 
+            "John_McCain", 
+            "United_States_House_of_Representatives", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Monica_Lewinsky", 
+            "Bill_Clinton"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Patriotism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Yea,_Victoria", 
+            "Hero", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Liberalism_in_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "John_McCain", 
+            "John_McCain", 
+            "Torture", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_House_of_Representatives", 
+            "John_McCain", 
+            "John_McCain", 
+            "United_States_Senate", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Sucker"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Mojo", 
+            "Incarnation"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Basal_shoot", 
+            "Apron"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Savage"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "2003", 
+            "Mod_(computer_gaming)", 
+            "Savage_(rapper)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "National_Rifle_Association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Sorry_(Madonna_song)", 
+            "God", 
+            "Dead_hand", 
+            "Traction"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Urban_stoop", 
+            "Barack_Obama", 
+            "Krzysztof_Raczkowski"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Aluminium_foil", 
+            "Tin_foil", 
+            "Tin", 
+            "Federal_Emergency_Management_Agency", 
+            "Right_to_keep_and_bear_arms"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Power-on_self-test", 
+            "Mon_people", 
+            "2009", 
+            "Atari_TOS", 
+            "DONT"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Incarnation", 
+            "United_States", 
+            "Indonesian_language", 
+            "Time_(magazine)", 
+            "Precedent", 
+            "Boy_Scout", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "Michael_Palin", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "Hero", 
+            "John_McCain", 
+            "United_States_House_of_Representatives", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Monica_Lewinsky", 
+            "Bill_Clinton"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Patriotism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Yea,_Victoria", 
+            "Hero", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Liberalism_in_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "John_McCain", 
+            "John_McCain", 
+            "Torture", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_House_of_Representatives", 
+            "John_McCain", 
+            "John_McCain", 
+            "United_States_Senate", 
+            "George_W._Bush"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Sucker"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Mojo", 
+            "Incarnation"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Basal_shoot", 
+            "Apron"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Savage"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "2003", 
+            "Mod_(computer_gaming)", 
+            "Savage_(rapper)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Barack_Obama"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "National_Rifle_Association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Sorry_(Madonna_song)", 
+            "God", 
+            "Dead_hand", 
+            "Traction"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Urban_stoop", 
+            "Barack_Obama", 
+            "Krzysztof_Raczkowski"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Aluminium_foil", 
+            "Tin_foil", 
+            "Tin", 
+            "Federal_Emergency_Management_Agency", 
+            "Right_to_keep_and_bear_arms"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Power-on_self-test", 
+            "Mon_people", 
+            "2009", 
+            "Atari_TOS", 
+            "DONT"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Incarnation", 
+            "United_States", 
+            "Indonesian_language", 
+            "Time_(magazine)", 
+            "Precedent", 
+            "Boy_Scout", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "Michael_Palin", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "Hero", 
+            "John_McCain", 
+            "United_States_House_of_Representatives", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Monica_Lewinsky", 
+            "Bill_Clinton"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Patriotism"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Yea,_Victoria", 
+            "Hero", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Liberalism_in_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Respect_\u2013_The_Unity_Coalition", 
+            "Arabian_Peninsula", 
+            "John_McCain", 
+            "John_McCain", 
+            "Torture", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_House_of_Representatives", 
+            "John_McCain", 
+            "John_McCain", 
+            "United_States_Senate", 
+            "George_W._Bush"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Sucker"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Mojo", 
+            "Incarnation"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Basal_shoot", 
+            "Apron"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Savage"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "2003", 
+            "Mod_(computer_gaming)", 
+            "Savage_(rapper)"
+        ], 
+        "postID": 57
+    }
+]

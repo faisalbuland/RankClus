@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [
+            "Insurgency", 
+            "Afghanistan", 
+            "Syndrome", 
+            "Cake", 
+            "United_States_Congress", 
+            "Iraq_War", 
+            "Iraq_War", 
+            "Iraq_War", 
+            "Government_Accountability_Office", 
+            "Economics"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Ford_Motor_Company", 
+            "Hell", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }
+]

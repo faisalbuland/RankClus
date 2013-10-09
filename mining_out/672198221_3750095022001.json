@@ -1,0 +1,77 @@
+[
+    {
+        "entity": [
+            "Somalia", 
+            "Piracy", 
+            "Military_of_the_United_States", 
+            "Somali_people", 
+            "Somalia", 
+            "Piracy", 
+            "Ford_Motor_Company", 
+            "Federal_government_of_the_United_States", 
+            "Aircraft_hijacking", 
+            "United_States", 
+            "Gerald_Ford", 
+            "Barack_Obama", 
+            "United_States", 
+            "Guard_(American_football)", 
+            "Anonymity", 
+            "Coast_guard"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Piracy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stone_Age", 
+            "Population", 
+            "Piracy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Port", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nation-building"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Somalia"
+        ], 
+        "postID": 9
+    }
+]

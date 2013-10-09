@@ -1,0 +1,67 @@
+[
+    {
+        "entity": [
+            "Prison", 
+            "Soil", 
+            "Supermax", 
+            "Constitution", 
+            "Association_football", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "Law", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Soil", 
+            "George_W._Bush", 
+            "Treaty", 
+            "Treaty", 
+            "United_States", 
+            "Gynoecium", 
+            "Right_to_a_fair_trial", 
+            "United_States_Constitution", 
+            "United_States_Constitution"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Explosive_material", 
+            "Osama_bin_Laden", 
+            "Al-Qaeda", 
+            "United_States", 
+            "United_States", 
+            "Congressional_oversight", 
+            "President_of_the_United_States", 
+            "Osama_bin_Laden", 
+            "United_States", 
+            "United_States_Constitution", 
+            "United_States", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Taliban", 
+            "Al-Qaeda", 
+            "United_States", 
+            "Terrorism", 
+            "United_States", 
+            "United_States", 
+            "Law", 
+            "Osama_bin_Laden"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Unlawful_combatant", 
+            "Terrorism", 
+            "Prisoner_of_war", 
+            "War_crime", 
+            "Crime", 
+            "Prisoner_of_war"
+        ], 
+        "postID": 4
+    }
+]

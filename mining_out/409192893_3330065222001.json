@@ -1,0 +1,1019 @@
+[
+    {
+        "entity": [
+            "Doctor", 
+            "Doctor", 
+            "Emergency_department", 
+            "Member_of_Congress", 
+            "Tuff"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Saw_(film)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Japan", 
+            "United_Kingdom", 
+            "France", 
+            "Cuba", 
+            "Korea", 
+            "United_States", 
+            "Health_care", 
+            "Aisle", 
+            "Canada", 
+            "Health_care_systems"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Canada", 
+            "TRICARE", 
+            "Medicare_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Crisis_(economic)", 
+            "Globe", 
+            "Pardon"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Conservatism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "AIDS", 
+            "United_States", 
+            "Tropics", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Malaria", 
+            "President_of_the_United_States", 
+            "Tropical_disease", 
+            "George_W._Bush", 
+            "Global_health", 
+            "George_W._Bush", 
+            "Reuters", 
+            "AIDS", 
+            "Disease"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Insurance", 
+            "Canada", 
+            "United_Kingdom", 
+            "Health_care", 
+            "Insurance", 
+            "Bureaucrat", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "United_States", 
+            "Health_care", 
+            "Insurance", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Joe_Biden", 
+            "Interference", 
+            "Barack_Obama", 
+            "Health_insurance", 
+            "Health_care", 
+            "Physician", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Health_care", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_care", 
+            "Joe_Biden", 
+            "Health_insurance"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Doublespeak", 
+            "Insecurity", 
+            "Bureaucrat", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Egocentrism", 
+            "Brave_New_World"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Health_care", 
+            "Elitism", 
+            "Member_of_Congress", 
+            "University_of_Illinois_at_Urbana-Champaign"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Health_care"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Profit", 
+            "Health_care"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Subprime_lending", 
+            "Health_care"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Medicaid", 
+            "Privately_held_company"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Labour_Party_(UK)", 
+            "Careerism", 
+            "Labour_Party_(UK)", 
+            "United_States", 
+            "Margaret_Thatcher", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Culture", 
+            "National_Health_Service_(England)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "EpiPen", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Anaphylaxis", 
+            "Suture", 
+            "Allergy", 
+            "Autoinjector", 
+            "Health_care_in_the_United_States", 
+            "Health_care", 
+            "Hospital", 
+            "Health_insurance", 
+            "Allergy"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Financial_institution", 
+            "Medicare_(United_States)", 
+            "Politician", 
+            "Health_care", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Local_anesthetic", 
+            "Veterinarian", 
+            "Insurance", 
+            "Physician", 
+            "Veterinarian", 
+            "Veterinarian", 
+            "Pitch_(music)", 
+            "Physician", 
+            "Rugby_football", 
+            "Horse", 
+            "Anesthesia", 
+            "Phoenix,_Arizona", 
+            "Insurance", 
+            "Scar"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Physician", 
+            "Television_advertisement", 
+            "Insurance", 
+            "Medical_malpractice", 
+            "Malpractice"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Hospital", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "EpiPen", 
+            "Health_care_reform", 
+            "EpiPen"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Drinking_water", 
+            "Socialism", 
+            "Drinking_water", 
+            "Bogie", 
+            "Lamp_(electrical_component)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Blood_test", 
+            "United_States", 
+            "Medical_prescription", 
+            "Infection", 
+            "Nurse", 
+            "Urinary_bladder", 
+            "Urticaria", 
+            "DONT", 
+            "Face_time", 
+            "Antibiotic", 
+            "Choice_magazine", 
+            "Antibiotic", 
+            "Physician", 
+            "Antibiotic"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Wink", 
+            "Health_insurance", 
+            "Duh_(album)", 
+            "Vehicle_insurance"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Doctor", 
+            "Doctor", 
+            "Emergency_department", 
+            "Member_of_Congress", 
+            "Tuff"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Saw_(film)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Japan", 
+            "United_Kingdom", 
+            "France", 
+            "Cuba", 
+            "Korea", 
+            "United_States", 
+            "Health_care", 
+            "Aisle", 
+            "Canada", 
+            "Health_care_systems"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Canada", 
+            "TRICARE", 
+            "Medicare_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Barack_Obama"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Crisis_(economic)", 
+            "Globe", 
+            "Pardon"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Conservatism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "AIDS", 
+            "United_States", 
+            "Tropics", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Malaria", 
+            "President_of_the_United_States", 
+            "Tropical_disease", 
+            "George_W._Bush", 
+            "Global_health", 
+            "George_W._Bush", 
+            "Reuters", 
+            "AIDS", 
+            "Disease"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Insurance", 
+            "Canada", 
+            "United_Kingdom", 
+            "Health_care", 
+            "Insurance", 
+            "Bureaucrat", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "United_States", 
+            "Health_care", 
+            "Insurance", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Joe_Biden", 
+            "Interference", 
+            "Barack_Obama", 
+            "Health_insurance", 
+            "Health_care", 
+            "Physician", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Health_care", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_care", 
+            "Joe_Biden", 
+            "Health_insurance"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Doublespeak", 
+            "Insecurity", 
+            "Bureaucrat", 
+            "Barack_Obama"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Egocentrism", 
+            "Brave_New_World"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Health_care", 
+            "Elitism", 
+            "Member_of_Congress", 
+            "University_of_Illinois_at_Urbana-Champaign"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Health_care"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Profit", 
+            "Health_care"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Subprime_lending", 
+            "Health_care"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Medicaid", 
+            "Privately_held_company"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Labour_Party_(UK)", 
+            "Careerism", 
+            "Labour_Party_(UK)", 
+            "United_States", 
+            "Margaret_Thatcher", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Culture", 
+            "National_Health_Service_(England)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "EpiPen", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Anaphylaxis", 
+            "Suture", 
+            "Allergy", 
+            "Autoinjector", 
+            "Health_care_in_the_United_States", 
+            "Health_care", 
+            "Hospital", 
+            "Health_insurance", 
+            "Allergy"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Financial_institution", 
+            "Medicare_(United_States)", 
+            "Politician", 
+            "Health_care", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Local_anesthetic", 
+            "Veterinarian", 
+            "Insurance", 
+            "Physician", 
+            "Veterinarian", 
+            "Veterinarian", 
+            "Pitch_(music)", 
+            "Physician", 
+            "Rugby_football", 
+            "Horse", 
+            "Anesthesia", 
+            "Phoenix,_Arizona", 
+            "Insurance", 
+            "Scar"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Physician", 
+            "Television_advertisement", 
+            "Insurance", 
+            "Medical_malpractice", 
+            "Malpractice"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Hospital", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "EpiPen", 
+            "Health_care_reform", 
+            "EpiPen"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Drinking_water", 
+            "Socialism", 
+            "Drinking_water", 
+            "Bogie", 
+            "Lamp_(electrical_component)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Blood_test", 
+            "United_States", 
+            "Medical_prescription", 
+            "Infection", 
+            "Nurse", 
+            "Urinary_bladder", 
+            "Urticaria", 
+            "DONT", 
+            "Face_time", 
+            "Antibiotic", 
+            "Choice_magazine", 
+            "Antibiotic", 
+            "Physician", 
+            "Antibiotic"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Wink", 
+            "Health_insurance", 
+            "Duh_(album)", 
+            "Vehicle_insurance"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Doctor", 
+            "Doctor", 
+            "Emergency_department", 
+            "Member_of_Congress", 
+            "Tuff"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Saw_(film)"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Japan", 
+            "United_Kingdom", 
+            "France", 
+            "Cuba", 
+            "Korea", 
+            "United_States", 
+            "Health_care", 
+            "Aisle", 
+            "Canada", 
+            "Health_care_systems"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Canada", 
+            "TRICARE", 
+            "Medicare_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Barack_Obama"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Crisis_(economic)", 
+            "Globe", 
+            "Pardon"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Conservatism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "AIDS", 
+            "United_States", 
+            "Tropics", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Malaria", 
+            "President_of_the_United_States", 
+            "Tropical_disease", 
+            "George_W._Bush", 
+            "Global_health", 
+            "George_W._Bush", 
+            "Reuters", 
+            "AIDS", 
+            "Disease"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Insurance", 
+            "Canada", 
+            "United_Kingdom", 
+            "Health_care", 
+            "Insurance", 
+            "Bureaucrat", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "United_States", 
+            "Health_care", 
+            "Insurance", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Joe_Biden", 
+            "Interference", 
+            "Barack_Obama", 
+            "Health_insurance", 
+            "Health_care", 
+            "Physician", 
+            "Barack_Obama", 
+            "Insurance", 
+            "Health_care", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_care", 
+            "Joe_Biden", 
+            "Health_insurance"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Doublespeak", 
+            "Insecurity", 
+            "Bureaucrat", 
+            "Barack_Obama"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Egocentrism", 
+            "Brave_New_World"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Health_care", 
+            "Elitism", 
+            "Member_of_Congress", 
+            "University_of_Illinois_at_Urbana-Champaign"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Health_care"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Profit", 
+            "Health_care"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Subprime_lending", 
+            "Health_care"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Medicaid", 
+            "Privately_held_company"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Labour_Party_(UK)", 
+            "Careerism", 
+            "Labour_Party_(UK)", 
+            "United_States", 
+            "Margaret_Thatcher", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Culture", 
+            "National_Health_Service_(England)"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "EpiPen", 
+            "Health_insurance", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Anaphylaxis", 
+            "Suture", 
+            "Allergy", 
+            "Autoinjector", 
+            "Health_care_in_the_United_States", 
+            "Health_care", 
+            "Hospital", 
+            "Health_insurance", 
+            "Allergy"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Financial_institution", 
+            "Medicare_(United_States)", 
+            "Politician", 
+            "Health_care", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Local_anesthetic", 
+            "Veterinarian", 
+            "Insurance", 
+            "Physician", 
+            "Veterinarian", 
+            "Veterinarian", 
+            "Pitch_(music)", 
+            "Physician", 
+            "Rugby_football", 
+            "Horse", 
+            "Anesthesia", 
+            "Phoenix,_Arizona", 
+            "Insurance", 
+            "Scar"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Physician", 
+            "Television_advertisement", 
+            "Insurance", 
+            "Medical_malpractice", 
+            "Malpractice"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Hospital", 
+            "Politics", 
+            "Health_care"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "EpiPen", 
+            "Health_care_reform", 
+            "EpiPen"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Drinking_water", 
+            "Socialism", 
+            "Drinking_water", 
+            "Bogie", 
+            "Lamp_(electrical_component)"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Blood_test", 
+            "United_States", 
+            "Medical_prescription", 
+            "Infection", 
+            "Nurse", 
+            "Urinary_bladder", 
+            "Urticaria", 
+            "DONT", 
+            "Face_time", 
+            "Antibiotic", 
+            "Choice_magazine", 
+            "Antibiotic", 
+            "Physician", 
+            "Antibiotic"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Wink", 
+            "Health_insurance", 
+            "Duh_(album)", 
+            "Vehicle_insurance"
+        ], 
+        "postID": 90
+    }
+]

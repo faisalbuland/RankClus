@@ -1,0 +1,71 @@
+[
+    {
+        "entity": [
+            "Germany", 
+            "Papal_bull", 
+            "States_of_Germany", 
+            "Red_Bull_GmbH", 
+            "Sampling_(music)", 
+            "Law", 
+            "North_Rhine-Westphalia", 
+            "Berlin", 
+            "Cocaine", 
+            "Red_Bull_Cola", 
+            "Red_Bull_GmbH", 
+            "Narcotic", 
+            "Energy", 
+            "Papal_bull", 
+            "Germany", 
+            "Kilogram", 
+            "Cocaine", 
+            "Energy_drink", 
+            "States_of_Germany", 
+            "Litre", 
+            "Cola"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Energy", 
+            "Energy_drink", 
+            "Gas", 
+            "Candy", 
+            "Chocolate_bar"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Quadrangle_(architecture)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Energy_drink", 
+            "Profit", 
+            "Profit_margin", 
+            "Energy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Adverse_drug_reaction", 
+            "Headache", 
+            "Energy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Protein", 
+            "Polysaccharide", 
+            "Carbohydrate"
+        ], 
+        "postID": 6
+    }
+]

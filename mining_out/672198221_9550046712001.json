@@ -1,0 +1,448 @@
+[
+    {
+        "entity": [
+            "Violence", 
+            "Barack_Obama", 
+            "Mexico", 
+            "Afghanistan", 
+            "The_McClatchy_Company", 
+            "Fortification", 
+            "Wing_(air_force_unit)", 
+            "Associated_Press", 
+            "Drug_cartel", 
+            "Barack_Obama", 
+            "Illegal_drug_trade", 
+            "The_McClatchy_Company", 
+            "Perry,_Georgia", 
+            "Rick_Perry", 
+            "Capitol_Records", 
+            "Homeland_security", 
+            "United_States_Department_of_Defense", 
+            "Violence", 
+            "Barack_Obama", 
+            "Birmingham", 
+            "Republican_Party_(United_States)", 
+            "United_States_House_Committee_on_Appropriations", 
+            "Newspaper", 
+            "Mexico", 
+            "Texas", 
+            "Violence", 
+            "Afghanistan", 
+            "Associated_Press", 
+            "Mexico", 
+            "Rick_Perry", 
+            "Cartel", 
+            "Tipping_point", 
+            "Regions_of_France", 
+            "Southwestern_United_States", 
+            "Lewis", 
+            "Gerald_Ford", 
+            "Newspaper", 
+            "United_States_Department_of_Homeland_Security", 
+            "Mexico", 
+            "United_States\u2013Mexico_border", 
+            "Lewis", 
+            "Homeland_security", 
+            "Customs", 
+            "United_States_Congress", 
+            "National_Guard_of_the_United_States", 
+            "Barack_Obama", 
+            "Mexico", 
+            "United_States\u2013Mexico_border", 
+            "United_States", 
+            "The_McClatchy_Company", 
+            "United_States", 
+            "Atlanta,_Georgia", 
+            "Drug", 
+            "National_Guard_of_the_United_States", 
+            "Violence", 
+            "President_of_the_United_States", 
+            "The_McClatchy_Company", 
+            "Republican_Party_(United_States)", 
+            "Mexico", 
+            "Jerry_Lewis_(politician)", 
+            "National_Guard_of_the_United_States", 
+            "Mexico", 
+            "Phoenix,_Arizona", 
+            "Perry,_Georgia", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "CBP", 
+            "Feds", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bird", 
+            "Iraq"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Afghanistan", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Afghanistan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Puppet", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Dictator", 
+            "Middle_East"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "War_in_Afghanistan_(2001\u2013present)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "2009", 
+            "1919", 
+            "March_12"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Egalitarianism", 
+            "Democracy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Weapon", 
+            "Gerald_Ford"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Invasion", 
+            "George_W._Bush"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "Fluorescence"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Economy", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "Drug", 
+            "Cartel"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mullen,_Nebraska", 
+            "Mexico", 
+            "Admiral", 
+            "Hurricane_Katrina", 
+            "National_Guard_of_the_United_States", 
+            "United_States", 
+            "Dog", 
+            "Sorry_(Madonna_song)", 
+            "Drug", 
+            "Drug_addiction", 
+            "South_America", 
+            "Washington", 
+            "Mexico", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Barack_Obama", 
+            "Mexico", 
+            "Afghanistan", 
+            "The_McClatchy_Company", 
+            "Fortification", 
+            "Wing_(air_force_unit)", 
+            "Associated_Press", 
+            "Drug_cartel", 
+            "Barack_Obama", 
+            "Illegal_drug_trade", 
+            "The_McClatchy_Company", 
+            "Perry,_Georgia", 
+            "Rick_Perry", 
+            "Capitol_Records", 
+            "Homeland_security", 
+            "United_States_Department_of_Defense", 
+            "Violence", 
+            "Barack_Obama", 
+            "Birmingham", 
+            "Republican_Party_(United_States)", 
+            "United_States_House_Committee_on_Appropriations", 
+            "Newspaper", 
+            "Mexico", 
+            "Texas", 
+            "Violence", 
+            "Afghanistan", 
+            "Associated_Press", 
+            "Mexico", 
+            "Rick_Perry", 
+            "Cartel", 
+            "Tipping_point", 
+            "Regions_of_France", 
+            "Southwestern_United_States", 
+            "Lewis", 
+            "Gerald_Ford", 
+            "Newspaper", 
+            "United_States_Department_of_Homeland_Security", 
+            "Mexico", 
+            "United_States\u2013Mexico_border", 
+            "Lewis", 
+            "Homeland_security", 
+            "Customs", 
+            "United_States_Congress", 
+            "National_Guard_of_the_United_States", 
+            "Barack_Obama", 
+            "Mexico", 
+            "United_States\u2013Mexico_border", 
+            "United_States", 
+            "The_McClatchy_Company", 
+            "United_States", 
+            "Atlanta,_Georgia", 
+            "Drug", 
+            "National_Guard_of_the_United_States", 
+            "Violence", 
+            "President_of_the_United_States", 
+            "The_McClatchy_Company", 
+            "Republican_Party_(United_States)", 
+            "Mexico", 
+            "Jerry_Lewis_(politician)", 
+            "National_Guard_of_the_United_States", 
+            "Mexico", 
+            "Phoenix,_Arizona", 
+            "Perry,_Georgia", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "CBP", 
+            "Feds", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Bird", 
+            "Iraq"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Afghanistan", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Afghanistan"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Puppet", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Dictator", 
+            "Middle_East"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "War_in_Afghanistan_(2001\u2013present)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "2009", 
+            "1919", 
+            "March_12"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Egalitarianism", 
+            "Democracy"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Weapon", 
+            "Gerald_Ford"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Invasion", 
+            "George_W._Bush"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "Fluorescence"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Economy", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "Drug", 
+            "Cartel"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mullen,_Nebraska", 
+            "Mexico", 
+            "Admiral", 
+            "Hurricane_Katrina", 
+            "National_Guard_of_the_United_States", 
+            "United_States", 
+            "Dog", 
+            "Sorry_(Madonna_song)", 
+            "Drug", 
+            "Drug_addiction", 
+            "South_America", 
+            "Washington", 
+            "Mexico", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 40
+    }
+]

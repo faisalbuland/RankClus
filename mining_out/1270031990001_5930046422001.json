@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Jew", 
+            "Shavuot", 
+            "Passover", 
+            "Shavuot", 
+            "Holiday", 
+            "Sinai_Peninsula", 
+            "Shabbat", 
+            "Israel", 
+            "Mount_Sinai", 
+            "Torah"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Judaism", 
+            "Judaism", 
+            "Judaism", 
+            "Jewish_holiday", 
+            "Judaism", 
+            "Shavuot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shabbat", 
+            "Bread"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Shabbat", 
+            "Jew", 
+            "Jew"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Shalom", 
+            "Donnie"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Shabbat", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia", 
+            "Shalom", 
+            "Donnie"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Fish_fry", 
+            "Fry", 
+            "Fish", 
+            "Fishing"
+        ], 
+        "postID": 9
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "Mullen,_Nebraska", 
+            "CNN"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Africa", 
+            "Saddam_Hussein", 
+            "Battery_(electricity)", 
+            "Arsenal", 
+            "List_of_states_with_nuclear_weapons", 
+            "Tritium", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Iran"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Early_2000s_recession", 
+            "Iranian_peoples", 
+            "Afghanistan", 
+            "Tank", 
+            "Israel", 
+            "Self-defense", 
+            "Iran", 
+            "Iran", 
+            "Lebanon", 
+            "Hillary_Rodham_Clinton", 
+            "Nuclear_weapon", 
+            "Fatah", 
+            "Iran", 
+            "Washington", 
+            "Iraq", 
+            "Barack_Obama", 
+            "Oslo_Accords", 
+            "Kurdistan", 
+            "Gaza", 
+            "Economy"
+        ], 
+        "postID": 4
+    }
+]

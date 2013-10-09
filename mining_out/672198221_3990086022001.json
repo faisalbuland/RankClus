@@ -1,0 +1,23 @@
+[
+    {
+        "entity": [
+            "Hype", 
+            "Reality_television", 
+            "Piracy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dog", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

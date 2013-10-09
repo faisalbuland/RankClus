@@ -1,0 +1,557 @@
+[
+    {
+        "entity": [
+            "National_Post", 
+            "Canada"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "As_(coin)", 
+            "Canada"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Profanity", 
+            "Canada"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Screw"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Engine", 
+            "Engine", 
+            "Black_pepper"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Taser", 
+            "Bullet"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Border_guard", 
+            "Guard_(American_football)", 
+            "Texas"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Damnation", 
+            "God"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Engine"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Steel"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Customs", 
+            "Narcissistic_personality_disorder", 
+            "Jamaican_jerk_spice", 
+            "United_States_nationality_law", 
+            "United_States", 
+            "Breathing", 
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "English_language", 
+            "Maine", 
+            "Bagel", 
+            "Customs", 
+            "Jamaican_jerk_spice", 
+            "Qigong", 
+            "Tim_Horton", 
+            "Passport", 
+            "United_States", 
+            "Customs_officer", 
+            "Jamaican_jerk_spice", 
+            "Hotel", 
+            "Customs", 
+            "Horton,_Kansas", 
+            "Hampshire", 
+            "Canada", 
+            "Coffee", 
+            "Citizenship", 
+            "United_States", 
+            "Canada", 
+            "New_Hampshire", 
+            "Caucasian_race", 
+            "American_English", 
+            "White_American"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Internal_combustion_engine", 
+            "Border_guard", 
+            "Guard", 
+            "Caveat", 
+            "United_States", 
+            "Internal_combustion_engine", 
+            "Canada", 
+            "Emily_Post"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Traffic_ticket", 
+            "Naturalization", 
+            "Word_game", 
+            "Vein", 
+            "Naturalization", 
+            "United_States", 
+            "Canada", 
+            "Common_sense", 
+            "United_States", 
+            "Grass", 
+            "Jamaican_jerk_spice", 
+            "United_States_Uniformed_Services_Privilege_and_Identification_Card"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Panphobia", 
+            "Buffalo,_New_York", 
+            "Ontario", 
+            "Gentleman", 
+            "Canada", 
+            "Charlotte,_North_Carolina", 
+            "Customer_service", 
+            "Politeness", 
+            "Peace_Bridge", 
+            "Airport", 
+            "Perl_Object_Environment", 
+            "Border_guard"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Philippe_I,_Duke_of_Orl\u00e9ans", 
+            "Fortunato_(Wild_Cards)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Black_pepper"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "National_Post", 
+            "Canada"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "As_(coin)", 
+            "Canada"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Profanity", 
+            "Canada"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Screw"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Engine", 
+            "Engine", 
+            "Black_pepper"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Taser", 
+            "Bullet"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Border_guard", 
+            "Guard_(American_football)", 
+            "Texas"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Damnation", 
+            "God"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Engine"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Steel"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Customs", 
+            "Narcissistic_personality_disorder", 
+            "Jamaican_jerk_spice", 
+            "United_States_nationality_law", 
+            "United_States", 
+            "Breathing", 
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "English_language", 
+            "Maine", 
+            "Bagel", 
+            "Customs", 
+            "Jamaican_jerk_spice", 
+            "Qigong", 
+            "Tim_Horton", 
+            "Passport", 
+            "United_States", 
+            "Customs_officer", 
+            "Jamaican_jerk_spice", 
+            "Hotel", 
+            "Customs", 
+            "Horton,_Kansas", 
+            "Hampshire", 
+            "Canada", 
+            "Coffee", 
+            "Citizenship", 
+            "United_States", 
+            "Canada", 
+            "New_Hampshire", 
+            "Caucasian_race", 
+            "American_English", 
+            "White_American"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Internal_combustion_engine", 
+            "Border_guard", 
+            "Guard", 
+            "Caveat", 
+            "United_States", 
+            "Internal_combustion_engine", 
+            "Canada", 
+            "Emily_Post"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Traffic_ticket", 
+            "Naturalization", 
+            "Word_game", 
+            "Vein", 
+            "Naturalization", 
+            "United_States", 
+            "Canada", 
+            "Common_sense", 
+            "United_States", 
+            "Grass", 
+            "Jamaican_jerk_spice", 
+            "United_States_Uniformed_Services_Privilege_and_Identification_Card"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Panphobia", 
+            "Buffalo,_New_York", 
+            "Ontario", 
+            "Gentleman", 
+            "Canada", 
+            "Charlotte,_North_Carolina", 
+            "Customer_service", 
+            "Politeness", 
+            "Peace_Bridge", 
+            "Airport", 
+            "Perl_Object_Environment", 
+            "Border_guard"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Philippe_I,_Duke_of_Orl\u00e9ans", 
+            "Fortunato_(Wild_Cards)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Black_pepper"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "National_Post", 
+            "Canada"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "As_(coin)", 
+            "Canada"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Profanity", 
+            "Canada"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Screw"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Engine", 
+            "Engine", 
+            "Black_pepper"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Taser", 
+            "Bullet"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Border_guard", 
+            "Guard_(American_football)", 
+            "Texas"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Damnation", 
+            "God"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Engine"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "Steel"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Customs", 
+            "Narcissistic_personality_disorder", 
+            "Jamaican_jerk_spice", 
+            "United_States_nationality_law", 
+            "United_States", 
+            "Breathing", 
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "English_language", 
+            "Maine", 
+            "Bagel", 
+            "Customs", 
+            "Jamaican_jerk_spice", 
+            "Qigong", 
+            "Tim_Horton", 
+            "Passport", 
+            "United_States", 
+            "Customs_officer", 
+            "Jamaican_jerk_spice", 
+            "Hotel", 
+            "Customs", 
+            "Horton,_Kansas", 
+            "Hampshire", 
+            "Canada", 
+            "Coffee", 
+            "Citizenship", 
+            "United_States", 
+            "Canada", 
+            "New_Hampshire", 
+            "Caucasian_race", 
+            "American_English", 
+            "White_American"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Internal_combustion_engine", 
+            "Border_guard", 
+            "Guard", 
+            "Caveat", 
+            "United_States", 
+            "Internal_combustion_engine", 
+            "Canada", 
+            "Emily_Post"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Traffic_ticket", 
+            "Naturalization", 
+            "Word_game", 
+            "Vein", 
+            "Naturalization", 
+            "United_States", 
+            "Canada", 
+            "Common_sense", 
+            "United_States", 
+            "Grass", 
+            "Jamaican_jerk_spice", 
+            "United_States_Uniformed_Services_Privilege_and_Identification_Card"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Panphobia", 
+            "Buffalo,_New_York", 
+            "Ontario", 
+            "Gentleman", 
+            "Canada", 
+            "Charlotte,_North_Carolina", 
+            "Customer_service", 
+            "Politeness", 
+            "Peace_Bridge", 
+            "Airport", 
+            "Perl_Object_Environment", 
+            "Border_guard"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Philippe_I,_Duke_of_Orl\u00e9ans", 
+            "Fortunato_(Wild_Cards)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Black_pepper"
+        ], 
+        "postID": 60
+    }
+]

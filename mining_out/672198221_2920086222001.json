@@ -1,0 +1,122 @@
+[
+    {
+        "entity": [
+            "Hospital", 
+            "Lake_Elsinore,_California", 
+            "Dog", 
+            "Sheriff", 
+            "Stomach", 
+            "Labrador_Retriever", 
+            "United_States_National_Forest", 
+            "Labrador_Retriever", 
+            "Cleveland_National_Forest", 
+            "Lion", 
+            "Cougar", 
+            "Hoagie", 
+            "Veterinary_medicine", 
+            "Veterinary_medicine", 
+            "Lion", 
+            "Dog", 
+            "Dog", 
+            "KABC-TV", 
+            "Cleveland,_Ohio", 
+            "Campsite", 
+            "Cougar", 
+            "Cougar", 
+            "Monument", 
+            "Mountain", 
+            "Mountain", 
+            "Orange_County,_California", 
+            "Orange_County,_California", 
+            "California", 
+            "Santa_Ana,_California", 
+            "Surgery", 
+            "Sheriff", 
+            "Santa_Ana_Mountains", 
+            "Lion", 
+            "Helsing\u00f8r", 
+            "Splitting_maul", 
+            "Morse_code"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dog_trainer", 
+            "Hoagie", 
+            "Horse_trainer", 
+            "Dog"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Veterinarian", 
+            "Dog", 
+            "Pain", 
+            "Dog", 
+            "Dog", 
+            "Apache", 
+            "Dog", 
+            "Pet", 
+            "Veterinarian", 
+            "Leash", 
+            "German_Shepherd_Dog", 
+            "Veterinarian", 
+            "Pain", 
+            "Dog", 
+            "Germany"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Platitude", 
+            "Internet", 
+            "Television", 
+            "Lion", 
+            "Mutiny", 
+            "Dog", 
+            "Iraq", 
+            "Cougar", 
+            "Conflict", 
+            "Pet", 
+            "Monkey", 
+            "Numerical_digit", 
+            "Monkey", 
+            "Internet", 
+            "Animal"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mark_Twain", 
+            "Heaven", 
+            "Heaven", 
+            "Gentleman", 
+            "Mark_Twain", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dog"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Body_heat"
+        ], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "entity": [
+            "Vietnam_War", 
+            "Soldier", 
+            "England", 
+            "Vietnam_War", 
+            "Camp_Victory"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "The_Pogues", 
+            "Garrison", 
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Bat", 
+            "Infantry", 
+            "Dublin_City_University", 
+            "Cinnabon", 
+            "VBC", 
+            "Liberty", 
+            "Blood", 
+            "Mortar_(weapon)", 
+            "North_Liberty,_Iowa", 
+            "Starbucks", 
+            "Pizza_Hut", 
+            "Pizza"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Signal_recognition_particle", 
+            "Iraq", 
+            "Parking_lot", 
+            "Fat", 
+            "Brigade_Combat_Team_(United_States)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "London", 
+            "Cement", 
+            "Paris", 
+            "Smoke", 
+            "Plaza", 
+            "Guard_(American_football)", 
+            "Ho_Chi_Minh_City"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "ECP", 
+            "Iowa"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Film_trailer", 
+            "MWR", 
+            "Rocket", 
+            "Forward_operating_base", 
+            "Strike_action", 
+            "Iraq", 
+            "Army_Combat_Uniform", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "United_States_Army"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Burger_King", 
+            "Baghdad", 
+            "Camp_Victory", 
+            "Forward_operating_base", 
+            "Hamburger"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Camp_Victory"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Horror_film", 
+            "Grunt", 
+            "Horror_fiction", 
+            "Wire", 
+            "Planet", 
+            "LOL", 
+            "United_States_Army", 
+            "Stream", 
+            "Que_Son_Valley", 
+            "Stable", 
+            "Thread_(computer_science)", 
+            "Life_imprisonment", 
+            "United_States_Army", 
+            "Battledress", 
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Chopper_(motorcycle)", 
+            "Swimming", 
+            "Swimming_pool", 
+            "Computer_worm", 
+            "Forward_operating_base", 
+            "Extraterrestrial_life", 
+            "Old-time_music", 
+            "Iraq", 
+            "Vietnam", 
+            "Da_Nang"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "DEET", 
+            "Salt", 
+            "Mountaineering", 
+            "Mountaineering", 
+            "Village", 
+            "Jungle", 
+            "South_Vietnam"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Swimming", 
+            "Wire", 
+            "Lake"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Tropics", 
+            "Gallon", 
+            "Drum", 
+            "Goof", 
+            "Cardboard", 
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Dry_season", 
+            "Salt", 
+            "Salt", 
+            "Jungle", 
+            "Battledress", 
+            "Sun"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Papa_San", 
+            "Gallon", 
+            "Cigarette", 
+            "Papa_San", 
+            "Medic", 
+            "Shower", 
+            "C-ration", 
+            "Drum"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Sport_utility_vehicle", 
+            "POV", 
+            "Major_(United_States)", 
+            "Boondocks", 
+            "Forward_operating_base", 
+            "Flag"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Indigenous_peoples", 
+            "National_flag"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Leo_(constellation)", 
+            "Swimming", 
+            "Gentleness", 
+            "Military_Occupational_Specialty"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "American_Soldier", 
+            "United_States", 
+            "Uganda", 
+            "United_States", 
+            "Soldier"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "2003", 
+            "Bird"
+        ], 
+        "postID": 18
+    }
+]

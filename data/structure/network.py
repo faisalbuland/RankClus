@@ -107,7 +107,10 @@ class Network:
 
         # chunk into clustering
         self.cluster = chunks(tmp_list, k)
-
+        self.printClusterList()
+    
+    
+    def printClusterList(self):
         # for debug use !
         print ""
         print "Cluster initilized in the following way"
@@ -152,8 +155,8 @@ class Network:
             self.rankingResult.append(result)
 
             # for debug use, print the ranking distribution at each round
-            print "Ranking on %s-th Clluster :\n" % i
-            print str(result)
+            # print "Ranking on %s-th Clluster :\n" % i
+            # print str(result)
 
     def estimateParameter(self):
         """
@@ -177,7 +180,10 @@ class Network:
         # EM-loop:
         it = 0
         while True:
+            it += 1
+
             #go over each entry
+            print "EM-ITERATION %s" % it
             for t in range(self.k):
                 numerator = 0.0
                 dis = self.rankingResult[t]
@@ -225,11 +231,10 @@ class Network:
             # so when we reach here, we finished one round of EM, if we reach 5 round, we exit
             # but don't forget to update the pointer of bit Theta
             bigTheta = newbigTheta
-            it += 1
-            if it > 10:
+            if it > 5:
                 break
                 # put this into network
-        print bigTheta
+        # print bigTheta
         self.bigTheta = bigTheta
 
 
@@ -251,7 +256,7 @@ class Network:
 
             sxk /= length
             centers[t] = sxk
-        print centers
+        # print centers
         self.centers = centers
 
     def adjustCluster(self):
@@ -291,7 +296,8 @@ class Network:
         epsilon /= float(len(self.Wxx))
         self.cluster = new_cluster
         # print self.cluster
-        print epsilon
+        self.printClusterList()
+        print "epsilon %s " % epsilon
         return epsilon
 
     def measureDistance(self, cluster_idx, x_idx):
@@ -369,16 +375,16 @@ class Network:
             higest_y = ranking.getHighestY(limit)
             higest_y = higest_y.tolist()[0]
             print "Higest ranking Type A:"
-            print "NODE_IDX\tDetail"
+            print "NODE_IDX\tSCORE\tDetail"
             for idx in higest_x:
                 if idx in single_cluster:
-                    print "%s\t%s" % (idx,self.getNodesInfo(idx,0))
+                    print "%s\t%s\t%s" % (idx,ranking.getXscore(idx),self.getNodesInfo(idx,0))
 
 
 
             print "Higest ranking Type B:"
-            print "NODE_IDX\tDetail"
+            print "NODE_IDX\tSCORE\tDetail"
 
             for idx in higest_y:
-                print "%s\t%s" % (idx,self.getNodesInfo(idx,1))
+                print "%s\t%s\t%s" % (idx,ranking.getYscore(idx),self.getNodesInfo(idx,1))
             # print higest_y

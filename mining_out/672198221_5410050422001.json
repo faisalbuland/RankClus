@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "Cancer", 
+            "Pancreatic_cancer", 
+            "Pain", 
+            "Suicide", 
+            "Pancreatic_cancer", 
+            "Wash", 
+            "Cancer", 
+            "Medication", 
+            "Cancer", 
+            "Washington", 
+            "Washington", 
+            "Fleming", 
+            "U.S._state", 
+            "Assisted_suicide", 
+            "Law"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Soul", 
+            "God", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Medical_ventilator", 
+            "Dynamic_Noise_Reduction", 
+            "Formaldehyde", 
+            "God", 
+            "Pet", 
+            "Law", 
+            "Terminal_illness", 
+            "Organ_(anatomy)", 
+            "Food_chain", 
+            "Compassion", 
+            "Life_support", 
+            "Computer_worm", 
+            "Biodegradation", 
+            "Artificial_life", 
+            "Software_bug", 
+            "Carcass", 
+            "Harvest", 
+            "Chemical_substance", 
+            "Washington"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Washington"
+        ], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Hospital", 
+            "Alien_(law)", 
+            "Creep_(deformation)", 
+            "Social_welfare_provision", 
+            "Barack_Obama", 
+            "Illegal_immigration"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }
+]

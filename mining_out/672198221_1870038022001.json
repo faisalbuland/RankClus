@@ -1,0 +1,140 @@
+[
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Spectrum", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_Homeland_Security", 
+            "Extremism", 
+            "Extremism", 
+            "Federal_Bureau_of_Investigation", 
+            "Left-wing_politics", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Extremism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mantra", 
+            "International_Rowing_Federation", 
+            "Town"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Terrorism", 
+            "Terrorism", 
+            "Islam", 
+            "United_States_Department_of_Homeland_Security", 
+            "George_W._Bush", 
+            "Wing", 
+            "War_on_Terrorism", 
+            "Terrorism", 
+            "Far_right", 
+            "White_supremacy", 
+            "Government_agency", 
+            "Left_fielder", 
+            "2005", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "Extremism", 
+            "Right-wing_politics", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Animal_rights", 
+            "Left-wing_politics", 
+            "Animal", 
+            "Single-issue_politics", 
+            "Immigration", 
+            "Law", 
+            "Liberal_Party_of_Canada", 
+            "Hate_group", 
+            "Extremism", 
+            "Emergence", 
+            "United_States", 
+            "Abortion", 
+            "Right-wing_politics", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_Homeland_Security", 
+            "Terrorism", 
+            "Homeland_security", 
+            "Anarchism", 
+            "State", 
+            "Racism", 
+            "Local_government", 
+            "Violence", 
+            "Right-wing_politics", 
+            "Violence"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States", 
+            "Law", 
+            "Right-wing_politics", 
+            "Thompson,_Connecticut", 
+            "Privacy", 
+            "Homeland_security", 
+            "United_States", 
+            "Civil_liberties", 
+            "United_States_House_Committee_on_Homeland_Security", 
+            "Thompson,_Connecticut", 
+            "United_States_Department_of_Homeland_Security", 
+            "War_on_Terrorism", 
+            "United_States_House_Committee_on_Homeland_Security", 
+            "Terrorism", 
+            "Janet_Napolitano", 
+            "Extremism", 
+            "Bennie_Thompson", 
+            "United_States_Department_of_Homeland_Security", 
+            "Thompson,_Connecticut", 
+            "Mississippi"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Parenthood", 
+            "Physician", 
+            "Planned_Parenthood"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President", 
+            "President_of_the_United_States", 
+            "Illegal_immigration", 
+            "Abortion"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 10
+    }
+]

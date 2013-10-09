@@ -1,0 +1,618 @@
+[
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Tetragrammaton", 
+            "Thomas_Jefferson", 
+            "Thomas_Jefferson", 
+            "Arthur_William_Baden_Powell", 
+            "Vietnam", 
+            "Arthur_William_Baden_Powell", 
+            "Vietnam", 
+            "Vietnam_veteran"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Vietnam_War", 
+            "Vietnam_veteran", 
+            "Vietnam_War", 
+            "Bronze_Star_Medal"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "United_States_Army", 
+            "Vietnam_War", 
+            "Vietnam"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "John_Kerry"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Corps", 
+            "Officer_(armed_forces)", 
+            "American_International_Group"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Plymouth_Duster", 
+            "Commendation_Medal", 
+            "Intensive_care_unit", 
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Commendation_Medal"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Concussion", 
+            "Kobold", 
+            "Earned_run", 
+            "Monosodium_glutamate", 
+            "Metal", 
+            "Role-playing_game", 
+            "K-Bar", 
+            "Knife", 
+            "Silver_Star", 
+            "Earned_run_average", 
+            "Old_school", 
+            "Soldier"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Physical_intimacy", 
+            "Religion", 
+            "Vietnamese_language"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "God", 
+            "Nurses_(TV_series)", 
+            "ASAP_(variety_show)", 
+            "E-mail", 
+            "Cider"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Lieutenant", 
+            "Texas", 
+            "Silver", 
+            "Silver_Star", 
+            "United_States_House_of_Representatives", 
+            "Lapel_pin", 
+            "Jacket_lapel", 
+            "United_States_Navy", 
+            "Commander", 
+            "Lyndon,_Vermont", 
+            "Mission_(LDS_Church)", 
+            "1942", 
+            "Lyndon_B._Johnson", 
+            "The_Mission_(band)", 
+            "Lieutenant_Commander", 
+            "United_States_Navy", 
+            "United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Ho_Chi_Minh_City", 
+            "Ho_Chi_Minh_City", 
+            "United_States_Navy", 
+            "Purple_Heart", 
+            "Purple", 
+            "Colin_Powell", 
+            "Slick_tyre", 
+            "Court-martial", 
+            "Purple_Heart"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Non-Aligned_Movement", 
+            "United_States_Navy", 
+            "Kuwait", 
+            "Teh", 
+            "Gunny", 
+            "Non-Aligned_Movement"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "U.S._military_pay_grades", 
+            "Platoon", 
+            "CIB", 
+            "Base_on_balls", 
+            "First_contact_(science_fiction)", 
+            "Adam_(Bible)", 
+            "Nut_(fruit)", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Patton_(film)", 
+            "Georgy_Zhukov", 
+            "Military_of_the_United_States", 
+            "Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein", 
+            "Military_academy", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Ranger", 
+            "One_Heart", 
+            "European_Investment_Bank", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Commendation_Medal", 
+            "1966", 
+            "1970-71_in_English_football", 
+            "Virtual_Network_Computing", 
+            "Computer_Graphics_Metafile"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Soldier", 
+            "Everest_Base_Camp"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Napoleon_I_of_France"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Distinguished_Service_Cross_(United_Kingdom)", 
+            "Artillery"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Star", 
+            "World_Taekwondo_Federation", 
+            "Physician", 
+            "Okay,_Oklahoma", 
+            "Bronze_Star_Medal"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Bronze_Star_Medal", 
+            "War_Zone", 
+            "The_Bronze", 
+            "Life_imprisonment"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria", 
+            "Life_imprisonment", 
+            "Pie"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Rock_music", 
+            "Nazi_Germany", 
+            "Iraq_War", 
+            "Above_and_Beyond_(film)", 
+            "Operation_Enduring_Freedom", 
+            "Diameter", 
+            "Soldier", 
+            "Hospital", 
+            "World_War_II", 
+            "Zippo", 
+            "Perception", 
+            "Sorry_(Madonna_song)", 
+            "United_States_Congress", 
+            "Kerry_GAA", 
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "Nose", 
+            "Improvised_explosive_device", 
+            "Tooth", 
+            "Shrapnel", 
+            "Schutzstaffel", 
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Distinguished_Service_Cross_(United_Kingdom)", 
+            "Inch", 
+            "Hearing_impairment", 
+            "Fuel_injection", 
+            "Iraq_War"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Invasion_of_Grenada", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Tetragrammaton", 
+            "Thomas_Jefferson", 
+            "Thomas_Jefferson", 
+            "Arthur_William_Baden_Powell", 
+            "Vietnam", 
+            "Arthur_William_Baden_Powell", 
+            "Vietnam", 
+            "Vietnam_veteran"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Vietnam_War", 
+            "Vietnam_veteran", 
+            "Vietnam_War", 
+            "Bronze_Star_Medal"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "United_States_Army", 
+            "Vietnam_War", 
+            "Vietnam"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "John_Kerry"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Corps", 
+            "Officer_(armed_forces)", 
+            "American_International_Group"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Plymouth_Duster", 
+            "Commendation_Medal", 
+            "Intensive_care_unit", 
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Commendation_Medal"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Concussion", 
+            "Kobold", 
+            "Earned_run", 
+            "Monosodium_glutamate", 
+            "Metal", 
+            "Role-playing_game", 
+            "K-Bar", 
+            "Knife", 
+            "Silver_Star", 
+            "Earned_run_average", 
+            "Old_school", 
+            "Soldier"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Physical_intimacy", 
+            "Religion", 
+            "Vietnamese_language"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "God", 
+            "Nurses_(TV_series)", 
+            "ASAP_(variety_show)", 
+            "E-mail", 
+            "Cider"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Lieutenant", 
+            "Texas", 
+            "Silver", 
+            "Silver_Star", 
+            "United_States_House_of_Representatives", 
+            "Lapel_pin", 
+            "Jacket_lapel", 
+            "United_States_Navy", 
+            "Commander", 
+            "Lyndon,_Vermont", 
+            "Mission_(LDS_Church)", 
+            "1942", 
+            "Lyndon_B._Johnson", 
+            "The_Mission_(band)", 
+            "Lieutenant_Commander", 
+            "United_States_Navy", 
+            "United_States"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Ho_Chi_Minh_City", 
+            "Ho_Chi_Minh_City", 
+            "United_States_Navy", 
+            "Purple_Heart", 
+            "Purple", 
+            "Colin_Powell", 
+            "Slick_tyre", 
+            "Court-martial", 
+            "Purple_Heart"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Non-Aligned_Movement", 
+            "United_States_Navy", 
+            "Kuwait", 
+            "Teh", 
+            "Gunny", 
+            "Non-Aligned_Movement"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "U.S._military_pay_grades", 
+            "Platoon", 
+            "CIB", 
+            "Base_on_balls", 
+            "First_contact_(science_fiction)", 
+            "Adam_(Bible)", 
+            "Nut_(fruit)", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Patton_(film)", 
+            "Georgy_Zhukov", 
+            "Military_of_the_United_States", 
+            "Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein", 
+            "Military_academy", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Ranger", 
+            "One_Heart", 
+            "European_Investment_Bank", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Commendation_Medal", 
+            "1966", 
+            "1970-71_in_English_football", 
+            "Virtual_Network_Computing", 
+            "Computer_Graphics_Metafile"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Soldier", 
+            "Everest_Base_Camp"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Napoleon_I_of_France"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Distinguished_Service_Cross_(United_Kingdom)", 
+            "Artillery"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Star", 
+            "World_Taekwondo_Federation", 
+            "Physician", 
+            "Okay,_Oklahoma", 
+            "Bronze_Star_Medal"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Bronze_Star_Medal", 
+            "War_Zone", 
+            "The_Bronze", 
+            "Life_imprisonment"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria", 
+            "Life_imprisonment", 
+            "Pie"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Rock_music", 
+            "Nazi_Germany", 
+            "Iraq_War", 
+            "Above_and_Beyond_(film)", 
+            "Operation_Enduring_Freedom", 
+            "Diameter", 
+            "Soldier", 
+            "Hospital", 
+            "World_War_II", 
+            "Zippo", 
+            "Perception", 
+            "Sorry_(Madonna_song)", 
+            "United_States_Congress", 
+            "Kerry_GAA", 
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "Nose", 
+            "Improvised_explosive_device", 
+            "Tooth", 
+            "Shrapnel", 
+            "Schutzstaffel", 
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Distinguished_Service_Cross_(United_Kingdom)", 
+            "Inch", 
+            "Hearing_impairment", 
+            "Fuel_injection", 
+            "Iraq_War"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Invasion_of_Grenada", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 60
+    }
+]

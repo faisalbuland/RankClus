@@ -1,0 +1,794 @@
+[
+    {
+        "entity": [
+            "Metal", 
+            "Commodity", 
+            "Futures_contract", 
+            "Market_liquidity", 
+            "Market_liquidity", 
+            "Killed_in_action", 
+            "God", 
+            "Precious_metal", 
+            "Futures"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Short_(finance)", 
+            "Stock", 
+            "Economy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Stock_market"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Presumptive_nominee", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Logic", 
+            "United_States_Senate", 
+            "John_McCain", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Faith", 
+            "God", 
+            "Stock", 
+            "Fox_Broadcasting_Company", 
+            "Labour_economics", 
+            "Faith", 
+            "American_International_Group", 
+            "Stock_market", 
+            "Bail_out_(finance)", 
+            "401", 
+            "Religion"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Root", 
+            "Analogy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Trough_(meteorology)", 
+            "Bail_out_(finance)", 
+            "American_International_Group", 
+            "Patriotism", 
+            "Infusion", 
+            "Pencil", 
+            "Tin", 
+            "Gold"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Social_Security_(United_States)", 
+            "Newbie", 
+            "Savings_and_loan_association", 
+            "Tax-Free_Savings_Account", 
+            "Screen_name"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "United_States_dollar", 
+            "LOL", 
+            "Hell", 
+            "Bail_(disambiguation)", 
+            "Hedge_(finance)", 
+            "Hell", 
+            "United_States_dollar", 
+            "Dollar", 
+            "God", 
+            "Market_liquidity", 
+            "Sigh_(band)", 
+            "Euro", 
+            "Wall_Street"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Investor", 
+            "Adage", 
+            "Chief_executive_officer", 
+            "He_(letter)", 
+            "Demographics", 
+            "God", 
+            "Grocery_store", 
+            "Economics", 
+            "Capitalism", 
+            "Conservatism", 
+            "Welfare_(financial_aid)", 
+            "Profit", 
+            "Middle_class", 
+            "Moniker", 
+            "Dollar"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Rhetorical_question", 
+            "George_W._Bush", 
+            "Tax-Free_Savings_Account", 
+            "Savings_and_loan_association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Trust_law", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Savings_account", 
+            "Nancy_Pelosi", 
+            "IMHO", 
+            "President_of_the_United_States", 
+            "United_States_Congress"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stock_market", 
+            "Stock_market", 
+            "Bond_(finance)", 
+            "Economics", 
+            "George_W._Bush", 
+            "Barometer", 
+            "Dike_(construction)", 
+            "Stock_market", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Far_left", 
+            "Stimulus_(physiology)", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Faith", 
+            "Social_Security_(United_States)", 
+            "Long_shot", 
+            "Ignoratio_elenchi", 
+            "Dollar", 
+            "Leverage_(finance)", 
+            "Retort", 
+            "Bread", 
+            "Nathan_Banks", 
+            "Disk_formatting", 
+            "Social_Security_(United_States)", 
+            "Stock_market", 
+            "Tangent", 
+            "Bail_out_(finance)", 
+            "Blackjack", 
+            "Bell_curve", 
+            "God", 
+            "Bank", 
+            "Bell_(instrument)", 
+            "Break-even", 
+            "Bank", 
+            "Consumer_Confidence_Index", 
+            "Social_Security_debate_(United_States)", 
+            "Bail_out_(finance)", 
+            "Stock_market", 
+            "401", 
+            "Left-wing_politics", 
+            "United_States_twenty-dollar_bill", 
+            "George_W._Bush", 
+            "Curve", 
+            "United_States_dollar", 
+            "401", 
+            "Herring", 
+            "Huckleberry", 
+            "Fallacy", 
+            "Bread", 
+            "Surety", 
+            "Cable_television", 
+            "Bail_out_(finance)", 
+            "Consumer_spending", 
+            "Stock_market", 
+            "Dollar", 
+            "Geary-Khamis_dollar", 
+            "New_York_Stock_Exchange", 
+            "Couch", 
+            "Social_Security_debate_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Faith"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Metal", 
+            "Commodity", 
+            "Futures_contract", 
+            "Market_liquidity", 
+            "Market_liquidity", 
+            "Killed_in_action", 
+            "God", 
+            "Precious_metal", 
+            "Futures"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Short_(finance)", 
+            "Stock", 
+            "Economy"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Stock_market"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Presumptive_nominee", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Logic", 
+            "United_States_Senate", 
+            "John_McCain", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Faith", 
+            "God", 
+            "Stock", 
+            "Fox_Broadcasting_Company", 
+            "Labour_economics", 
+            "Faith", 
+            "American_International_Group", 
+            "Stock_market", 
+            "Bail_out_(finance)", 
+            "401", 
+            "Religion"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Root", 
+            "Analogy"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Trough_(meteorology)", 
+            "Bail_out_(finance)", 
+            "American_International_Group", 
+            "Patriotism", 
+            "Infusion", 
+            "Pencil", 
+            "Tin", 
+            "Gold"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Social_Security_(United_States)", 
+            "Newbie", 
+            "Savings_and_loan_association", 
+            "Tax-Free_Savings_Account", 
+            "Screen_name"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "United_States_dollar", 
+            "LOL", 
+            "Hell", 
+            "Bail_(disambiguation)", 
+            "Hedge_(finance)", 
+            "Hell", 
+            "United_States_dollar", 
+            "Dollar", 
+            "God", 
+            "Market_liquidity", 
+            "Sigh_(band)", 
+            "Euro", 
+            "Wall_Street"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Investor", 
+            "Adage", 
+            "Chief_executive_officer", 
+            "He_(letter)", 
+            "Demographics", 
+            "God", 
+            "Grocery_store", 
+            "Economics", 
+            "Capitalism", 
+            "Conservatism", 
+            "Welfare_(financial_aid)", 
+            "Profit", 
+            "Middle_class", 
+            "Moniker", 
+            "Dollar"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Rhetorical_question", 
+            "George_W._Bush", 
+            "Tax-Free_Savings_Account", 
+            "Savings_and_loan_association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Trust_law", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Savings_account", 
+            "Nancy_Pelosi", 
+            "IMHO", 
+            "President_of_the_United_States", 
+            "United_States_Congress"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stock_market", 
+            "Stock_market", 
+            "Bond_(finance)", 
+            "Economics", 
+            "George_W._Bush", 
+            "Barometer", 
+            "Dike_(construction)", 
+            "Stock_market", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Far_left", 
+            "Stimulus_(physiology)", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Faith", 
+            "Social_Security_(United_States)", 
+            "Long_shot", 
+            "Ignoratio_elenchi", 
+            "Dollar", 
+            "Leverage_(finance)", 
+            "Retort", 
+            "Bread", 
+            "Nathan_Banks", 
+            "Disk_formatting", 
+            "Social_Security_(United_States)", 
+            "Stock_market", 
+            "Tangent", 
+            "Bail_out_(finance)", 
+            "Blackjack", 
+            "Bell_curve", 
+            "God", 
+            "Bank", 
+            "Bell_(instrument)", 
+            "Break-even", 
+            "Bank", 
+            "Consumer_Confidence_Index", 
+            "Social_Security_debate_(United_States)", 
+            "Bail_out_(finance)", 
+            "Stock_market", 
+            "401", 
+            "Left-wing_politics", 
+            "United_States_twenty-dollar_bill", 
+            "George_W._Bush", 
+            "Curve", 
+            "United_States_dollar", 
+            "401", 
+            "Herring", 
+            "Huckleberry", 
+            "Fallacy", 
+            "Bread", 
+            "Surety", 
+            "Cable_television", 
+            "Bail_out_(finance)", 
+            "Consumer_spending", 
+            "Stock_market", 
+            "Dollar", 
+            "Geary-Khamis_dollar", 
+            "New_York_Stock_Exchange", 
+            "Couch", 
+            "Social_Security_debate_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Faith"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Metal", 
+            "Commodity", 
+            "Futures_contract", 
+            "Market_liquidity", 
+            "Market_liquidity", 
+            "Killed_in_action", 
+            "God", 
+            "Precious_metal", 
+            "Futures"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Short_(finance)", 
+            "Stock", 
+            "Economy"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Stock_market"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Presumptive_nominee", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Logic", 
+            "United_States_Senate", 
+            "John_McCain", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Faith", 
+            "God", 
+            "Stock", 
+            "Fox_Broadcasting_Company", 
+            "Labour_economics", 
+            "Faith", 
+            "American_International_Group", 
+            "Stock_market", 
+            "Bail_out_(finance)", 
+            "401", 
+            "Religion"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Root", 
+            "Analogy"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Trough_(meteorology)", 
+            "Bail_out_(finance)", 
+            "American_International_Group", 
+            "Patriotism", 
+            "Infusion", 
+            "Pencil", 
+            "Tin", 
+            "Gold"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Social_Security_(United_States)", 
+            "Newbie", 
+            "Savings_and_loan_association", 
+            "Tax-Free_Savings_Account", 
+            "Screen_name"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "United_States_dollar", 
+            "LOL", 
+            "Hell", 
+            "Bail_(disambiguation)", 
+            "Hedge_(finance)", 
+            "Hell", 
+            "United_States_dollar", 
+            "Dollar", 
+            "God", 
+            "Market_liquidity", 
+            "Sigh_(band)", 
+            "Euro", 
+            "Wall_Street"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Investor", 
+            "Adage", 
+            "Chief_executive_officer", 
+            "He_(letter)", 
+            "Demographics", 
+            "God", 
+            "Grocery_store", 
+            "Economics", 
+            "Capitalism", 
+            "Conservatism", 
+            "Welfare_(financial_aid)", 
+            "Profit", 
+            "Middle_class", 
+            "Moniker", 
+            "Dollar"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "Rhetorical_question", 
+            "George_W._Bush", 
+            "Tax-Free_Savings_Account", 
+            "Savings_and_loan_association", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Trust_law", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Savings_account", 
+            "Nancy_Pelosi", 
+            "IMHO", 
+            "President_of_the_United_States", 
+            "United_States_Congress"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stock_market", 
+            "Stock_market", 
+            "Bond_(finance)", 
+            "Economics", 
+            "George_W._Bush", 
+            "Barometer", 
+            "Dike_(construction)", 
+            "Stock_market", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Far_left", 
+            "Stimulus_(physiology)", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Faith", 
+            "Social_Security_(United_States)", 
+            "Long_shot", 
+            "Ignoratio_elenchi", 
+            "Dollar", 
+            "Leverage_(finance)", 
+            "Retort", 
+            "Bread", 
+            "Nathan_Banks", 
+            "Disk_formatting", 
+            "Social_Security_(United_States)", 
+            "Stock_market", 
+            "Tangent", 
+            "Bail_out_(finance)", 
+            "Blackjack", 
+            "Bell_curve", 
+            "God", 
+            "Bank", 
+            "Bell_(instrument)", 
+            "Break-even", 
+            "Bank", 
+            "Consumer_Confidence_Index", 
+            "Social_Security_debate_(United_States)", 
+            "Bail_out_(finance)", 
+            "Stock_market", 
+            "401", 
+            "Left-wing_politics", 
+            "United_States_twenty-dollar_bill", 
+            "George_W._Bush", 
+            "Curve", 
+            "United_States_dollar", 
+            "401", 
+            "Herring", 
+            "Huckleberry", 
+            "Fallacy", 
+            "Bread", 
+            "Surety", 
+            "Cable_television", 
+            "Bail_out_(finance)", 
+            "Consumer_spending", 
+            "Stock_market", 
+            "Dollar", 
+            "Geary-Khamis_dollar", 
+            "New_York_Stock_Exchange", 
+            "Couch", 
+            "Social_Security_debate_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Accountability", 
+            "Social_Security_(United_States)", 
+            "Faith"
+        ], 
+        "postID": 60
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

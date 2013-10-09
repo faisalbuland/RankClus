@@ -1,0 +1,227 @@
+[
+    {
+        "entity": [
+            "Rhetoric", 
+            "Optimism", 
+            "Economy", 
+            "President_of_the_United_States", 
+            "Small_business", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Economy", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Republican_Party_(United_States)", 
+            "Wall_Street", 
+            "Democratic_Party_(United_States)", 
+            "Crock_(dishware)", 
+            "Economics", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pup", 
+            "Partisan_(political)", 
+            "Hector", 
+            "Politics", 
+            "Partisan_(military)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nay"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Liberalism", 
+            "Republicanism", 
+            "United_States", 
+            "Liberalism", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Commodity", 
+            "Energy", 
+            "Economy", 
+            "Unemployment", 
+            "Doom_metal", 
+            "Crock_(dishware)", 
+            "Foreclosure"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "President_of_the_United_States", 
+            "Nova_(comics)", 
+            "Barack_Obama", 
+            "John_McCain"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Great_Depression", 
+            "Recession", 
+            "Government_debt", 
+            "Great_Depression", 
+            "Government_debt", 
+            "Education", 
+            "Recession", 
+            "Doom_metal", 
+            "Great_Depression", 
+            "Legislation", 
+            "Hope_(disambiguation)", 
+            "Great_Depression", 
+            "College", 
+            "Tax", 
+            "Recession", 
+            "Doom_metal", 
+            "Argentine_economic_crisis_(1999\u20132002)", 
+            "Subprime_mortgage_crisis", 
+            "American_International_Group", 
+            "Doom_metal", 
+            "Doom_metal"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stump_(cricket)", 
+            "Cul-de-sac", 
+            "Stump_speech_(politics)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Object_Management_Group", 
+            "Recession", 
+            "Hairstyle", 
+            "Bean", 
+            "Cattle", 
+            "Propaganda", 
+            "Primrose"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bag"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "George_Orwell", 
+            "John_McCain", 
+            "President_of_the_United_States", 
+            "George_Orwell", 
+            "United_States_Senate"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Bail_(disambiguation)", 
+            "American_International_Group", 
+            "George_W._Bush", 
+            "Barney_Frank", 
+            "Barney_Gumble", 
+            "George_W._Bush", 
+            "American_International_Group", 
+            "Henry_Paulson", 
+            "John_McCain"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Mouthpiece_(woodwind)", 
+            "The_One_(film)", 
+            "Feces", 
+            "Cattle", 
+            "Lemming"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Christina_of_Sweden", 
+            "Peter_R._Orszag", 
+            "Alfred_Romer", 
+            "Economy", 
+            "United_States", 
+            "Author", 
+            "Capital_(economics)", 
+            "2008", 
+            "Stock_market", 
+            "Author", 
+            "Book_of_Job", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "2007", 
+            "Gross_domestic_product", 
+            "Economy", 
+            "NBC", 
+            "Office_of_Management_and_Budget", 
+            "October_2007", 
+            "Barack_Obama", 
+            "LOL", 
+            "Dynamism", 
+            "Hat", 
+            "Economy", 
+            "Technology", 
+            "Author"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "George_W._Bush", 
+            "Stocks", 
+            "Economy", 
+            "Barack_Obama", 
+            "American_International_Group", 
+            "Barney_Frank", 
+            "Barney_Gumble", 
+            "Bail_(disambiguation)", 
+            "Economy", 
+            "Wall_Street"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Breathing", 
+            "Crime", 
+            "Savings_and_loan_association", 
+            "Insurance"
+        ], 
+        "postID": 18
+    }
+]

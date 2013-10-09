@@ -1,0 +1,108 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Legend", 
+            "Dr._John", 
+            "Influenza", 
+            "Pig", 
+            "Virus", 
+            "Laboratory", 
+            "Influenza", 
+            "Video_clip", 
+            "Federation_Against_Copyright_Theft", 
+            "Conspiracy_theory", 
+            "Dallas,_Texas", 
+            "Conspiracy_theory", 
+            "Urban_legend"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Heart_condition", 
+            "T._rex", 
+            "Volcano"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Lizard"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_World_Order_(conspiracy_theory)", 
+            "New_World"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Lizards_(Heroes)", 
+            "Critters"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "New_World", 
+            "Gulf_War", 
+            "Gulf_War", 
+            "Gulf_War", 
+            "George_H._W._Bush", 
+            "New_world_order", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Biological_warfare", 
+            "Biological_warfare", 
+            "Infection", 
+            "Virus", 
+            "Soviet_Union", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Orthomyxoviridae", 
+            "Influenza", 
+            "Orthomyxoviridae", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Influenza", 
+            "Handgun", 
+            "Influenza", 
+            "Influenza", 
+            "Influenza", 
+            "2009", 
+            "Swine_flu", 
+            "Pig", 
+            "Virus", 
+            "Pediatrics", 
+            "Pig", 
+            "Swine_flu", 
+            "Chicago", 
+            "Virus", 
+            "Statistic"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Swine_flu", 
+            "Disease", 
+            "Pig", 
+            "Influenza", 
+            "Infectious_disease"
+        ], 
+        "postID": 9
+    }
+]

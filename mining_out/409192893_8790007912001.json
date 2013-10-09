@@ -1,0 +1,782 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Beer", 
+            "First_Lady", 
+            "Michelle_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Concur"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Yarn", 
+            "Barack_Obama", 
+            "Yarn"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "First_Lady"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Customs"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Circumcision", 
+            "Tabloid", 
+            "Public_house"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Barack_Obama", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Queen_(band)", 
+            "Michelle_Obama", 
+            "Citizenship", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "British_nationality_law", 
+            "Queen_(band)", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Barack_Obama", 
+            "British_nationality_law", 
+            "United_Kingdom", 
+            "United_Kingdom", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "United_Kingdom", 
+            "Michelle_Obama", 
+            "London"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Undergarment"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Rat"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mohawk_nation"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Kill_'Em_All", 
+            "God", 
+            "Neoconservatism", 
+            "Diplomacy"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Iran", 
+            "Syria", 
+            "Russian_language", 
+            "Barack_Obama", 
+            "Old_School_(film)", 
+            "Pakistan", 
+            "Big_Stick_Ideology", 
+            "Franklin_D._Roosevelt", 
+            "Federation", 
+            "Islamofascism", 
+            "Russia"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Old_school", 
+            "Current_events", 
+            "Day_care"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Neoconservatism", 
+            "Liberalism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "People's_Republic_of_China", 
+            "Tax", 
+            "Adolf_Hitler", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Independence,_Kansas", 
+            "Poverty", 
+            "United_States", 
+            "China", 
+            "House_of_Saud", 
+            "Korea", 
+            "Arabian_Peninsula", 
+            "Pol", 
+            "United_States", 
+            "Pol_Pot", 
+            "Communism", 
+            "Teleprompter"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Brain"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hell", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "The_Europeans_(film)", 
+            "President_of_the_United_States", 
+            "Kudos", 
+            "Barack_Obama", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sheeple", 
+            "Jonestown", 
+            "Gunny", 
+            "Kool-Aid", 
+            "Chute"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Beer", 
+            "First_Lady", 
+            "Michelle_Obama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Concur"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Yarn", 
+            "Barack_Obama", 
+            "Yarn"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "First_Lady"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Customs"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Circumcision", 
+            "Tabloid", 
+            "Public_house"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Barack_Obama", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Barack_Obama"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Queen_(band)", 
+            "Michelle_Obama", 
+            "Citizenship", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "British_nationality_law", 
+            "Queen_(band)", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Barack_Obama", 
+            "British_nationality_law", 
+            "United_Kingdom", 
+            "United_Kingdom", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "United_Kingdom", 
+            "Michelle_Obama", 
+            "London"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Undergarment"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Rat"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Mohawk_nation"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Kill_'Em_All", 
+            "God", 
+            "Neoconservatism", 
+            "Diplomacy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Iran", 
+            "Syria", 
+            "Russian_language", 
+            "Barack_Obama", 
+            "Old_School_(film)", 
+            "Pakistan", 
+            "Big_Stick_Ideology", 
+            "Franklin_D._Roosevelt", 
+            "Federation", 
+            "Islamofascism", 
+            "Russia"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Old_school", 
+            "Current_events", 
+            "Day_care"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Neoconservatism", 
+            "Liberalism"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "People's_Republic_of_China", 
+            "Tax", 
+            "Adolf_Hitler", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Independence,_Kansas", 
+            "Poverty", 
+            "United_States", 
+            "China", 
+            "House_of_Saud", 
+            "Korea", 
+            "Arabian_Peninsula", 
+            "Pol", 
+            "United_States", 
+            "Pol_Pot", 
+            "Communism", 
+            "Teleprompter"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Brain"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hell", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "The_Europeans_(film)", 
+            "President_of_the_United_States", 
+            "Kudos", 
+            "Barack_Obama", 
+            "United_States"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sheeple", 
+            "Jonestown", 
+            "Gunny", 
+            "Kool-Aid", 
+            "Chute"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Beer", 
+            "First_Lady", 
+            "Michelle_Obama"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Concur"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Yarn", 
+            "Barack_Obama", 
+            "Yarn"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "First_Lady"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Customs"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Circumcision", 
+            "Tabloid", 
+            "Public_house"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Barack_Obama", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Barack_Obama"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Queen_(band)", 
+            "Michelle_Obama", 
+            "Citizenship", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "British_nationality_law", 
+            "Queen_(band)", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "Barack_Obama", 
+            "British_nationality_law", 
+            "United_Kingdom", 
+            "United_Kingdom", 
+            "Elizabeth_II_of_the_United_Kingdom", 
+            "United_Kingdom", 
+            "Michelle_Obama", 
+            "London"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Undergarment"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Rat"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Mohawk_nation"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Kill_'Em_All", 
+            "God", 
+            "Neoconservatism", 
+            "Diplomacy"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Iran", 
+            "Syria", 
+            "Russian_language", 
+            "Barack_Obama", 
+            "Old_School_(film)", 
+            "Pakistan", 
+            "Big_Stick_Ideology", 
+            "Franklin_D._Roosevelt", 
+            "Federation", 
+            "Islamofascism", 
+            "Russia"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Old_school", 
+            "Current_events", 
+            "Day_care"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Neoconservatism", 
+            "Liberalism"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "People's_Republic_of_China", 
+            "Tax", 
+            "Adolf_Hitler", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "United_States", 
+            "Joseph_Stalin", 
+            "Independence,_Kansas", 
+            "Poverty", 
+            "United_States", 
+            "China", 
+            "House_of_Saud", 
+            "Korea", 
+            "Arabian_Peninsula", 
+            "Pol", 
+            "United_States", 
+            "Pol_Pot", 
+            "Communism", 
+            "Teleprompter"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Brain"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [], 
+        "postID": 84
+    }, 
+    {
+        "entity": [], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hell", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "The_Europeans_(film)", 
+            "President_of_the_United_States", 
+            "Kudos", 
+            "Barack_Obama", 
+            "United_States"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sheeple", 
+            "Jonestown", 
+            "Gunny", 
+            "Kool-Aid", 
+            "Chute"
+        ], 
+        "postID": 90
+    }
+]

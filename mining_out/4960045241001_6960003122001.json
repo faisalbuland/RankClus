@@ -1,0 +1,167 @@
+[
+    {
+        "entity": [
+            "Musical_ensemble", 
+            "Hunton", 
+            "FYI", 
+            "England", 
+            "Dwight_D._Eisenhower", 
+            "The_Downs", 
+            "Germany", 
+            "English_Channel", 
+            "Glenn_Miller", 
+            "1944", 
+            "The_Downs", 
+            "Big_band", 
+            "Bandleader", 
+            "Armistice", 
+            "Big_band", 
+            "Journalist", 
+            "Cover-up", 
+            "Glenn_Miller", 
+            "Big_band", 
+            "Germany"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Coast_to_Coast_AM", 
+            "Germany", 
+            "Radio_programming", 
+            "Radio", 
+            "Big_band", 
+            "Big_band", 
+            "Glenn_Miller"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Germany", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bandleader"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Julia_Child", 
+            "Bell_(instrument)", 
+            "Julia_(film)", 
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Adolf_Hitler", 
+            "Joseph_Stalin", 
+            "Duke_Ellington", 
+            "Nazism", 
+            "All_or_nothing_(armour)", 
+            "Jazz", 
+            "Jazz", 
+            "England", 
+            "Joseph_Stalin", 
+            "Adolf_Hitler", 
+            "Chattanooga_Choo_Choo", 
+            "Chattanooga,_Tennessee", 
+            "Duke", 
+            "Joseph_Stalin", 
+            "1943", 
+            "Big_band", 
+            "Duke_Ellington", 
+            "Joseph_Stalin", 
+            "Chanel", 
+            "A_(New_York_City_Subway_service)", 
+            "Adolf_Hitler"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tommy_(rock_opera)", 
+            "Glenn_Miller", 
+            "Tommy_Lee"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Germany", 
+            "Melbourne", 
+            "Derek_Jeter", 
+            "Briefcase", 
+            "Wilmington,_Delaware", 
+            "Beach", 
+            "Glenn_Miller", 
+            "Autograph", 
+            "Baseball", 
+            "Briefcase"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Charles_Lindbergh", 
+            "Charles_Lindbergh", 
+            "Fiction", 
+            "Pacific_War", 
+            "Office_of_Strategic_Services", 
+            "John_Wayne", 
+            "P-38_Lightning", 
+            "Japan", 
+            "Oceania", 
+            "Wayne_County,_New_York", 
+            "Pacific_War"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Blue_Angels", 
+            "Paris", 
+            "United_States_Navy", 
+            "Golf", 
+            "Angel_(Buffy_the_Vampire_Slayer)", 
+            "Admiral", 
+            "Golf", 
+            "United_States_Marine_Corps", 
+            "Golf", 
+            "Glenn_Miller", 
+            "Glenn_Miller", 
+            "Chief_Warrant_Officer", 
+            "United_States_Navy", 
+            "Retirement", 
+            "Golf", 
+            "IMHO", 
+            "Climate", 
+            "National_Security_Agency", 
+            "Baker", 
+            "Golf", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "World_War_II", 
+            "Celebrity"
+        ], 
+        "postID": 12
+    }
+]

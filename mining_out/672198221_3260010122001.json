@@ -1,0 +1,468 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "John_Boehner", 
+            "Extremism", 
+            "Hybrid_(biology)", 
+            "Abortion", 
+            "Unemployment", 
+            "Eco-terrorism", 
+            "Immigration", 
+            "Extremism", 
+            "Right-wing_politics", 
+            "Far_right", 
+            "Extremism", 
+            "Republican_Party_(United_States)", 
+            "Federal_Bureau_of_Investigation", 
+            "John_Boehner", 
+            "John_Boehner", 
+            "Extremism", 
+            "Terrorism", 
+            "Ohio", 
+            "Thread_(computer_science)", 
+            "Illegal_immigration"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Military.com", 
+            "Object_Management_Group", 
+            "Internet_forum"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Sons_of_the_American_Revolution", 
+            "Talk_Radio_(film)", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Misinformation", 
+            "Extremism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "BIAS", 
+            "Left-wing_politics", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Wing", 
+            "Joseph_Stalin", 
+            "Extremism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Liberalism", 
+            "Patriot_(American_Revolution)", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Facts", 
+            "Stalinism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Propaganda", 
+            "Left-wing_politics", 
+            "Bat", 
+            "Wing", 
+            "Gerald_Ford"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Tit_(bird)", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "Extremism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Google", 
+            "Left-wing_politics", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "Hot_dog", 
+            "Field_officer", 
+            "Nonsense", 
+            "United_States_Department_of_Homeland_Security", 
+            "Left-wing_politics", 
+            "Brain", 
+            "Drug_addiction", 
+            "Hell", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "E-mail", 
+            "Earth", 
+            "Server_(computing)", 
+            "Animal_rights", 
+            "E-mail", 
+            "Server_(computing)", 
+            "United_States", 
+            "Earth_Liberation_Front", 
+            "Animal_testing", 
+            "Press_secretary", 
+            "Animal_testing", 
+            "Sic", 
+            "2007", 
+            "Corporation", 
+            "Animal_rights", 
+            "Milwaukee,_Wisconsin", 
+            "Animal", 
+            "User_(computing)", 
+            "Animal_liberation_movement", 
+            "Gerald_Ford", 
+            "2005", 
+            "Computer", 
+            "Earth_Liberation_Front", 
+            "Sake", 
+            "United_States", 
+            "Earth_Liberation_Front", 
+            "Earth_Liberation_Front", 
+            "Extremism", 
+            "Earth", 
+            "User_(computing)", 
+            "Cyber", 
+            "Ford_Motor_Company", 
+            "Server_(computing)", 
+            "E-mail", 
+            "Animal", 
+            "United_States", 
+            "Earth_Liberation_Front_Press_Office", 
+            "Animal_testing_on_non-human_primates", 
+            "Animal", 
+            "April_2005", 
+            "October_2005", 
+            "Animal_rights", 
+            "2005", 
+            "Animal", 
+            "Animal_rights", 
+            "July_13", 
+            "Animal_rights", 
+            "Left-wing_politics", 
+            "Wisconsin", 
+            "July_2007", 
+            "Animal_testing", 
+            "Extremism", 
+            "Animal", 
+            "Profit"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Propaganda", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "John_Boehner", 
+            "Extremism", 
+            "Hybrid_(biology)", 
+            "Abortion", 
+            "Unemployment", 
+            "Eco-terrorism", 
+            "Immigration", 
+            "Extremism", 
+            "Right-wing_politics", 
+            "Far_right", 
+            "Extremism", 
+            "Republican_Party_(United_States)", 
+            "Federal_Bureau_of_Investigation", 
+            "John_Boehner", 
+            "John_Boehner", 
+            "Extremism", 
+            "Terrorism", 
+            "Ohio", 
+            "Thread_(computer_science)", 
+            "Illegal_immigration"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Military.com", 
+            "Object_Management_Group", 
+            "Internet_forum"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Sons_of_the_American_Revolution", 
+            "Talk_Radio_(film)", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Misinformation", 
+            "Extremism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "BIAS", 
+            "Left-wing_politics", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Wing", 
+            "Joseph_Stalin", 
+            "Extremism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Liberalism", 
+            "Patriot_(American_Revolution)", 
+            "United_States"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Facts", 
+            "Stalinism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Propaganda", 
+            "Left-wing_politics", 
+            "Bat", 
+            "Wing", 
+            "Gerald_Ford"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Tit_(bird)", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "Extremism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Google", 
+            "Left-wing_politics", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "Hot_dog", 
+            "Field_officer", 
+            "Nonsense", 
+            "United_States_Department_of_Homeland_Security", 
+            "Left-wing_politics", 
+            "Brain", 
+            "Drug_addiction", 
+            "Hell", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "E-mail", 
+            "Earth", 
+            "Server_(computing)", 
+            "Animal_rights", 
+            "E-mail", 
+            "Server_(computing)", 
+            "United_States", 
+            "Earth_Liberation_Front", 
+            "Animal_testing", 
+            "Press_secretary", 
+            "Animal_testing", 
+            "Sic", 
+            "2007", 
+            "Corporation", 
+            "Animal_rights", 
+            "Milwaukee,_Wisconsin", 
+            "Animal", 
+            "User_(computing)", 
+            "Animal_liberation_movement", 
+            "Gerald_Ford", 
+            "2005", 
+            "Computer", 
+            "Earth_Liberation_Front", 
+            "Sake", 
+            "United_States", 
+            "Earth_Liberation_Front", 
+            "Earth_Liberation_Front", 
+            "Extremism", 
+            "Earth", 
+            "User_(computing)", 
+            "Cyber", 
+            "Ford_Motor_Company", 
+            "Server_(computing)", 
+            "E-mail", 
+            "Animal", 
+            "United_States", 
+            "Earth_Liberation_Front_Press_Office", 
+            "Animal_testing_on_non-human_primates", 
+            "Animal", 
+            "April_2005", 
+            "October_2005", 
+            "Animal_rights", 
+            "2005", 
+            "Animal", 
+            "Animal_rights", 
+            "July_13", 
+            "Animal_rights", 
+            "Left-wing_politics", 
+            "Wisconsin", 
+            "July_2007", 
+            "Animal_testing", 
+            "Extremism", 
+            "Animal", 
+            "Profit"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Propaganda", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 40
+    }
+]

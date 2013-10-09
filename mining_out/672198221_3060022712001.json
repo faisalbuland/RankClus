@@ -1,0 +1,641 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Taliban"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Islam", 
+            "!!!", 
+            "Islamic_fundamentalism", 
+            "David_Petraeus", 
+            "Iraq", 
+            "Commander", 
+            "Fundamentalism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Pakistan", 
+            "Scooter_(motorcycle)", 
+            "Taliban", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Iraq", 
+            "Pashtun_people"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Taliban"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Sorta", 
+            "Democratic_Party_(United_States)", 
+            "Oxymoron", 
+            "Taliban"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Insurgency", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Afghanistan", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Russians", 
+            "President_of_the_United_States", 
+            "David_Petraeus", 
+            "Afghanistan", 
+            "United_States", 
+            "Afghanistan", 
+            "David_Petraeus"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Ideology", 
+            "Taliban", 
+            "Poster", 
+            "Heroin", 
+            "Flash_(photography)", 
+            "Taliban", 
+            "Taliban", 
+            "Amnesty", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Afghanistan", 
+            "Islam", 
+            "Ideology", 
+            "Fundamentalism", 
+            "List_of_political_ideologies", 
+            "Secularity", 
+            "Taliban"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Hope", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "God", 
+            "United_States", 
+            "Suicide_attack", 
+            "Kafir", 
+            "Suicide", 
+            "Bubbles_(band)", 
+            "Refugee", 
+            "Muslim", 
+            "Muslim"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Mars_Attacks", 
+            "Refugee", 
+            "Mars", 
+            "Martian"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Walt_Whitman", 
+            "India", 
+            "Afghanistan", 
+            "LOL", 
+            "Slim_Whitman", 
+            "Martian"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Department_of_State", 
+            "Food_Stamp_Program", 
+            "Ransom", 
+            "Postage_stamp", 
+            "Central_Intelligence_Agency", 
+            "Piracy", 
+            "Mujahideen", 
+            "Palestinian_people", 
+            "Ronald_Reagan", 
+            "Kidnapping", 
+            "Russia", 
+            "Radical_(chemistry)", 
+            "England", 
+            "Departments_of_France", 
+            "Somali_people", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Amnesty", 
+            "Thread_(computer_science)", 
+            "Afghanistan"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "F.C._Copenhagen"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God", 
+            "Israel"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Taliban"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Islam", 
+            "!!!", 
+            "Islamic_fundamentalism", 
+            "David_Petraeus", 
+            "Iraq", 
+            "Commander", 
+            "Fundamentalism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Pakistan", 
+            "Scooter_(motorcycle)", 
+            "Taliban", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Iraq", 
+            "Pashtun_people"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Taliban"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Sorta", 
+            "Democratic_Party_(United_States)", 
+            "Oxymoron", 
+            "Taliban"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Insurgency", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Afghanistan", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Russians", 
+            "President_of_the_United_States", 
+            "David_Petraeus", 
+            "Afghanistan", 
+            "United_States", 
+            "Afghanistan", 
+            "David_Petraeus"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Ideology", 
+            "Taliban", 
+            "Poster", 
+            "Heroin", 
+            "Flash_(photography)", 
+            "Taliban", 
+            "Taliban", 
+            "Amnesty", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Afghanistan", 
+            "Islam", 
+            "Ideology", 
+            "Fundamentalism", 
+            "List_of_political_ideologies", 
+            "Secularity", 
+            "Taliban"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Hope", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "God", 
+            "United_States", 
+            "Suicide_attack", 
+            "Kafir", 
+            "Suicide", 
+            "Bubbles_(band)", 
+            "Refugee", 
+            "Muslim", 
+            "Muslim"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Mars_Attacks", 
+            "Refugee", 
+            "Mars", 
+            "Martian"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Walt_Whitman", 
+            "India", 
+            "Afghanistan", 
+            "LOL", 
+            "Slim_Whitman", 
+            "Martian"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Department_of_State", 
+            "Food_Stamp_Program", 
+            "Ransom", 
+            "Postage_stamp", 
+            "Central_Intelligence_Agency", 
+            "Piracy", 
+            "Mujahideen", 
+            "Palestinian_people", 
+            "Ronald_Reagan", 
+            "Kidnapping", 
+            "Russia", 
+            "Radical_(chemistry)", 
+            "England", 
+            "Departments_of_France", 
+            "Somali_people", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Amnesty", 
+            "Thread_(computer_science)", 
+            "Afghanistan"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "F.C._Copenhagen"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God", 
+            "Israel"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Taliban"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Islam", 
+            "!!!", 
+            "Islamic_fundamentalism", 
+            "David_Petraeus", 
+            "Iraq", 
+            "Commander", 
+            "Fundamentalism"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Pakistan", 
+            "Scooter_(motorcycle)", 
+            "Taliban", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Iraq", 
+            "Pashtun_people"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Taliban"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Sorta", 
+            "Democratic_Party_(United_States)", 
+            "Oxymoron", 
+            "Taliban"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Insurgency", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Afghanistan", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Russians", 
+            "President_of_the_United_States", 
+            "David_Petraeus", 
+            "Afghanistan", 
+            "United_States", 
+            "Afghanistan", 
+            "David_Petraeus"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Ideology", 
+            "Taliban", 
+            "Poster", 
+            "Heroin", 
+            "Flash_(photography)", 
+            "Taliban", 
+            "Taliban", 
+            "Amnesty", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Afghanistan", 
+            "Islam", 
+            "Ideology", 
+            "Fundamentalism", 
+            "List_of_political_ideologies", 
+            "Secularity", 
+            "Taliban"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Hope", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Taliban", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "God", 
+            "United_States", 
+            "Suicide_attack", 
+            "Kafir", 
+            "Suicide", 
+            "Bubbles_(band)", 
+            "Refugee", 
+            "Muslim", 
+            "Muslim"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Mars_Attacks", 
+            "Refugee", 
+            "Mars", 
+            "Martian"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Walt_Whitman", 
+            "India", 
+            "Afghanistan", 
+            "LOL", 
+            "Slim_Whitman", 
+            "Martian"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Department_of_State", 
+            "Food_Stamp_Program", 
+            "Ransom", 
+            "Postage_stamp", 
+            "Central_Intelligence_Agency", 
+            "Piracy", 
+            "Mujahideen", 
+            "Palestinian_people", 
+            "Ronald_Reagan", 
+            "Kidnapping", 
+            "Russia", 
+            "Radical_(chemistry)", 
+            "England", 
+            "Departments_of_France", 
+            "Somali_people", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Amnesty", 
+            "Thread_(computer_science)", 
+            "Afghanistan"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "F.C._Copenhagen"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God", 
+            "Israel"
+        ], 
+        "postID": 60
+    }
+]

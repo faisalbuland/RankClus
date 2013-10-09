@@ -1,0 +1,352 @@
+[
+    {
+        "entity": [
+            "New_York", 
+            "Teacher", 
+            "American_Broadcasting_Company", 
+            "Hell", 
+            "Fantasy", 
+            "Teacher", 
+            "Sex"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Robert_Boyle", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Queens", 
+            "Jail", 
+            "Teacher"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Teacher", 
+            "Lawyer"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Judge", 
+            "Rape", 
+            "Pedophilia", 
+            "Rape", 
+            "Hippopotamus", 
+            "Statutory_rape", 
+            "Idiot", 
+            "Supermodel"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Prosecutor"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Gunny"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Prison", 
+            "Politics", 
+            "Jail", 
+            "Double_standard", 
+            "Stalinism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Matt_Lauer", 
+            "Sex"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Horror_film", 
+            "Devil", 
+            "Soul", 
+            "Teacher"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Rubber", 
+            "Rubber_stamp_(politics)", 
+            "Fingerprint_(disambiguation)", 
+            "Probation", 
+            "Postage_stamp", 
+            "Sentence_(law)", 
+            "New_York_City", 
+            "Sex_offender", 
+            "Sex", 
+            "Defendant", 
+            "Prison"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Gender", 
+            "English_language", 
+            "Mathematics", 
+            "College", 
+            "Education", 
+            "Sensitivity", 
+            "Liberalism", 
+            "Teacher", 
+            "Liberal_Party_(UK)", 
+            "Fault_(geology)", 
+            "Old_school", 
+            "Professor", 
+            "Liberalism", 
+            "Science", 
+            "Teacher", 
+            "Sensitivity_and_specificity", 
+            "Algebra", 
+            "Liberal_Party_(UK)", 
+            "Social_engineering_(security)", 
+            "Engineering"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Sex"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Teacher", 
+            "American_Broadcasting_Company", 
+            "Hell", 
+            "Fantasy", 
+            "Teacher", 
+            "Sex"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Robert_Boyle", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Queens", 
+            "Jail", 
+            "Teacher"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Teacher", 
+            "Lawyer"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Statute", 
+            "Judge", 
+            "Rape", 
+            "Pedophilia", 
+            "Rape", 
+            "Hippopotamus", 
+            "Statutory_rape", 
+            "Idiot", 
+            "Supermodel"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Prosecutor"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Gunny"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Prison", 
+            "Politics", 
+            "Jail", 
+            "Double_standard", 
+            "Stalinism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Matt_Lauer", 
+            "Sex"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Horror_film", 
+            "Devil", 
+            "Soul", 
+            "Teacher"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rubber", 
+            "Rubber_stamp_(politics)", 
+            "Fingerprint_(disambiguation)", 
+            "Probation", 
+            "Postage_stamp", 
+            "Sentence_(law)", 
+            "New_York_City", 
+            "Sex_offender", 
+            "Sex", 
+            "Defendant", 
+            "Prison"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Gender", 
+            "English_language", 
+            "Mathematics", 
+            "College", 
+            "Education", 
+            "Sensitivity", 
+            "Liberalism", 
+            "Teacher", 
+            "Liberal_Party_(UK)", 
+            "Fault_(geology)", 
+            "Old_school", 
+            "Professor", 
+            "Liberalism", 
+            "Science", 
+            "Teacher", 
+            "Sensitivity_and_specificity", 
+            "Algebra", 
+            "Liberal_Party_(UK)", 
+            "Social_engineering_(security)", 
+            "Engineering"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Sex"
+        ], 
+        "postID": 40
+    }
+]

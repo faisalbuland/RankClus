@@ -1,0 +1,352 @@
+[
+    {
+        "entity": [
+            "Seizure"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nightmare", 
+            "George_W._Bush", 
+            "Hypocrisy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Poverty", 
+            "Socialism", 
+            "Cadre"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Resource_Description_Framework", 
+            "Jimmy_Carter", 
+            "Barack_Obama", 
+            "Iran", 
+            "Hostage", 
+            "Iran_hostage_crisis", 
+            "Bureaucracy", 
+            "Cold_War", 
+            "United_States_Army", 
+            "United_States", 
+            "List_of_United_States_federal_agencies", 
+            "List_of_United_States_federal_agencies", 
+            "Jimmy_Carter", 
+            "Private_sector", 
+            "Absurd_(band)", 
+            "Private_sector", 
+            "Barack_Obama", 
+            "United_States_Army", 
+            "Money", 
+            "United_States", 
+            "Ronald_Reagan", 
+            "Tax", 
+            "Communism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Foreign_Intelligence_Surveillance_Court", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "Seizure", 
+            "United_States_Constitution", 
+            "Seizure", 
+            "Due_process"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "South_America", 
+            "Negligence", 
+            "Swift", 
+            "Terrorism", 
+            "United_States", 
+            "List_of_designated_terrorist_organizations", 
+            "Financial_institution"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Literacy", 
+            "Poverty", 
+            "Judiciary"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Boyd_Rice", 
+            "Stalinism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Constitutionality", 
+            "HM_Treasury", 
+            "The_One_(film)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "The_One_(film)", 
+            "Murder", 
+            "Cattle", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Constitutionality", 
+            "Partisan_(military)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Republic", 
+            "Body_odor", 
+            "Due_process", 
+            "Politburo", 
+            "Seizure", 
+            "Anathema"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Caterpillar_Inc."
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Deposit_insurance", 
+            "United_States_Congress", 
+            "Racketeer_Influenced_and_Corrupt_Organizations_Act", 
+            "Drug", 
+            "Gang", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Federal_Deposit_Insurance_Corporation", 
+            "Bank", 
+            "Organized_crime", 
+            "Analogy", 
+            "Bank", 
+            "Bank", 
+            "Cabinet", 
+            "Insurance", 
+            "French_government_ministers"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Seizure"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Nightmare", 
+            "George_W._Bush", 
+            "Hypocrisy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Poverty", 
+            "Socialism", 
+            "Cadre"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Resource_Description_Framework", 
+            "Jimmy_Carter", 
+            "Barack_Obama", 
+            "Iran", 
+            "Hostage", 
+            "Iran_hostage_crisis", 
+            "Bureaucracy", 
+            "Cold_War", 
+            "United_States_Army", 
+            "United_States", 
+            "List_of_United_States_federal_agencies", 
+            "List_of_United_States_federal_agencies", 
+            "Jimmy_Carter", 
+            "Private_sector", 
+            "Absurd_(band)", 
+            "Private_sector", 
+            "Barack_Obama", 
+            "United_States_Army", 
+            "Money", 
+            "United_States", 
+            "Ronald_Reagan", 
+            "Tax", 
+            "Communism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States_Foreign_Intelligence_Surveillance_Court", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "Seizure", 
+            "United_States_Constitution", 
+            "Seizure", 
+            "Due_process"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "South_America", 
+            "Negligence", 
+            "Swift", 
+            "Terrorism", 
+            "United_States", 
+            "List_of_designated_terrorist_organizations", 
+            "Financial_institution"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Literacy", 
+            "Poverty", 
+            "Judiciary"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Boyd_Rice", 
+            "Stalinism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Constitutionality", 
+            "HM_Treasury", 
+            "The_One_(film)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "The_One_(film)", 
+            "Murder", 
+            "Cattle", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Constitutionality", 
+            "Partisan_(military)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Republic", 
+            "Body_odor", 
+            "Due_process", 
+            "Politburo", 
+            "Seizure", 
+            "Anathema"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Caterpillar_Inc."
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Deposit_insurance", 
+            "United_States_Congress", 
+            "Racketeer_Influenced_and_Corrupt_Organizations_Act", 
+            "Drug", 
+            "Gang", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Federal_Deposit_Insurance_Corporation", 
+            "Bank", 
+            "Organized_crime", 
+            "Analogy", 
+            "Bank", 
+            "Bank", 
+            "Cabinet", 
+            "Insurance", 
+            "French_government_ministers"
+        ], 
+        "postID": 38
+    }
+]

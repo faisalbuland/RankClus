@@ -1,0 +1,244 @@
+[
+    {
+        "entity": [
+            "Lunatic", 
+            "The_New_York_Times", 
+            "Republican_Party_(United_States)", 
+            "New_York_City"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Jessica_Lynch", 
+            "Jessica_Buchanan"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "The_Ugly", 
+            "Pentagon", 
+            "American_Civil_War", 
+            "United_States", 
+            "American_Civil_War"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Crusades", 
+            "Intelligence_(information_gathering)", 
+            "George_W._Bush", 
+            "Book_of_Isaiah", 
+            "Islam", 
+            "Intelligence_(information_gathering)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Fanaticism", 
+            "Islamism", 
+            "Donald_Rumsfeld", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Faith", 
+            "Neoconservatism", 
+            "Religious_fanaticism", 
+            "Donald_Rumsfeld", 
+            "Torture", 
+            "Bible", 
+            "Fanaticism", 
+            "Islamism", 
+            "President_of_the_United_States", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush", 
+            "United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Phillies_cigars", 
+            "Fanatic_(1965_film)", 
+            "Phillies_cigars"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Terrorism", 
+            "Intelligence", 
+            "Patton_(film)", 
+            "Islam", 
+            "Islamic_terrorism", 
+            "Propaganda", 
+            "Bible"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bible", 
+            "Presidency_of_George_W._Bush", 
+            "Vietnam", 
+            "Vietnam_War", 
+            "Intelligence", 
+            "George_W._Bush"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wing_(air_force_unit)", 
+            "Extremism", 
+            "Left-wing_politics", 
+            "United_States", 
+            "Right-wing_politics", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "The_People", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Square_dance", 
+            "Equestrianism", 
+            "Dressage"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Young_Jedi_Collectible_Card_Game", 
+            "Jedi", 
+            "Embrace_(band)", 
+            "Force_(Star_Wars)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Fanaticism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Picture_book", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "God", 
+            "George_W._Bush"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Tricky", 
+            "1972", 
+            "Richard_Nixon", 
+            "Richard_Nixon", 
+            "George_McGovern", 
+            "President_of_the_United_States", 
+            "George_H._W._Bush", 
+            "2004", 
+            "George_W._Bush", 
+            "John_Kerry"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Fanaticism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Eric_Hoffer", 
+            "Red_Wing_High_School", 
+            "True_Believer_(1989_film)", 
+            "May_19", 
+            "Believer_(band)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "New_Testament", 
+            "God", 
+            "True_Believer_(1989_film)", 
+            "Jesus", 
+            "Believer_(band)", 
+            "New_Testament", 
+            "Bible", 
+            "Bible", 
+            "Pharisees"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Lunatic", 
+            "Lunatic"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Far_left", 
+            "Chicken", 
+            "Far_right", 
+            "2009", 
+            "May_21"
+        ], 
+        "postID": 25
+    }
+]

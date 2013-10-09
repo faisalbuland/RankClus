@@ -1,0 +1,104 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Funeral", 
+            "Medicare_(Canada)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tea", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Stimulus_(physiology)", 
+            "Health_care", 
+            "Deficit", 
+            "Deficit", 
+            "HM_Treasury"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Natural_gas", 
+            "Inflation", 
+            "Hit_(baseball)", 
+            "Pump", 
+            "Water", 
+            "Firefighter", 
+            "Petroleum", 
+            "Electricity", 
+            "Heating_oil", 
+            "Ammunition", 
+            "Police"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "SPOT_(producer)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Liberal_Party_of_Canada"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Personal_care", 
+            "IMHO", 
+            "Toothpaste", 
+            "Anarchy", 
+            "Laundry", 
+            "Clothing", 
+            "Tooth", 
+            "Tooth", 
+            "Soap"
+        ], 
+        "postID": 13
+    }
+]

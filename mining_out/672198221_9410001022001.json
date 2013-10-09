@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [
+            "Identity_document", 
+            "Al_Jazeera", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Television"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

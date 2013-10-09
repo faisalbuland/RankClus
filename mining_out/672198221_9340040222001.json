@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "Torture"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Loud_music", 
+            "Plymouth_Duster", 
+            "Barack_Obama", 
+            "F-15_Eagle"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sheriff", 
+            "United_Arab_Emirates", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bauer", 
+            "Jack_Bauer", 
+            "Terrorism"
+        ], 
+        "postID": 5
+    }
+]

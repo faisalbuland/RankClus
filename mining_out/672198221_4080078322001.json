@@ -1,0 +1,946 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Dick_Cheney"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Shed", 
+            "Barack_Obama", 
+            "Dick_Cheney"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Pasture", 
+            "Ideology", 
+            "Dick_Cheney", 
+            "Horse", 
+            "Dick_Cheney", 
+            "Circus", 
+            "Republicanism", 
+            "Neoconservatism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Al_Gore", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)", 
+            "Gerald_Ford"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Nancy", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Nancy_Pelosi", 
+            "Interrogation", 
+            "Washington,_D.C.", 
+            "Conservatism_in_the_United_States", 
+            "Interrogation", 
+            "Narrative", 
+            "Military_intelligence", 
+            "Gerald_Ford", 
+            "Gerald_Ford", 
+            "Dick_Cheney", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Waterboarding", 
+            "Vice_President_of_the_United_States", 
+            "American_Enterprise_Institute", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Interrogation", 
+            "Enterprise_(NX-01)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Blog", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "2009", 
+            "Dick_Cheney", 
+            "May_22", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Browser_Helper_Object", 
+            "Far_left", 
+            "Dick_Cheney", 
+            "Freedom_of_speech", 
+            "Dick_Cheney", 
+            "Far_left", 
+            "Journalist", 
+            "Reporter", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Chalkboard", 
+            "Time_(magazine)", 
+            "Joe_Biden"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Town", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Oval_Office", 
+            "Chat_show", 
+            "George_W._Bush", 
+            "Federal_crime", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "CYA", 
+            "News_media", 
+            "Bill_Clinton", 
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Seymour_Hersh", 
+            "Benazir_Bhutto", 
+            "Minnesota", 
+            "Google", 
+            "Assassination", 
+            "Seymour,_Victoria", 
+            "Special_forces", 
+            "Seal_(musician)", 
+            "Usenet_newsgroup", 
+            "Dawn_(newspaper)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Brewing", 
+            "Iran", 
+            "Dick_Cheney", 
+            "Nuclear_weapon", 
+            "Defender_(association_football)", 
+            "Dick_Cheney", 
+            "September_11,_2001_attacks", 
+            "Calendar", 
+            "Holiday", 
+            "Hound", 
+            "Democracy", 
+            "Missile", 
+            "Iran"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Finger_(gesture)", 
+            "Mullah", 
+            "Iran", 
+            "Finger", 
+            "Israel", 
+            "Ariel_Sharon", 
+            "Iran", 
+            "Barack_Obama", 
+            "Iran", 
+            "Racism", 
+            "Missile", 
+            "Barack_Obama", 
+            "Iran"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Lithium"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2010", 
+            "Dick_Cheney", 
+            "Political_party", 
+            "De_facto", 
+            "Turkish_new_lira", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republicanism", 
+            "International_Maritime_Organization", 
+            "Negative_(photography)", 
+            "2008", 
+            "Dick_Cheney"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Dick_Cheney"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Shed", 
+            "Barack_Obama", 
+            "Dick_Cheney"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Pasture", 
+            "Ideology", 
+            "Dick_Cheney", 
+            "Horse", 
+            "Dick_Cheney", 
+            "Circus", 
+            "Republicanism", 
+            "Neoconservatism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Al_Gore", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)", 
+            "Gerald_Ford"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Nancy", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Nancy_Pelosi", 
+            "Interrogation", 
+            "Washington,_D.C.", 
+            "Conservatism_in_the_United_States", 
+            "Interrogation", 
+            "Narrative", 
+            "Military_intelligence", 
+            "Gerald_Ford", 
+            "Gerald_Ford", 
+            "Dick_Cheney", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Waterboarding", 
+            "Vice_President_of_the_United_States", 
+            "American_Enterprise_Institute", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Interrogation", 
+            "Enterprise_(NX-01)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Blog", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "2009", 
+            "Dick_Cheney", 
+            "May_22", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Browser_Helper_Object", 
+            "Far_left", 
+            "Dick_Cheney", 
+            "Freedom_of_speech", 
+            "Dick_Cheney", 
+            "Far_left", 
+            "Journalist", 
+            "Reporter", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Chalkboard", 
+            "Time_(magazine)", 
+            "Joe_Biden"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Town", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Oval_Office", 
+            "Chat_show", 
+            "George_W._Bush", 
+            "Federal_crime", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "CYA", 
+            "News_media", 
+            "Bill_Clinton", 
+            "George_W._Bush"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Seymour_Hersh", 
+            "Benazir_Bhutto", 
+            "Minnesota", 
+            "Google", 
+            "Assassination", 
+            "Seymour,_Victoria", 
+            "Special_forces", 
+            "Seal_(musician)", 
+            "Usenet_newsgroup", 
+            "Dawn_(newspaper)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Brewing", 
+            "Iran", 
+            "Dick_Cheney", 
+            "Nuclear_weapon", 
+            "Defender_(association_football)", 
+            "Dick_Cheney", 
+            "September_11,_2001_attacks", 
+            "Calendar", 
+            "Holiday", 
+            "Hound", 
+            "Democracy", 
+            "Missile", 
+            "Iran"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Finger_(gesture)", 
+            "Mullah", 
+            "Iran", 
+            "Finger", 
+            "Israel", 
+            "Ariel_Sharon", 
+            "Iran", 
+            "Barack_Obama", 
+            "Iran", 
+            "Racism", 
+            "Missile", 
+            "Barack_Obama", 
+            "Iran"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Lithium"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2010", 
+            "Dick_Cheney", 
+            "Political_party", 
+            "De_facto", 
+            "Turkish_new_lira", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republicanism", 
+            "International_Maritime_Organization", 
+            "Negative_(photography)", 
+            "2008", 
+            "Dick_Cheney"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Dick_Cheney"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Shed", 
+            "Barack_Obama", 
+            "Dick_Cheney"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Pasture", 
+            "Ideology", 
+            "Dick_Cheney", 
+            "Horse", 
+            "Dick_Cheney", 
+            "Circus", 
+            "Republicanism", 
+            "Neoconservatism"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Al_Gore", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)", 
+            "Gerald_Ford"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Nancy", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Nancy_Pelosi", 
+            "Interrogation", 
+            "Washington,_D.C.", 
+            "Conservatism_in_the_United_States", 
+            "Interrogation", 
+            "Narrative", 
+            "Military_intelligence", 
+            "Gerald_Ford", 
+            "Gerald_Ford", 
+            "Dick_Cheney", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Waterboarding", 
+            "Vice_President_of_the_United_States", 
+            "American_Enterprise_Institute", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Interrogation", 
+            "Enterprise_(NX-01)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Blog", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "2009", 
+            "Dick_Cheney", 
+            "May_22", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Browser_Helper_Object", 
+            "Far_left", 
+            "Dick_Cheney", 
+            "Freedom_of_speech", 
+            "Dick_Cheney", 
+            "Far_left", 
+            "Journalist", 
+            "Reporter", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Chalkboard", 
+            "Time_(magazine)", 
+            "Joe_Biden"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Town", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Oval_Office", 
+            "Chat_show", 
+            "George_W._Bush", 
+            "Federal_crime", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "CYA", 
+            "News_media", 
+            "Bill_Clinton", 
+            "George_W._Bush"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Seymour_Hersh", 
+            "Benazir_Bhutto", 
+            "Minnesota", 
+            "Google", 
+            "Assassination", 
+            "Seymour,_Victoria", 
+            "Special_forces", 
+            "Seal_(musician)", 
+            "Usenet_newsgroup", 
+            "Dawn_(newspaper)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Brewing", 
+            "Iran", 
+            "Dick_Cheney", 
+            "Nuclear_weapon", 
+            "Defender_(association_football)", 
+            "Dick_Cheney", 
+            "September_11,_2001_attacks", 
+            "Calendar", 
+            "Holiday", 
+            "Hound", 
+            "Democracy", 
+            "Missile", 
+            "Iran"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Finger_(gesture)", 
+            "Mullah", 
+            "Iran", 
+            "Finger", 
+            "Israel", 
+            "Ariel_Sharon", 
+            "Iran", 
+            "Barack_Obama", 
+            "Iran", 
+            "Racism", 
+            "Missile", 
+            "Barack_Obama", 
+            "Iran"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Lithium"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2010", 
+            "Dick_Cheney", 
+            "Political_party", 
+            "De_facto", 
+            "Turkish_new_lira", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republicanism", 
+            "International_Maritime_Organization", 
+            "Negative_(photography)", 
+            "2008", 
+            "Dick_Cheney"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Dick_Cheney"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Shed", 
+            "Barack_Obama", 
+            "Dick_Cheney"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Pasture", 
+            "Ideology", 
+            "Dick_Cheney", 
+            "Horse", 
+            "Dick_Cheney", 
+            "Circus", 
+            "Republicanism", 
+            "Neoconservatism"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Al_Gore", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)", 
+            "Gerald_Ford"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Nancy", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Nancy_Pelosi", 
+            "Interrogation", 
+            "Washington,_D.C.", 
+            "Conservatism_in_the_United_States", 
+            "Interrogation", 
+            "Narrative", 
+            "Military_intelligence", 
+            "Gerald_Ford", 
+            "Gerald_Ford", 
+            "Dick_Cheney", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Waterboarding", 
+            "Vice_President_of_the_United_States", 
+            "American_Enterprise_Institute", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Interrogation", 
+            "Enterprise_(NX-01)"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Blog", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "2009", 
+            "Dick_Cheney", 
+            "May_22", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Browser_Helper_Object", 
+            "Far_left", 
+            "Dick_Cheney", 
+            "Freedom_of_speech", 
+            "Dick_Cheney", 
+            "Far_left", 
+            "Journalist", 
+            "Reporter", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Chalkboard", 
+            "Time_(magazine)", 
+            "Joe_Biden"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Town", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Oval_Office", 
+            "Chat_show", 
+            "George_W._Bush", 
+            "Federal_crime", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "CYA", 
+            "News_media", 
+            "Bill_Clinton", 
+            "George_W._Bush"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Seymour_Hersh", 
+            "Benazir_Bhutto", 
+            "Minnesota", 
+            "Google", 
+            "Assassination", 
+            "Seymour,_Victoria", 
+            "Special_forces", 
+            "Seal_(musician)", 
+            "Usenet_newsgroup", 
+            "Dawn_(newspaper)"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Brewing", 
+            "Iran", 
+            "Dick_Cheney", 
+            "Nuclear_weapon", 
+            "Defender_(association_football)", 
+            "Dick_Cheney", 
+            "September_11,_2001_attacks", 
+            "Calendar", 
+            "Holiday", 
+            "Hound", 
+            "Democracy", 
+            "Missile", 
+            "Iran"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Finger_(gesture)", 
+            "Mullah", 
+            "Iran", 
+            "Finger", 
+            "Israel", 
+            "Ariel_Sharon", 
+            "Iran", 
+            "Barack_Obama", 
+            "Iran", 
+            "Racism", 
+            "Missile", 
+            "Barack_Obama", 
+            "Iran"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Lithium"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2010", 
+            "Dick_Cheney", 
+            "Political_party", 
+            "De_facto", 
+            "Turkish_new_lira", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republicanism", 
+            "International_Maritime_Organization", 
+            "Negative_(photography)", 
+            "2008", 
+            "Dick_Cheney"
+        ], 
+        "postID": 80
+    }
+]

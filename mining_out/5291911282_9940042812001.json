@@ -1,0 +1,390 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Iraq"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Adage", 
+            "Bullet"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Blue_Shield", 
+            "Blue_Cross_and_Blue_Shield_Association", 
+            "Saipan", 
+            "World_War_II", 
+            "Insurance", 
+            "Welder", 
+            "United_States", 
+            "Battle_of_Iwo_Jima", 
+            "U.S._Steel", 
+            "Iwo_Jima", 
+            "Jima_of_Silla", 
+            "Steel"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Plymouth_Duster", 
+            "Insurance", 
+            "Health_care"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Insurance", 
+            "Health_care", 
+            "Insurance", 
+            "Marmot", 
+            "Furniture", 
+            "Health_insurance", 
+            "Furniture", 
+            "Veterans_Health_Administration", 
+            "Pain", 
+            "Quantum", 
+            "Pharmacy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Bumper_sticker", 
+            "Barack_Obama", 
+            "Bumper_(automobile)", 
+            "United_States", 
+            "Tundra"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum_Corp."
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "ADAPT", 
+            "Eviction", 
+            "Adolf_Hitler", 
+            "Moses", 
+            "Human", 
+            "George_W._Bush", 
+            "Columbus"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Progressivism", 
+            "Inter-city_rail", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Energy", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Vice_president", 
+            "Washington,_D.C.", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "War_crime", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Insurance", 
+            "Barack_Obama", 
+            "Health_insurance", 
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "Leech", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Nancy_Pelosi", 
+            "Uterus", 
+            "Patriotism", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Iraq", 
+            "Nail_(fastener)", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Bachelor's_degree_or_higher", 
+            "Iraq", 
+            "Classified_information", 
+            "College"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Bachelor's_degree_or_higher"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Iraq"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Adage", 
+            "Bullet"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Blue_Shield", 
+            "Blue_Cross_and_Blue_Shield_Association", 
+            "Saipan", 
+            "World_War_II", 
+            "Insurance", 
+            "Welder", 
+            "United_States", 
+            "Battle_of_Iwo_Jima", 
+            "U.S._Steel", 
+            "Iwo_Jima", 
+            "Jima_of_Silla", 
+            "Steel"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Plymouth_Duster", 
+            "Insurance", 
+            "Health_care"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Insurance", 
+            "Health_care", 
+            "Insurance", 
+            "Marmot", 
+            "Furniture", 
+            "Health_insurance", 
+            "Furniture", 
+            "Veterans_Health_Administration", 
+            "Pain", 
+            "Quantum", 
+            "Pharmacy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bumper_sticker", 
+            "Barack_Obama", 
+            "Bumper_(automobile)", 
+            "United_States", 
+            "Tundra"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum_Corp."
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "ADAPT", 
+            "Eviction", 
+            "Adolf_Hitler", 
+            "Moses", 
+            "Human", 
+            "George_W._Bush", 
+            "Columbus"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Progressivism", 
+            "Inter-city_rail", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Energy", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Vice_president", 
+            "Washington,_D.C.", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "War_crime", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Insurance", 
+            "Barack_Obama", 
+            "Health_insurance", 
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "Leech", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Nancy_Pelosi", 
+            "Uterus", 
+            "Patriotism", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Iraq", 
+            "Nail_(fastener)", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Bachelor's_degree_or_higher", 
+            "Iraq", 
+            "Classified_information", 
+            "College"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Bachelor's_degree_or_higher"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }
+]

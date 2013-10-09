@@ -1,0 +1,767 @@
+[
+    {
+        "entity": [
+            "Politician", 
+            "American_Broadcasting_Company", 
+            "Ford_Motor_Company", 
+            "Crook", 
+            "Crime", 
+            "Propaganda", 
+            "Hawaii", 
+            "Nancy_Pelosi", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "California", 
+            "Crime_scene", 
+            "Good_Morning_America", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Police", 
+            "Nancy_Pelosi", 
+            "Gerald_Ford", 
+            "Police", 
+            "Crime", 
+            "Hawaii", 
+            "Police", 
+            "Fiction", 
+            "Democratic_Party_(United_States)", 
+            "Island", 
+            "Crime_scene", 
+            "Crime", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Bureaucrat", 
+            "State", 
+            "Nancy_Pelosi", 
+            "Geography", 
+            "Good_Morning_(New_Zealand_show)", 
+            "Television", 
+            "Television_program", 
+            "Crime_scene", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Crime", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Hawaii", 
+            "Police", 
+            "Law", 
+            "Puna", 
+            "Oahu", 
+            "American_Old_West", 
+            "District", 
+            "Police", 
+            "Hawaii_(island)", 
+            "Firearm", 
+            "Puna,_Hawaii", 
+            "Puna"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Myocardial_infarction", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Narcotic", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Federal_Firearms_License", 
+            "Bank", 
+            "Law", 
+            "National_Rifle_Association", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Congress", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Law", 
+            "Firearm", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Self-defense", 
+            "Database"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Citizenship", 
+            "Law", 
+            "Amok_(disambiguation)", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Vigilante", 
+            "Bank"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gun_violence", 
+            "Crime", 
+            "Law", 
+            "Firearm", 
+            "Citizenship", 
+            "Arse", 
+            "Rat", 
+            "Common_sense", 
+            "Violence"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Constitutional_right", 
+            "Supreme_Court_of_the_United_States", 
+            "Poll_tax"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "April_13", 
+            "Gang", 
+            "Gun_politics", 
+            "Murder", 
+            "Law", 
+            "Background_check", 
+            "Crime", 
+            "Gun_politics", 
+            "Mon_people", 
+            "2009", 
+            "The_Washington_Times", 
+            "The_Washington_Times", 
+            "Hawaii", 
+            "Washington,_D.C.", 
+            "Gunsmith", 
+            "Mad_Max", 
+            "Mad_(magazine)", 
+            "Organized_crime", 
+            "Violent_crime"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "United_States_dollar", 
+            "Republic", 
+            "Pakistan", 
+            "Police", 
+            "1700s", 
+            "Terrorism", 
+            "Pun"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Classes_of_United_States_Senators", 
+            "Weapon", 
+            "Straw", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Walgreens", 
+            "Illegal_drug_trade", 
+            "United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "M16_rifle", 
+            "Semi-automatic_firearm"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Illinois", 
+            "Illinois", 
+            "U.S._state", 
+            "St._Louis,_Missouri", 
+            "Gang", 
+            "Gang", 
+            "FOID_(firearms)", 
+            "Firearm", 
+            "East_St._Louis,_Illinois"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "American_Broadcasting_Company", 
+            "Ford_Motor_Company", 
+            "Crook", 
+            "Crime", 
+            "Propaganda", 
+            "Hawaii", 
+            "Nancy_Pelosi", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "California", 
+            "Crime_scene", 
+            "Good_Morning_America", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Police", 
+            "Nancy_Pelosi", 
+            "Gerald_Ford", 
+            "Police", 
+            "Crime", 
+            "Hawaii", 
+            "Police", 
+            "Fiction", 
+            "Democratic_Party_(United_States)", 
+            "Island", 
+            "Crime_scene", 
+            "Crime", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Bureaucrat", 
+            "State", 
+            "Nancy_Pelosi", 
+            "Geography", 
+            "Good_Morning_(New_Zealand_show)", 
+            "Television", 
+            "Television_program", 
+            "Crime_scene", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Crime", 
+            "United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Hawaii", 
+            "Police", 
+            "Law", 
+            "Puna", 
+            "Oahu", 
+            "American_Old_West", 
+            "District", 
+            "Police", 
+            "Hawaii_(island)", 
+            "Firearm", 
+            "Puna,_Hawaii", 
+            "Puna"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Myocardial_infarction", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Narcotic", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Federal_Firearms_License", 
+            "Bank", 
+            "Law", 
+            "National_Rifle_Association", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Congress", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Law", 
+            "Firearm", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Self-defense", 
+            "Database"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Citizenship", 
+            "Law", 
+            "Amok_(disambiguation)", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Vigilante", 
+            "Bank"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gun_violence", 
+            "Crime", 
+            "Law", 
+            "Firearm", 
+            "Citizenship", 
+            "Arse", 
+            "Rat", 
+            "Common_sense", 
+            "Violence"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Constitutional_right", 
+            "Supreme_Court_of_the_United_States", 
+            "Poll_tax"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "April_13", 
+            "Gang", 
+            "Gun_politics", 
+            "Murder", 
+            "Law", 
+            "Background_check", 
+            "Crime", 
+            "Gun_politics", 
+            "Mon_people", 
+            "2009", 
+            "The_Washington_Times", 
+            "The_Washington_Times", 
+            "Hawaii", 
+            "Washington,_D.C.", 
+            "Gunsmith", 
+            "Mad_Max", 
+            "Mad_(magazine)", 
+            "Organized_crime", 
+            "Violent_crime"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "United_States_dollar", 
+            "Republic", 
+            "Pakistan", 
+            "Police", 
+            "1700s", 
+            "Terrorism", 
+            "Pun"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Classes_of_United_States_Senators", 
+            "Weapon", 
+            "Straw", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Walgreens", 
+            "Illegal_drug_trade", 
+            "United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "M16_rifle", 
+            "Semi-automatic_firearm"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Illinois", 
+            "Illinois", 
+            "U.S._state", 
+            "St._Louis,_Missouri", 
+            "Gang", 
+            "Gang", 
+            "FOID_(firearms)", 
+            "Firearm", 
+            "East_St._Louis,_Illinois"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "American_Broadcasting_Company", 
+            "Ford_Motor_Company", 
+            "Crook", 
+            "Crime", 
+            "Propaganda", 
+            "Hawaii", 
+            "Nancy_Pelosi", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "California", 
+            "Crime_scene", 
+            "Good_Morning_America", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Police", 
+            "Nancy_Pelosi", 
+            "Gerald_Ford", 
+            "Police", 
+            "Crime", 
+            "Hawaii", 
+            "Police", 
+            "Fiction", 
+            "Democratic_Party_(United_States)", 
+            "Island", 
+            "Crime_scene", 
+            "Crime", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Bureaucrat", 
+            "State", 
+            "Nancy_Pelosi", 
+            "Geography", 
+            "Good_Morning_(New_Zealand_show)", 
+            "Television", 
+            "Television_program", 
+            "Crime_scene", 
+            "Democratic_Party_(United_States)", 
+            "Crime", 
+            "Crime", 
+            "United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Hawaii", 
+            "Police", 
+            "Law", 
+            "Puna", 
+            "Oahu", 
+            "American_Old_West", 
+            "District", 
+            "Police", 
+            "Hawaii_(island)", 
+            "Firearm", 
+            "Puna,_Hawaii", 
+            "Puna"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Myocardial_infarction", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Narcotic", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Federal_Firearms_License", 
+            "Bank", 
+            "Law", 
+            "National_Rifle_Association", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Congress", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Law", 
+            "Firearm", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Self-defense", 
+            "Database"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Citizenship", 
+            "Law", 
+            "Amok_(disambiguation)", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Vigilante", 
+            "Bank"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gun_violence", 
+            "Crime", 
+            "Law", 
+            "Firearm", 
+            "Citizenship", 
+            "Arse", 
+            "Rat", 
+            "Common_sense", 
+            "Violence"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Constitutional_right", 
+            "Supreme_Court_of_the_United_States", 
+            "Poll_tax"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "April_13", 
+            "Gang", 
+            "Gun_politics", 
+            "Murder", 
+            "Law", 
+            "Background_check", 
+            "Crime", 
+            "Gun_politics", 
+            "Mon_people", 
+            "2009", 
+            "The_Washington_Times", 
+            "The_Washington_Times", 
+            "Hawaii", 
+            "Washington,_D.C.", 
+            "Gunsmith", 
+            "Mad_Max", 
+            "Mad_(magazine)", 
+            "Organized_crime", 
+            "Violent_crime"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "United_States_dollar", 
+            "Republic", 
+            "Pakistan", 
+            "Police", 
+            "1700s", 
+            "Terrorism", 
+            "Pun"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Classes_of_United_States_Senators", 
+            "Weapon", 
+            "Straw", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Walgreens", 
+            "Illegal_drug_trade", 
+            "United_States"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "M16_rifle", 
+            "Semi-automatic_firearm"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Illinois", 
+            "Illinois", 
+            "U.S._state", 
+            "St._Louis,_Missouri", 
+            "Gang", 
+            "Gang", 
+            "FOID_(firearms)", 
+            "Firearm", 
+            "East_St._Louis,_Illinois"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 60
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "entity": [
+            "Military_budget", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Clothes_dryer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Dollar", 
+            "Clothes_dryer", 
+            "Clothes_dryer", 
+            "Jackpot", 
+            "Dollar", 
+            "Retirement", 
+            "May_12", 
+            "Pallet", 
+            "E-mail", 
+            "2009"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Paper_trail", 
+            "Government_debt", 
+            "Bowling", 
+            "Debt", 
+            "Kinda_(Doctor_Who)", 
+            "Clothes_dryer", 
+            "Accountant", 
+            "Clothes_dryer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Jail", 
+            "Stalinism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Refrigerator"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Nancy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sandy,_Utah"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Wow_(Kylie_Minogue_song)", 
+            "Thread_(computer_science)", 
+            "United_States_Senate"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Aneurysm", 
+            "Hack_(technology)", 
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "Conservatism_in_the_United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Semi-trailer", 
+            "Semi-trailer_truck", 
+            "Tumulus", 
+            "Wheel", 
+            "Democratic_Party_(United_States)", 
+            "Tractor"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Err,_Pyr\u00e9n\u00e9es-Orientales", 
+            "Crime"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Military_budget", 
+            "Sept_(social)", 
+            "Navy", 
+            "September_11,_2001_attacks", 
+            "Guard_(American_football)", 
+            "The_Pentagon", 
+            "Bush_family", 
+            "Par,_Cornwall"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "White_House", 
+            "Vice_President_of_the_United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Military_budget", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Clothes_dryer"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Dollar", 
+            "Clothes_dryer", 
+            "Clothes_dryer", 
+            "Jackpot", 
+            "Dollar", 
+            "Retirement", 
+            "May_12", 
+            "Pallet", 
+            "E-mail", 
+            "2009"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Paper_trail", 
+            "Government_debt", 
+            "Bowling", 
+            "Debt", 
+            "Kinda_(Doctor_Who)", 
+            "Clothes_dryer", 
+            "Accountant", 
+            "Clothes_dryer"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Jail", 
+            "Stalinism"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Refrigerator"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Nancy"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Sandy,_Utah"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Wow_(Kylie_Minogue_song)", 
+            "Thread_(computer_science)", 
+            "United_States_Senate"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Aneurysm", 
+            "Hack_(technology)", 
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "Conservatism_in_the_United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Semi-trailer", 
+            "Semi-trailer_truck", 
+            "Tumulus", 
+            "Wheel", 
+            "Democratic_Party_(United_States)", 
+            "Tractor"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Err,_Pyr\u00e9n\u00e9es-Orientales", 
+            "Crime"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Military_budget", 
+            "Sept_(social)", 
+            "Navy", 
+            "September_11,_2001_attacks", 
+            "Guard_(American_football)", 
+            "The_Pentagon", 
+            "Bush_family", 
+            "Par,_Cornwall"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "White_House", 
+            "Vice_President_of_the_United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 40
+    }
+]

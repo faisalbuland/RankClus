@@ -1,0 +1,67 @@
+[
+    {
+        "entity": [
+            "Battery_(crime)", 
+            "Recruiter", 
+            "Misdemeanor", 
+            "Misdemeanor", 
+            "Felony", 
+            "1999", 
+            "Nebraska", 
+            "Battery_(crime)", 
+            "Probation", 
+            "National_Guard_of_the_United_States", 
+            "Waiver", 
+            "Probation", 
+            "Recruiter", 
+            "Misdemeanor", 
+            "Felony", 
+            "Felony", 
+            "Felony", 
+            "Derrick_(TV_series)", 
+            "Prison", 
+            "Rape"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Labour_economics", 
+            "One_Nation_(Australia)", 
+            "Economics", 
+            "One_Heart"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Security_guard", 
+            "God", 
+            "Firearm", 
+            "Firearm", 
+            "Police_officer", 
+            "Guard_(American_football)", 
+            "Misdemeanor", 
+            "Police", 
+            "Frank_Lautenberg", 
+            "God", 
+            "Domestic_violence", 
+            "Waiver", 
+            "Felony", 
+            "Frank_Lautenberg"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chances", 
+            "United_States_Army", 
+            "Waiver"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

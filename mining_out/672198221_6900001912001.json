@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "United_States_nationality_law", 
+            "Alien_(law)", 
+            "Citizenship", 
+            "College", 
+            "United_States", 
+            "Taxation_in_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tuition", 
+            "One_Heart", 
+            "College", 
+            "Administration_of_federal_assistance_in_the_United_States", 
+            "One_Nation_(Australia)", 
+            "Fault_(geology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_nationality_law"
+        ], 
+        "postID": 4
+    }
+]

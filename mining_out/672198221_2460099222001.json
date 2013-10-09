@@ -1,0 +1,138 @@
+[
+    {
+        "entity": [
+            "John_McCain", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Alan_Keyes", 
+            "Barack_Obama", 
+            "Alan_Keyes", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Alan_Keyes", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "John_McCain", 
+            "Burning_bush", 
+            "John_McCain", 
+            "Noun", 
+            "Natural_satellite", 
+            "Jupiter", 
+            "John_McCain", 
+            "Hawaii", 
+            "Panama", 
+            "John_McCain", 
+            "Panama_Canal_Zone", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Liberalism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Maryland", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Carpetbagger", 
+            "2004", 
+            "Alan_Keyes"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Panama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Patriotism", 
+            "Tin_foil_hat", 
+            "United_States", 
+            "Hat"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Extremism", 
+            "Far_right", 
+            "Right-wing_politics", 
+            "Noun", 
+            "Idiot", 
+            "Wing", 
+            "Moron_(psychology)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Mootness", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Senate_elections,_2004", 
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Alan_Keyes", 
+            "United_States_Senate", 
+            "Illinois", 
+            "United_States_Senate", 
+            "United_States_Senate_elections,_2004", 
+            "Barack_Obama", 
+            "Alan_Keyes"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Coulter,_South_Lanarkshire"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Ralph_Nader", 
+            "Hell", 
+            "Lawsuit", 
+            "Ralph_Nader", 
+            "Ralph_Nader", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "University_of_Notre_Dame", 
+            "Property"
+        ], 
+        "postID": 14
+    }
+]

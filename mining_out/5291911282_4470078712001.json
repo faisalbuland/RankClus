@@ -1,0 +1,581 @@
+[
+    {
+        "entity": [
+            "Talking_drum", 
+            "Dude", 
+            "Turner_Network_Television", 
+            "Armed_forces", 
+            "England"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "1900", 
+            "Timer", 
+            "Cable_television"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Plat", 
+            "USS_Saratoga_(CV-3)", 
+            "Jima_of_Silla", 
+            "San_Diego_State_University", 
+            "Saipan", 
+            "World_War_II", 
+            "San_Diego,_California", 
+            "Utah", 
+            "Italy", 
+            "Normandy", 
+            "Iwo_Jima", 
+            "Iwo_Jima", 
+            "North_Africa", 
+            "USS_Saratoga_(CV-3)", 
+            "Africa", 
+            "Sicily"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            ".45_ACP", 
+            "Tanker_(ship)", 
+            "Grease_(musical)", 
+            "University_of_California,_Berkeley", 
+            "M3_submachine_gun", 
+            "M16_rifle", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Posttraumatic_stress_disorder", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "Duck", 
+            "Soldier", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Detroit_Tigers", 
+            "Mark_VI_(tank)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Captain", 
+            "European_Academic_Research_Network"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "World_War_II", 
+            "Niland_brothers", 
+            "Oskar_Schindler", 
+            "Niland,_California", 
+            "1994", 
+            "Film", 
+            "Saving_Private_Ryan", 
+            "Monument", 
+            "American_Civil_War", 
+            "World_War_II", 
+            "Film_producer", 
+            "Mark_Gordon", 
+            "American_Civil_War", 
+            "Film", 
+            "Steven_Spielberg", 
+            "Film"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Grave_(band)", 
+            "Germany_national_football_team", 
+            "Kinda_(Doctor_Who)", 
+            "Germany_national_football_team"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Adrenalin_(group)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "Swift", 
+            "Theatre", 
+            "Sound_effect", 
+            "Fast_Patrol_Craft", 
+            "Apocalypse", 
+            "River", 
+            "Vietnam", 
+            "!!!", 
+            "Noise"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "M3_submachine_gun", 
+            "Shooting_range", 
+            "Paris_Saint-Germain_FC", 
+            "Grease_(musical)", 
+            "Vietnam", 
+            "Tanker_(ship)", 
+            "M16_rifle", 
+            "University_of_California,_Berkeley", 
+            "World_War_II", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            ".45_ACP", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Grease_(lubricant)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Graveyard", 
+            "Moisture"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Motorcycle", 
+            "Rabbit", 
+            "United_States_Navy_Mark_12_Mod_X_Special_Purpose_Rifle", 
+            "Cemetary", 
+            "Glory_(film)", 
+            "Old_Glory", 
+            "Penis"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Talking_drum", 
+            "Dude", 
+            "Turner_Network_Television", 
+            "Armed_forces", 
+            "England"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "1900", 
+            "Timer", 
+            "Cable_television"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Plat", 
+            "USS_Saratoga_(CV-3)", 
+            "Jima_of_Silla", 
+            "San_Diego_State_University", 
+            "Saipan", 
+            "World_War_II", 
+            "San_Diego,_California", 
+            "Utah", 
+            "Italy", 
+            "Normandy", 
+            "Iwo_Jima", 
+            "Iwo_Jima", 
+            "North_Africa", 
+            "USS_Saratoga_(CV-3)", 
+            "Africa", 
+            "Sicily"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            ".45_ACP", 
+            "Tanker_(ship)", 
+            "Grease_(musical)", 
+            "University_of_California,_Berkeley", 
+            "M3_submachine_gun", 
+            "M16_rifle", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Posttraumatic_stress_disorder", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "Duck", 
+            "Soldier", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Detroit_Tigers", 
+            "Mark_VI_(tank)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Captain", 
+            "European_Academic_Research_Network"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "World_War_II", 
+            "Niland_brothers", 
+            "Oskar_Schindler", 
+            "Niland,_California", 
+            "1994", 
+            "Film", 
+            "Saving_Private_Ryan", 
+            "Monument", 
+            "American_Civil_War", 
+            "World_War_II", 
+            "Film_producer", 
+            "Mark_Gordon", 
+            "American_Civil_War", 
+            "Film", 
+            "Steven_Spielberg", 
+            "Film"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Grave_(band)", 
+            "Germany_national_football_team", 
+            "Kinda_(Doctor_Who)", 
+            "Germany_national_football_team"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Adrenalin_(group)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "Swift", 
+            "Theatre", 
+            "Sound_effect", 
+            "Fast_Patrol_Craft", 
+            "Apocalypse", 
+            "River", 
+            "Vietnam", 
+            "!!!", 
+            "Noise"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "M3_submachine_gun", 
+            "Shooting_range", 
+            "Paris_Saint-Germain_FC", 
+            "Grease_(musical)", 
+            "Vietnam", 
+            "Tanker_(ship)", 
+            "M16_rifle", 
+            "University_of_California,_Berkeley", 
+            "World_War_II", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            ".45_ACP", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Grease_(lubricant)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Graveyard", 
+            "Moisture"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Motorcycle", 
+            "Rabbit", 
+            "United_States_Navy_Mark_12_Mod_X_Special_Purpose_Rifle", 
+            "Cemetary", 
+            "Glory_(film)", 
+            "Old_Glory", 
+            "Penis"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Talking_drum", 
+            "Dude", 
+            "Turner_Network_Television", 
+            "Armed_forces", 
+            "England"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "1900", 
+            "Timer", 
+            "Cable_television"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Plat", 
+            "USS_Saratoga_(CV-3)", 
+            "Jima_of_Silla", 
+            "San_Diego_State_University", 
+            "Saipan", 
+            "World_War_II", 
+            "San_Diego,_California", 
+            "Utah", 
+            "Italy", 
+            "Normandy", 
+            "Iwo_Jima", 
+            "Iwo_Jima", 
+            "North_Africa", 
+            "USS_Saratoga_(CV-3)", 
+            "Africa", 
+            "Sicily"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            ".45_ACP", 
+            "Tanker_(ship)", 
+            "Grease_(musical)", 
+            "University_of_California,_Berkeley", 
+            "M3_submachine_gun", 
+            "M16_rifle", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Posttraumatic_stress_disorder", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "Duck", 
+            "Soldier", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Detroit_Tigers", 
+            "Mark_VI_(tank)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Captain", 
+            "European_Academic_Research_Network"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "World_War_II", 
+            "Niland_brothers", 
+            "Oskar_Schindler", 
+            "Niland,_California", 
+            "1994", 
+            "Film", 
+            "Saving_Private_Ryan", 
+            "Monument", 
+            "American_Civil_War", 
+            "World_War_II", 
+            "Film_producer", 
+            "Mark_Gordon", 
+            "American_Civil_War", 
+            "Film", 
+            "Steven_Spielberg", 
+            "Film"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Grave_(band)", 
+            "Germany_national_football_team", 
+            "Kinda_(Doctor_Who)", 
+            "Germany_national_football_team"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Adrenalin_(group)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "Swift", 
+            "Theatre", 
+            "Sound_effect", 
+            "Fast_Patrol_Craft", 
+            "Apocalypse", 
+            "River", 
+            "Vietnam", 
+            "!!!", 
+            "Noise"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "M3_submachine_gun", 
+            "Shooting_range", 
+            "Paris_Saint-Germain_FC", 
+            "Grease_(musical)", 
+            "Vietnam", 
+            "Tanker_(ship)", 
+            "M16_rifle", 
+            "University_of_California,_Berkeley", 
+            "World_War_II", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            ".45_ACP", 
+            "M3_submachine_gun"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Grease_(lubricant)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Graveyard", 
+            "Moisture"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Motorcycle", 
+            "Rabbit", 
+            "United_States_Navy_Mark_12_Mod_X_Special_Purpose_Rifle", 
+            "Cemetary", 
+            "Glory_(film)", 
+            "Old_Glory", 
+            "Penis"
+        ], 
+        "postID": 60
+    }
+]

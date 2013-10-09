@@ -1,0 +1,18 @@
+[
+    {
+        "entity": [
+            "Billet", 
+            "San_Diego,_California", 
+            "Santiago_de_Cali", 
+            "TAD", 
+            "War_on_Terrorism", 
+            "TAD", 
+            "Personal_Communications_Service"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }
+]

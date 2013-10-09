@@ -1,0 +1,392 @@
+[
+    {
+        "entity": [
+            "Mexico", 
+            "Civil_war"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Regime_change"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Jungle", 
+            "Sandbox"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Rape", 
+            "Bangers"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Combat_engineering", 
+            "Mexico", 
+            "Moat", 
+            "Crocodile", 
+            "Castle"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Mafia"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Deer", 
+            "Scalp", 
+            "United_States", 
+            "United_States", 
+            "Walla", 
+            "Mexico", 
+            "Payroll", 
+            "Drug", 
+            "Ash_tree", 
+            "Mexico"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Illegal_immigration", 
+            "Mexico", 
+            "Agriculture"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Nativism_(politics)", 
+            "Narcotic", 
+            "Cartel"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Democratic_Party_(United_States)", 
+            "Slavery", 
+            "Democrat_Party_(phrase)", 
+            "Immigration", 
+            "Political_party", 
+            "Population", 
+            "Federation_Against_Copyright_Theft", 
+            "Republican_Party_(United_States)", 
+            "Cartel", 
+            "Republican_Party_(United_States)", 
+            "Slavery", 
+            "Politician", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Drug", 
+            "Drug", 
+            "Consumption_(economics)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Revenue_stamp", 
+            "Alcohol", 
+            "State", 
+            "1937", 
+            "Revenue_stamp", 
+            "Tax", 
+            "Stamp_Act", 
+            "Legalization", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Law", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "1916", 
+            "John_J._Pershing", 
+            "Cannabis_(drug)", 
+            "Black_Jack_(manga)", 
+            "Law_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Mafia", 
+            "Prohibition_(drugs)", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Drug_cartel"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Paco,_Manila", 
+            "United_States", 
+            "Heck", 
+            "Farmer", 
+            "SMUGGLER"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Mafia", 
+            "Prohibition", 
+            "Eye", 
+            "Law_enforcement_agency"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Civil_war"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Regime_change"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Jungle", 
+            "Sandbox"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Rape", 
+            "Bangers"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Combat_engineering", 
+            "Mexico", 
+            "Moat", 
+            "Crocodile", 
+            "Castle"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Mafia"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Deer", 
+            "Scalp", 
+            "United_States", 
+            "United_States", 
+            "Walla", 
+            "Mexico", 
+            "Payroll", 
+            "Drug", 
+            "Ash_tree", 
+            "Mexico"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Illegal_immigration", 
+            "Mexico", 
+            "Agriculture"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Nativism_(politics)", 
+            "Narcotic", 
+            "Cartel"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Democratic_Party_(United_States)", 
+            "Slavery", 
+            "Democrat_Party_(phrase)", 
+            "Immigration", 
+            "Political_party", 
+            "Population", 
+            "Federation_Against_Copyright_Theft", 
+            "Republican_Party_(United_States)", 
+            "Cartel", 
+            "Republican_Party_(United_States)", 
+            "Slavery", 
+            "Politician", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Drug", 
+            "Drug", 
+            "Consumption_(economics)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Revenue_stamp", 
+            "Alcohol", 
+            "State", 
+            "1937", 
+            "Revenue_stamp", 
+            "Tax", 
+            "Stamp_Act", 
+            "Legalization", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Law", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "1916", 
+            "John_J._Pershing", 
+            "Cannabis_(drug)", 
+            "Black_Jack_(manga)", 
+            "Law_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Mafia", 
+            "Prohibition_(drugs)", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Drug_cartel"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Paco,_Manila", 
+            "United_States", 
+            "Heck", 
+            "Farmer", 
+            "SMUGGLER"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Mafia", 
+            "Prohibition", 
+            "Eye", 
+            "Law_enforcement_agency"
+        ], 
+        "postID": 40
+    }
+]

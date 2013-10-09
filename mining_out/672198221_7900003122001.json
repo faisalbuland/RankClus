@@ -1,0 +1,566 @@
+[
+    {
+        "entity": [
+            "Coming_out", 
+            "Homosexuality", 
+            "Beauty_contest", 
+            "Same-sex_marriage", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Perez_Hilton", 
+            "Hilton_Hotels", 
+            "Marriage", 
+            "Guess_(clothing)", 
+            "Homosexuality"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Yea,_Victoria", 
+            "Partisan_(military)", 
+            "Pea", 
+            "Beauty_contest", 
+            "Partisan_(political)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Judge", 
+            "Judge"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Kudos_(production_company)", 
+            "Political_question"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Miss_California", 
+            "Family_values", 
+            "Kudos_(production_company)", 
+            "Video_clip", 
+            "North_Carolina", 
+            "Mannerism", 
+            "California"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Grotesque", 
+            "Perez_Hilton", 
+            "Cowardice", 
+            "Hilton_Hotels", 
+            "Statistical_significance"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "Swimsuit", 
+            "Swimsuit", 
+            "Arizona", 
+            "Miss_USA", 
+            "United_States", 
+            "California", 
+            "Miss_USA", 
+            "Miss_USA", 
+            "2009", 
+            "Evening_gown", 
+            "Gown"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Political_science", 
+            "Political_correctness", 
+            "Constitutional_right", 
+            "Political_science"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Perez_Hilton", 
+            "Theatrical_property", 
+            "Mammoth", 
+            "Freedom_of_speech", 
+            "MSNBC", 
+            "Hilton_Hotels"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Political_question", 
+            "Christian"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cowardice"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Beauty_contest"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Marriage", 
+            "United_States", 
+            "Same-sex_marriage", 
+            "Marriage"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "Marriage", 
+            "Federal_government_of_the_United_States", 
+            "Bill_Clinton", 
+            "Election", 
+            "Hillary_Rodham_Clinton", 
+            "Recession", 
+            "Vermont", 
+            "Hillary_Rodham_Clinton", 
+            "United_States", 
+            "Tax", 
+            "Health_care", 
+            "Citizenship", 
+            "U.S._state", 
+            "Same-sex_marriage", 
+            "Hilton_Hotels", 
+            "Domestic_violence", 
+            "U.S._state", 
+            "Sportsmanship", 
+            "Lottery", 
+            "Georgia_(U.S._state)", 
+            "Rihanna", 
+            "Miss_USA", 
+            "Tiara", 
+            "Violence", 
+            "Afghanistan", 
+            "United_States", 
+            "Chris_Brown_(singer)", 
+            "Perez_Hilton"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Drooling"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Homosexuality", 
+            "Beauty_contest", 
+            "Same-sex_marriage", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Perez_Hilton", 
+            "Hilton_Hotels", 
+            "Marriage", 
+            "Guess_(clothing)", 
+            "Homosexuality"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Yea,_Victoria", 
+            "Partisan_(military)", 
+            "Pea", 
+            "Beauty_contest", 
+            "Partisan_(political)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Judge", 
+            "Judge"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Kudos_(production_company)", 
+            "Political_question"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Miss_California", 
+            "Family_values", 
+            "Kudos_(production_company)", 
+            "Video_clip", 
+            "North_Carolina", 
+            "Mannerism", 
+            "California"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Grotesque", 
+            "Perez_Hilton", 
+            "Cowardice", 
+            "Hilton_Hotels", 
+            "Statistical_significance"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "Swimsuit", 
+            "Swimsuit", 
+            "Arizona", 
+            "Miss_USA", 
+            "United_States", 
+            "California", 
+            "Miss_USA", 
+            "Miss_USA", 
+            "2009", 
+            "Evening_gown", 
+            "Gown"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Political_science", 
+            "Political_correctness", 
+            "Constitutional_right", 
+            "Political_science"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Perez_Hilton", 
+            "Theatrical_property", 
+            "Mammoth", 
+            "Freedom_of_speech", 
+            "MSNBC", 
+            "Hilton_Hotels"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Political_question", 
+            "Christian"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cowardice"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Beauty_contest"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Marriage", 
+            "United_States", 
+            "Same-sex_marriage", 
+            "Marriage"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "Marriage", 
+            "Federal_government_of_the_United_States", 
+            "Bill_Clinton", 
+            "Election", 
+            "Hillary_Rodham_Clinton", 
+            "Recession", 
+            "Vermont", 
+            "Hillary_Rodham_Clinton", 
+            "United_States", 
+            "Tax", 
+            "Health_care", 
+            "Citizenship", 
+            "U.S._state", 
+            "Same-sex_marriage", 
+            "Hilton_Hotels", 
+            "Domestic_violence", 
+            "U.S._state", 
+            "Sportsmanship", 
+            "Lottery", 
+            "Georgia_(U.S._state)", 
+            "Rihanna", 
+            "Miss_USA", 
+            "Tiara", 
+            "Violence", 
+            "Afghanistan", 
+            "United_States", 
+            "Chris_Brown_(singer)", 
+            "Perez_Hilton"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Drooling"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Homosexuality", 
+            "Beauty_contest", 
+            "Same-sex_marriage", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Homosexuality", 
+            "Perez_Hilton", 
+            "Hilton_Hotels", 
+            "Marriage", 
+            "Guess_(clothing)", 
+            "Homosexuality"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Yea,_Victoria", 
+            "Partisan_(military)", 
+            "Pea", 
+            "Beauty_contest", 
+            "Partisan_(political)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Judge", 
+            "Judge"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Kudos_(production_company)", 
+            "Political_question"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Miss_California", 
+            "Family_values", 
+            "Kudos_(production_company)", 
+            "Video_clip", 
+            "North_Carolina", 
+            "Mannerism", 
+            "California"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Grotesque", 
+            "Perez_Hilton", 
+            "Cowardice", 
+            "Hilton_Hotels", 
+            "Statistical_significance"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "Swimsuit", 
+            "Swimsuit", 
+            "Arizona", 
+            "Miss_USA", 
+            "United_States", 
+            "California", 
+            "Miss_USA", 
+            "Miss_USA", 
+            "2009", 
+            "Evening_gown", 
+            "Gown"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Political_science", 
+            "Political_correctness", 
+            "Constitutional_right", 
+            "Political_science"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Perez_Hilton", 
+            "Theatrical_property", 
+            "Mammoth", 
+            "Freedom_of_speech", 
+            "MSNBC", 
+            "Hilton_Hotels"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Political_question", 
+            "Christian"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Cowardice"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Beauty_contest"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Marriage", 
+            "United_States", 
+            "Same-sex_marriage", 
+            "Marriage"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "Marriage", 
+            "Federal_government_of_the_United_States", 
+            "Bill_Clinton", 
+            "Election", 
+            "Hillary_Rodham_Clinton", 
+            "Recession", 
+            "Vermont", 
+            "Hillary_Rodham_Clinton", 
+            "United_States", 
+            "Tax", 
+            "Health_care", 
+            "Citizenship", 
+            "U.S._state", 
+            "Same-sex_marriage", 
+            "Hilton_Hotels", 
+            "Domestic_violence", 
+            "U.S._state", 
+            "Sportsmanship", 
+            "Lottery", 
+            "Georgia_(U.S._state)", 
+            "Rihanna", 
+            "Miss_USA", 
+            "Tiara", 
+            "Violence", 
+            "Afghanistan", 
+            "United_States", 
+            "Chris_Brown_(singer)", 
+            "Perez_Hilton"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Drooling"
+        ], 
+        "postID": 60
+    }
+]

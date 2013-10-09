@@ -1,0 +1,94 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Pig", 
+            "Luiz_In\u00e1cio_Lula_da_Silva", 
+            "Racism", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Brazil", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Legume", 
+            "Ford_Motor_Company", 
+            "Pea"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pea", 
+            "Sweet_pea", 
+            "Pea", 
+            "Gallon"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hugo_Award"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Revolutionary_Armed_Forces_of_Colombia", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "President_of_the_United_States", 
+            "Cuba", 
+            "Immigration", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "South_America", 
+            "Brazil", 
+            "Portugal", 
+            "Luiz_In\u00e1cio_Lula_da_Silva", 
+            "Venezuela", 
+            "United_States", 
+            "Russia", 
+            "White_American", 
+            "Brazil", 
+            "Venezuela", 
+            "United_States", 
+            "United_States", 
+            "George_W._Bush", 
+            "Columbia_University"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Uncle_Sam", 
+            "President_of_the_United_States", 
+            "Mugging", 
+            "Brazil", 
+            "Tourism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Luiz_In\u00e1cio_Lula_da_Silva", 
+            "Antisemitism"
+        ], 
+        "postID": 10
+    }
+]

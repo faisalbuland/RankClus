@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "Sailor"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Active_duty", 
+            "British_national_identity_card", 
+            "United_States_Uniformed_Services_Privilege_and_Identification_Card", 
+            "Postage_stamp"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Identity_document", 
+            "Germany"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Car_bomb", 
+            "1985", 
+            "Gelnhausen", 
+            "Bomb", 
+            "Germany", 
+            "United_States", 
+            "Soldier"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Station_identification", 
+            "Theft"
+        ], 
+        "postID": 5
+    }
+]

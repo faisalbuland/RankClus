@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [
+            "Free_market", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "List_of_national_founding_fathers"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Blindness", 
+            "United_States", 
+            "Financial_institution", 
+            "Tax", 
+            "Acorn", 
+            "Tongue", 
+            "Washington,_D.C.", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Cheek", 
+            "Squirrel"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Accounting_liquidity", 
+            "Dollar", 
+            "Accounting_liquidity", 
+            "Legislation", 
+            "Economics"
+        ], 
+        "postID": 3
+    }
+]

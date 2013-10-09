@@ -1,0 +1,150 @@
+[
+    {
+        "entity": [
+            "Separation_of_church_and_state", 
+            "Guantanamo_Bay_Naval_Base", 
+            "States_and_territories_of_India", 
+            "Qur'an", 
+            "Crucifixion"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Incarceration_in_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "Bible", 
+            "Federal_government_of_the_United_States", 
+            "Printing", 
+            "Religion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bible", 
+            "Church", 
+            "United_States", 
+            "United_States", 
+            "United_States_Army"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Roman_Catholic_Church", 
+            "Bible", 
+            "Roman_Catholic_Church", 
+            "Afghanistan", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Al_Jazeera", 
+            "Printing", 
+            "Jail", 
+            "Bible", 
+            "Soldier", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "United_States_Code"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Missionary", 
+            "Propaganda", 
+            "Religion", 
+            "Insanity", 
+            "Law", 
+            "Law", 
+            "United_States_Army", 
+            "Afghanistan", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Regulation", 
+            "Alcoholic_beverage", 
+            "Uniform_Code_of_Military_Justice", 
+            "Muslim_majority_countries", 
+            "Iraq", 
+            "Particular_Church", 
+            "United_States", 
+            "United_States_Central_Command", 
+            "Uniform_Code_of_Military_Justice", 
+            "Bible", 
+            "Stan_Marsh", 
+            "United_States", 
+            "Playboy", 
+            "Blade_(comics)", 
+            "Playboy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Particular_Church", 
+            "Jehovah", 
+            "Christianity", 
+            "Muslim", 
+            "Soldier", 
+            "Soldier", 
+            "Western_Christianity", 
+            "Law", 
+            "Qur'an", 
+            "Stream", 
+            "Rifle", 
+            "Christian_country_music"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Riley_County,_Kansas", 
+            "Soldier", 
+            "Regulation", 
+            "Kansas", 
+            "Afghanistan", 
+            "United_States_Central_Command"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Afghanistan", 
+            "Religion", 
+            "Muslim", 
+            "Riley_County,_Kansas", 
+            "Kansas", 
+            "Dog", 
+            "Manslaughter", 
+            "Muslim"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bible", 
+            "Christianity", 
+            "Christianity", 
+            "Regions_of_France"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }
+]

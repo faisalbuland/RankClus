@@ -1,0 +1,41 @@
+[
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "1985", 
+            "United_States_Marine_Corps", 
+            "United_States_Congress", 
+            "Politician", 
+            "Ronald_Reagan", 
+            "United_States_Congress"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Scandal", 
+            "Nice"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "1985", 
+            "United_States_Marine_Corps", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "Tooth"
+        ], 
+        "postID": 6
+    }
+]

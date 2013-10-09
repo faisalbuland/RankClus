@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Lawsuit"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hound", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "President", 
+            "Morale", 
+            "Dick_Cheney", 
+            "Deception", 
+            "Central_Intelligence_Agency", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "President", 
+            "Central_Intelligence_Agency", 
+            "CIA_activities_in_Russia_and_Europe"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cave", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Tar", 
+            "Democratic_Party_(United_States)", 
+            "FOIA", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Time_(magazine)", 
+            "Torture"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wingnut_(plant)", 
+            "Dick_Cheney", 
+            "Tantrum", 
+            "War_crime"
+        ], 
+        "postID": 8
+    }
+]

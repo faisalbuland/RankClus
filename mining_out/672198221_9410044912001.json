@@ -1,0 +1,414 @@
+[
+    {
+        "entity": [
+            "Bank", 
+            "Economy", 
+            "Hell", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Economy", 
+            "2006", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "The_Democrats", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Guess_(clothing)", 
+            "Sampling_(music)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Early_2000s_recession", 
+            "Dot-com_bubble", 
+            "United_States_Congress", 
+            "Economy_of_the_United_States", 
+            "Economic_bubble"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Franklin,_Tennessee", 
+            "Economy", 
+            "Fannie_Mae", 
+            "Macintosh", 
+            "Raines", 
+            "Mae", 
+            "Franklin_Raines", 
+            "Freddie_Mac", 
+            "Freddie"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Jimmy_Carter", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Jimmy_Carter", 
+            "Economy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Economy", 
+            "New_Deal", 
+            "New_Deal", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Barack_Obama", 
+            "United_States_dollar"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Politics", 
+            "World_currency", 
+            "Joseph_Stalin", 
+            "Barack_Obama", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "2005", 
+            "Language", 
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Bank", 
+            "2005", 
+            "Bank", 
+            "Shia_Islam", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "2003", 
+            "United_States_Department_of_the_Treasury", 
+            "1999", 
+            "Logic", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "2003", 
+            "President_of_the_United_States", 
+            "1999", 
+            "Clearing_(finance)", 
+            "Partisan_(military)", 
+            "1999", 
+            "2007", 
+            "Jim_Leach", 
+            "Phil_Gramm", 
+            "2004", 
+            "Insurance", 
+            "Barack_Obama", 
+            "Shelby,_North_Carolina", 
+            "Freddie", 
+            "Joint_committee", 
+            "United_States_Department_of_Housing_and_Urban_Development", 
+            "United_States_Senate", 
+            "2008", 
+            "December_1999", 
+            "United_States_Senate", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Freddie"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Barack_Obama", 
+            "G20"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Barack_Obama", 
+            "Prez_(DC_Comics)", 
+            "United_States", 
+            "Single_(music)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Economy", 
+            "Hell", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Economy", 
+            "2006", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "The_Democrats", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Guess_(clothing)", 
+            "Sampling_(music)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Early_2000s_recession", 
+            "Dot-com_bubble", 
+            "United_States_Congress", 
+            "Economy_of_the_United_States", 
+            "Economic_bubble"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Franklin,_Tennessee", 
+            "Economy", 
+            "Fannie_Mae", 
+            "Macintosh", 
+            "Raines", 
+            "Mae", 
+            "Franklin_Raines", 
+            "Freddie_Mac", 
+            "Freddie"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Jimmy_Carter", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Jimmy_Carter", 
+            "Economy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Economy", 
+            "New_Deal", 
+            "New_Deal", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Barack_Obama", 
+            "United_States_dollar"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Politics", 
+            "World_currency", 
+            "Joseph_Stalin", 
+            "Barack_Obama", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "2005", 
+            "Language", 
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Bank", 
+            "2005", 
+            "Bank", 
+            "Shia_Islam", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "2003", 
+            "United_States_Department_of_the_Treasury", 
+            "1999", 
+            "Logic", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "2003", 
+            "President_of_the_United_States", 
+            "1999", 
+            "Clearing_(finance)", 
+            "Partisan_(military)", 
+            "1999", 
+            "2007", 
+            "Jim_Leach", 
+            "Phil_Gramm", 
+            "2004", 
+            "Insurance", 
+            "Barack_Obama", 
+            "Shelby,_North_Carolina", 
+            "Freddie", 
+            "Joint_committee", 
+            "United_States_Department_of_Housing_and_Urban_Development", 
+            "United_States_Senate", 
+            "2008", 
+            "December_1999", 
+            "United_States_Senate", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Freddie"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Barack_Obama", 
+            "G20"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Barack_Obama", 
+            "Prez_(DC_Comics)", 
+            "United_States", 
+            "Single_(music)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

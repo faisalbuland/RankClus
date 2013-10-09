@@ -1,0 +1,116 @@
+[
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Nerve", 
+            "Islam", 
+            "Microsoft_PowerPoint", 
+            "Rabbit", 
+            "Islam", 
+            "People's_Republic_of_China", 
+            "Islam", 
+            "Population", 
+            "India", 
+            "Birth_rate", 
+            "Population_growth"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Birth_control", 
+            "Conservative_Christianity", 
+            "Nut_(fruit)", 
+            "Conservatism", 
+            "Democracy", 
+            "Christian", 
+            "Sharia", 
+            "Reproduction", 
+            "Pope", 
+            "Islam", 
+            "Liberalism", 
+            "Muslim", 
+            "Muslim", 
+            "Planet", 
+            "God", 
+            "Extinction", 
+            "Conservatism", 
+            "Abortion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Third_World", 
+            "Muslim"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fever", 
+            "Maine", 
+            "Cabin_fever"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "Oil", 
+            "Internet", 
+            "Energy", 
+            "Global_warming", 
+            "Sexual_intercourse", 
+            "Nuclear_power", 
+            "Earth", 
+            "Arctic", 
+            "Arctic_Circle", 
+            "Glacier", 
+            "Refugee", 
+            "Moron", 
+            "Ice_cap", 
+            "Oil", 
+            "Chess_endgame", 
+            "Adapt_(Trace_Bundy_album)", 
+            "Horizon", 
+            "Spanish_language", 
+            "Multilingualism", 
+            "Water", 
+            "Religion", 
+            "Desertification", 
+            "Manufacturing", 
+            "Warship"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Environmental_studies", 
+            "Religion"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Rocky_Mountains", 
+            "Puget_Sound", 
+            "Montana", 
+            "Continental_divide", 
+            "Continental_Motors", 
+            "Mud"
+        ], 
+        "postID": 9
+    }
+]

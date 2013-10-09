@@ -1,0 +1,932 @@
+[
+    {
+        "entity": [
+            "Paraphilia", 
+            "Legislature", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deviance_(sociology)", 
+            "Democratic_Party_(United_States)", 
+            "Family_values", 
+            "Barack_Obama", 
+            "547", 
+            "American_Psychiatric_Association", 
+            "Fox_News_Channel", 
+            "Christian", 
+            "United_States", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "United_States_Senate", 
+            "Missionary", 
+            "Fox_Broadcasting_Company", 
+            "Insanity"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "WorldNetDaily"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hook_(film)", 
+            "Dumb_blonde", 
+            "Sinker", 
+            "Florida"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Legislation", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Party_line_(politics)", 
+            "Party_line_(politics)", 
+            "241", 
+            "C-SPAN", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "185", 
+            "Iowa", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "M72_LAW"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Child_sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Pedophilia"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Homophobia", 
+            "Protected_class", 
+            "Statutory_law", 
+            "Wallet", 
+            "Violence", 
+            "Slippery_slope", 
+            "Hate_crime", 
+            "Hate_crime_laws_in_the_United_States", 
+            "Hate_crime", 
+            "Statutory_law", 
+            "Statutory_law", 
+            "Wallet", 
+            "Homophobia", 
+            "Gay", 
+            "Violence"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Hate_crime"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Crime"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Arse", 
+            "Canada", 
+            "Hot_dog", 
+            "Law", 
+            "Protected_class", 
+            "Thread_(computer_science)", 
+            "Islam", 
+            "Crime", 
+            "Law", 
+            "Human_rights"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Patriot_(American_Revolution)", 
+            "Hanoi"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Spam_(electronic)", 
+            "Address_bar", 
+            "Bar_association", 
+            "2009"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Playground", 
+            "Slippery_slope"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Democracy", 
+            "Population_control"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Paraphilia", 
+            "Legislature", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deviance_(sociology)", 
+            "Democratic_Party_(United_States)", 
+            "Family_values", 
+            "Barack_Obama", 
+            "547", 
+            "American_Psychiatric_Association", 
+            "Fox_News_Channel", 
+            "Christian", 
+            "United_States", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "United_States_Senate", 
+            "Missionary", 
+            "Fox_Broadcasting_Company", 
+            "Insanity"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "WorldNetDaily"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hook_(film)", 
+            "Dumb_blonde", 
+            "Sinker", 
+            "Florida"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Legislation", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Party_line_(politics)", 
+            "Party_line_(politics)", 
+            "241", 
+            "C-SPAN", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "185", 
+            "Iowa", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "M72_LAW"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Child_sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Pedophilia"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Homophobia", 
+            "Protected_class", 
+            "Statutory_law", 
+            "Wallet", 
+            "Violence", 
+            "Slippery_slope", 
+            "Hate_crime", 
+            "Hate_crime_laws_in_the_United_States", 
+            "Hate_crime", 
+            "Statutory_law", 
+            "Statutory_law", 
+            "Wallet", 
+            "Homophobia", 
+            "Gay", 
+            "Violence"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Hate_crime"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Crime"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Arse", 
+            "Canada", 
+            "Hot_dog", 
+            "Law", 
+            "Protected_class", 
+            "Thread_(computer_science)", 
+            "Islam", 
+            "Crime", 
+            "Law", 
+            "Human_rights"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Patriot_(American_Revolution)", 
+            "Hanoi"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Spam_(electronic)", 
+            "Address_bar", 
+            "Bar_association", 
+            "2009"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Playground", 
+            "Slippery_slope"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Democracy", 
+            "Population_control"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Paraphilia", 
+            "Legislature", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deviance_(sociology)", 
+            "Democratic_Party_(United_States)", 
+            "Family_values", 
+            "Barack_Obama", 
+            "547", 
+            "American_Psychiatric_Association", 
+            "Fox_News_Channel", 
+            "Christian", 
+            "United_States", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "United_States_Senate", 
+            "Missionary", 
+            "Fox_Broadcasting_Company", 
+            "Insanity"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "WorldNetDaily"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hook_(film)", 
+            "Dumb_blonde", 
+            "Sinker", 
+            "Florida"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Legislation", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Party_line_(politics)", 
+            "Party_line_(politics)", 
+            "241", 
+            "C-SPAN", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "185", 
+            "Iowa", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "M72_LAW"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Child_sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Pedophilia"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Homophobia", 
+            "Protected_class", 
+            "Statutory_law", 
+            "Wallet", 
+            "Violence", 
+            "Slippery_slope", 
+            "Hate_crime", 
+            "Hate_crime_laws_in_the_United_States", 
+            "Hate_crime", 
+            "Statutory_law", 
+            "Statutory_law", 
+            "Wallet", 
+            "Homophobia", 
+            "Gay", 
+            "Violence"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Hate_crime"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Crime"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Arse", 
+            "Canada", 
+            "Hot_dog", 
+            "Law", 
+            "Protected_class", 
+            "Thread_(computer_science)", 
+            "Islam", 
+            "Crime", 
+            "Law", 
+            "Human_rights"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Patriot_(American_Revolution)", 
+            "Hanoi"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Spam_(electronic)", 
+            "Address_bar", 
+            "Bar_association", 
+            "2009"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Playground", 
+            "Slippery_slope"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Democracy", 
+            "Population_control"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Paraphilia", 
+            "Legislature", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deviance_(sociology)", 
+            "Democratic_Party_(United_States)", 
+            "Family_values", 
+            "Barack_Obama", 
+            "547", 
+            "American_Psychiatric_Association", 
+            "Fox_News_Channel", 
+            "Christian", 
+            "United_States", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "United_States_Senate", 
+            "Missionary", 
+            "Fox_Broadcasting_Company", 
+            "Insanity"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "WorldNetDaily"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hook_(film)", 
+            "Dumb_blonde", 
+            "Sinker", 
+            "Florida"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Legislation", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Party_line_(politics)", 
+            "Party_line_(politics)", 
+            "241", 
+            "C-SPAN", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "185", 
+            "Iowa", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "M72_LAW"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Child_sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Pedophilia"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Homophobia", 
+            "Protected_class", 
+            "Statutory_law", 
+            "Wallet", 
+            "Violence", 
+            "Slippery_slope", 
+            "Hate_crime", 
+            "Hate_crime_laws_in_the_United_States", 
+            "Hate_crime", 
+            "Statutory_law", 
+            "Statutory_law", 
+            "Wallet", 
+            "Homophobia", 
+            "Gay", 
+            "Violence"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Hate_crime"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Crime"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Arse", 
+            "Canada", 
+            "Hot_dog", 
+            "Law", 
+            "Protected_class", 
+            "Thread_(computer_science)", 
+            "Islam", 
+            "Crime", 
+            "Law", 
+            "Human_rights"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Patriot_(American_Revolution)", 
+            "Hanoi"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Spam_(electronic)", 
+            "Address_bar", 
+            "Bar_association", 
+            "2009"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Playground", 
+            "Slippery_slope"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Democracy", 
+            "Population_control"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Paraphilia", 
+            "Legislature", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deviance_(sociology)", 
+            "Democratic_Party_(United_States)", 
+            "Family_values", 
+            "Barack_Obama", 
+            "547", 
+            "American_Psychiatric_Association", 
+            "Fox_News_Channel", 
+            "Christian", 
+            "United_States", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "United_States_Senate", 
+            "Missionary", 
+            "Fox_Broadcasting_Company", 
+            "Insanity"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "WorldNetDaily"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Hook_(film)", 
+            "Dumb_blonde", 
+            "Sinker", 
+            "Florida"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Legislation", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Party_line_(politics)", 
+            "Party_line_(politics)", 
+            "241", 
+            "C-SPAN", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "185", 
+            "Iowa", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "M72_LAW"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Child_sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Pedophilia"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Homophobia", 
+            "Protected_class", 
+            "Statutory_law", 
+            "Wallet", 
+            "Violence", 
+            "Slippery_slope", 
+            "Hate_crime", 
+            "Hate_crime_laws_in_the_United_States", 
+            "Hate_crime", 
+            "Statutory_law", 
+            "Statutory_law", 
+            "Wallet", 
+            "Homophobia", 
+            "Gay", 
+            "Violence"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Hate_crime"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Crime"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Arse", 
+            "Canada", 
+            "Hot_dog", 
+            "Law", 
+            "Protected_class", 
+            "Thread_(computer_science)", 
+            "Islam", 
+            "Crime", 
+            "Law", 
+            "Human_rights"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Patriot_(American_Revolution)", 
+            "Hanoi"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Spam_(electronic)", 
+            "Address_bar", 
+            "Bar_association", 
+            "2009"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Playground", 
+            "Slippery_slope"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Democracy", 
+            "Population_control"
+        ], 
+        "postID": 100
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "entity": [
+            "Debbie_Wasserman_Schultz", 
+            "Hate_crime", 
+            "April_22", 
+            "Violent_crime", 
+            "Democratic_Party_(United_States)", 
+            "2009", 
+            "Gerald_Ford", 
+            "Crime", 
+            "Rooney_(band)", 
+            "Tom_Rooney", 
+            "Military_service", 
+            "United_States_House_Committee_on_the_Judiciary", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Crime", 
+            "Crime"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Norm_(mathematics)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Hate_crime", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Malice_(legal_term)", 
+            "Malice_aforethought", 
+            "Rational_number", 
+            "Thing_(assembly)", 
+            "Criminal_law", 
+            "Hate_crime", 
+            "Malice_(legal_term)", 
+            "Murder", 
+            "Hate_crime", 
+            "Criminal_law", 
+            "Murder", 
+            "Intention_(criminal)", 
+            "Human", 
+            "Hate_crime", 
+            "Murder", 
+            "Suspect", 
+            "Malice_(legal_term)", 
+            "Malice_aforethought", 
+            "Malice_aforethought", 
+            "Murder", 
+            "Criminal_law", 
+            "Unlawful_killing", 
+            "Criminal_law", 
+            "Murder", 
+            "Criminal_law", 
+            "Murder", 
+            "Murder", 
+            "Malice_(legal_term)", 
+            "Criminal_law", 
+            "Malice_aforethought", 
+            "Suspect", 
+            "Hate_crime", 
+            "Murder", 
+            "Malice_(legal_term)", 
+            "Manslaughter"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Vietnam", 
+            "Ronne_Antarctic_Research_Expedition", 
+            "Protest", 
+            "Vietnam_War", 
+            "Spit_(landform)", 
+            "Papal_bull", 
+            "Anti-war"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Murder", 
+            "Homosexual_orientation", 
+            "Crime", 
+            "Panties", 
+            "Gay", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Concur"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "T-shirt", 
+            "Anti-war", 
+            "Profanity", 
+            "Toby_Keith", 
+            "LOT_Polish_Airlines", 
+            "Population", 
+            "Anti-war", 
+            "Toby_Ziegler", 
+            "Station_identification"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Janet_Napolitano", 
+            "Anti-war", 
+            "Genius", 
+            "Toby_Ziegler", 
+            "Toby_Keith", 
+            "Profanity", 
+            "Veteran", 
+            "LOT_Polish_Airlines", 
+            "Anti-war", 
+            "United_States_Department_of_Homeland_Security", 
+            "T-shirt"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Sexual_orientation", 
+            "247", 
+            "2007", 
+            "2007", 
+            "247", 
+            "Violence", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Intimidation", 
+            "Jury", 
+            "Immigration", 
+            "Sexual_orientation", 
+            "Illegal_immigration", 
+            "Intimidation", 
+            "Murder", 
+            "Crime", 
+            "Burden_of_proof", 
+            "Assault", 
+            "High_school", 
+            "Assault", 
+            "Prosecutor"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hate_group"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Groin", 
+            "Rat", 
+            "Veterinarian", 
+            "Protest", 
+            "Arse"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Homosexual_orientation", 
+            "Violence"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Crime", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Law"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Debbie_Wasserman_Schultz", 
+            "Hate_crime", 
+            "April_22", 
+            "Violent_crime", 
+            "Democratic_Party_(United_States)", 
+            "2009", 
+            "Gerald_Ford", 
+            "Crime", 
+            "Rooney_(band)", 
+            "Tom_Rooney", 
+            "Military_service", 
+            "United_States_House_Committee_on_the_Judiciary", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Crime", 
+            "Crime"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Norm_(mathematics)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Hate_crime", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Malice_(legal_term)", 
+            "Malice_aforethought", 
+            "Rational_number", 
+            "Thing_(assembly)", 
+            "Criminal_law", 
+            "Hate_crime", 
+            "Malice_(legal_term)", 
+            "Murder", 
+            "Hate_crime", 
+            "Criminal_law", 
+            "Murder", 
+            "Intention_(criminal)", 
+            "Human", 
+            "Hate_crime", 
+            "Murder", 
+            "Suspect", 
+            "Malice_(legal_term)", 
+            "Malice_aforethought", 
+            "Malice_aforethought", 
+            "Murder", 
+            "Criminal_law", 
+            "Unlawful_killing", 
+            "Criminal_law", 
+            "Murder", 
+            "Criminal_law", 
+            "Murder", 
+            "Murder", 
+            "Malice_(legal_term)", 
+            "Criminal_law", 
+            "Malice_aforethought", 
+            "Suspect", 
+            "Hate_crime", 
+            "Murder", 
+            "Malice_(legal_term)", 
+            "Manslaughter"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Vietnam", 
+            "Ronne_Antarctic_Research_Expedition", 
+            "Protest", 
+            "Vietnam_War", 
+            "Spit_(landform)", 
+            "Papal_bull", 
+            "Anti-war"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Murder", 
+            "Homosexual_orientation", 
+            "Crime", 
+            "Panties", 
+            "Gay", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Concur"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "T-shirt", 
+            "Anti-war", 
+            "Profanity", 
+            "Toby_Keith", 
+            "LOT_Polish_Airlines", 
+            "Population", 
+            "Anti-war", 
+            "Toby_Ziegler", 
+            "Station_identification"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Janet_Napolitano", 
+            "Anti-war", 
+            "Genius", 
+            "Toby_Ziegler", 
+            "Toby_Keith", 
+            "Profanity", 
+            "Veteran", 
+            "LOT_Polish_Airlines", 
+            "Anti-war", 
+            "United_States_Department_of_Homeland_Security", 
+            "T-shirt"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Sexual_orientation", 
+            "247", 
+            "2007", 
+            "2007", 
+            "247", 
+            "Violence", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Intimidation", 
+            "Jury", 
+            "Immigration", 
+            "Sexual_orientation", 
+            "Illegal_immigration", 
+            "Intimidation", 
+            "Murder", 
+            "Crime", 
+            "Burden_of_proof", 
+            "Assault", 
+            "High_school", 
+            "Assault", 
+            "Prosecutor"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Hate_group"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Groin", 
+            "Rat", 
+            "Veterinarian", 
+            "Protest", 
+            "Arse"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Homosexual_orientation", 
+            "Violence"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Crime", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "Law"
+        ], 
+        "postID": 40
+    }
+]

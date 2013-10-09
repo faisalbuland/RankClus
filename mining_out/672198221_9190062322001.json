@@ -1,0 +1,147 @@
+[
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Airlift"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Boxer_(dog)", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Striker", 
+            "Airlift"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Landing_Platform_Helicopter", 
+            "Trent_Lott", 
+            "River_Trent", 
+            "Carl_Levin", 
+            "United_States_Navy", 
+            "Landing_Helicopter_Assault", 
+            "C-17_Globemaster_III", 
+            "California", 
+            "United_States_Senate", 
+            "United_States_Navy", 
+            "Town", 
+            "International_Maritime_Organization", 
+            "Military_budget", 
+            "Carl_Levin", 
+            "United_States_Department_of_Defense", 
+            "Landing_Helicopter_Dock", 
+            "California", 
+            "United_States_Department_of_Defense", 
+            "United_States_Air_Force", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "C-17_Globemaster_III", 
+            "Majority_leader"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Qatar", 
+            "Russians", 
+            "C-17_Globemaster_III", 
+            "World_War_II", 
+            "Boeing", 
+            "State", 
+            "Euro", 
+            "United_Arab_Emirates"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Denmark", 
+            "Czech_Republic", 
+            "Czech_Republic", 
+            "Czech_Republic", 
+            "Airframe", 
+            "Latvia", 
+            "Sweden", 
+            "Republic", 
+            "Estonia", 
+            "2006", 
+            "C-17_Globemaster_III", 
+            "Netherlands", 
+            "Farnborough_Airshow", 
+            "United_States", 
+            "NATO", 
+            "God", 
+            "Hungary", 
+            "2006", 
+            "NATO", 
+            "Longevity", 
+            "RGM-79_GM", 
+            "C-17_Globemaster_III", 
+            "Slovenia", 
+            "NATO", 
+            "NATO", 
+            "Romania", 
+            "2006", 
+            "RGM-79_GM", 
+            "Airframe", 
+            "Slovakia", 
+            "Norway", 
+            "July_19", 
+            "United_States_Air_Force", 
+            "Slovakia", 
+            "September_12", 
+            "Poland", 
+            "Netherlands", 
+            "2006", 
+            "Italy", 
+            "NATO", 
+            "Royal_Danish_Air_Force", 
+            "Royal_Danish_Air_Force", 
+            "E-3_Sentry", 
+            "E-3_Sentry", 
+            "Denmark", 
+            "1993", 
+            "2006", 
+            "E-3_Sentry", 
+            "C17", 
+            "Lithuania", 
+            "Bulgaria", 
+            "Finland", 
+            "Airshow", 
+            "Wikipedia", 
+            "Republic"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Airlift", 
+            "Ides", 
+            "270", 
+            "C-17_Globemaster_III", 
+            "Tempo", 
+            "Ton", 
+            "C-17_Globemaster_III", 
+            "MTM"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Aviation", 
+            "C-17_Globemaster_III"
+        ], 
+        "postID": 9
+    }
+]

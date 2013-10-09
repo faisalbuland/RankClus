@@ -1,0 +1,114 @@
+[
+    {
+        "entity": [
+            "Texas", 
+            "California", 
+            "Ohio", 
+            "Virus", 
+            "Swine_flu", 
+            "Pig", 
+            "Marmot", 
+            "Influenza", 
+            "New_York", 
+            "Planet", 
+            "Mexico", 
+            "Marmot", 
+            "Michigan", 
+            "Quantum", 
+            "Mexico"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "LOL", 
+            "May_12", 
+            "Furniture", 
+            "May_7", 
+            "Mask", 
+            "Shampoo", 
+            "Gas_mask", 
+            "Gas", 
+            "Mask", 
+            "Jail", 
+            "Thread_(computer_science)", 
+            "Carpet"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "2009", 
+            "Pink_(singer)", 
+            "Pig", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Swine_flu"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Public_transport", 
+            "Mask"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dallas-Fort_Worth_International_Airport", 
+            "Mask", 
+            "Strategic_Air_Command"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pickled_cucumber", 
+            "San_Antonio_River_Walk", 
+            "San_Antonio,_Texas", 
+            "TDY", 
+            "San_Antonio,_Texas", 
+            "TDY", 
+            "Severe_acute_respiratory_syndrome", 
+            "Severe_acute_respiratory_syndrome", 
+            "Pandemic", 
+            "Squad_Leader", 
+            "Aluminium", 
+            "Hotel", 
+            "Germany", 
+            "Questionnaire"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hype", 
+            "Influenza_vaccine", 
+            "Influenza_vaccine", 
+            "Influenza_vaccine"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Memorial_Day", 
+            "Soldier", 
+            "Brooklyn-Manhattan_Transit_Corporation", 
+            "Soldier", 
+            "Duck", 
+            "God", 
+            "Derelict", 
+            "God", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Pig"
+        ], 
+        "postID": 9
+    }
+]

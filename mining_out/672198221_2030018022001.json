@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "The_Kansas_City_Star", 
+            "Shirley,_London", 
+            "Westboro_Baptist_Church", 
+            "Kansas", 
+            "Kansas_City,_Missouri", 
+            "Website", 
+            "Law", 
+            "Funeral", 
+            "Suburb", 
+            "Federal_judge", 
+            "Kansas", 
+            "Gladstone,_Missouri", 
+            "Constitutionality", 
+            "Baptist", 
+            "Kansas_City,_Missouri", 
+            "Funeral", 
+            "CITY-TV", 
+            "Baptist", 
+            "Local_ordinance", 
+            "Law", 
+            "The_Kansas_City_Star", 
+            "Kansas", 
+            "Westboro_Baptist_Church", 
+            "Kansas_City,_Missouri", 
+            "Kansas", 
+            "Judge"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Funeral", 
+            "Kansas", 
+            "Law", 
+            "Fred_Phelps", 
+            "Belief", 
+            "1989", 
+            "Phelps_(village),_New_York", 
+            "Grief", 
+            "1979", 
+            "Extortion", 
+            "Phelps_(village),_New_York", 
+            "Permanently", 
+            "Marge_Simpson"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Phelps_(village),_New_York"
+        ], 
+        "postID": 5
+    }
+]

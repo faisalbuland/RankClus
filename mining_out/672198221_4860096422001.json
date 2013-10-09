@@ -1,0 +1,398 @@
+[
+    {
+        "entity": [
+            "Shower", 
+            "United_States_Department_of_Defense", 
+            "Virginia", 
+            "2008", 
+            "Baghdad", 
+            "Dix,_Illinois", 
+            "Mobilization", 
+            "Fort_Dix", 
+            "Army_National_Guard", 
+            "News_release", 
+            "Multinational_Force_Iraq", 
+            "National_Guard_of_the_United_States", 
+            "Military_police"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Latrine", 
+            "Quadrangle_(architecture)", 
+            "Microsoft_Windows", 
+            "Barracks", 
+            "Barracks", 
+            "Fraternization", 
+            "Bathing", 
+            "Bathing", 
+            "Dix,_Illinois", 
+            "Privacy", 
+            "Shower"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Western_Athletic_Conference", 
+            "Bomb", 
+            "Buddies_(TV_series)", 
+            "Member_of_Parliament", 
+            "Drill", 
+            "Jonathan_Coleman_(politician)", 
+            "Knickers", 
+            "Women's_Army_Corps_(United_States_Army)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Women's_Army_Corps_(United_States_Army)", 
+            "Sexism", 
+            "LOL"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "The_Ozarks", 
+            "The_Ozarks"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Digital_photography", 
+            "Photographic_film", 
+            "Digital_camera", 
+            "Instant_camera"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bathing", 
+            "Stall_(enclosure)", 
+            "Bathing"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Law", 
+            "Thomas_Jefferson", 
+            "NFL_Draft", 
+            "Juvenile_(rapper)", 
+            "Minor_(law)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Liberalism", 
+            "Iraq", 
+            "Malcontent", 
+            "United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "BM-21", 
+            "Law", 
+            "NFL_Draft", 
+            "Minor_(law)", 
+            "Juvenile_(rapper)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "May_31", 
+            "College", 
+            "Sun", 
+            "College", 
+            "Varangians", 
+            "Bank", 
+            "2009", 
+            "Thomas_Jefferson", 
+            "National_service"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Volunteer_military", 
+            "Armed_forces", 
+            "Conscription", 
+            "World_War_II", 
+            "Audie_Awards", 
+            "Bad_apples_excuse", 
+            "Apple", 
+            "Thomas_Jefferson", 
+            "Press_agent", 
+            "Soldier", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Current_Procedural_Terminology", 
+            "Audie_Murphy", 
+            "Bank", 
+            "Grad_(Slavic_settlement)", 
+            "NFL_Draft", 
+            "World_War_II", 
+            "Colonel", 
+            "Hollywood,_Los_Angeles,_California"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Audie_Awards", 
+            "Kingdom_of_Le\u00f3n"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Audie_Murphy", 
+            "Thomas_Jefferson", 
+            "Audie_Awards"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Army_Times_Publishing_Company", 
+            "Matt_Urban", 
+            "United_States_Army", 
+            "Audie_Awards"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Shower", 
+            "United_States_Department_of_Defense", 
+            "Virginia", 
+            "2008", 
+            "Baghdad", 
+            "Dix,_Illinois", 
+            "Mobilization", 
+            "Fort_Dix", 
+            "Army_National_Guard", 
+            "News_release", 
+            "Multinational_Force_Iraq", 
+            "National_Guard_of_the_United_States", 
+            "Military_police"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Latrine", 
+            "Quadrangle_(architecture)", 
+            "Microsoft_Windows", 
+            "Barracks", 
+            "Barracks", 
+            "Fraternization", 
+            "Bathing", 
+            "Bathing", 
+            "Dix,_Illinois", 
+            "Privacy", 
+            "Shower"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Western_Athletic_Conference", 
+            "Bomb", 
+            "Buddies_(TV_series)", 
+            "Member_of_Parliament", 
+            "Drill", 
+            "Jonathan_Coleman_(politician)", 
+            "Knickers", 
+            "Women's_Army_Corps_(United_States_Army)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Women's_Army_Corps_(United_States_Army)", 
+            "Sexism", 
+            "LOL"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "The_Ozarks", 
+            "The_Ozarks"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Digital_photography", 
+            "Photographic_film", 
+            "Digital_camera", 
+            "Instant_camera"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bathing", 
+            "Stall_(enclosure)", 
+            "Bathing"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Law", 
+            "Thomas_Jefferson", 
+            "NFL_Draft", 
+            "Juvenile_(rapper)", 
+            "Minor_(law)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Liberalism", 
+            "Iraq", 
+            "Malcontent", 
+            "United_States"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "BM-21", 
+            "Law", 
+            "NFL_Draft", 
+            "Minor_(law)", 
+            "Juvenile_(rapper)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "May_31", 
+            "College", 
+            "Sun", 
+            "College", 
+            "Varangians", 
+            "Bank", 
+            "2009", 
+            "Thomas_Jefferson", 
+            "National_service"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gospel_of_Matthew", 
+            "Volunteer_military", 
+            "Armed_forces", 
+            "Conscription", 
+            "World_War_II", 
+            "Audie_Awards", 
+            "Bad_apples_excuse", 
+            "Apple", 
+            "Thomas_Jefferson", 
+            "Press_agent", 
+            "Soldier", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Current_Procedural_Terminology", 
+            "Audie_Murphy", 
+            "Bank", 
+            "Grad_(Slavic_settlement)", 
+            "NFL_Draft", 
+            "World_War_II", 
+            "Colonel", 
+            "Hollywood,_Los_Angeles,_California"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Audie_Awards", 
+            "Kingdom_of_Le\u00f3n"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Audie_Murphy", 
+            "Thomas_Jefferson", 
+            "Audie_Awards"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Army_Times_Publishing_Company", 
+            "Matt_Urban", 
+            "United_States_Army", 
+            "Audie_Awards"
+        ], 
+        "postID": 40
+    }
+]

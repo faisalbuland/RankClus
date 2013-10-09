@@ -1,0 +1,97 @@
+[
+    {
+        "entity": [
+            "Snowball_fight", 
+            "Cent_(currency)", 
+            "Snowball", 
+            "The_Wall", 
+            "Diet_(nutrition)", 
+            "Debt", 
+            "New_York_City", 
+            "Hockey", 
+            "Global_warming", 
+            "The_Wall_Street_Journal", 
+            "Snow", 
+            "Soccer_mom", 
+            "Association_football", 
+            "Debt", 
+            "Association_football", 
+            "Energy", 
+            "Barack_Obama", 
+            "Brain", 
+            "The_Wall_Street_Journal", 
+            "New_York_City", 
+            "Police", 
+            "Police_car", 
+            "Wall_Street", 
+            "Snow", 
+            "Chain_store", 
+            "The_New_York_Times", 
+            "Barack_Obama", 
+            "Mythology", 
+            "Culture", 
+            "Snowbelt", 
+            "Snow"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Snow", 
+            "Beaufort,_North_Carolina", 
+            "Beaufort,_South_Carolina"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Lawn", 
+            "Atlanta,_Georgia"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Snow", 
+            "Snow", 
+            "Snow"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Solar_deity", 
+            "Star", 
+            "Star", 
+            "Barack_Obama", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Money_(magazine)", 
+            "George_W._Bush"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Member_of_Congress", 
+            "George_W._Bush", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 9
+    }
+]

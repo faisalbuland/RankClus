@@ -1,0 +1,66 @@
+[
+    {
+        "entity": [
+            "United_States_House_of_Representatives", 
+            "Tattoo", 
+            "2005"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "United_States_Air_Force"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Duck", 
+            "Derelict", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Waiver"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Tattoo"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tattoo"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "2005", 
+            "Tattoo", 
+            "Recruiter", 
+            "Commanding_officer", 
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Irezumi", 
+            "Irezumi", 
+            "Irezumi"
+        ], 
+        "postID": 8
+    }
+]

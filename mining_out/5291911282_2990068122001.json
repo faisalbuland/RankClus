@@ -1,0 +1,31 @@
+[
+    {
+        "entity": [
+            "Marketing", 
+            ".mil", 
+            "April_27", 
+            "United_States_Army", 
+            ".gov", 
+            "Mon_people", 
+            "United_States", 
+            "2009", 
+            "Mass_(liturgy)", 
+            "Atari_TOS", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marketing", 
+            "United_States", 
+            "United_States_Army", 
+            "2009", 
+            "United_States_Army", 
+            "Mon_people", 
+            "Mass_(liturgy)", 
+            "April_27"
+        ], 
+        "postID": 3
+    }
+]

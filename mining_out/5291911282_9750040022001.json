@@ -1,0 +1,98 @@
+[
+    {
+        "entity": [
+            "College", 
+            "Community_college", 
+            "Associate's_degree", 
+            "University", 
+            "Quincy_College"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "National_Guard_of_the_United_States", 
+            "Air_National_Guard", 
+            "Extra_(TV_series)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "National_Guard_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "University"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Scholarship", 
+            "Physical_fitness", 
+            "Reserve_Officers'_Training_Corps", 
+            "Campus", 
+            "Reserve_Officers'_Training_Corps", 
+            "College", 
+            "Reserve_Officers'_Training_Corps", 
+            "G.I._Bill", 
+            "Cadet", 
+            "Freedom_(political)", 
+            "Cadet", 
+            "Reserve_Officers'_Training_Corps", 
+            "Bachelor", 
+            "Knowledge_base", 
+            "PLUS_(interbank_network)", 
+            "Employee_benefit", 
+            "College", 
+            "PLUS_(interbank_network)", 
+            "Cadet", 
+            "Scholarship", 
+            "Bachelor", 
+            "Drill", 
+            "College", 
+            "Cadet", 
+            "Symmetric_multiprocessing", 
+            "Intern", 
+            "Placekicker", 
+            "Scholarship", 
+            "College", 
+            "WANT", 
+            "Military_Occupational_Specialty", 
+            "Symmetric_multiprocessing", 
+            "Physical_fitness", 
+            "Mirror"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Petty_Officer_1st_Class", 
+            "Glitch", 
+            "Chief_Petty_Officer", 
+            "United_States_Navy", 
+            "Treasure_Island_(California)", 
+            "Chief_Petty_Officer"
+        ], 
+        "postID": 9
+    }
+]

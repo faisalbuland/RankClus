@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "France", 
+            "Paris", 
+            "France", 
+            "Spain", 
+            "Africa"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Glory_(film)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "WADR", 
+            "History_of_the_United_States", 
+            "Buff_(colour)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Law", 
+            "Law", 
+            "Strike_action", 
+            "United_States", 
+            "1933", 
+            "United_States", 
+            "1948", 
+            "United_States", 
+            "!!!", 
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 5
+    }
+]

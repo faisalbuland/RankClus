@@ -1,0 +1,31 @@
+[
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Flag_officer", 
+            "Iraq", 
+            "Afghanistan", 
+            "Flag", 
+            "2003_invasion_of_Iraq", 
+            "Iraq", 
+            "2003_invasion_of_Iraq"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Plush", 
+            "ISAF", 
+            "Kandahar", 
+            "Afghanistan"
+        ], 
+        "postID": 3
+    }
+]

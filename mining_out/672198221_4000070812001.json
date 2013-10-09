@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "Sugar", 
+            "Blood_sugar", 
+            "Liver", 
+            "Blood", 
+            "Blood", 
+            "Liver", 
+            "Blood_sugar", 
+            "Glucose", 
+            "Diabetes_mellitus", 
+            "Diabetes_mellitus"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Juan_Ponce_de_Le\u00f3n", 
+            "Gastrointestinal_tract", 
+            "Hunger", 
+            "Diabetes_mellitus", 
+            "Diabetes_mellitus", 
+            "Heart_disease", 
+            "Panacea_(medicine)", 
+            "Kingdom_of_Le\u00f3n", 
+            "Stem_cell", 
+            "Plant_stem", 
+            "Chicken", 
+            "Chickenpox", 
+            "Wealth", 
+            "Ponce,_Puerto_Rico", 
+            "Poliomyelitis", 
+            "Cell_(biology)"
+        ], 
+        "postID": 2
+    }
+]

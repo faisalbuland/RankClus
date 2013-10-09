@@ -1,0 +1,380 @@
+[
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Boston,_Massachusetts", 
+            "Port_of_Boston", 
+            "United_States", 
+            "Tea", 
+            "Tea_bag", 
+            "Verb", 
+            "Barrel_(volume)", 
+            "Liberalism", 
+            "Tea", 
+            "11", 
+            "Tea", 
+            "Tea_bag", 
+            "Tea", 
+            "Tea", 
+            "Tea_party", 
+            "Salon.com", 
+            "Tea_bag"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chick"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Larry_Craig"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Lansing,_Michigan", 
+            "Tea", 
+            "Barack_Obama", 
+            "Tea_party", 
+            "Michigan"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Dirty_Sanchez_(TV_series)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "MSNBC", 
+            "CNN"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Adolf_Hitler"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Defile_(geography)", 
+            "England", 
+            "Liberalism", 
+            "Language"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Faux", 
+            "Stunt", 
+            "Newt", 
+            "Republican_Party_(United_States)", 
+            "Tea_party", 
+            "United_States", 
+            "Tea", 
+            "Wilderness", 
+            "Republican_Party_(United_States)", 
+            "Mexico"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Republicanism"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "The_Fox_and_the_Grapes", 
+            "Grape"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "VF-51"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Amnesty"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Trade_union"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Wow_(Kylie_Minogue_song)", 
+            "Closeted", 
+            "Closet"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Journalist", 
+            "Obscenity", 
+            "Irrationality"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Boston,_Massachusetts", 
+            "Port_of_Boston", 
+            "United_States", 
+            "Tea", 
+            "Tea_bag", 
+            "Verb", 
+            "Barrel_(volume)", 
+            "Liberalism", 
+            "Tea", 
+            "11", 
+            "Tea", 
+            "Tea_bag", 
+            "Tea", 
+            "Tea", 
+            "Tea_party", 
+            "Salon.com", 
+            "Tea_bag"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Chick"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Larry_Craig"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Lansing,_Michigan", 
+            "Tea", 
+            "Barack_Obama", 
+            "Tea_party", 
+            "Michigan"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Dirty_Sanchez_(TV_series)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "MSNBC", 
+            "CNN"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Adolf_Hitler"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Defile_(geography)", 
+            "England", 
+            "Liberalism", 
+            "Language"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Faux", 
+            "Stunt", 
+            "Newt", 
+            "Republican_Party_(United_States)", 
+            "Tea_party", 
+            "United_States", 
+            "Tea", 
+            "Wilderness", 
+            "Republican_Party_(United_States)", 
+            "Mexico"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Republicanism"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "The_Fox_and_the_Grapes", 
+            "Grape"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "VF-51"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Amnesty"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Trade_union"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Wow_(Kylie_Minogue_song)", 
+            "Closeted", 
+            "Closet"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Journalist", 
+            "Obscenity", 
+            "Irrationality"
+        ], 
+        "postID": 54
+    }
+]

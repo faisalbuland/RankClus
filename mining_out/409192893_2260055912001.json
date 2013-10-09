@@ -1,0 +1,262 @@
+[
+    {
+        "entity": [
+            "Korean_language", 
+            "Korean_Demilitarized_Zone", 
+            "1976", 
+            "Korean_Demilitarized_Zone"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "The_Stooges", 
+            "The_Three_Stooges_(video_game)", 
+            "Bank", 
+            "Three_Stooges"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Russians", 
+            "United_States_Congress", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Aktiengesellschaft_f\u00fcr_Flugzeugunternehmungen", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Hell", 
+            "Dollar", 
+            "Finger", 
+            "Deficit", 
+            "Mirror", 
+            "Neoconservatism", 
+            "Ronald_Reagan", 
+            "Republican_Party_(United_States)", 
+            "Mirror", 
+            "Ronald_Reagan", 
+            "Glenn_Beck", 
+            "Rush_(band)", 
+            "Glenn_Beck", 
+            "Rush_Limbaugh"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Chat_show", 
+            "Jimmy_Carter", 
+            "Radio_personality", 
+            "Ronald_Reagan", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Daily_Kos", 
+            "Tripe"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Economics", 
+            "Neoconservatism", 
+            "Voodoo", 
+            "Economy", 
+            "Republican_Party_(United_States)", 
+            "Trickle", 
+            "Supply-side_economics", 
+            "Economy", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Maroon_(color)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Wikipedia", 
+            "Cut,_copy,_and_paste"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "John_Galt_(novelist)", 
+            "Tax", 
+            "Cambridge,_Ontario", 
+            "Cambridge,_Ontario"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pocket_veto", 
+            "Entitlement", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Beef", 
+            "Beef", 
+            "Ronald_Reagan", 
+            "Hope,_Arkansas", 
+            "Economics", 
+            "President_of_the_United_States", 
+            "Nat_Adderley", 
+            "Veto", 
+            "Debt", 
+            "Veto", 
+            "United_States", 
+            "Third_World", 
+            "G20", 
+            "Debt", 
+            "United_States_Congress"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "Taxation_in_the_United_States", 
+            "Tax_haven"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "G20", 
+            "Capital_(architecture)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "American_Dream", 
+            "Socialism", 
+            "Socialism", 
+            "United_States", 
+            "Republic", 
+            "Translation", 
+            "Republic_of_China", 
+            "Communism", 
+            "Republic", 
+            "Democracy", 
+            "United_States_Constitution", 
+            "Communism", 
+            "Boss_(video_games)", 
+            "United_States", 
+            "Korea", 
+            "American_Dream", 
+            "Socialism", 
+            "Germany", 
+            "Bell_(instrument)", 
+            "East_Germany", 
+            "Rock_Star", 
+            "Communism", 
+            "Rock_music", 
+            "United_States", 
+            "Korea", 
+            "United_States_Constitution", 
+            "Germany", 
+            "1989", 
+            "American_Dream", 
+            "1917", 
+            "Chief_executive_officer", 
+            "Mikhail_Gorbachev", 
+            "Republic", 
+            "Left-wing_politics", 
+            "Star", 
+            "Russia", 
+            "Conservative_Party_(UK)", 
+            "People's_Republic_of_China", 
+            "Democracy", 
+            "Mikhail_Gorbachev", 
+            "United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Charlie_Chaplin", 
+            "Classics", 
+            "Chaplain", 
+            "Oliver_Hardy", 
+            "Marx_Brothers", 
+            "Marx_Brothers", 
+            "Karl_Marx", 
+            "Dictator", 
+            "The_Great_Dictator", 
+            "Comedy_film", 
+            "Stan_Laurel"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Music_recording_sales_certification"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Dope_(band)", 
+            "Film"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "Canada", 
+            "2009", 
+            "George_(band)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law", 
+            "Logic", 
+            "Creative_accounting", 
+            "Fly", 
+            "Accountant", 
+            "Accountancy", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "entity": [
+            "Colo,_Iowa", 
+            "United_States", 
+            "1999", 
+            "2009", 
+            "SWAT", 
+            "SWAT", 
+            "SWAT", 
+            "Police", 
+            "Richland_County,_Ohio", 
+            "Horror_film", 
+            "Eric_Harris", 
+            "Richland_County,_Ohio", 
+            "SWAT", 
+            "Columbine_High_School_massacre", 
+            "Police", 
+            "Police", 
+            "Eric_Harris_and_Dylan_Klebold", 
+            "Police", 
+            "United_States", 
+            "SWAT", 
+            "New_York", 
+            "SWAT", 
+            "Police", 
+            "Teacher", 
+            "Suicide", 
+            "Bleeding", 
+            "SWAT", 
+            "Columbine_High_School_massacre", 
+            "Bob_Dylan", 
+            "April_20", 
+            "Quarterback", 
+            "Counselor", 
+            "Hostage_crisis", 
+            "T-shirt", 
+            "Binghamton,_New_York", 
+            "Hostage", 
+            "Columbine_High_School", 
+            "SWAT", 
+            "Grief", 
+            "Tactics_(manga)", 
+            "Grief_counseling", 
+            "April_10", 
+            "SWAT", 
+            "SWAT", 
+            "SWAT", 
+            "Eric_Harris_and_Dylan_Klebold", 
+            "Science", 
+            "SWAT", 
+            "Coffee", 
+            "SWAT"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Blah", 
+            "Placeholder_name", 
+            "Trade_union", 
+            "Placeholder_name", 
+            "Blah", 
+            "Placeholder_name"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Hostage_crisis", 
+            "Hostage", 
+            "Police", 
+            "Drama", 
+            "Crackerjack", 
+            "Bank", 
+            "Bank_robbery", 
+            "Villain", 
+            "Police", 
+            "Crime", 
+            "Binghamton,_New_York", 
+            "Robbery", 
+            "Population"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Cell_(biology)", 
+            "Police"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Last_stand", 
+            "Outlaw", 
+            "Going_postal", 
+            "Insanity"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Burglar_alarm"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Television", 
+            "Law", 
+            "Columbine_High_School_massacre", 
+            "Police"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Airborne_forces", 
+            "United_States_Army"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Irwin,_Pennsylvania", 
+            "Internet_forum"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Crackerjack", 
+            "Population"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Bust_(sculpture)", 
+            "Wing", 
+            "Boss_(video_games)", 
+            "Micromanagement", 
+            "Boss_(video_games)", 
+            "Right-wing_politics", 
+            "Hell"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Police", 
+            "Ammunition", 
+            "Diebold", 
+            "Panic", 
+            "Police", 
+            "Police", 
+            "Explosive_material", 
+            "Police", 
+            "Columbine_High_School_massacre", 
+            "Salient", 
+            "Posture"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Columbine_High_School_massacre", 
+            "Posture", 
+            "Logic", 
+            "Police", 
+            "Salient", 
+            "Police", 
+            "Police", 
+            "Panic", 
+            "Mass", 
+            "Police"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Wounded_Knee_Massacre", 
+            "Suicide", 
+            "Waterfowl_hunting", 
+            "Duck", 
+            "Moran,_Kansas", 
+            "Garage_rock", 
+            "Western_Bug", 
+            "Hunting", 
+            "Emotion", 
+            "United_States", 
+            "Al_Capone"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Poster"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Colo,_Iowa", 
+            "United_States", 
+            "1999", 
+            "2009", 
+            "SWAT", 
+            "SWAT", 
+            "SWAT", 
+            "Police", 
+            "Richland_County,_Ohio", 
+            "Horror_film", 
+            "Eric_Harris", 
+            "Richland_County,_Ohio", 
+            "SWAT", 
+            "Columbine_High_School_massacre", 
+            "Police", 
+            "Police", 
+            "Eric_Harris_and_Dylan_Klebold", 
+            "Police", 
+            "United_States", 
+            "SWAT", 
+            "New_York", 
+            "SWAT", 
+            "Police", 
+            "Teacher", 
+            "Suicide", 
+            "Bleeding", 
+            "SWAT", 
+            "Columbine_High_School_massacre", 
+            "Bob_Dylan", 
+            "April_20", 
+            "Quarterback", 
+            "Counselor", 
+            "Hostage_crisis", 
+            "T-shirt", 
+            "Binghamton,_New_York", 
+            "Hostage", 
+            "Columbine_High_School", 
+            "SWAT", 
+            "Grief", 
+            "Tactics_(manga)", 
+            "Grief_counseling", 
+            "April_10", 
+            "SWAT", 
+            "SWAT", 
+            "SWAT", 
+            "Eric_Harris_and_Dylan_Klebold", 
+            "Science", 
+            "SWAT", 
+            "Coffee", 
+            "SWAT"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Blah", 
+            "Placeholder_name", 
+            "Trade_union", 
+            "Placeholder_name", 
+            "Blah", 
+            "Placeholder_name"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Hostage_crisis", 
+            "Hostage", 
+            "Police", 
+            "Drama", 
+            "Crackerjack", 
+            "Bank", 
+            "Bank_robbery", 
+            "Villain", 
+            "Police", 
+            "Crime", 
+            "Binghamton,_New_York", 
+            "Robbery", 
+            "Population"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Cell_(biology)", 
+            "Police"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Last_stand", 
+            "Outlaw", 
+            "Going_postal", 
+            "Insanity"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Burglar_alarm"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Television", 
+            "Law", 
+            "Columbine_High_School_massacre", 
+            "Police"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Airborne_forces", 
+            "United_States_Army"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Irwin,_Pennsylvania", 
+            "Internet_forum"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Crackerjack", 
+            "Population"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Bust_(sculpture)", 
+            "Wing", 
+            "Boss_(video_games)", 
+            "Micromanagement", 
+            "Boss_(video_games)", 
+            "Right-wing_politics", 
+            "Hell"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Police", 
+            "Ammunition", 
+            "Diebold", 
+            "Panic", 
+            "Police", 
+            "Police", 
+            "Explosive_material", 
+            "Police", 
+            "Columbine_High_School_massacre", 
+            "Salient", 
+            "Posture"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Columbine_High_School_massacre", 
+            "Posture", 
+            "Logic", 
+            "Police", 
+            "Salient", 
+            "Police", 
+            "Police", 
+            "Panic", 
+            "Mass", 
+            "Police"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Wounded_Knee_Massacre", 
+            "Suicide", 
+            "Waterfowl_hunting", 
+            "Duck", 
+            "Moran,_Kansas", 
+            "Garage_rock", 
+            "Western_Bug", 
+            "Hunting", 
+            "Emotion", 
+            "United_States", 
+            "Al_Capone"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Poster"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

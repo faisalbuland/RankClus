@@ -1,0 +1,126 @@
+[
+    {
+        "entity": [
+            "Mortgage", 
+            "Credit_card", 
+            "Foreclosure", 
+            "Hope,_British_Columbia", 
+            "LOT_Polish_Airlines", 
+            "Foreclosure", 
+            "Credit_card", 
+            "Economy_of_the_United_States", 
+            "Real_estate", 
+            "Economy_of_the_United_States", 
+            "Securitization", 
+            "Mortgage", 
+            "Hell", 
+            "Subprime_mortgage_crisis"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Nathan_Banks", 
+            "Book_of_Job"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Chief_executive_officer", 
+            "Credit_card"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Lump_sum", 
+            "Credit_card", 
+            "Interest", 
+            "Law", 
+            "Accept"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Screw"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Heater", 
+            "Trade_union", 
+            "Major_appliance", 
+            "Credit_union", 
+            "Refrigerator", 
+            "Bank", 
+            "Major"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Motel", 
+            "Waiting_staff", 
+            "Four_Horsemen_of_the_Apocalypse", 
+            "Restaurant"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Credit_card", 
+            "Fault_(geology)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Reform_Act_1832", 
+            "Associated_Press", 
+            "Fine_print", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Headache", 
+            "Benefactive_case", 
+            "William_Feller", 
+            "April_23", 
+            "Associated_Press"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tank", 
+            "Gas"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Barack_Obama", 
+            "Inflation", 
+            "Barack_Obama", 
+            "Inflation"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 13
+    }
+]

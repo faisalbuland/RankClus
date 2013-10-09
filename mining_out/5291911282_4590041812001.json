@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Brazil", 
+            "Iraq", 
+            "Brazil", 
+            "God", 
+            "United_States_Department_of_Defense", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "George_W._Bush", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Thread_(computer_science)", 
+            "Marmot", 
+            "Area_51", 
+            "Marmot", 
+            "Quantum", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mississippi"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Hawaii", 
+            "Mississippi"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Kenya", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 9
+    }
+]

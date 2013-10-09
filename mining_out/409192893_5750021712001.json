@@ -1,0 +1,170 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Surgery", 
+            "Medicine", 
+            "Nevermind", 
+            "Surgeon_General"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tax_avoidance_and_tax_evasion", 
+            "Cabinet", 
+            "Tax"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cabinet", 
+            "United_States_Congress", 
+            "Lobbying"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Middle_class", 
+            "United_States_dollar", 
+            "Duty-free_shop", 
+            "Internal_Revenue_Service", 
+            "Tax", 
+            "Middle_class", 
+            "Expense_Account", 
+            "Tax_rate", 
+            "United_States", 
+            "Tax", 
+            "History_of_the_United_States", 
+            "Government_debt", 
+            "Tax", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Tax", 
+            "Perception", 
+            "Social_welfare_provision"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Barack_Obama", 
+            "United_States_Department_of_the_Treasury"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "States_and_territories_of_India", 
+            "Gender", 
+            "Mental_status_examination"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States_nationality_law", 
+            "United_States", 
+            "United_States_nationality_law"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States_nationality_law", 
+            "United_States_Constitution", 
+            "Citizenship", 
+            "United_States", 
+            "Conscription", 
+            "Community_service"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Poll_tax", 
+            "Tax", 
+            "Constitution", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barter"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Tax", 
+            "Unemployment_benefits", 
+            "Felony", 
+            "Iraq", 
+            "Tax_avoidance_and_tax_evasion", 
+            "Unemployment_benefits", 
+            "Felony", 
+            "Jobseeker's_Allowance", 
+            "Stan_Marsh", 
+            "Jobseeker's_Allowance"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "Property_tax", 
+            "Medicare_(United_States)", 
+            "Extraterrestrial_life", 
+            "Fast_food", 
+            "Social_Security_(United_States)"
+        ], 
+        "postID": 20
+    }
+]

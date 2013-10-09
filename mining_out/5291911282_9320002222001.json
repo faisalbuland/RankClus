@@ -1,0 +1,326 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "!!!"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Taco_Bell", 
+            "Taco"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Kansas", 
+            "Virus", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Mutation", 
+            "Pig", 
+            "Swine_flu", 
+            "Virus", 
+            "Type_A_and_Type_B_personality_theory", 
+            "Influenza_A_virus_subtype_H1N1"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Influenza"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Imagine_(song)", 
+            "Ghost", 
+            "John_Lennon"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Paw", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bark", 
+            "Bark"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Influenza", 
+            "Barack_Obama", 
+            "God", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "FTX", 
+            "Sorry_(Madonna_song)", 
+            "Influenza", 
+            "Flue", 
+            "Planet", 
+            "Transmission_(medicine)", 
+            "Influenza", 
+            "Virus", 
+            "Influenza", 
+            "Software_bug", 
+            "Mutation", 
+            "Desertion", 
+            "Equator", 
+            "Flu_season", 
+            "Encore_(concert)", 
+            "Vaccine"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "District", 
+            "School_district", 
+            "Mexico", 
+            "Pig", 
+            "!!!", 
+            "Influenza", 
+            "Mexico", 
+            "Utah", 
+            "Influenza"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Moe_(slang)", 
+            "Pig", 
+            "Influenza", 
+            "Pig", 
+            "Islam", 
+            "Pig"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "!!!"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Taco_Bell", 
+            "Taco"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Kansas", 
+            "Virus", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Mutation", 
+            "Pig", 
+            "Swine_flu", 
+            "Virus", 
+            "Type_A_and_Type_B_personality_theory", 
+            "Influenza_A_virus_subtype_H1N1"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Influenza"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Imagine_(song)", 
+            "Ghost", 
+            "John_Lennon"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Paw", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Bark", 
+            "Bark"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Influenza", 
+            "Barack_Obama", 
+            "God", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "FTX", 
+            "Sorry_(Madonna_song)", 
+            "Influenza", 
+            "Flue", 
+            "Planet", 
+            "Transmission_(medicine)", 
+            "Influenza", 
+            "Virus", 
+            "Influenza", 
+            "Software_bug", 
+            "Mutation", 
+            "Desertion", 
+            "Equator", 
+            "Flu_season", 
+            "Encore_(concert)", 
+            "Vaccine"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "District", 
+            "School_district", 
+            "Mexico", 
+            "Pig", 
+            "!!!", 
+            "Influenza", 
+            "Mexico", 
+            "Utah", 
+            "Influenza"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Moe_(slang)", 
+            "Pig", 
+            "Influenza", 
+            "Pig", 
+            "Islam", 
+            "Pig"
+        ], 
+        "postID": 40
+    }
+]

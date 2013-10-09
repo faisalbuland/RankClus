@@ -1,0 +1,72 @@
+[
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "NBC", 
+            "Whale"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Pontiac_Correctional_Center", 
+            "Pontiac,_Illinois", 
+            "National_Institute_of_Standards_and_Technology"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Judge"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Illinois", 
+            "Judge"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Enhancer_(genetics)", 
+            "Political_party", 
+            "!!!"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Spitzer", 
+            "Attorney_General", 
+            "List_of_Governors_of_New_York", 
+            "Eliot_Spitzer"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Dude", 
+            "Train_wreck"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "The_View"
+        ], 
+        "postID": 12
+    }
+]

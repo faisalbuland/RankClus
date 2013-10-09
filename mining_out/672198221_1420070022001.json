@@ -1,0 +1,1311 @@
+[
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 100
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 101
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 102
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 103
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 104
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 105
+    }, 
+    {
+        "entity": [], 
+        "postID": 106
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 107
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 108
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 109
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 110
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 111
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 112
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 114
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 116
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 117
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 118
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 119
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 120
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "White_American", 
+            "Native_Americans_in_the_United_States", 
+            "Alaska_Natives", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Mass", 
+            "Pediatrics", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ethnic_group", 
+            "Mass", 
+            "Body_weight", 
+            "Body_mass_index", 
+            "Body_weight", 
+            "Alaska_Natives", 
+            "Hispanic", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Native_Americans_in_the_United_States", 
+            "Obesity", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "2005", 
+            "Sampling_(music)", 
+            "Body_mass_index", 
+            "2001", 
+            "Asian_people", 
+            "Medicine", 
+            "African_American"
+        ], 
+        "postID": 121
+    }, 
+    {
+        "entity": [
+            "Cheeseburger", 
+            "French_fries", 
+            "Surrey_Iron_Railway", 
+            "Bacon", 
+            "Cheeseburger"
+        ], 
+        "postID": 122
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Diet_(nutrition)", 
+            "Coke_(fuel)", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 123
+    }, 
+    {
+        "entity": [
+            "Cupcake", 
+            "United_States"
+        ], 
+        "postID": 124
+    }, 
+    {
+        "entity": [
+            "Sin", 
+            "Poison", 
+            "Tobacco_smoking", 
+            "Mackintosh", 
+            "Tax"
+        ], 
+        "postID": 125
+    }, 
+    {
+        "entity": [], 
+        "postID": 126
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 127
+    }, 
+    {
+        "entity": [
+            "Cally_Henderson_Tyrol", 
+            "Fast_food", 
+            "Tobacco_smoking", 
+            "Middle_man", 
+            "Fast_food", 
+            "Organic_food", 
+            "Organic_farming", 
+            "Garden"
+        ], 
+        "postID": 128
+    }, 
+    {
+        "entity": [
+            "Gardening"
+        ], 
+        "postID": 129
+    }, 
+    {
+        "entity": [
+            "Fast_food"
+        ], 
+        "postID": 130
+    }, 
+    {
+        "entity": [
+            "Farm", 
+            "He_(letter)", 
+            "Earthquake", 
+            "California", 
+            "London"
+        ], 
+        "postID": 131
+    }, 
+    {
+        "entity": [
+            "Beagle", 
+            "Rabbit", 
+            "Fast_food"
+        ], 
+        "postID": 132
+    }, 
+    {
+        "entity": [
+            "Food_energy", 
+            "Food_energy", 
+            "Steak", 
+            "Law", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "New_York", 
+            "1200", 
+            "Round_steak", 
+            "Food_energy", 
+            "Photograph"
+        ], 
+        "postID": 134
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "LOL"
+        ], 
+        "postID": 136
+    }, 
+    {
+        "entity": [
+            "Potato_chip", 
+            "Cookie", 
+            "Shopping_cart", 
+            "Tobacco_smoking", 
+            "Cupcake", 
+            "Disability", 
+            "Potato", 
+            "Cart", 
+            "Aisle", 
+            "Jam_session", 
+            "Traffic_congestion", 
+            "Obesity"
+        ], 
+        "postID": 137
+    }, 
+    {
+        "entity": [
+            "Lease"
+        ], 
+        "postID": 138
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Traffic_congestion", 
+            "Deli", 
+            "Jam_session"
+        ], 
+        "postID": 139
+    }, 
+    {
+        "entity": [
+            "Humerus", 
+            "Skeletal_muscle", 
+            "Obese_Records"
+        ], 
+        "postID": 140
+    }
+]

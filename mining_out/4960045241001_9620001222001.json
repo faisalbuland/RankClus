@@ -1,0 +1,32 @@
+[
+    {
+        "entity": [
+            "Brain", 
+            "Brain", 
+            "Emotion", 
+            "Brainwashing", 
+            "Internalization", 
+            "Brain", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sovereignty", 
+            "State"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bleach", 
+            "Textile", 
+            "Brain", 
+            "Water", 
+            "Wash", 
+            "Fabric_softener"
+        ], 
+        "postID": 3
+    }
+]

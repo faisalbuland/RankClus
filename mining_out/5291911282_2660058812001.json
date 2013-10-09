@@ -1,0 +1,474 @@
+[
+    {
+        "entity": [
+            "Nerve", 
+            "Pain", 
+            "Pain", 
+            "Nerve", 
+            "Nerve_injury", 
+            "Brain", 
+            "Spinal_cord", 
+            "Snowboarding", 
+            "Analgesic", 
+            "Nerve", 
+            "Testicle", 
+            "Skin", 
+            "White-collar_worker", 
+            "Physician", 
+            "Medication", 
+            "Medication", 
+            "Surfing", 
+            "Electric_current", 
+            "Stimming", 
+            "Pain", 
+            "Wire", 
+            "Pain"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Short_circuit", 
+            "Good_Luck", 
+            "Electrical_network", 
+            "Stimming", 
+            "Pain"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Firearm", 
+            "Pain", 
+            "Medication", 
+            "!!!", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Morphine"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Surgery", 
+            "Bone", 
+            "Upper_back_pain", 
+            "Scapula", 
+            "Pain", 
+            "Nerve", 
+            "Tylenol", 
+            "7", 
+            "Pain", 
+            "Surgery", 
+            "Nerve", 
+            "Regions_of_France", 
+            "Pain", 
+            "Surgery", 
+            "Back_pain", 
+            "Surgery", 
+            "Inch", 
+            "Scar", 
+            "Bone", 
+            "Surgery", 
+            "Surgery", 
+            "Sciatic_nerve", 
+            "Arthritis"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hydromorphone", 
+            "Pint", 
+            "Hydromorphone", 
+            "Morphine"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Back_pain", 
+            "Physician", 
+            "Pain", 
+            "England"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Character_theory", 
+            "MEB", 
+            "Physician", 
+            "Physician", 
+            "Commander", 
+            "Case_management", 
+            "Warrior", 
+            "Interference", 
+            "Company_Commander"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Duck", 
+            "God"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Vic", 
+            "Transcutaneous_Electrical_Nerve_Stimulator"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bone_fracture", 
+            "Twin", 
+            "Data_compression", 
+            "Vertebra", 
+            "Bone_fracture"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Nerve", 
+            "Nerve_injury", 
+            "Pain", 
+            "Bulb", 
+            "Diluent", 
+            "Nerve", 
+            "Fentanyl", 
+            "Google", 
+            "Rib", 
+            "Dude_(musical)", 
+            "Vertebra", 
+            "Incandescent_light_bulb", 
+            "Adverse_drug_reaction"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Tooth", 
+            "Mandibular_third_molar", 
+            "Pain"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Vermiform_appendix", 
+            "Tooth", 
+            "Dentistry", 
+            "Atherosclerosis", 
+            "Rheumatoid_arthritis", 
+            "Dentistry", 
+            "Inflammation", 
+            "Tooth", 
+            "Inflammation", 
+            "Tooth", 
+            "Quarterback_sack", 
+            "Surgery", 
+            "Tumor", 
+            "Tooth", 
+            "Myocardial_infarction", 
+            "Tooth"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Back_pain", 
+            "Pain", 
+            "Disability", 
+            "Disease"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Aviator", 
+            "Nursing_school", 
+            "Helicopter", 
+            "Nursing"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "Pain", 
+            "Pain", 
+            "Nerve", 
+            "Nerve_injury", 
+            "Brain", 
+            "Spinal_cord", 
+            "Snowboarding", 
+            "Analgesic", 
+            "Nerve", 
+            "Testicle", 
+            "Skin", 
+            "White-collar_worker", 
+            "Physician", 
+            "Medication", 
+            "Medication", 
+            "Surfing", 
+            "Electric_current", 
+            "Stimming", 
+            "Pain", 
+            "Wire", 
+            "Pain"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Short_circuit", 
+            "Good_Luck", 
+            "Electrical_network", 
+            "Stimming", 
+            "Pain"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Firearm", 
+            "Pain", 
+            "Medication", 
+            "!!!", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Morphine"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Surgery", 
+            "Bone", 
+            "Upper_back_pain", 
+            "Scapula", 
+            "Pain", 
+            "Nerve", 
+            "Tylenol", 
+            "7", 
+            "Pain", 
+            "Surgery", 
+            "Nerve", 
+            "Regions_of_France", 
+            "Pain", 
+            "Surgery", 
+            "Back_pain", 
+            "Surgery", 
+            "Inch", 
+            "Scar", 
+            "Bone", 
+            "Surgery", 
+            "Surgery", 
+            "Sciatic_nerve", 
+            "Arthritis"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Hydromorphone", 
+            "Pint", 
+            "Hydromorphone", 
+            "Morphine"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Back_pain", 
+            "Physician", 
+            "Pain", 
+            "England"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Character_theory", 
+            "MEB", 
+            "Physician", 
+            "Physician", 
+            "Commander", 
+            "Case_management", 
+            "Warrior", 
+            "Interference", 
+            "Company_Commander"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Duck", 
+            "God"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Vic", 
+            "Transcutaneous_Electrical_Nerve_Stimulator"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Bone_fracture", 
+            "Twin", 
+            "Data_compression", 
+            "Vertebra", 
+            "Bone_fracture"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Nerve", 
+            "Nerve_injury", 
+            "Pain", 
+            "Bulb", 
+            "Diluent", 
+            "Nerve", 
+            "Fentanyl", 
+            "Google", 
+            "Rib", 
+            "Dude_(musical)", 
+            "Vertebra", 
+            "Incandescent_light_bulb", 
+            "Adverse_drug_reaction"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Tooth", 
+            "Mandibular_third_molar", 
+            "Pain"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Vermiform_appendix", 
+            "Tooth", 
+            "Dentistry", 
+            "Atherosclerosis", 
+            "Rheumatoid_arthritis", 
+            "Dentistry", 
+            "Inflammation", 
+            "Tooth", 
+            "Inflammation", 
+            "Tooth", 
+            "Quarterback_sack", 
+            "Surgery", 
+            "Tumor", 
+            "Tooth", 
+            "Myocardial_infarction", 
+            "Tooth"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Back_pain", 
+            "Pain", 
+            "Disability", 
+            "Disease"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Aviator", 
+            "Nursing_school", 
+            "Helicopter", 
+            "Nursing"
+        ], 
+        "postID": 40
+    }
+]

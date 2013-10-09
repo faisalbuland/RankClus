@@ -1,0 +1,49 @@
+[
+    {
+        "entity": [
+            "Orange_(colour)", 
+            "Hope,_British_Columbia", 
+            "Agent_Orange", 
+            "Orange_(colour)", 
+            "Agent_Orange", 
+            "Soldier"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Agent_Orange", 
+            "United_States_Army", 
+            "Agent_Orange", 
+            "Orange_(colour)", 
+            "Agent_Orange", 
+            "Orange_(colour)", 
+            "Google", 
+            "Bipolar_disorder", 
+            "Orange_(colour)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Agent_Orange", 
+            "Orange,_California"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 6
+    }
+]

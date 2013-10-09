@@ -1,0 +1,428 @@
+[
+    {
+        "entity": [
+            "2009", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Sun", 
+            "Johann_Wolfgang_von_Goethe", 
+            "April_12"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "40th_Canadian_federal_election", 
+            "Gorgias_(general)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "NASCAR", 
+            "Joseph_Stalin", 
+            "Georgia_(U.S._state)", 
+            "National_security"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Birth_certificate", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Canadian_federal_election,_2004", 
+            "United_States_Constitution", 
+            "Canadian_federal_election,_2004", 
+            "Clown", 
+            "United_States_Constitution", 
+            "United_States", 
+            "George_W._Bush", 
+            "Georgia_(U.S._state)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pink", 
+            "Code_Pink"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "George_W._Bush", 
+            "Clown", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Georgia_(country)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Georgia_(U.S._state)", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Canadian_federal_election,_1980", 
+            "Bias"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Southern_United_States", 
+            "George_W._Bush", 
+            "United_States_Constitution", 
+            "Impeachment", 
+            "United_States_Constitution"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "United_States_Constitution"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Union", 
+            "Abraham_Lincoln", 
+            "President_of_the_United_States", 
+            "Philadelphia_Convention", 
+            "Southern_United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Canadian_federal_election,_1980", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "United_States_Constitution", 
+            "Georgia_(U.S._state)_Constitution", 
+            "Georgia_(U.S._state)", 
+            "President_of_the_United_States", 
+            "Democracy", 
+            "United_States_presidential_line_of_succession"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2003", 
+            "George_W._Bush", 
+            "Election", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "President_of_Georgia", 
+            "Georgia_(country)", 
+            "Georgia_(country)", 
+            "Insanity", 
+            "Georgia_(country)", 
+            "Georgians", 
+            "Russia", 
+            "Georgia_(country)", 
+            "Illusion", 
+            "France", 
+            "Homelessness", 
+            "Military_of_Georgia", 
+            "State", 
+            "United_States", 
+            "Georgia_(country)", 
+            "Bear", 
+            "Abkhazia", 
+            "Ukraine", 
+            "Tyrant", 
+            "Ogaden_War", 
+            "South_Ossetia", 
+            "Independence", 
+            "Georgians", 
+            "Mikheil_Saakashvili", 
+            "Prison", 
+            "Moldova", 
+            "Greece", 
+            "Soviet_Union", 
+            "Mikheil_Saakashvili"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Sun", 
+            "Johann_Wolfgang_von_Goethe", 
+            "April_12"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "40th_Canadian_federal_election", 
+            "Gorgias_(general)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "NASCAR", 
+            "Joseph_Stalin", 
+            "Georgia_(U.S._state)", 
+            "National_security"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Birth_certificate", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Canadian_federal_election,_2004", 
+            "United_States_Constitution", 
+            "Canadian_federal_election,_2004", 
+            "Clown", 
+            "United_States_Constitution", 
+            "United_States", 
+            "George_W._Bush", 
+            "Georgia_(U.S._state)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Pink", 
+            "Code_Pink"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "George_W._Bush", 
+            "Clown", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Georgia_(country)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Georgia_(U.S._state)", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Canadian_federal_election,_1980", 
+            "Bias"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Southern_United_States", 
+            "George_W._Bush", 
+            "United_States_Constitution", 
+            "Impeachment", 
+            "United_States_Constitution"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "United_States_Constitution"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Union", 
+            "Abraham_Lincoln", 
+            "President_of_the_United_States", 
+            "Philadelphia_Convention", 
+            "Southern_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Canadian_federal_election,_1980", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "United_States_Constitution", 
+            "Georgia_(U.S._state)_Constitution", 
+            "Georgia_(U.S._state)", 
+            "President_of_the_United_States", 
+            "Democracy", 
+            "United_States_presidential_line_of_succession"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2003", 
+            "George_W._Bush", 
+            "Election", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "President_of_Georgia", 
+            "Georgia_(country)", 
+            "Georgia_(country)", 
+            "Insanity", 
+            "Georgia_(country)", 
+            "Georgians", 
+            "Russia", 
+            "Georgia_(country)", 
+            "Illusion", 
+            "France", 
+            "Homelessness", 
+            "Military_of_Georgia", 
+            "State", 
+            "United_States", 
+            "Georgia_(country)", 
+            "Bear", 
+            "Abkhazia", 
+            "Ukraine", 
+            "Tyrant", 
+            "Ogaden_War", 
+            "South_Ossetia", 
+            "Independence", 
+            "Georgians", 
+            "Mikheil_Saakashvili", 
+            "Prison", 
+            "Moldova", 
+            "Greece", 
+            "Soviet_Union", 
+            "Mikheil_Saakashvili"
+        ], 
+        "postID": 38
+    }
+]

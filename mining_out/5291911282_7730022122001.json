@@ -1,0 +1,57 @@
+[
+    {
+        "entity": [
+            "Weight_loss"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Junk_(ship)", 
+            "Junk_food", 
+            "Confectionery"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "D._V._Gundappa", 
+            "Internet_forum", 
+            "Physician", 
+            "Soldier", 
+            "Forum_moderator", 
+            "God", 
+            "Internet_forum", 
+            "Derelict", 
+            "Duck", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Doctor_of_Medicine", 
+            "Food_faddism", 
+            "Fads_and_trends", 
+            "Physician", 
+            "Horse_trainer", 
+            "Personal_trainer", 
+            "Diet_(nutrition)", 
+            "Infomercial", 
+            "Nutritionist"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Confidence_trick"
+        ], 
+        "postID": 6
+    }
+]

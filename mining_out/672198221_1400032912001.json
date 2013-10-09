@@ -1,0 +1,105 @@
+[
+    {
+        "entity": [
+            "Shame"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Automated_teller_machine", 
+            "Sweater", 
+            "ATM_card", 
+            "Zipper", 
+            "Camera"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mass_(liturgy)", 
+            "Truck", 
+            "Hampshire", 
+            "Pooch", 
+            "New_Hampshire"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Suspect"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Hospital", 
+            "Police", 
+            ".45_ACP", 
+            "Hanalei", 
+            ".45_ACP", 
+            "Jaw", 
+            "Rapping", 
+            "Truck", 
+            "Dirtbag", 
+            "Heel_(professional_wrestling)", 
+            "Tooth", 
+            "Hawaii", 
+            "Trance_music", 
+            ".38_Special", 
+            "Handgun", 
+            "Stoned_(film)", 
+            "Truck", 
+            "9-1-1", 
+            "ACP_countries", 
+            "Rib", 
+            "Tourism", 
+            "Nose", 
+            "Tempe,_Arizona", 
+            "Police", 
+            "Dirtbag", 
+            "Parking_lot", 
+            "Power_outage", 
+            "Git_(software)", 
+            "Police_officer", 
+            "Scoop_(term)", 
+            "Cheek", 
+            "Cowboy_boot", 
+            "Cowboy", 
+            "Dirtbag", 
+            "Police", 
+            "Hell", 
+            "Bystander_(magazine)", 
+            "Bone", 
+            "Hanalei", 
+            "Town", 
+            "Truck", 
+            "Rib"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Sean_Hannity", 
+            "Safety_(American_football)", 
+            "All-news_radio", 
+            "Fox_Broadcasting_Company", 
+            "Central_Park", 
+            "Fox_News_Channel", 
+            "Police", 
+            "Central_Park", 
+            "Police"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_Kingdom", 
+            "British_nationality_law", 
+            "United_Kingdom"
+        ], 
+        "postID": 7
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "entity": [
+            "Hello_(Lionel_Richie_song)", 
+            "Education", 
+            "United_States_Air_Force", 
+            "United_States", 
+            "Post_office", 
+            "Education"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Internet_forum"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dispositional_affect", 
+            "Swimming", 
+            "Gulf_War", 
+            "Patriotism", 
+            "Swimming_pool", 
+            "Teacher", 
+            "Wrestling", 
+            "Marriage", 
+            "Association_football", 
+            "Gibraltar", 
+            "Tennis", 
+            "TDY", 
+            "Storm_(Marvel_Comics)", 
+            "United_States_Army", 
+            "Veterans_Day", 
+            "United_States_Military_Academy", 
+            "Boot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "Duck", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Mail", 
+            "Texas", 
+            "10_Years", 
+            "United_States_Postal_Service"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Michael_Brendli"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "SIL_International", 
+            "God", 
+            "Brooklyn-Manhattan_Transit_Corporation", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "God", 
+            "Derelict", 
+            "United_States_Army", 
+            "World_War_II", 
+            "Soldier", 
+            "Duck"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Basic_Allowance_for_Housing", 
+            "Belt_alternator_starter", 
+            "United_States_Postal_Service", 
+            "Active_duty"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Utility", 
+            "0_(number)", 
+            "Mortgage", 
+            "0_(number)", 
+            "Perspiration", 
+            "Heat"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "United_States", 
+            "Scouting", 
+            "Lackland_Air_Force_Base", 
+            "Church_service", 
+            "Recruiter", 
+            "House_work", 
+            "Wedding", 
+            "Military_of_the_United_States", 
+            "Drill", 
+            "1630", 
+            "Recruit_training", 
+            "Birthday", 
+            "Little_League_Baseball", 
+            "Grocery_store", 
+            "Grief", 
+            "Post_office", 
+            "The_Reason_(Hoobastank_song)", 
+            "United_States_Air_Force", 
+            "Mobile_phone", 
+            "Cell_(microprocessor)", 
+            "United_States_Constitution", 
+            "Statistic", 
+            "Ton", 
+            "College", 
+            "Divorce", 
+            "Recruiter", 
+            "Cub_Scout", 
+            "Cub_Scout", 
+            "United_States", 
+            "Difficulty_level", 
+            "Quart", 
+            "Reason_(magazine)", 
+            "Texas", 
+            "Thread_(Pern)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Sargeant"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 19
+    }
+]

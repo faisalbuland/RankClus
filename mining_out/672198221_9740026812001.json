@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Exit_strategy", 
+            "United_States", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "CBS", 
+            "United_States", 
+            "Exit_strategy", 
+            "President_of_the_United_States", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "60_Minutes", 
+            "Barack_Obama", 
+            "Exit_strategy", 
+            "Afghanistan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "God", 
+            "Iraq", 
+            "Glove", 
+            "Thomas_Jefferson", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Harvard_University"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Turkish_people"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Scottish_Football_Association", 
+            "Barack_Obama", 
+            "Long_War_(Ottoman_wars)"
+        ], 
+        "postID": 8
+    }
+]

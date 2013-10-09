@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Ban_(title)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "Asia"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Epitome", 
+            "National_treasure"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Baptist", 
+            "VietNam_(Band)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Far_right", 
+            "Wing", 
+            "Sexually_transmitted_disease", 
+            "Prostitution", 
+            "Inoculation", 
+            "Extremism", 
+            "Right-wing_politics", 
+            "Karaoke"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Kenny_McCormick", 
+            "Blues", 
+            "Karaoke", 
+            "Singing", 
+            "Kick", 
+            "Loose_(album)", 
+            "Japan"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Prostitution", 
+            "Sarcasm"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Health_care", 
+            "Karaoke", 
+            "!!!", 
+            "Democratic_Party_(United_States)", 
+            "Retirement", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "Vietnam", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "John_Kerry", 
+            "John_Kerry", 
+            "Military_of_the_United_States", 
+            "Bill_Clinton"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Karaoke", 
+            "Karaoke", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 10
+    }
+]

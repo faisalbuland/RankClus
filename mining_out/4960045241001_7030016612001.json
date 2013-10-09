@@ -1,0 +1,52 @@
+[
+    {
+        "entity": [
+            "Terrorism", 
+            "Aircraft_hijacking", 
+            "John_F._Kennedy", 
+            "Pearl", 
+            "Newspaper", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Aircraft", 
+            "Lincoln,_Lincolnshire", 
+            "Psyche_(psychology)", 
+            "Pearl_Harbor", 
+            "Terrorism", 
+            "September_11,_2001_attacks", 
+            "Terrorism", 
+            "Aircraft"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Terrorism", 
+            "Iraq_War", 
+            "September_11,_2001_attacks", 
+            "France", 
+            "Legion", 
+            "September_11,_2001_attacks", 
+            "World_Trade_Center", 
+            "World_Trade_Center", 
+            "Film", 
+            "Population", 
+            "Foreign_legion", 
+            "September_11,_2001_attacks", 
+            "Gustave_Eiffel", 
+            "Eiffel_Tower"
+        ], 
+        "postID": 4
+    }
+]

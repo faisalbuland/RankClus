@@ -1,0 +1,43 @@
+[
+    {
+        "entity": [
+            "Tokyo", 
+            "Aegis_combat_system", 
+            "People's_Republic_of_China", 
+            "Israel", 
+            "IAI_Lavi", 
+            "Destroyer", 
+            "Israelis"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "F-14_Tomcat", 
+            "FIM-92_Stinger", 
+            "Iran", 
+            "LOT_Polish_Airlines", 
+            "Central_Intelligence_Agency", 
+            "FIM-92_Stinger", 
+            "Japan", 
+            "Saddam_Hussein", 
+            "War_on_Terrorism", 
+            "Asia", 
+            "Iran", 
+            "World_War_II", 
+            "Soviet_Union", 
+            "Taliban"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Arms_industry", 
+            "Canada", 
+            "Africa", 
+            "Poverty"
+        ], 
+        "postID": 3
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "entity": [
+            "Telephone", 
+            "Human_resource", 
+            "Royal_Red_Cross", 
+            "Arkansas", 
+            "Telephone_number"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Web_browser"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Military_Occupational_Specialty"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Royal_Red_Cross", 
+            "Dix_Mountain", 
+            "Royal_Shakespeare_Company", 
+            "Arkansas"
+        ], 
+        "postID": 4
+    }
+]

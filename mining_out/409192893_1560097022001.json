@@ -1,0 +1,96 @@
+[
+    {
+        "entity": [
+            "Blackwater_Worldwide"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Blackwater_Worldwide"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Security_guard", 
+            "International_waters"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Mercenary", 
+            "National_security", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Mercs"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Vagueness", 
+            "United_States_Constitution", 
+            "Marque", 
+            "Reprisal", 
+            "United_States_Navy", 
+            "Police", 
+            "Police", 
+            "United_States_Marine_Corps", 
+            "United_States_Congress", 
+            "Corporation", 
+            "Piracy", 
+            "United_States_Constitution"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Leupold_&amp;_Stevens", 
+            "M14_rifle", 
+            "Weapon"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Small_arms"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Pumpkin", 
+            "Gourd"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 14
+    }
+]

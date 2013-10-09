@@ -1,0 +1,412 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Soviet_Union"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Geneva_Conventions", 
+            "NATO", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Geneva"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Yugoslav_Moslem_Organization", 
+            "Geneva", 
+            "NATO", 
+            "United_States", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "NATO", 
+            "NATO", 
+            "NATO", 
+            "Everytime", 
+            "NATO", 
+            "United_States", 
+            "Soviet_Union", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Gorilla", 
+            "Pound_(mass)", 
+            "NATO", 
+            "Afghanistan", 
+            "Geneva", 
+            "United_States", 
+            "Geneva_Conventions", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "240s"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Compound_(linguistics)", 
+            "Afghanistan", 
+            "Germany", 
+            "String_instrument"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "United_States_Department_of_Defense", 
+            "1960", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Geneva", 
+            "Recoil", 
+            "Geneva_Conventions", 
+            "NATO", 
+            "5.56x45mm_NATO", 
+            "Military_of_the_United_States", 
+            "NATO", 
+            "Military_of_the_United_States", 
+            "7.62x51mm_NATO"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "Geneva", 
+            "Rifle", 
+            "NATO", 
+            "M16_rifle", 
+            "7.62x51mm_NATO", 
+            "Geneva_Conventions"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "1960", 
+            "NATO", 
+            "United_States_Air_Force", 
+            "NATO"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "Cold_War", 
+            "Fear_(band)", 
+            "Soviet_Union", 
+            "United_States", 
+            "NATO", 
+            "International_Maritime_Organization", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Geneva_Conventions", 
+            "Politics_of_Afghanistan", 
+            "Violence", 
+            "United_States", 
+            "International_Security_Assistance_Force", 
+            "NATO", 
+            "Geneva", 
+            "Sovereignty", 
+            "NATO", 
+            "NATO", 
+            "NATO", 
+            "Geneva_Conventions", 
+            "Afghanistan", 
+            "Geneva", 
+            "Genocide", 
+            "International_Security_Assistance_Force", 
+            "Armenian_Genocide", 
+            "International_Security_Assistance_Force", 
+            "United_States_Congress", 
+            "Law", 
+            "United_States", 
+            "Ammunition", 
+            "GI_(military)", 
+            "Small_arms", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Soviet_Union"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Geneva_Conventions", 
+            "NATO", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Geneva"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Yugoslav_Moslem_Organization", 
+            "Geneva", 
+            "NATO", 
+            "United_States", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "NATO", 
+            "NATO", 
+            "NATO", 
+            "Everytime", 
+            "NATO", 
+            "United_States", 
+            "Soviet_Union", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Gorilla", 
+            "Pound_(mass)", 
+            "NATO", 
+            "Afghanistan", 
+            "Geneva", 
+            "United_States", 
+            "Geneva_Conventions", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "240s"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Compound_(linguistics)", 
+            "Afghanistan", 
+            "Germany", 
+            "String_instrument"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "United_States_Department_of_Defense", 
+            "1960", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Geneva", 
+            "Recoil", 
+            "Geneva_Conventions", 
+            "NATO", 
+            "5.56x45mm_NATO", 
+            "Military_of_the_United_States", 
+            "NATO", 
+            "Military_of_the_United_States", 
+            "7.62x51mm_NATO"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "Geneva", 
+            "Rifle", 
+            "NATO", 
+            "M16_rifle", 
+            "7.62x51mm_NATO", 
+            "Geneva_Conventions"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "1960", 
+            "NATO", 
+            "United_States_Air_Force", 
+            "NATO"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "Cold_War", 
+            "Fear_(band)", 
+            "Soviet_Union", 
+            "United_States", 
+            "NATO", 
+            "International_Maritime_Organization", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Geneva_Conventions", 
+            "Politics_of_Afghanistan", 
+            "Violence", 
+            "United_States", 
+            "International_Security_Assistance_Force", 
+            "NATO", 
+            "Geneva", 
+            "Sovereignty", 
+            "NATO", 
+            "NATO", 
+            "NATO", 
+            "Geneva_Conventions", 
+            "Afghanistan", 
+            "Geneva", 
+            "Genocide", 
+            "International_Security_Assistance_Force", 
+            "Armenian_Genocide", 
+            "International_Security_Assistance_Force", 
+            "United_States_Congress", 
+            "Law", 
+            "United_States", 
+            "Ammunition", 
+            "GI_(military)", 
+            "Small_arms", 
+            "NATO", 
+            "NATO"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

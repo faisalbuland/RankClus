@@ -1,0 +1,17 @@
+[
+    {
+        "entity": [
+            "Transformer", 
+            "Science_fiction"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

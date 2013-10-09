@@ -1,0 +1,149 @@
+[
+    {
+        "entity": [
+            "Flip-flop", 
+            "Reticle", 
+            "Taliban"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "MASH_(film)", 
+            "Degeneration_(Max_Nordau)", 
+            "Casting_(performing_arts)", 
+            "Theatre_director"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fashion_design", 
+            "Fashion", 
+            "Camera"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Psychological_warfare", 
+            "Boxers", 
+            "God", 
+            "Taliban", 
+            "Flip-flop", 
+            "Boxers", 
+            "Flip-flop", 
+            "Classy_(magazine)", 
+            "Soldier", 
+            "Reticle", 
+            "Hadji_Singh", 
+            "Psychology", 
+            "Taliban", 
+            "Boxing"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Thong"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Boxing", 
+            "Momma", 
+            "Bikini", 
+            "Leopard"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Soldier"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sheriff"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Weapon", 
+            "Gunny"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Arizona_Daily_Star", 
+            "Daily_Star", 
+            "Arizona", 
+            "Humour", 
+            "Cartoon", 
+            "Morale", 
+            "Kilroy_was_here", 
+            "Adapt_(Trace_Bundy_album)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Soldier", 
+            "Battle_Dress_Uniform", 
+            "Frugality", 
+            "Soldier", 
+            "United_States_Army", 
+            "Fashion", 
+            "Fashion", 
+            "Major_(United_States)", 
+            "United_States_Army", 
+            "Silhouette", 
+            "Battle_Dress_Uniform", 
+            "United_States_Army", 
+            "Recession", 
+            "Sergeant_First_Class", 
+            "Fashion", 
+            "Giuseppe_Verdi"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Texas"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 17
+    }
+]

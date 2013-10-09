@@ -1,0 +1,71 @@
+[
+    {
+        "entity": [
+            "Bank", 
+            "Sweetheart_deal", 
+            "Tarpaulin", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Beneficiary", 
+            "United_States_Congress", 
+            "Political_corruption"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Nancy", 
+            "Internal_Revenue_Service", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Moron"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Tarpaulin", 
+            "Cent_(currency)", 
+            "Shareholder", 
+            "Tarpaulin"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Disability"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Dianne_Feinstein", 
+            "LOL", 
+            "Socialism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }
+]

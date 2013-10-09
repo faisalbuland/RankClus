@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Campbell,_California", 
+            "Hello_(Lionel_Richie_song)", 
+            "Day_care", 
+            "Day_care"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Independence,_Missouri", 
+            "Preschool_education", 
+            "Derelict", 
+            "Bird_nest", 
+            "Blessing", 
+            "United_States_Coast_Guard", 
+            "D._V._Gundappa", 
+            "United_States_Coast_Guard", 
+            "Duck", 
+            "Soldier", 
+            "Soldier", 
+            "Lackland_Air_Force_Base", 
+            "God", 
+            "Kindergarten", 
+            "College", 
+            "Vietnam", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Day_care", 
+            "Baking"
+        ], 
+        "postID": 5
+    }
+]

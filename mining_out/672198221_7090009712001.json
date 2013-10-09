@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dead_link"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "John_McCain", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "John_McCain_presidential_campaign,_2008", 
+            "Television_advertisement", 
+            "Insurance", 
+            "John_McCain", 
+            "Television", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Trade_union", 
+            "Middle_class", 
+            "United_States_Senate", 
+            "Tax", 
+            "Tax", 
+            "United_States", 
+            "John_McCain", 
+            "Arizona", 
+            "United_States_Congress", 
+            "Economist", 
+            "Health_care_systems", 
+            "Tax_credit", 
+            "Advertising", 
+            "Health_care", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Advertising", 
+            "John_McCain", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Retirement", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "American_International_Group"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Treasury"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "State_Children's_Health_Insurance_Program", 
+            "FairTax", 
+            "United_States_Congress", 
+            "Crackerjack"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hook_(music)", 
+            "Bench_press", 
+            "United_States_Constitution", 
+            "Free_market", 
+            "Constitution_of_Turkey", 
+            "Bait_(luring_substance)", 
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "2010", 
+            "Intelligence_quotient"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }
+]

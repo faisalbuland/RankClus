@@ -1,0 +1,584 @@
+[
+    {
+        "entity": [
+            "Author", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Torture", 
+            "United_States_Senate", 
+            "Republican_Party_(United_States)", 
+            "General_Council_(Scottish_university)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "United_States_Congress"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Disease"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Eagle", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "United_States_Congress", 
+            "Processor_register", 
+            "The_Democrats", 
+            "Thread_(computer_science)", 
+            "Waterboarding"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Republican_Party_(United_States)", 
+            "Torture", 
+            "Thomas_Jefferson", 
+            "United_States_House_of_Representatives", 
+            "Speaker_(politics)", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "Mission_(LDS_Church)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Ell", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Joseph_Stalin", 
+            "Nancy_Pelosi", 
+            "LOL", 
+            "Republicanism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Central_Intelligence_Agency", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "National_Security_Agency", 
+            "Moron", 
+            "Central_Intelligence_Agency", 
+            "Nancy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Sarcasm"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mud"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Nancy_Pelosi", 
+            "George_W._Bush"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Standing_ovation", 
+            "Intelligence_agency", 
+            "Bank", 
+            "Donald_Rumsfeld", 
+            "Barack_Obama", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "Donald_Rumsfeld", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Criminal_law"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Prayer", 
+            "Nancy_Pelosi", 
+            "Hierarchy", 
+            "United_States_Senate", 
+            "Slavery_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Party_line", 
+            "United_States_Constitution", 
+            "Neuroticism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "LOL", 
+            "Plymouth_Duster", 
+            "Nancy_Pelosi", 
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Central_Intelligence_Agency", 
+            "Bench_press", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Crime"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Author", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Torture", 
+            "United_States_Senate", 
+            "Republican_Party_(United_States)", 
+            "General_Council_(Scottish_university)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "United_States_Congress"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Disease"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Eagle", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "United_States_Congress", 
+            "Processor_register", 
+            "The_Democrats", 
+            "Thread_(computer_science)", 
+            "Waterboarding"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Republican_Party_(United_States)", 
+            "Torture", 
+            "Thomas_Jefferson", 
+            "United_States_House_of_Representatives", 
+            "Speaker_(politics)", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "Mission_(LDS_Church)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Ell", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Joseph_Stalin", 
+            "Nancy_Pelosi", 
+            "LOL", 
+            "Republicanism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Central_Intelligence_Agency", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "National_Security_Agency", 
+            "Moron", 
+            "Central_Intelligence_Agency", 
+            "Nancy"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Sarcasm"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Mud"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Nancy_Pelosi", 
+            "George_W._Bush"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Standing_ovation", 
+            "Intelligence_agency", 
+            "Bank", 
+            "Donald_Rumsfeld", 
+            "Barack_Obama", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "Donald_Rumsfeld", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Criminal_law"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Prayer", 
+            "Nancy_Pelosi", 
+            "Hierarchy", 
+            "United_States_Senate", 
+            "Slavery_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Party_line", 
+            "United_States_Constitution", 
+            "Neuroticism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "LOL", 
+            "Plymouth_Duster", 
+            "Nancy_Pelosi", 
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Central_Intelligence_Agency", 
+            "Bench_press", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Crime"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Author", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Torture", 
+            "United_States_Senate", 
+            "Republican_Party_(United_States)", 
+            "General_Council_(Scottish_university)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "United_States_Congress"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Disease"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Eagle", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi", 
+            "United_States_Congress", 
+            "Processor_register", 
+            "The_Democrats", 
+            "Thread_(computer_science)", 
+            "Waterboarding"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Republican_Party_(United_States)", 
+            "Torture", 
+            "Thomas_Jefferson", 
+            "United_States_House_of_Representatives", 
+            "Speaker_(politics)", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "Mission_(LDS_Church)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Ell", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Joseph_Stalin", 
+            "Nancy_Pelosi", 
+            "LOL", 
+            "Republicanism"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Central_Intelligence_Agency", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "National_Security_Agency", 
+            "Moron", 
+            "Central_Intelligence_Agency", 
+            "Nancy"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Sarcasm"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mud"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Nancy_Pelosi", 
+            "George_W._Bush"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Standing_ovation", 
+            "Intelligence_agency", 
+            "Bank", 
+            "Donald_Rumsfeld", 
+            "Barack_Obama", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "Donald_Rumsfeld", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Criminal_law"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Prayer", 
+            "Nancy_Pelosi", 
+            "Hierarchy", 
+            "United_States_Senate", 
+            "Slavery_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Party_line", 
+            "United_States_Constitution", 
+            "Neuroticism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "LOL", 
+            "Plymouth_Duster", 
+            "Nancy_Pelosi", 
+            "Breast", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Central_Intelligence_Agency", 
+            "Bench_press", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Crime"
+        ], 
+        "postID": 60
+    }
+]

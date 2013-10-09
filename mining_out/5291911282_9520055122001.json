@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "MEPS", 
+            "Fraud", 
+            "Metadata_Object_Description_Schema", 
+            "Recruiter", 
+            "Anti-aircraft_warfare", 
+            "Recruiter", 
+            "Waiver", 
+            "Internet_forum"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stay_(2005_film)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wisdom"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mujahideen", 
+            "Gun_barrel"
+        ], 
+        "postID": 6
+    }
+]

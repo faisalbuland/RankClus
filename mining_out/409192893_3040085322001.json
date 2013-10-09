@@ -1,0 +1,1110 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Prison", 
+            "Law", 
+            "The_New_York_Times"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Television"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "United_States", 
+            "Incarceration", 
+            "Incarceration", 
+            "Russia"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Legal_systems_of_the_world"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nincompoop", 
+            "Capital_punishment", 
+            "Illegal_drug_trade", 
+            "Limb_(anatomy)", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Drug_possession", 
+            "Drug_abuse"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Memphis,_Tennessee", 
+            "Cemetery", 
+            "Morgue", 
+            "Cemetery", 
+            "Gangster", 
+            "Cemetery", 
+            "Gang"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Capital_punishment", 
+            "Cable_television", 
+            "Television", 
+            "Prison", 
+            "Death_by_natural_causes", 
+            "The_Inmates", 
+            "Capital_punishment"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Child_support", 
+            "Stalinism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cable", 
+            "Cable_television", 
+            "Fair_trade", 
+            "Cooperative", 
+            "Prison", 
+            "Cable_television", 
+            "Cable", 
+            "Boredom"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gulag", 
+            "Joseph_Stalin", 
+            "United_States", 
+            "Soviet_Union"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Prison", 
+            "Privatization", 
+            "Labor_theory_of_value", 
+            "Monetization", 
+            "Profit"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Prison", 
+            "Criminal_justice", 
+            "Probation", 
+            "Parole", 
+            "Criminal_justice", 
+            "United_States", 
+            "African_American", 
+            "Ethnic_group"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "Drug_liberalization", 
+            "Cannabis_(drug)", 
+            "Alcoholic_beverage", 
+            "Nonviolence", 
+            "Recreational_drug_use", 
+            "Neighbourhood"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Political_system"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Europe", 
+            "Western_Europe", 
+            "Pride", 
+            "Capital_punishment", 
+            "Prison", 
+            "Society_of_the_United_States", 
+            "Reintroduction", 
+            "United_States", 
+            "United_Kingdom", 
+            "Incarceration", 
+            "Prison"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Incarceration", 
+            "Law", 
+            "Prison"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Privatization", 
+            "Lobbying", 
+            "Prison"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Incarceration"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Incarceration"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Anti-terrorism_legislation", 
+            "Law", 
+            "Law", 
+            "Crime", 
+            "Terrorism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Profit"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Unemployment", 
+            "Law", 
+            "Food_Stamp_Program", 
+            "Unemployment", 
+            "Rational_number", 
+            "Rational_choice_theory"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Crime_statistics", 
+            "Crime", 
+            "Crime", 
+            "Criminal_justice"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Prison", 
+            "Law", 
+            "The_New_York_Times"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Television"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "United_States", 
+            "Incarceration", 
+            "Incarceration", 
+            "Russia"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Legal_systems_of_the_world"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Nincompoop", 
+            "Capital_punishment", 
+            "Illegal_drug_trade", 
+            "Limb_(anatomy)", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Drug_possession", 
+            "Drug_abuse"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Memphis,_Tennessee", 
+            "Cemetery", 
+            "Morgue", 
+            "Cemetery", 
+            "Gangster", 
+            "Cemetery", 
+            "Gang"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Capital_punishment", 
+            "Cable_television", 
+            "Television", 
+            "Prison", 
+            "Death_by_natural_causes", 
+            "The_Inmates", 
+            "Capital_punishment"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Child_support", 
+            "Stalinism"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Cable", 
+            "Cable_television", 
+            "Fair_trade", 
+            "Cooperative", 
+            "Prison", 
+            "Cable_television", 
+            "Cable", 
+            "Boredom"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Gulag", 
+            "Joseph_Stalin", 
+            "United_States", 
+            "Soviet_Union"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Prison", 
+            "Privatization", 
+            "Labor_theory_of_value", 
+            "Monetization", 
+            "Profit"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Prison", 
+            "Criminal_justice", 
+            "Probation", 
+            "Parole", 
+            "Criminal_justice", 
+            "United_States", 
+            "African_American", 
+            "Ethnic_group"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "Drug_liberalization", 
+            "Cannabis_(drug)", 
+            "Alcoholic_beverage", 
+            "Nonviolence", 
+            "Recreational_drug_use", 
+            "Neighbourhood"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Political_system"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Europe", 
+            "Western_Europe", 
+            "Pride", 
+            "Capital_punishment", 
+            "Prison", 
+            "Society_of_the_United_States", 
+            "Reintroduction", 
+            "United_States", 
+            "United_Kingdom", 
+            "Incarceration", 
+            "Prison"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Incarceration", 
+            "Law", 
+            "Prison"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Privatization", 
+            "Lobbying", 
+            "Prison"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Incarceration"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Incarceration"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Anti-terrorism_legislation", 
+            "Law", 
+            "Law", 
+            "Crime", 
+            "Terrorism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Profit"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Unemployment", 
+            "Law", 
+            "Food_Stamp_Program", 
+            "Unemployment", 
+            "Rational_number", 
+            "Rational_choice_theory"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Crime_statistics", 
+            "Crime", 
+            "Crime", 
+            "Criminal_justice"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Prison", 
+            "Law", 
+            "The_New_York_Times"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Television"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "United_States", 
+            "Incarceration", 
+            "Incarceration", 
+            "Russia"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Legal_systems_of_the_world"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Nincompoop", 
+            "Capital_punishment", 
+            "Illegal_drug_trade", 
+            "Limb_(anatomy)", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Drug_possession", 
+            "Drug_abuse"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Memphis,_Tennessee", 
+            "Cemetery", 
+            "Morgue", 
+            "Cemetery", 
+            "Gangster", 
+            "Cemetery", 
+            "Gang"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Capital_punishment", 
+            "Cable_television", 
+            "Television", 
+            "Prison", 
+            "Death_by_natural_causes", 
+            "The_Inmates", 
+            "Capital_punishment"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Child_support", 
+            "Stalinism"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Cable", 
+            "Cable_television", 
+            "Fair_trade", 
+            "Cooperative", 
+            "Prison", 
+            "Cable_television", 
+            "Cable", 
+            "Boredom"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Gulag", 
+            "Joseph_Stalin", 
+            "United_States", 
+            "Soviet_Union"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Prison", 
+            "Privatization", 
+            "Labor_theory_of_value", 
+            "Monetization", 
+            "Profit"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Prison", 
+            "Criminal_justice", 
+            "Probation", 
+            "Parole", 
+            "Criminal_justice", 
+            "United_States", 
+            "African_American", 
+            "Ethnic_group"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "Drug_liberalization", 
+            "Cannabis_(drug)", 
+            "Alcoholic_beverage", 
+            "Nonviolence", 
+            "Recreational_drug_use", 
+            "Neighbourhood"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Political_system"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Europe", 
+            "Western_Europe", 
+            "Pride", 
+            "Capital_punishment", 
+            "Prison", 
+            "Society_of_the_United_States", 
+            "Reintroduction", 
+            "United_States", 
+            "United_Kingdom", 
+            "Incarceration", 
+            "Prison"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Incarceration", 
+            "Law", 
+            "Prison"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Privatization", 
+            "Lobbying", 
+            "Prison"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Incarceration"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Incarceration"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Anti-terrorism_legislation", 
+            "Law", 
+            "Law", 
+            "Crime", 
+            "Terrorism"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Profit"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Unemployment", 
+            "Law", 
+            "Food_Stamp_Program", 
+            "Unemployment", 
+            "Rational_number", 
+            "Rational_choice_theory"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Crime_statistics", 
+            "Crime", 
+            "Crime", 
+            "Criminal_justice"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Prison", 
+            "Law", 
+            "The_New_York_Times"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Drug"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Television"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "United_States", 
+            "Incarceration", 
+            "Incarceration", 
+            "Russia"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Legal_systems_of_the_world"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Nincompoop", 
+            "Capital_punishment", 
+            "Illegal_drug_trade", 
+            "Limb_(anatomy)", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Drug_possession", 
+            "Drug_abuse"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Memphis,_Tennessee", 
+            "Cemetery", 
+            "Morgue", 
+            "Cemetery", 
+            "Gangster", 
+            "Cemetery", 
+            "Gang"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Capital_punishment", 
+            "Cable_television", 
+            "Television", 
+            "Prison", 
+            "Death_by_natural_causes", 
+            "The_Inmates", 
+            "Capital_punishment"
+        ], 
+        "postID": 100
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Child_support", 
+            "Stalinism"
+        ], 
+        "postID": 101
+    }, 
+    {
+        "entity": [
+            "Cable", 
+            "Cable_television", 
+            "Fair_trade", 
+            "Cooperative", 
+            "Prison", 
+            "Cable_television", 
+            "Cable", 
+            "Boredom"
+        ], 
+        "postID": 102
+    }, 
+    {
+        "entity": [
+            "Gulag", 
+            "Joseph_Stalin", 
+            "United_States", 
+            "Soviet_Union"
+        ], 
+        "postID": 103
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Prison", 
+            "Privatization", 
+            "Labor_theory_of_value", 
+            "Monetization", 
+            "Profit"
+        ], 
+        "postID": 104
+    }, 
+    {
+        "entity": [], 
+        "postID": 105
+    }, 
+    {
+        "entity": [
+            "Criminal_law", 
+            "Prison", 
+            "Criminal_justice", 
+            "Probation", 
+            "Parole", 
+            "Criminal_justice", 
+            "United_States", 
+            "African_American", 
+            "Ethnic_group"
+        ], 
+        "postID": 106
+    }, 
+    {
+        "entity": [], 
+        "postID": 107
+    }, 
+    {
+        "entity": [], 
+        "postID": 108
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "Drug_liberalization", 
+            "Cannabis_(drug)", 
+            "Alcoholic_beverage", 
+            "Nonviolence", 
+            "Recreational_drug_use", 
+            "Neighbourhood"
+        ], 
+        "postID": 109
+    }, 
+    {
+        "entity": [], 
+        "postID": 110
+    }, 
+    {
+        "entity": [
+            "Political_system"
+        ], 
+        "postID": 111
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Europe", 
+            "Western_Europe", 
+            "Pride", 
+            "Capital_punishment", 
+            "Prison", 
+            "Society_of_the_United_States", 
+            "Reintroduction", 
+            "United_States", 
+            "United_Kingdom", 
+            "Incarceration", 
+            "Prison"
+        ], 
+        "postID": 112
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Incarceration", 
+            "Law", 
+            "Prison"
+        ], 
+        "postID": 113
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Privatization", 
+            "Lobbying", 
+            "Prison"
+        ], 
+        "postID": 114
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Incarceration"
+        ], 
+        "postID": 115
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Incarceration"
+        ], 
+        "postID": 116
+    }, 
+    {
+        "entity": [
+            "Anti-terrorism_legislation", 
+            "Law", 
+            "Law", 
+            "Crime", 
+            "Terrorism"
+        ], 
+        "postID": 117
+    }, 
+    {
+        "entity": [
+            "Profit"
+        ], 
+        "postID": 118
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Unemployment", 
+            "Law", 
+            "Food_Stamp_Program", 
+            "Unemployment", 
+            "Rational_number", 
+            "Rational_choice_theory"
+        ], 
+        "postID": 119
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Crime_statistics", 
+            "Crime", 
+            "Crime", 
+            "Criminal_justice"
+        ], 
+        "postID": 120
+    }
+]

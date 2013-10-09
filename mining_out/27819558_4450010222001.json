@@ -1,0 +1,231 @@
+[
+    {
+        "entity": [
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Hate_crime", 
+            "TAP", 
+            "Joe_Solmonese", 
+            "Human_Rights_Campaign", 
+            "Human_rights", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_Senate"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hate_crime", 
+            "Gender", 
+            "Hate_crime", 
+            "United_Auto_Workers", 
+            "Gender_identity", 
+            "United_States_Congress", 
+            "Hate_crime", 
+            "2009", 
+            "Nudge", 
+            "United_States_House_Committee_on_the_Judiciary", 
+            "United_States_Congress", 
+            "Sexual_orientation", 
+            "United_States_House_Committee_on_the_Judiciary", 
+            "Judiciary", 
+            "The_Local"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Homicide"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Law", 
+            "Nationality", 
+            "Law_of_the_United_States", 
+            "Legislation", 
+            "Nationality", 
+            "Steny_Hoyer", 
+            "Nationality", 
+            "Accountability", 
+            "Violence", 
+            "Legislation", 
+            "Jurisdiction", 
+            "United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Population", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Toleration", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "United_States", 
+            "Disability", 
+            "Freedom_of_speech", 
+            "Religion", 
+            "Law", 
+            "Sexual_orientation", 
+            "Disability", 
+            "Sexual_orientation", 
+            "Sexual_orientation", 
+            "Law", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Steny_Hoyer", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Law", 
+            "Law", 
+            "Culture_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "Injury", 
+            "Gender", 
+            "Gender_identity", 
+            "Law", 
+            "Religion", 
+            "Religion", 
+            "Injury", 
+            "Legislation", 
+            "Textile", 
+            "Defendant", 
+            "Hate_crime", 
+            "Toleration", 
+            "Religion", 
+            "United_States", 
+            "Culture_of_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "21st_century", 
+            "Gender", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Gender", 
+            "Actis", 
+            "Hate_crime", 
+            "Hate_crime"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Virginia", 
+            "Matthew_Shepard", 
+            "Virginia_Foxx", 
+            "Hate_crime", 
+            "North_Carolina", 
+            "Hate_crime", 
+            "Hoax", 
+            "Foxx", 
+            "Hate_crime", 
+            "Hoax", 
+            "Crime", 
+            "Republican_Party_(United_States)", 
+            "Cent_(music)", 
+            "Matthew_the_Evangelist", 
+            "Matthew_the_Evangelist"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Clay", 
+            "40th_Canadian_federal_election", 
+            "Holocaust_denial", 
+            "Holocaust_denial", 
+            "Aiken,_South_Carolina", 
+            "Holocaust_denial", 
+            "Clay_Aiken"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Premeditated_murder", 
+            "United_States_Constitution", 
+            "Judiciary", 
+            "Civil_rights", 
+            "Jerrold_Nadler", 
+            "Hate_crime", 
+            "United_States_House_of_Representatives", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "Crime", 
+            "Manslaughter", 
+            "Contract_killing", 
+            "Matthew_Shepard_Act", 
+            "Terrorism", 
+            "Law", 
+            "New_York", 
+            "Terrorism", 
+            "Gospel_of_Matthew", 
+            "Murder", 
+            "Democratic_Party_(United_States)", 
+            "Matthew_Shepard"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "State", 
+            "Murder", 
+            "Matthew_Shepard", 
+            "Gospel_of_Matthew", 
+            "Murder", 
+            "Law_enforcement_in_the_United_Kingdom", 
+            "Murder", 
+            "Gospel_of_Matthew"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Suppressor"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "WXII-TV", 
+            "Virginia", 
+            "Virginia_Foxx", 
+            "Murder", 
+            "Rachel_Maddow", 
+            "North_Carolina", 
+            "Semantics", 
+            "Apology_(Plato)", 
+            "Hate_crime", 
+            "Foxx", 
+            "Winston-Salem,_North_Carolina", 
+            "Hoax", 
+            "Crime", 
+            "Television", 
+            "Semantics", 
+            "Murder", 
+            "Television_station", 
+            "Rachel_Green", 
+            "WXII-TV", 
+            "Robbery", 
+            "Rachel_haircut", 
+            "Hate_crime", 
+            "United_States_House_of_Representatives", 
+            "Foxx", 
+            "United_States", 
+            "1998", 
+            "The_Rachel_Maddow_Show", 
+            "Reporter", 
+            "Foxx"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }
+]

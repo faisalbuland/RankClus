@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "Sake", 
+            "Hatchet"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Political_agenda"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "George_H._W._Bush", 
+            "Political_agenda"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chevrolet_LUV", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Charitable_organization", 
+            "SOP_Rules", 
+            "Honesty", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 6
+    }
+]

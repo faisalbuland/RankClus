@@ -1,0 +1,19 @@
+[
+    {
+        "entity": [
+            "Recruiter", 
+            "Recruiter", 
+            "Eye", 
+            "Eye_examination", 
+            "Minute", 
+            "Air_force", 
+            "MEPS", 
+            "Recruiter"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }
+]

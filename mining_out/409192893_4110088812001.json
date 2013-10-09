@@ -1,0 +1,476 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Sin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Russian_Bear", 
+            "Closeted", 
+            "Rock_music", 
+            "Finger", 
+            "Russian_language", 
+            "Pond", 
+            "Bear", 
+            "Politician", 
+            "Russian_language", 
+            "Finger_(gesture)", 
+            "Czechs", 
+            "Closet", 
+            "Sphere", 
+            "Russian_language"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Deficit", 
+            "Envy", 
+            "Barack_Obama", 
+            "Debt", 
+            "Socialism", 
+            "Democracy", 
+            "United_States", 
+            "China", 
+            "Barack_Obama", 
+            "Socialism", 
+            "Europe", 
+            "Barack_Obama", 
+            "Hell", 
+            "Third_World"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Communist_state", 
+            "Dude", 
+            "Communism", 
+            "Socialism", 
+            "Soviet_Union"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Crab", 
+            "United_States", 
+            "401(k)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Debt", 
+            "United_States", 
+            "Retirement", 
+            "Poverty_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Capitalism", 
+            "Debt", 
+            "Monopoly", 
+            "Barack_Obama", 
+            "Socialism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Coin"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Anti-ballistic_missile", 
+            "Europe"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "USS_Liberty", 
+            "Murrays", 
+            "Barack_Obama", 
+            "Printing_press", 
+            "Bail_out_(finance)", 
+            "Mesoamerican_ballgame", 
+            "Optimist", 
+            "Printing", 
+            "Root", 
+            "George_W._Bush", 
+            "Liberty"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Europe", 
+            "United_States", 
+            "Socialism", 
+            "Socialism", 
+            "Debt", 
+            "Monopoly", 
+            "Health_care", 
+            "Debt", 
+            "Capitalism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Lemming", 
+            "Right-wing_politics", 
+            "Translation"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Keg"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "United_States", 
+            "United_States_dollar", 
+            "United_States", 
+            "Currency", 
+            "United_States", 
+            "Euro", 
+            "United_States_dollar", 
+            "United_States_dollar", 
+            "World_currency", 
+            "United_States", 
+            "United_States_dollar", 
+            "Currency"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Consumer_spending", 
+            "Government_spending", 
+            "Spiral", 
+            "Consumer_spending"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Cattle", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Communism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Prime_minister", 
+            "Czech_Republic", 
+            "Motion_of_no_confidence", 
+            "Bank"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Socialism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "George_W._Bush"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Economist", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Government_debt", 
+            "Population"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Sin"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Russian_Bear", 
+            "Closeted", 
+            "Rock_music", 
+            "Finger", 
+            "Russian_language", 
+            "Pond", 
+            "Bear", 
+            "Politician", 
+            "Russian_language", 
+            "Finger_(gesture)", 
+            "Czechs", 
+            "Closet", 
+            "Sphere", 
+            "Russian_language"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Deficit", 
+            "Envy", 
+            "Barack_Obama", 
+            "Debt", 
+            "Socialism", 
+            "Democracy", 
+            "United_States", 
+            "China", 
+            "Barack_Obama", 
+            "Socialism", 
+            "Europe", 
+            "Barack_Obama", 
+            "Hell", 
+            "Third_World"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Communist_state", 
+            "Dude", 
+            "Communism", 
+            "Socialism", 
+            "Soviet_Union"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Crab", 
+            "United_States", 
+            "401(k)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Debt", 
+            "United_States", 
+            "Retirement", 
+            "Poverty_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Capitalism", 
+            "Debt", 
+            "Monopoly", 
+            "Barack_Obama", 
+            "Socialism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Coin"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Anti-ballistic_missile", 
+            "Europe"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "USS_Liberty", 
+            "Murrays", 
+            "Barack_Obama", 
+            "Printing_press", 
+            "Bail_out_(finance)", 
+            "Mesoamerican_ballgame", 
+            "Optimist", 
+            "Printing", 
+            "Root", 
+            "George_W._Bush", 
+            "Liberty"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Europe", 
+            "United_States", 
+            "Socialism", 
+            "Socialism", 
+            "Debt", 
+            "Monopoly", 
+            "Health_care", 
+            "Debt", 
+            "Capitalism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Lemming", 
+            "Right-wing_politics", 
+            "Translation"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Keg"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "United_States", 
+            "United_States_dollar", 
+            "United_States", 
+            "Currency", 
+            "United_States", 
+            "Euro", 
+            "United_States_dollar", 
+            "United_States_dollar", 
+            "World_currency", 
+            "United_States", 
+            "United_States_dollar", 
+            "Currency"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Consumer_spending", 
+            "Government_spending", 
+            "Spiral", 
+            "Consumer_spending"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Cattle", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Communism"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Prime_minister", 
+            "Czech_Republic", 
+            "Motion_of_no_confidence", 
+            "Bank"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Socialism"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "George_W._Bush"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Economist", 
+            "Barack_Obama"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Government_debt", 
+            "Population"
+        ], 
+        "postID": 50
+    }
+]

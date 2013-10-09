@@ -1,0 +1,64 @@
+[
+    {
+        "entity": [
+            "Radar"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wind", 
+            "Apartment_building", 
+            "Condominium"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stuff_(magazine)", 
+            "Small_business", 
+            "Apartment", 
+            "Landlord", 
+            "Mortgage", 
+            "Lease", 
+            "Landlord", 
+            "Real_estate", 
+            "Single-family_detached_home", 
+            "Tragedy", 
+            "Idiot", 
+            "Radar", 
+            "Single-family_detached_home", 
+            "Idiot", 
+            "Duplex_(building)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mortgage", 
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Mortgage", 
+            "Bank", 
+            "Tax", 
+            "Mortgage", 
+            "Public_housing", 
+            "Depreciation", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 6
+    }
+]

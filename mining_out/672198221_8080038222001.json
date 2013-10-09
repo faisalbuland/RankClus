@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Rocket_science", 
+            "USER", 
+            "Rocket", 
+            "International_Data_Encryption_Algorithm", 
+            "E-mail", 
+            "Bomber", 
+            "Stealth_aircraft", 
+            "Internet_forum", 
+            "Science", 
+            "B-2_Spirit", 
+            "E-mail", 
+            "United_States_Air_Force", 
+            "Bomber"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bomber", 
+            "Salt", 
+            "Yum", 
+            "Yum", 
+            "Black_pepper"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wheat", 
+            "Twilight"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Forum", 
+            "Internet_forum", 
+            "Internet_forum"
+        ], 
+        "postID": 4
+    }
+]

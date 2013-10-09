@@ -1,0 +1,674 @@
+[
+    {
+        "entity": [
+            "Disability", 
+            "Disabled_American_Veterans", 
+            "2009", 
+            "Barack_Obama", 
+            "Veterans_Health_Administration", 
+            "Dose", 
+            "Disability", 
+            "Page_3"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            ".gov", 
+            "Gerald_Ford", 
+            ".gov"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Veterans'_benefits", 
+            "Poster", 
+            "List_of_World_Tag_Team_Champions_(WWE)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Retirement", 
+            "Brotherhood"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Supplemental_Security_Income", 
+            "George_W._Bush", 
+            "2006"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Copayment", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Health_care", 
+            "Health_care", 
+            "Economy", 
+            "Barack_Obama", 
+            "Bank", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Judd_(engine)", 
+            "Bill_Frist", 
+            "United_States_Senate", 
+            "Judd_Gregg", 
+            "2006", 
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Disability", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Chair_(official)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Judd_Gregg", 
+            "Bill_Frist", 
+            "Judd_(engine)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Terri_Schiavo", 
+            "Diagnosis", 
+            "Thomas_Jefferson", 
+            "Bill_Frist", 
+            "Bank", 
+            "Bill_Frist"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Olfaction"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Hospital", 
+            "2009", 
+            "Internet_forum", 
+            "Server_(computing)", 
+            "Air_force", 
+            "Pain", 
+            "Air_force"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Barack_Obama"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama", 
+            "John_Murtha"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Disabled_American_Veterans", 
+            "2009", 
+            "Barack_Obama", 
+            "Veterans_Health_Administration", 
+            "Dose", 
+            "Disability", 
+            "Page_3"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            ".gov", 
+            "Gerald_Ford", 
+            ".gov"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Veterans'_benefits", 
+            "Poster", 
+            "List_of_World_Tag_Team_Champions_(WWE)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Retirement", 
+            "Brotherhood"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Supplemental_Security_Income", 
+            "George_W._Bush", 
+            "2006"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Copayment", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Health_care", 
+            "Health_care", 
+            "Economy", 
+            "Barack_Obama", 
+            "Bank", 
+            "Barack_Obama"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Judd_(engine)", 
+            "Bill_Frist", 
+            "United_States_Senate", 
+            "Judd_Gregg", 
+            "2006", 
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Disability", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Chair_(official)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Judd_Gregg", 
+            "Bill_Frist", 
+            "Judd_(engine)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Terri_Schiavo", 
+            "Diagnosis", 
+            "Thomas_Jefferson", 
+            "Bill_Frist", 
+            "Bank", 
+            "Bill_Frist"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Olfaction"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Hospital", 
+            "2009", 
+            "Internet_forum", 
+            "Server_(computing)", 
+            "Air_force", 
+            "Pain", 
+            "Air_force"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Barack_Obama"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama", 
+            "John_Murtha"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Disabled_American_Veterans", 
+            "2009", 
+            "Barack_Obama", 
+            "Veterans_Health_Administration", 
+            "Dose", 
+            "Disability", 
+            "Page_3"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            ".gov", 
+            "Gerald_Ford", 
+            ".gov"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Veterans'_benefits", 
+            "Poster", 
+            "List_of_World_Tag_Team_Champions_(WWE)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Retirement", 
+            "Brotherhood"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Supplemental_Security_Income", 
+            "George_W._Bush", 
+            "2006"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Copayment", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Health_care", 
+            "Health_care", 
+            "Economy", 
+            "Barack_Obama", 
+            "Bank", 
+            "Barack_Obama"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Judd_(engine)", 
+            "Bill_Frist", 
+            "United_States_Senate", 
+            "Judd_Gregg", 
+            "2006", 
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Disability", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Chair_(official)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Judd_Gregg", 
+            "Bill_Frist", 
+            "Judd_(engine)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Terri_Schiavo", 
+            "Diagnosis", 
+            "Thomas_Jefferson", 
+            "Bill_Frist", 
+            "Bank", 
+            "Bill_Frist"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Olfaction"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Hospital", 
+            "2009", 
+            "Internet_forum", 
+            "Server_(computing)", 
+            "Air_force", 
+            "Pain", 
+            "Air_force"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Barack_Obama"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama", 
+            "John_Murtha"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Disabled_American_Veterans", 
+            "2009", 
+            "Barack_Obama", 
+            "Veterans_Health_Administration", 
+            "Dose", 
+            "Disability", 
+            "Page_3"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            ".gov", 
+            "Gerald_Ford", 
+            ".gov"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Veterans'_benefits", 
+            "Poster", 
+            "List_of_World_Tag_Team_Champions_(WWE)"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Retirement", 
+            "Brotherhood"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Supplemental_Security_Income", 
+            "George_W._Bush", 
+            "2006"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Copayment", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Health_care", 
+            "Health_care", 
+            "Economy", 
+            "Barack_Obama", 
+            "Bank", 
+            "Barack_Obama"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Judd_(engine)", 
+            "Bill_Frist", 
+            "United_States_Senate", 
+            "Judd_Gregg", 
+            "2006", 
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Disability", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Chair_(official)"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Judd_Gregg", 
+            "Bill_Frist", 
+            "Judd_(engine)"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Terri_Schiavo", 
+            "Diagnosis", 
+            "Thomas_Jefferson", 
+            "Bill_Frist", 
+            "Bank", 
+            "Bill_Frist"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Olfaction"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Hospital", 
+            "2009", 
+            "Internet_forum", 
+            "Server_(computing)", 
+            "Air_force", 
+            "Pain", 
+            "Air_force"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Barack_Obama"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama", 
+            "John_Murtha"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [], 
+        "postID": 80
+    }
+]

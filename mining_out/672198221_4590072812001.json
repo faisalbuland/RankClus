@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "Governor_of_North_Carolina", 
+            "Purdue_University", 
+            "North_Carolina", 
+            "Education", 
+            "Bratwurst", 
+            "Tax", 
+            "Cigarette", 
+            "Illegal_drug_trade", 
+            "Tax", 
+            "State", 
+            "Governor", 
+            "Alcoholic_beverage"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Duster_(clothing)", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "World_Wrestling_Entertainment", 
+            "Firearm", 
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Firearm"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

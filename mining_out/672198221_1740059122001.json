@@ -1,0 +1,448 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "President_of_the_United_States", 
+            "Mexico"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Meat", 
+            "Economy", 
+            "Public_health", 
+            "Public_health", 
+            "President_of_the_United_States", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Mexico", 
+            "Meat_packing_industry", 
+            "Mexico", 
+            "Health_care", 
+            "Asia", 
+            "Pay_as_you_go", 
+            "Pig", 
+            "Bronco", 
+            "Mexico", 
+            "Mexico", 
+            "Military_operation", 
+            "Fashion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Mexico", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Advice_and_consent", 
+            "1995", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Mexico", 
+            "Swine_flu", 
+            "Pig", 
+            "Influenza", 
+            "Swine_flu", 
+            "Pig", 
+            "Mexico"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Influenza", 
+            "Microorganism", 
+            "Virus"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Graph_(mathematics)", 
+            "Mexico_City", 
+            "Mexico"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Drug", 
+            "Ford_Motor_Company", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Cover-up", 
+            "Town", 
+            "Brand", 
+            "Virus", 
+            "Revelation", 
+            "Virus"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Speaker_(politics)", 
+            "2007_tuberculosis_scare"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Gerald_Ford", 
+            "Hell", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Radar", 
+            "Drug", 
+            "Adverse_drug_reaction", 
+            "Pig", 
+            "United_States", 
+            "Counterfeit", 
+            "Microorganism", 
+            "Reading,_Berkshire", 
+            "Microscopic"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "China", 
+            "Tyson_Foods", 
+            "Pig", 
+            "Donkey", 
+            "Folk_music", 
+            "Canada", 
+            "Severe_acute_respiratory_syndrome", 
+            "Mike_Tyson", 
+            "Farm", 
+            "Pig", 
+            "Smithfield,_Virginia", 
+            "Stock_market", 
+            "Pig", 
+            "United_States", 
+            "Virus", 
+            "Influenza", 
+            "Intensive_pig_farming", 
+            "Pig", 
+            "Pig"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Sarcasm", 
+            "Fault_(geology)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Socialized_medicine", 
+            "Demographics_of_Mexico", 
+            "Health_care", 
+            "Socialized_medicine", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Mexico"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Candy", 
+            "Err,_Pyr\u00e9n\u00e9es-Orientales", 
+            "Vaccination"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Congress_of_Mexico", 
+            "Mexico"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Swine_flu", 
+            "Pig", 
+            "Barack_Obama", 
+            "LOL", 
+            "County", 
+            "Mexico", 
+            "Influenza", 
+            "Planet", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "President_of_the_United_States", 
+            "Mexico"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Meat", 
+            "Economy", 
+            "Public_health", 
+            "Public_health", 
+            "President_of_the_United_States", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Mexico", 
+            "Meat_packing_industry", 
+            "Mexico", 
+            "Health_care", 
+            "Asia", 
+            "Pay_as_you_go", 
+            "Pig", 
+            "Bronco", 
+            "Mexico", 
+            "Mexico", 
+            "Military_operation", 
+            "Fashion"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Mexico", 
+            "United_States"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Advice_and_consent", 
+            "1995", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Mexico", 
+            "Swine_flu", 
+            "Pig", 
+            "Influenza", 
+            "Swine_flu", 
+            "Pig", 
+            "Mexico"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Influenza", 
+            "Microorganism", 
+            "Virus"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Graph_(mathematics)", 
+            "Mexico_City", 
+            "Mexico"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Drug", 
+            "Ford_Motor_Company", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Cover-up", 
+            "Town", 
+            "Brand", 
+            "Virus", 
+            "Revelation", 
+            "Virus"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Speaker_(politics)", 
+            "2007_tuberculosis_scare"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Gerald_Ford", 
+            "Hell", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Radar", 
+            "Drug", 
+            "Adverse_drug_reaction", 
+            "Pig", 
+            "United_States", 
+            "Counterfeit", 
+            "Microorganism", 
+            "Reading,_Berkshire", 
+            "Microscopic"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "China", 
+            "Tyson_Foods", 
+            "Pig", 
+            "Donkey", 
+            "Folk_music", 
+            "Canada", 
+            "Severe_acute_respiratory_syndrome", 
+            "Mike_Tyson", 
+            "Farm", 
+            "Pig", 
+            "Smithfield,_Virginia", 
+            "Stock_market", 
+            "Pig", 
+            "United_States", 
+            "Virus", 
+            "Influenza", 
+            "Intensive_pig_farming", 
+            "Pig", 
+            "Pig"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Sarcasm", 
+            "Fault_(geology)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Socialized_medicine", 
+            "Demographics_of_Mexico", 
+            "Health_care", 
+            "Socialized_medicine", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Mexico"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Candy", 
+            "Err,_Pyr\u00e9n\u00e9es-Orientales", 
+            "Vaccination"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Congress_of_Mexico", 
+            "Mexico"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Swine_flu", 
+            "Pig", 
+            "Barack_Obama", 
+            "LOL", 
+            "County", 
+            "Mexico", 
+            "Influenza", 
+            "Planet", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 40
+    }
+]

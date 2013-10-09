@@ -1,0 +1,56 @@
+[
+    {
+        "entity": [
+            "Object_Management_Group", 
+            "Squadron", 
+            "Album-oriented_rock", 
+            "Squadron", 
+            "Squadron", 
+            "Airman", 
+            "Superintendent_(education)", 
+            "Marriage", 
+            "Album-oriented_rock", 
+            "Squadron", 
+            "Marriage", 
+            "Real-time_clock", 
+            "Fireteam", 
+            "Non-commissioned_officer", 
+            "Squadron", 
+            "Marriage", 
+            "Marriage", 
+            "Bias", 
+            "Album-oriented_rock", 
+            "Squadron", 
+            "Bias"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Theft", 
+            "Profession", 
+            "Marriage", 
+            "Cohesion_(computer_science)", 
+            "Marriage"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mechanic", 
+            "Military_Occupational_Specialty"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "Air_force", 
+            "Marriage", 
+            "Desert", 
+            "Desert", 
+            "Marriage"
+        ], 
+        "postID": 4
+    }
+]

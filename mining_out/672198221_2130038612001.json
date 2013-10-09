@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Afghanistan", 
+            "Scott_Fitzgerald_(singer)", 
+            "2009", 
+            "IPhone", 
+            "Fitzgerald,_Georgia"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cell_(biology)", 
+            "Technology", 
+            "Regions_of_France", 
+            "Mobile_phone", 
+            "Rite", 
+            "Signals_intelligence", 
+            "Afghanistan", 
+            "Colon_(anatomy)", 
+            "Folk_music"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "IPhone"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Scott_Fitzgerald_(singer)", 
+            "Linksys_iPhone", 
+            "Chinese_language", 
+            "IPhone", 
+            "Fitzgerald,_Georgia"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bread", 
+            "Gadget", 
+            "Sliced_bread", 
+            "Verizon_Communications", 
+            "IPod"
+        ], 
+        "postID": 6
+    }
+]

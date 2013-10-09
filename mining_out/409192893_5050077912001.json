@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Mortgage", 
+            "Freddie"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Totem_pole", 
+            "Totem", 
+            "Penny"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "Entitlement"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Penny", 
+            "Tax", 
+            "Economic_collapse"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Yentl", 
+            "State"
+        ], 
+        "postID": 7
+    }
+]

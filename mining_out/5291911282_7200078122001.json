@@ -1,0 +1,64 @@
+[
+    {
+        "entity": [
+            "Air_force", 
+            "United_States_Air_Force", 
+            "Newcastle,_New_South_Wales", 
+            "Australia"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Newcastle_upon_Tyne", 
+            "Cheers"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Duck", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Hello", 
+            "Soldier", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "God", 
+            "Logo", 
+            "Blessing", 
+            "God", 
+            "Derelict"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Cheers"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hijacking", 
+            "Thread_(computer_science)", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "E-mail", 
+            "Chicken"
+        ], 
+        "postID": 7
+    }
+]

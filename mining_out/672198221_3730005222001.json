@@ -1,0 +1,35 @@
+[
+    {
+        "entity": [
+            "Exile", 
+            "Transitional_Federal_Parliament", 
+            "African_Union_Mission_to_Somalia", 
+            "Somalia", 
+            "Mogadishu", 
+            "Africa", 
+            "Transitional_Federal_Government", 
+            "Government_of_Australia", 
+            "Militia", 
+            "Transitional_Federal_Government", 
+            "African_Union", 
+            "Djibouti", 
+            "Union_(American_Civil_War)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Plant", 
+            "Seed", 
+            "Seed", 
+            "Water"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Somalia"
+        ], 
+        "postID": 3
+    }
+]

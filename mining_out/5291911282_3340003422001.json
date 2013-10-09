@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "1992", 
+            "Military_reserve_force", 
+            "Armed_Services_Vocational_Aptitude_Battery", 
+            "1990", 
+            "Military_reserve_force"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Internet_forum"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Armed_Services_Vocational_Aptitude_Battery"
+        ], 
+        "postID": 3
+    }
+]

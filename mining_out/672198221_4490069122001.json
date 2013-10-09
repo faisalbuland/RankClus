@@ -1,0 +1,404 @@
+[
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Fox_Broadcasting_Company", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Goodness_(band)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Goose", 
+            "Cattle", 
+            "Political_party", 
+            "Dynamic_memory_allocation", 
+            "Manure", 
+            "!!!", 
+            "American_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Political_party", 
+            "Cattle", 
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "CBS", 
+            "Ash_tree"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Censorship", 
+            "Pols", 
+            "Conservatism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "White_House"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Liberal_Party_of_Canada"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News_broadcasting", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Faux"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_Broadcasting_Company", 
+            "Super_Tuesday_II,_2008", 
+            "Fox_Business_Network", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Fox_Business_Network", 
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_Entertainment_Group", 
+            "Hell", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Faux", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "The_Fox_(1967_film)", 
+            "Fox_Business_Network", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Business_Network"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Pandemic", 
+            "Surgeon", 
+            "Intelligence", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Surgeon_General", 
+            "States_and_territories_of_India", 
+            "Unemployment"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "News_media"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Newspaper", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "United_States", 
+            "First_Lady", 
+            "Star", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hollywood,_Los_Angeles,_California", 
+            "John_F._Kennedy", 
+            "Internet"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Fox_Broadcasting_Company", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Goodness_(band)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Goose", 
+            "Cattle", 
+            "Political_party", 
+            "Dynamic_memory_allocation", 
+            "Manure", 
+            "!!!", 
+            "American_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Political_party", 
+            "Cattle", 
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "CBS", 
+            "Ash_tree"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Censorship", 
+            "Pols", 
+            "Conservatism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "White_House"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Liberal_Party_of_Canada"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News_broadcasting", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Faux"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_Broadcasting_Company", 
+            "Super_Tuesday_II,_2008", 
+            "Fox_Business_Network", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Fox_Business_Network", 
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_Entertainment_Group", 
+            "Hell", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News_conference", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "News", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Faux", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "The_Fox_(1967_film)", 
+            "Fox_Business_Network", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Business_Network"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Pandemic", 
+            "Surgeon", 
+            "Intelligence", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Surgeon_General", 
+            "States_and_territories_of_India", 
+            "Unemployment"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "News_media"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Newspaper", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "United_States", 
+            "First_Lady", 
+            "Star", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hollywood,_Los_Angeles,_California", 
+            "John_F._Kennedy", 
+            "Internet"
+        ], 
+        "postID": 38
+    }
+]

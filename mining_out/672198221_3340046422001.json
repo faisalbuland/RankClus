@@ -1,0 +1,61 @@
+[
+    {
+        "entity": [
+            "Shipbuilding", 
+            "Aircraft", 
+            "Welding", 
+            "Aircraft_carrier", 
+            "Shipyard", 
+            "Joint", 
+            "Northrop", 
+            "Grumman", 
+            "Northrop", 
+            "United_States", 
+            "Grumman", 
+            "Newport_News,_Virginia", 
+            "May_14", 
+            "Northrop_Grumman", 
+            "Northrop_Grumman", 
+            "Newport", 
+            "Welding", 
+            "Northrop_Grumman_Shipbuilding", 
+            "Welding", 
+            "Future_French_aircraft_carrier", 
+            "Virginia", 
+            "Defense_News", 
+            "Welding"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Motel", 
+            "Bar_association"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Treason"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Welding"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Treason", 
+            "Espionage"
+        ], 
+        "postID": 6
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Washington_Redskins", 
+            "Washington_Redskins", 
+            "Washington,_D.C.", 
+            "Washington,_D.C.", 
+            "Washington_Redskins", 
+            "Washington,_D.C.", 
+            "Washington,_D.C."
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Association_football", 
+            "Washington_Redskins"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

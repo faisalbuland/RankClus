@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "State", 
+            "U.S._state", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sake", 
+            "English_language", 
+            "Heaven", 
+            "Dude"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Subic_Bay", 
+            "Subic,_Zambales", 
+            "Da_Nang"
+        ], 
+        "postID": 6
+    }
+]

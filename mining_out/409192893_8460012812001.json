@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "White_House", 
+            "White_American", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Franks", 
+            "Bold_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "State_legislature_(United_States)", 
+            "English_draughts", 
+            "Recession", 
+            "Board_of_directors", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Charles_Ponzi", 
+            "Federal_Reserve_System", 
+            "Henry_Paulson", 
+            "United_States_Congress", 
+            "Mantle_(geology)", 
+            "Ponzi_scheme", 
+            "United_States_Congress"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dog_and_pony_show", 
+            "Crock_(dishware)", 
+            "Pony", 
+            "!!!", 
+            "Dog"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Financial_regulation", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "Security_(finance)", 
+            "Insurance", 
+            "American_International_Group"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

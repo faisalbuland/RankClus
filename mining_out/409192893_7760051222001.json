@@ -1,0 +1,734 @@
+[
+    {
+        "entity": [
+            "The_Outlaw", 
+            "Cmp_(Unix)", 
+            "Wales", 
+            "The_Searchers_(band)", 
+            "Service_rifle", 
+            "Columbidae", 
+            "Lonesome_Dove", 
+            "Rifle", 
+            "Rifle", 
+            "Outlaw", 
+            "Rio_Grande", 
+            "Josie_(Donovan_song)", 
+            "Red_River_(Mississippi_watershed)", 
+            "Duval_County,_Florida"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wolverhampton_Wanderers_F.C.", 
+            "Yuma,_Arizona", 
+            "Magnificent_Seven_(gymnastics)", 
+            "Clint_Eastwood", 
+            "Western_(genre)", 
+            "Lonesome_Dove", 
+            "Eastwood", 
+            "Columbidae", 
+            "Dances_with_Wolves", 
+            "The_Magnificent_7", 
+            "The_Magnificent"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Scott_Cooper_(baseball)", 
+            "Smokin_(Jonny_Lang_album)", 
+            "Cooper_Car_Company"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Unforgiven", 
+            "Rooster_Cogburn", 
+            "Duval_County,_Florida", 
+            "Outlaw", 
+            "Wales", 
+            "Silverado", 
+            "Duval_County,_Florida", 
+            "Josey_Wales_(gunfighter)", 
+            "Geronimo", 
+            "Rooster"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Eastwood,_Nottinghamshire", 
+            "Western_(genre)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Yellow_ribbon", 
+            "Apache", 
+            "Fort_Apache_(film)", 
+            "Rio_Lobo", 
+            "Unforgiven", 
+            "The_Pale", 
+            "Rio_Bravo_(film)", 
+            "The_Outlaw", 
+            "Pale_Rider", 
+            "The_Searchers_(film)", 
+            "The_Outlaw_Josey_Wales", 
+            "Josey_Wales", 
+            "Brinson,_Georgia", 
+            "Tombstone,_Arizona", 
+            "Wales", 
+            "Shadow_Riders", 
+            "Bravo_(US_TV_channel)", 
+            "United_States_Marine_Corps", 
+            "Lahaina,_Hawaii", 
+            "Outlaw", 
+            "The_Searchers_(band)", 
+            "The_Shadow", 
+            "Lobo_(DC_Comics)", 
+            "Columbidae", 
+            "The_Shadow_Riders", 
+            "Lonesome_Dove"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Stagecoach_(film)", 
+            "John_Houston", 
+            "John_Wayne", 
+            "Houston,_Texas", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "The_Cowboys", 
+            "Dorado,_Puerto_Rico", 
+            "El_Dorado", 
+            "Cowboy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Mickey_Mouse", 
+            "The_Last_Outlaw_(TV)", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Outlaw", 
+            "Lahaina,_Hawaii", 
+            "Mickey_Rourke"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Western_fiction", 
+            "Western_fiction"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "John"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "The_Professionals_(film)", 
+            "Western_(genre)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "April_30"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "2008", 
+            "Harriss", 
+            "Appaloosa"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Wild_Bunch", 
+            "The_Magnificent_Seven", 
+            "The_Magnificent", 
+            "Japanese_language", 
+            "Seven_Samurai", 
+            "The_Magnificent_Seven", 
+            "The_Wild_Bunch", 
+            "Samurai", 
+            "The_Wild"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Flash_Gordon", 
+            "Television", 
+            "Cisco_Systems", 
+            "Space_Cowboy", 
+            "The_Cisco_Kid", 
+            "Ranger", 
+            "The_Cisco_Kid", 
+            "Poncho", 
+            "Adobe_Flash", 
+            "Tonto", 
+            "Ming_the_Merciless", 
+            "Cowboy", 
+            "Cisco_Systems", 
+            "Association_football", 
+            "Cowboy", 
+            "Cowboy", 
+            "The_Lone_Ranger", 
+            "Western_(genre)", 
+            "The_Lone_Ranger"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Rodeo", 
+            "Horse", 
+            "John_Ford", 
+            "Valley", 
+            "Apache", 
+            "!!!", 
+            "Johnson_Outboards", 
+            "Yellow_ribbon", 
+            "Monument", 
+            "Extra_(actor)", 
+            "AMC_(TV_network)", 
+            "Ribbon", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Western_fiction", 
+            "Western_fiction", 
+            "1952", 
+            "Dam", 
+            "Buggy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Red_dot_sight"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Butch_and_femme"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Duvall,_Washington", 
+            "Open_Range", 
+            "Silverado", 
+            "Thomas_Paine", 
+            "Unforgiven", 
+            "Thomas_Paine"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Fonda,_New_York", 
+            "Jason_Robards", 
+            "Cable_(comics)", 
+            "Jason_Robards", 
+            "Hubert_Humphrey", 
+            "Henry_Fonda", 
+            "The_Ox", 
+            "Humphrey_Bogart", 
+            "Oxbow_lake", 
+            "Sierra_Entertainment", 
+            "Bow,_London", 
+            "Sierra_Madre", 
+            "Humphrey_Bogart", 
+            "Jason"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Ed_Harris", 
+            "Sharon_Stone", 
+            "Leonardo", 
+            "Roger_Glover", 
+            "Mezcal", 
+            "Lawrence_Kasdan", 
+            "The_Quick_(US_band)", 
+            "Gene_Hackman", 
+            "Tucson,_Arizona", 
+            "Sharon_Rickman", 
+            "Danny_Glover", 
+            "Lawrence,_Kansas", 
+            "Leonardo_DiCaprio", 
+            "Old_Tucson_Studios", 
+            "Mezcal", 
+            "Old_Tucson_Studios", 
+            "Kevin_Costner", 
+            "Brian_Dennehy", 
+            "Tombstone_(film)", 
+            "2009", 
+            "Tucson,_Arizona", 
+            "The_Dead_(band)", 
+            "Gene_Hackman", 
+            "Kevin_Kline", 
+            "Old_Tucson_Studios", 
+            "Leonardo_DiCaprio", 
+            "Russell_Crowe", 
+            "Lawrence_Kasdan", 
+            "Old_Tucson_Studios", 
+            "Silverado_(film)", 
+            "Bertrand_Russell", 
+            "The_Quick_and_the_Dead_(1995_film)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Hackman", 
+            "Thomas_Paine"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Monte_Walsh", 
+            "The_Big_Sky_(film)", 
+            "Major", 
+            "Tombstone,_Arizona", 
+            "Winchester", 
+            "Winchester_'73_(1950_film)", 
+            "Apache", 
+            "Horizons_(Epcot_attraction)", 
+            "The_Professionals_(TV_series)", 
+            "Cattle", 
+            "Alamo_Mission_in_San_Antonio", 
+            "Pony_Express", 
+            "Dundee", 
+            "Yellow_ribbon", 
+            "Mountain_man", 
+            "The_Bravados", 
+            "2009", 
+            "Fort_Apache_(film)", 
+            "Lewis", 
+            "The_Alamo_(1960_film)", 
+            "Moon", 
+            "Gunfighter", 
+            "April_30", 
+            "Film", 
+            "Major_Dundee", 
+            "Stocking", 
+            "Big_Sky_Conference", 
+            "Will_Penny", 
+            "Dodge", 
+            "Dodge_City,_Kansas", 
+            "Far_Horizons"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "Audie_Awards", 
+            "William_Holden", 
+            "Holden", 
+            "Badge_(song)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "The_Outlaw", 
+            "Cmp_(Unix)", 
+            "Wales", 
+            "The_Searchers_(band)", 
+            "Service_rifle", 
+            "Columbidae", 
+            "Lonesome_Dove", 
+            "Rifle", 
+            "Rifle", 
+            "Outlaw", 
+            "Rio_Grande", 
+            "Josie_(Donovan_song)", 
+            "Red_River_(Mississippi_watershed)", 
+            "Duval_County,_Florida"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Wolverhampton_Wanderers_F.C.", 
+            "Yuma,_Arizona", 
+            "Magnificent_Seven_(gymnastics)", 
+            "Clint_Eastwood", 
+            "Western_(genre)", 
+            "Lonesome_Dove", 
+            "Eastwood", 
+            "Columbidae", 
+            "Dances_with_Wolves", 
+            "The_Magnificent_7", 
+            "The_Magnificent"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Scott_Cooper_(baseball)", 
+            "Smokin_(Jonny_Lang_album)", 
+            "Cooper_Car_Company"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Unforgiven", 
+            "Rooster_Cogburn", 
+            "Duval_County,_Florida", 
+            "Outlaw", 
+            "Wales", 
+            "Silverado", 
+            "Duval_County,_Florida", 
+            "Josey_Wales_(gunfighter)", 
+            "Geronimo", 
+            "Rooster"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Eastwood,_Nottinghamshire", 
+            "Western_(genre)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Yellow_ribbon", 
+            "Apache", 
+            "Fort_Apache_(film)", 
+            "Rio_Lobo", 
+            "Unforgiven", 
+            "The_Pale", 
+            "Rio_Bravo_(film)", 
+            "The_Outlaw", 
+            "Pale_Rider", 
+            "The_Searchers_(film)", 
+            "The_Outlaw_Josey_Wales", 
+            "Josey_Wales", 
+            "Brinson,_Georgia", 
+            "Tombstone,_Arizona", 
+            "Wales", 
+            "Shadow_Riders", 
+            "Bravo_(US_TV_channel)", 
+            "United_States_Marine_Corps", 
+            "Lahaina,_Hawaii", 
+            "Outlaw", 
+            "The_Searchers_(band)", 
+            "The_Shadow", 
+            "Lobo_(DC_Comics)", 
+            "Columbidae", 
+            "The_Shadow_Riders", 
+            "Lonesome_Dove"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Stagecoach_(film)", 
+            "John_Houston", 
+            "John_Wayne", 
+            "Houston,_Texas", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "The_Cowboys", 
+            "Dorado,_Puerto_Rico", 
+            "El_Dorado", 
+            "Cowboy"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Mickey_Mouse", 
+            "The_Last_Outlaw_(TV)", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Outlaw", 
+            "Lahaina,_Hawaii", 
+            "Mickey_Rourke"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Western_fiction", 
+            "Western_fiction"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "John"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "The_Professionals_(film)", 
+            "Western_(genre)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "April_30"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "2008", 
+            "Harriss", 
+            "Appaloosa"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Wild_Bunch", 
+            "The_Magnificent_Seven", 
+            "The_Magnificent", 
+            "Japanese_language", 
+            "Seven_Samurai", 
+            "The_Magnificent_Seven", 
+            "The_Wild_Bunch", 
+            "Samurai", 
+            "The_Wild"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Flash_Gordon", 
+            "Television", 
+            "Cisco_Systems", 
+            "Space_Cowboy", 
+            "The_Cisco_Kid", 
+            "Ranger", 
+            "The_Cisco_Kid", 
+            "Poncho", 
+            "Adobe_Flash", 
+            "Tonto", 
+            "Ming_the_Merciless", 
+            "Cowboy", 
+            "Cisco_Systems", 
+            "Association_football", 
+            "Cowboy", 
+            "Cowboy", 
+            "The_Lone_Ranger", 
+            "Western_(genre)", 
+            "The_Lone_Ranger"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Rodeo", 
+            "Horse", 
+            "John_Ford", 
+            "Valley", 
+            "Apache", 
+            "!!!", 
+            "Johnson_Outboards", 
+            "Yellow_ribbon", 
+            "Monument", 
+            "Extra_(actor)", 
+            "AMC_(TV_network)", 
+            "Ribbon", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Western_fiction", 
+            "Western_fiction", 
+            "1952", 
+            "Dam", 
+            "Buggy"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Red_dot_sight"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Butch_and_femme"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Duvall,_Washington", 
+            "Open_Range", 
+            "Silverado", 
+            "Thomas_Paine", 
+            "Unforgiven", 
+            "Thomas_Paine"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fonda,_New_York", 
+            "Jason_Robards", 
+            "Cable_(comics)", 
+            "Jason_Robards", 
+            "Hubert_Humphrey", 
+            "Henry_Fonda", 
+            "The_Ox", 
+            "Humphrey_Bogart", 
+            "Oxbow_lake", 
+            "Sierra_Entertainment", 
+            "Bow,_London", 
+            "Sierra_Madre", 
+            "Humphrey_Bogart", 
+            "Jason"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Ed_Harris", 
+            "Sharon_Stone", 
+            "Leonardo", 
+            "Roger_Glover", 
+            "Mezcal", 
+            "Lawrence_Kasdan", 
+            "The_Quick_(US_band)", 
+            "Gene_Hackman", 
+            "Tucson,_Arizona", 
+            "Sharon_Rickman", 
+            "Danny_Glover", 
+            "Lawrence,_Kansas", 
+            "Leonardo_DiCaprio", 
+            "Old_Tucson_Studios", 
+            "Mezcal", 
+            "Old_Tucson_Studios", 
+            "Kevin_Costner", 
+            "Brian_Dennehy", 
+            "Tombstone_(film)", 
+            "2009", 
+            "Tucson,_Arizona", 
+            "The_Dead_(band)", 
+            "Gene_Hackman", 
+            "Kevin_Kline", 
+            "Old_Tucson_Studios", 
+            "Leonardo_DiCaprio", 
+            "Russell_Crowe", 
+            "Lawrence_Kasdan", 
+            "Old_Tucson_Studios", 
+            "Silverado_(film)", 
+            "Bertrand_Russell", 
+            "The_Quick_and_the_Dead_(1995_film)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Hackman", 
+            "Thomas_Paine"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Monte_Walsh", 
+            "The_Big_Sky_(film)", 
+            "Major", 
+            "Tombstone,_Arizona", 
+            "Winchester", 
+            "Winchester_'73_(1950_film)", 
+            "Apache", 
+            "Horizons_(Epcot_attraction)", 
+            "The_Professionals_(TV_series)", 
+            "Cattle", 
+            "Alamo_Mission_in_San_Antonio", 
+            "Pony_Express", 
+            "Dundee", 
+            "Yellow_ribbon", 
+            "Mountain_man", 
+            "The_Bravados", 
+            "2009", 
+            "Fort_Apache_(film)", 
+            "Lewis", 
+            "The_Alamo_(1960_film)", 
+            "Moon", 
+            "Gunfighter", 
+            "April_30", 
+            "Film", 
+            "Major_Dundee", 
+            "Stocking", 
+            "Big_Sky_Conference", 
+            "Will_Penny", 
+            "Dodge", 
+            "Dodge_City,_Kansas", 
+            "Far_Horizons"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "Audie_Awards", 
+            "William_Holden", 
+            "Holden", 
+            "Badge_(song)"
+        ], 
+        "postID": 58
+    }
+]

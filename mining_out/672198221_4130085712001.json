@@ -1,0 +1,341 @@
+[
+    {
+        "entity": [
+            "Money", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Barack_Obama", 
+            "Electronic_health_record", 
+            "Wal-Mart", 
+            "Wal-Mart"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mass_media", 
+            "Sarah_Palin", 
+            "Wal-Mart", 
+            "Health_care", 
+            "Wal_(bass)", 
+            "Private_sector", 
+            "Alaska", 
+            "Palin_Majere", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Wal_(bass)", 
+            "Common_sense", 
+            "Conservative_Party_(UK)", 
+            "Wal-Mart", 
+            "Catch-22_(logic)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "Wal_(bass)", 
+            "Chat_show", 
+            "Radio", 
+            "Wal-Mart", 
+            "Catch-22_(logic)", 
+            "Wal_(bass)", 
+            "Barack_Obama", 
+            "Internet_forum", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Medical_record"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Feedback", 
+            "Transmission_(mechanics)", 
+            "Fax", 
+            "Barack_Obama", 
+            "VAST", 
+            "Access_Co.", 
+            "Confirmation"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tablet", 
+            "Google"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Privately_held_company", 
+            "Profit", 
+            "Barack_Obama", 
+            "Tax", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Technology", 
+            "Digital", 
+            "Electronic_music", 
+            "Electronic_medical_record", 
+            "National_Naval_Medical_Center", 
+            "Hospital", 
+            "Hospital", 
+            "Database", 
+            "Military_Health_System", 
+            "Hospital", 
+            "Senn_High_School", 
+            "Medical_record", 
+            "United_States_Department_of_Defense", 
+            "Safety_(American_football)", 
+            "Digital", 
+            "Digital_divide", 
+            "Transcription_(music)", 
+            "Computer_software", 
+            "Hospital", 
+            "United_States_Navy", 
+            "Medical_record", 
+            "Beneficiary", 
+            "Hospital", 
+            "Digital", 
+            "Health_care", 
+            "Health_care_systems", 
+            "Medicine", 
+            "Patient_safety", 
+            "Steve_Kelley", 
+            "Laboratory", 
+            "Sailor", 
+            "Bethesda,_Maryland", 
+            "Senn_High_School", 
+            "Database", 
+            "Implantation", 
+            "Nationwide_Series", 
+            "Interoperability", 
+            "San_Diego,_California", 
+            "Bethesda,_Maryland", 
+            "Health_care", 
+            "Health_care", 
+            "September_18", 
+            "Bob_Wilson_Naval_Hospital", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Composite_Health_Care_System", 
+            "Hospital", 
+            "Technology", 
+            "Medicine", 
+            "Bethesda,_Maryland", 
+            "Electronic_medical_record", 
+            "Hospital", 
+            "Electronic_music", 
+            "Medical_record", 
+            "Hospital", 
+            "National_Naval_Medical_Center", 
+            "Keypad", 
+            "Medical_record", 
+            "Ellen_(TV_series)", 
+            "Departments_of_France", 
+            "United_States_Department_of_Defense", 
+            "Departments_of_France", 
+            "Portsmouth", 
+            "Medicine", 
+            "Computer_data_storage", 
+            "Database", 
+            "Hospital", 
+            "Clinic", 
+            "Hospital", 
+            "Veterinary_surgery", 
+            "Digital", 
+            "Composite_Health_Care_System", 
+            "Health_care", 
+            "National_Naval_Medical_Center", 
+            "Allergy", 
+            "Allergy", 
+            "Radiology", 
+            "United_States_Navy", 
+            "Population_health", 
+            "Population", 
+            "Pathology", 
+            "Database"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Privately_held_company", 
+            "Corporation", 
+            "Logic", 
+            "Evel_Knievel", 
+            "Federal_government_of_the_United_States", 
+            "Thread_(computer_science)", 
+            "Evel_Knievel"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Medical_error", 
+            "Health_care", 
+            "Medical_record", 
+            "Health_care", 
+            "Technology", 
+            "Marketplace", 
+            "Technology", 
+            "Database", 
+            "Information_technology", 
+            "Medicine", 
+            "Interoperability", 
+            "Health_care", 
+            "Information_technology", 
+            "Information_technology", 
+            "Information_technology", 
+            "Health_informatics", 
+            "Complete_information", 
+            "Technology", 
+            "Technology", 
+            "National_Resource_Center_for_Health_Information_Technology", 
+            "Information_technology", 
+            "Technology", 
+            "Privacy", 
+            "Interoperability", 
+            "Fear_mongering", 
+            "Evidence-based_medicine", 
+            "Health_informatics", 
+            "Executive_order_(United_States)", 
+            "National_Health_Service", 
+            "Health_care", 
+            "Executive_order_(United_States)", 
+            "Health_informatics", 
+            "Health_informatics", 
+            "Ambulatory", 
+            "Ambulatory_care", 
+            "Medical_error", 
+            "Interoperability", 
+            "Information_technology", 
+            "Health_care", 
+            "Technology", 
+            "Technology", 
+            "Encryption", 
+            "National_Health_Service", 
+            "Infrastructure", 
+            "Authentication", 
+            "George_W._Bush", 
+            "Health_informatics", 
+            "Law", 
+            "Information_technology", 
+            "National_Resource_Center_for_Health_Information_Technology", 
+            "Health_care", 
+            "Information_technology", 
+            "Infrastructure", 
+            "Federal_government_of_the_United_States", 
+            "Data_transmission", 
+            "Technology", 
+            "Interoperability", 
+            "Medical_error", 
+            "Internet", 
+            "Information_technology", 
+            "Interoperability", 
+            "Database", 
+            "Laboratory", 
+            "Health_informatics", 
+            "Information_technology", 
+            "Health_informatics", 
+            "Information_technology", 
+            "Health_informatics", 
+            "2004"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Electronic_component", 
+            "Database", 
+            "Moving_violation", 
+            "Insurance", 
+            "Mail", 
+            "Dollar", 
+            "Redundancy_(engineering)", 
+            "Traffic_ticket", 
+            "Electronics"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Beast_(comics)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Stereotype", 
+            "Wal-Mart", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "National_government", 
+            "Gutter", 
+            "Democratic_Party_(United_States)", 
+            "Government_database", 
+            "Conservatism_in_the_United_States", 
+            "Family_Ties", 
+            "Database", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Medical_record", 
+            "Fox_Broadcasting_Company", 
+            "Cigarette", 
+            "Conservatism_in_the_United_States", 
+            "Michael_J._Fox", 
+            "Stereotype"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Electronic_music", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Neoconservatism", 
+            "Republican_Party_(United_States)", 
+            "Conservative_Party_(UK)", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Y'all", 
+            "Common_sense", 
+            "Dang"
+        ], 
+        "postID": 18
+    }
+]

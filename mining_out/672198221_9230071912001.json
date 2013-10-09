@@ -1,0 +1,791 @@
+[
+    {
+        "entity": [
+            "Elon_Musk", 
+            "Manager_(baseball)", 
+            "Electric_vehicle", 
+            "Ford_Motor_Company", 
+            "Tesla_Model_S", 
+            "Entrepreneur", 
+            "Mercedes-Benz", 
+            "Tesla_Model_S", 
+            "Elon_University", 
+            "2011", 
+            "Silicon", 
+            "Nissan_Motors", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "Silicon_Valley", 
+            "Ford_Motor_Company", 
+            "Commuting", 
+            "Max_Gluckman", 
+            "Mitsubishi_Motors", 
+            "Max_Gluckman", 
+            "Battery_electric_vehicle", 
+            "Tesla_Motors", 
+            "BMW", 
+            "Electric_car", 
+            "Tesla_Motors", 
+            "Sedan", 
+            "Price_point", 
+            "Ford_Focus_(international)", 
+            "Electric_car", 
+            "Musk", 
+            "Tesla_Motors", 
+            "Compact_car", 
+            "Sedan", 
+            "PayPal", 
+            "Hyundai_Motor_Company", 
+            "Tesla_Motors"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Volt", 
+            "Electric_power", 
+            "Far_side_of_the_Moon", 
+            "Electric_power_transmission", 
+            "Chevrolet", 
+            "Fossil_fuel_power_plant", 
+            "Technology", 
+            "Power_station"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Electric_power_transmission"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Model_(person)", 
+            "Website", 
+            "Tax_advantage", 
+            "Cadillac_Runabout_and_Tonneau"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nikola_Tesla", 
+            "Death_ray", 
+            "Batoidea"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Minivan", 
+            "Sedan", 
+            "Testing_Recall_About_Strange_Happenings", 
+            "Hell", 
+            "Minivan", 
+            "Hybrid_(biology)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Infiniti_M", 
+            "2009", 
+            "Acura", 
+            "Buick_Lucerne", 
+            "Cadillac", 
+            "Cadillac_DTS", 
+            "Buick", 
+            "Suggested_retail_price", 
+            "Suggested_retail_price", 
+            "Acura_RL", 
+            "Buick_Lucerne", 
+            "2009", 
+            "Suggested_retail_price", 
+            "2009", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Cadillac_DTS", 
+            "BMW", 
+            "Cadillac_CTS", 
+            "Suggested_retail_price", 
+            "Infiniti_M", 
+            "Infiniti", 
+            "Sedan", 
+            "BMW_5_Series", 
+            "2009", 
+            "2009", 
+            "Lexus", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Chrysler", 
+            "BMW_5_Series", 
+            "Cadillac", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Cadillac_CTS"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Technology"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Thomas_Edison", 
+            "Inventor", 
+            "Automobile", 
+            "Technology"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tesla_Roadster", 
+            "Sports_car", 
+            "Common_year_starting_on_Thursday", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "2009", 
+            "March_28", 
+            "Battery_electric_vehicle"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Combustion", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Electric_car", 
+            "Battery_(electricity)", 
+            "Internal_combustion_engine", 
+            "Electric_motor", 
+            "Combustion"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Eclipse_(software)", 
+            "Detroit,_Michigan", 
+            "Very_light_jet"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "Huh_(god)", 
+            "Federal_law", 
+            "QWERTY", 
+            "Electric_car", 
+            "Electric_motor", 
+            "Detroit,_Michigan", 
+            "Turkish_new_lira", 
+            "Bankruptcy", 
+            "Model_(person)", 
+            "Battery_(electricity)", 
+            "Drawing_board", 
+            "Capitalism", 
+            "He_(letter)", 
+            "Water", 
+            "Law", 
+            "Electric_car", 
+            "Technology"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Buick", 
+            "Battery_(electricity)", 
+            "Tesla_(band)", 
+            "Omaha,_Nebraska", 
+            "Gas"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Electric_car"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Dashboard", 
+            "Bank"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Battery_recycling", 
+            "Battery_recycling", 
+            "Battery_(electricity)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Instrumentation", 
+            "Electronics", 
+            "Instrumentation", 
+            "Liquid_crystal_display", 
+            "Electronic_instrumentation", 
+            "Laptop"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Elon_Musk", 
+            "Manager_(baseball)", 
+            "Electric_vehicle", 
+            "Ford_Motor_Company", 
+            "Tesla_Model_S", 
+            "Entrepreneur", 
+            "Mercedes-Benz", 
+            "Tesla_Model_S", 
+            "Elon_University", 
+            "2011", 
+            "Silicon", 
+            "Nissan_Motors", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "Silicon_Valley", 
+            "Ford_Motor_Company", 
+            "Commuting", 
+            "Max_Gluckman", 
+            "Mitsubishi_Motors", 
+            "Max_Gluckman", 
+            "Battery_electric_vehicle", 
+            "Tesla_Motors", 
+            "BMW", 
+            "Electric_car", 
+            "Tesla_Motors", 
+            "Sedan", 
+            "Price_point", 
+            "Ford_Focus_(international)", 
+            "Electric_car", 
+            "Musk", 
+            "Tesla_Motors", 
+            "Compact_car", 
+            "Sedan", 
+            "PayPal", 
+            "Hyundai_Motor_Company", 
+            "Tesla_Motors"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Volt", 
+            "Electric_power", 
+            "Far_side_of_the_Moon", 
+            "Electric_power_transmission", 
+            "Chevrolet", 
+            "Fossil_fuel_power_plant", 
+            "Technology", 
+            "Power_station"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Electric_power_transmission"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Model_(person)", 
+            "Website", 
+            "Tax_advantage", 
+            "Cadillac_Runabout_and_Tonneau"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Nikola_Tesla", 
+            "Death_ray", 
+            "Batoidea"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Minivan", 
+            "Sedan", 
+            "Testing_Recall_About_Strange_Happenings", 
+            "Hell", 
+            "Minivan", 
+            "Hybrid_(biology)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Infiniti_M", 
+            "2009", 
+            "Acura", 
+            "Buick_Lucerne", 
+            "Cadillac", 
+            "Cadillac_DTS", 
+            "Buick", 
+            "Suggested_retail_price", 
+            "Suggested_retail_price", 
+            "Acura_RL", 
+            "Buick_Lucerne", 
+            "2009", 
+            "Suggested_retail_price", 
+            "2009", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Cadillac_DTS", 
+            "BMW", 
+            "Cadillac_CTS", 
+            "Suggested_retail_price", 
+            "Infiniti_M", 
+            "Infiniti", 
+            "Sedan", 
+            "BMW_5_Series", 
+            "2009", 
+            "2009", 
+            "Lexus", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Chrysler", 
+            "BMW_5_Series", 
+            "Cadillac", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Cadillac_CTS"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Technology"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Thomas_Edison", 
+            "Inventor", 
+            "Automobile", 
+            "Technology"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Tesla_Roadster", 
+            "Sports_car", 
+            "Common_year_starting_on_Thursday", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "2009", 
+            "March_28", 
+            "Battery_electric_vehicle"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Combustion", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Electric_car", 
+            "Battery_(electricity)", 
+            "Internal_combustion_engine", 
+            "Electric_motor", 
+            "Combustion"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Eclipse_(software)", 
+            "Detroit,_Michigan", 
+            "Very_light_jet"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "Huh_(god)", 
+            "Federal_law", 
+            "QWERTY", 
+            "Electric_car", 
+            "Electric_motor", 
+            "Detroit,_Michigan", 
+            "Turkish_new_lira", 
+            "Bankruptcy", 
+            "Model_(person)", 
+            "Battery_(electricity)", 
+            "Drawing_board", 
+            "Capitalism", 
+            "He_(letter)", 
+            "Water", 
+            "Law", 
+            "Electric_car", 
+            "Technology"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Buick", 
+            "Battery_(electricity)", 
+            "Tesla_(band)", 
+            "Omaha,_Nebraska", 
+            "Gas"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Electric_car"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Dashboard", 
+            "Bank"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Battery_recycling", 
+            "Battery_recycling", 
+            "Battery_(electricity)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Instrumentation", 
+            "Electronics", 
+            "Instrumentation", 
+            "Liquid_crystal_display", 
+            "Electronic_instrumentation", 
+            "Laptop"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Elon_Musk", 
+            "Manager_(baseball)", 
+            "Electric_vehicle", 
+            "Ford_Motor_Company", 
+            "Tesla_Model_S", 
+            "Entrepreneur", 
+            "Mercedes-Benz", 
+            "Tesla_Model_S", 
+            "Elon_University", 
+            "2011", 
+            "Silicon", 
+            "Nissan_Motors", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "Silicon_Valley", 
+            "Ford_Motor_Company", 
+            "Commuting", 
+            "Max_Gluckman", 
+            "Mitsubishi_Motors", 
+            "Max_Gluckman", 
+            "Battery_electric_vehicle", 
+            "Tesla_Motors", 
+            "BMW", 
+            "Electric_car", 
+            "Tesla_Motors", 
+            "Sedan", 
+            "Price_point", 
+            "Ford_Focus_(international)", 
+            "Electric_car", 
+            "Musk", 
+            "Tesla_Motors", 
+            "Compact_car", 
+            "Sedan", 
+            "PayPal", 
+            "Hyundai_Motor_Company", 
+            "Tesla_Motors"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Volt", 
+            "Electric_power", 
+            "Far_side_of_the_Moon", 
+            "Electric_power_transmission", 
+            "Chevrolet", 
+            "Fossil_fuel_power_plant", 
+            "Technology", 
+            "Power_station"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Electric_power_transmission"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Model_(person)", 
+            "Website", 
+            "Tax_advantage", 
+            "Cadillac_Runabout_and_Tonneau"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Nikola_Tesla", 
+            "Death_ray", 
+            "Batoidea"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Minivan", 
+            "Sedan", 
+            "Testing_Recall_About_Strange_Happenings", 
+            "Hell", 
+            "Minivan", 
+            "Hybrid_(biology)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Infiniti_M", 
+            "2009", 
+            "Acura", 
+            "Buick_Lucerne", 
+            "Cadillac", 
+            "Cadillac_DTS", 
+            "Buick", 
+            "Suggested_retail_price", 
+            "Suggested_retail_price", 
+            "Acura_RL", 
+            "Buick_Lucerne", 
+            "2009", 
+            "Suggested_retail_price", 
+            "2009", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Cadillac_DTS", 
+            "BMW", 
+            "Cadillac_CTS", 
+            "Suggested_retail_price", 
+            "Infiniti_M", 
+            "Infiniti", 
+            "Sedan", 
+            "BMW_5_Series", 
+            "2009", 
+            "2009", 
+            "Lexus", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Chrysler", 
+            "BMW_5_Series", 
+            "Cadillac", 
+            "2009", 
+            "Suggested_retail_price", 
+            "Lexus_GS", 
+            "Cadillac_CTS"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Technology"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Thomas_Edison", 
+            "Inventor", 
+            "Automobile", 
+            "Technology"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Tesla_Roadster", 
+            "Sports_car", 
+            "Common_year_starting_on_Thursday", 
+            "Tesla_Motors", 
+            "Roadster", 
+            "2009", 
+            "March_28", 
+            "Battery_electric_vehicle"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Combustion", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Internal_combustion_engine", 
+            "Electric_car", 
+            "Battery_(electricity)", 
+            "Internal_combustion_engine", 
+            "Electric_motor", 
+            "Combustion"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Eclipse_(software)", 
+            "Detroit,_Michigan", 
+            "Very_light_jet"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "Huh_(god)", 
+            "Federal_law", 
+            "QWERTY", 
+            "Electric_car", 
+            "Electric_motor", 
+            "Detroit,_Michigan", 
+            "Turkish_new_lira", 
+            "Bankruptcy", 
+            "Model_(person)", 
+            "Battery_(electricity)", 
+            "Drawing_board", 
+            "Capitalism", 
+            "He_(letter)", 
+            "Water", 
+            "Law", 
+            "Electric_car", 
+            "Technology"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Tesla_(band)", 
+            "Buick", 
+            "Battery_(electricity)", 
+            "Tesla_(band)", 
+            "Omaha,_Nebraska", 
+            "Gas"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Electric_car"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Dashboard", 
+            "Bank"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Battery_recycling", 
+            "Battery_recycling", 
+            "Battery_(electricity)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Instrumentation", 
+            "Electronics", 
+            "Instrumentation", 
+            "Liquid_crystal_display", 
+            "Electronic_instrumentation", 
+            "Laptop"
+        ], 
+        "postID": 60
+    }
+]

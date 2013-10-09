@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [
+            "Military_Occupational_Specialty"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ako", 
+            "Recruiter"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "Ako", 
+            "User_(computing)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Staff_Officer", 
+            "Military_Occupational_Specialty", 
+            "Battalion", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Personal_Communications_Service", 
+            "Recruiter", 
+            "Computer_virus", 
+            "Spam_(electronic)", 
+            "Recruiter", 
+            "Germany", 
+            "Ako", 
+            "Military_of_the_United_States", 
+            "Non-commissioned_officer", 
+            "Tourism", 
+            "Ako", 
+            "Ako", 
+            "E-mail"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ako", 
+            "Recruiter", 
+            "Drill", 
+            "Screen_name", 
+            "Radio", 
+            "Communications_security"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Yellow_Pages", 
+            "Hell"
+        ], 
+        "postID": 11
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "entity": [
+            "Republic_of_China", 
+            "Legislature", 
+            "Executive_Yuan", 
+            "Stapler", 
+            "Legislative_Yuan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }
+]

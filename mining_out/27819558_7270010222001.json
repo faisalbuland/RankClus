@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Habitat", 
+            "Honor_code", 
+            "Hallmark", 
+            "Hallmark_Movie_Channel", 
+            "Bronze_Star_Medal", 
+            "United_States_Military_Academy", 
+            "Ellen_Tauscher", 
+            "John_Garamendi", 
+            "Iraq", 
+            "United_States_House_of_Representatives", 
+            "United_States_Capitol", 
+            "Website", 
+            "Governor", 
+            "Politician", 
+            "Barack_Obama", 
+            "Ellen_(TV_series)", 
+            "United_States_Military_Academy", 
+            "United_States_Military_Academy", 
+            "Name_recognition", 
+            "Harvard_University", 
+            "Single_parent", 
+            "Alert,_Nunavut", 
+            "Habitat_for_Humanity_International"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Token", 
+            "State", 
+            "Homosexuality", 
+            "Civil_service", 
+            "Church", 
+            "Hell", 
+            "Parent-Teacher_Association", 
+            "Lesbian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "San_Francisco_Bay_Area", 
+            "California", 
+            "San_Francisco_Bay_Area"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Internet_forum"
+        ], 
+        "postID": 4
+    }
+]

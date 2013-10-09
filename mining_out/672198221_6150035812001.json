@@ -1,0 +1,114 @@
+[
+    {
+        "entity": [
+            "Film", 
+            "Bill_Clinton", 
+            "Book_of_Judges", 
+            "President_of_the_United_States", 
+            "Thumbs_up", 
+            "Bipartisan_Campaign_Reform_Act", 
+            "Politics", 
+            "United_States_presidential_election,_2008", 
+            "United_States", 
+            "Democratic_Party_(United_States)_presidential_primaries,_2008", 
+            "Film", 
+            "2008", 
+            "David_Bossie", 
+            "Campaign_finance", 
+            "Conservatism", 
+            "United_States_Senate", 
+            "Supreme_Court_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Republican_Party_(United_States)", 
+            "Morris_Motor_Company", 
+            "Law", 
+            "Democratic_Party_(United_States)", 
+            "Primary_election", 
+            "Cable_television", 
+            "Cable_television", 
+            "Bill_Clinton", 
+            "Attack_ad", 
+            "Hillary_Clinton_presidential_campaign,_2008", 
+            "Bill_Clinton", 
+            "Citizens_United", 
+            "Socialism", 
+            "Television", 
+            "Hillary_Rodham_Clinton", 
+            "New_York_State_Senate", 
+            "Television", 
+            "Political_campaign", 
+            "Critic", 
+            "Television", 
+            "2002", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Finance", 
+            "Video_on_demand", 
+            "Hillary_Rodham_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Pundit_(expert)", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "United_States_federal_courts", 
+            "United_States_Senate", 
+            "Hillary_Rodham_Clinton", 
+            "Citizens_United", 
+            "Politics_of_the_United_States", 
+            "United_States", 
+            "Television", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Documentary_film", 
+            "Conservatism", 
+            "New_York", 
+            "Dick_Morris"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "First_Amendment_to_the_United_States_Constitution", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Television", 
+            "Nonpartisan", 
+            "Bias_of_an_estimator", 
+            "Cable_television", 
+            "Attack_ad", 
+            "False_pretenses", 
+            "Hillary_Rodham_Clinton", 
+            "Cable_television", 
+            "Documentary_film", 
+            "Book_of_Judges", 
+            "Attack_ad", 
+            "2006_Liberal_Party_of_Canada_election_ads", 
+            "Political_campaign", 
+            "Television", 
+            "Citizens_United", 
+            "Freedom_of_speech", 
+            "Documentary_film", 
+            "Revolving_Door_(television_advertisement)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Freedom_of_speech"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

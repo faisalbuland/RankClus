@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Jackson,_Mississippi", 
+            "Samuel_L._Jackson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Persona", 
+            "Snake", 
+            "Persona_non_grata", 
+            "Cargo"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia", 
+            "Snake"
+        ], 
+        "postID": 4
+    }
+]

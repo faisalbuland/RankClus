@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "2009", 
+            "!!!", 
+            "United_States_Senate", 
+            "Member_of_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Quackery"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Physician"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stressor"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "entity": [
+            "Gay", 
+            "LGBT_social_movements", 
+            "Church", 
+            "California", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Homophobia", 
+            "Television", 
+            "Jersey", 
+            "Homosexuality", 
+            "New_York", 
+            "Fox_News_Channel", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "Lesbian", 
+            "Same-sex_marriage", 
+            "Storm_(Marvel_Comics)", 
+            "Rhode_Island", 
+            "New_Jersey", 
+            "MSNBC"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Golden_Liberty", 
+            "Teh", 
+            "Television"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Human", 
+            "People's_Republic_of_China", 
+            "Iraq_War"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Advertising_campaign", 
+            "Marriage", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Marriage", 
+            "California", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Human_Rights_Campaign", 
+            "Human_rights", 
+            "Human_Rights_Campaign"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Fear_mongering"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Book_of_Numbers"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "445"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Screen_Actors_Guild"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Baptist", 
+            "Advertising", 
+            "Appetite", 
+            "Christian", 
+            "Baptist", 
+            "Christian", 
+            "Pizza", 
+            "Pizza_Hut", 
+            "Westboro_Baptist_Church", 
+            "Phelps_(village),_New_York", 
+            "Television_advertisement", 
+            "Honesty", 
+            "Lasagna", 
+            "Italian_cuisine", 
+            "Pizza", 
+            "Pizza_Hut", 
+            "Fred_Phelps", 
+            "Lasagna", 
+            "Westboro_Baptist_Church", 
+            "Italian_cuisine", 
+            "Public_opinion"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Jesus", 
+            "Stoop", 
+            "Satan", 
+            "Dishonesty", 
+            "Marriage", 
+            "Bible"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Conservatism_in_the_United_States", 
+            "The_Weather_Girls", 
+            "CNN", 
+            "Advocate", 
+            "Same-sex_marriage", 
+            "Parody", 
+            "The_Advocate", 
+            "The_Weather_Girls", 
+            "Marriage", 
+            "Marriage", 
+            "MSNBC", 
+            "Fox_News_Channel", 
+            "Yesterday_(song)", 
+            "Homophobia", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fear", 
+            "Rainbow"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Book_of_Numbers"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Sexual_intercourse", 
+            "Marriage", 
+            "Religion", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Soap"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Gay", 
+            "LGBT_social_movements", 
+            "Church", 
+            "California", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Homophobia", 
+            "Television", 
+            "Jersey", 
+            "Homosexuality", 
+            "New_York", 
+            "Fox_News_Channel", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "Lesbian", 
+            "Same-sex_marriage", 
+            "Storm_(Marvel_Comics)", 
+            "Rhode_Island", 
+            "New_Jersey", 
+            "MSNBC"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Golden_Liberty", 
+            "Teh", 
+            "Television"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Human", 
+            "People's_Republic_of_China", 
+            "Iraq_War"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Advertising_campaign", 
+            "Marriage", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Marriage", 
+            "California", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Human_Rights_Campaign", 
+            "Human_rights", 
+            "Human_Rights_Campaign"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Fear_mongering"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Book_of_Numbers"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "445"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Screen_Actors_Guild"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Baptist", 
+            "Advertising", 
+            "Appetite", 
+            "Christian", 
+            "Baptist", 
+            "Christian", 
+            "Pizza", 
+            "Pizza_Hut", 
+            "Westboro_Baptist_Church", 
+            "Phelps_(village),_New_York", 
+            "Television_advertisement", 
+            "Honesty", 
+            "Lasagna", 
+            "Italian_cuisine", 
+            "Pizza", 
+            "Pizza_Hut", 
+            "Fred_Phelps", 
+            "Lasagna", 
+            "Westboro_Baptist_Church", 
+            "Italian_cuisine", 
+            "Public_opinion"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Jesus", 
+            "Stoop", 
+            "Satan", 
+            "Dishonesty", 
+            "Marriage", 
+            "Bible"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Conservatism_in_the_United_States", 
+            "The_Weather_Girls", 
+            "CNN", 
+            "Advocate", 
+            "Same-sex_marriage", 
+            "Parody", 
+            "The_Advocate", 
+            "The_Weather_Girls", 
+            "Marriage", 
+            "Marriage", 
+            "MSNBC", 
+            "Fox_News_Channel", 
+            "Yesterday_(song)", 
+            "Homophobia", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fear", 
+            "Rainbow"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Book_of_Numbers"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Sexual_intercourse", 
+            "Marriage", 
+            "Religion", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Soap"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

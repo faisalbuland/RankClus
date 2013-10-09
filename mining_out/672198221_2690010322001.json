@@ -1,0 +1,898 @@
+[
+    {
+        "entity": [
+            "Ronald_Fisher", 
+            "Health_care", 
+            "Hospital", 
+            "Physician", 
+            "Primary_care", 
+            "Physician", 
+            "Primary_care_physician", 
+            "Coach_(sport)", 
+            "Primary_care"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "National_Health", 
+            "Bank"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Publicly-funded_health_care", 
+            "National_Health_Service"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Developed_country"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Buck", 
+            "United_States", 
+            "Physician", 
+            "Bankruptcy", 
+            "Bridge", 
+            "Nationalization", 
+            "Health_care", 
+            "Brooklyn", 
+            "Nationalization", 
+            "Health_care_systems", 
+            "Emergency_department", 
+            "Health_care", 
+            "Hospital", 
+            "Law", 
+            "Physician", 
+            "Insurance", 
+            "Public_relations", 
+            "Republican_Party_(United_States)", 
+            "Privatization", 
+            "Health_care", 
+            "Emergency_department", 
+            "Hospital", 
+            "Insurance"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Health_care", 
+            "Eagle", 
+            "Apartment", 
+            "United_States", 
+            "Health_care", 
+            "Insurance"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "National_Health_Service", 
+            "Health_care", 
+            "Health_care", 
+            "Health_insurance", 
+            "Health_care"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "WANT", 
+            "President_of_the_United_States", 
+            "Money_(magazine)", 
+            "Work_Records", 
+            "Goto"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Health_insurance", 
+            "Tax", 
+            "Insurance", 
+            "Health_insurance", 
+            "Insurance", 
+            "Insurance", 
+            "State", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Emergency_medicine", 
+            "Insurance", 
+            "Insurance", 
+            "Universal_health_care", 
+            "State"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Universal_health_care", 
+            "Canada", 
+            "Veterans_Health_Administration", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Health_care", 
+            "Cancer", 
+            "Organ_transplant", 
+            "Universal_Studios", 
+            "Heart_transplantation", 
+            "Emergency_department", 
+            "Oncology", 
+            "First_World", 
+            "Single-payer_health_care", 
+            "Europe", 
+            "Single-payer_health_care", 
+            "Health_care", 
+            "Fork_(software_development)", 
+            "Health_care"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Radio", 
+            "Radio_personality", 
+            "Health_care", 
+            "Conservatism", 
+            "Hell", 
+            "States_and_territories_of_India", 
+            "Cap_(sport)", 
+            "Talk_radio", 
+            "Germany"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Choice_magazine", 
+            "CARE_(relief)", 
+            "Eugenics", 
+            "Canada", 
+            "Payment", 
+            "Bureaucracy", 
+            "Liberalism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Wallet", 
+            "National_Hurricane_Center"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Insurance", 
+            "Health_insurance", 
+            "Canada", 
+            "Health_insurance", 
+            "Canada", 
+            "Surgery", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Long-term_care", 
+            "Insurance", 
+            "Canada"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Ronald_Fisher", 
+            "Health_care", 
+            "Hospital", 
+            "Physician", 
+            "Primary_care", 
+            "Physician", 
+            "Primary_care_physician", 
+            "Coach_(sport)", 
+            "Primary_care"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "National_Health", 
+            "Bank"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Publicly-funded_health_care", 
+            "National_Health_Service"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Developed_country"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Buck", 
+            "United_States", 
+            "Physician", 
+            "Bankruptcy", 
+            "Bridge", 
+            "Nationalization", 
+            "Health_care", 
+            "Brooklyn", 
+            "Nationalization", 
+            "Health_care_systems", 
+            "Emergency_department", 
+            "Health_care", 
+            "Hospital", 
+            "Law", 
+            "Physician", 
+            "Insurance", 
+            "Public_relations", 
+            "Republican_Party_(United_States)", 
+            "Privatization", 
+            "Health_care", 
+            "Emergency_department", 
+            "Hospital", 
+            "Insurance"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Health_care", 
+            "Eagle", 
+            "Apartment", 
+            "United_States", 
+            "Health_care", 
+            "Insurance"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "National_Health_Service", 
+            "Health_care", 
+            "Health_care", 
+            "Health_insurance", 
+            "Health_care"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "WANT", 
+            "President_of_the_United_States", 
+            "Money_(magazine)", 
+            "Work_Records", 
+            "Goto"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Health_insurance", 
+            "Tax", 
+            "Insurance", 
+            "Health_insurance", 
+            "Insurance", 
+            "Insurance", 
+            "State", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Emergency_medicine", 
+            "Insurance", 
+            "Insurance", 
+            "Universal_health_care", 
+            "State"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Universal_health_care", 
+            "Canada", 
+            "Veterans_Health_Administration", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Health_care", 
+            "Cancer", 
+            "Organ_transplant", 
+            "Universal_Studios", 
+            "Heart_transplantation", 
+            "Emergency_department", 
+            "Oncology", 
+            "First_World", 
+            "Single-payer_health_care", 
+            "Europe", 
+            "Single-payer_health_care", 
+            "Health_care", 
+            "Fork_(software_development)", 
+            "Health_care"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Radio", 
+            "Radio_personality", 
+            "Health_care", 
+            "Conservatism", 
+            "Hell", 
+            "States_and_territories_of_India", 
+            "Cap_(sport)", 
+            "Talk_radio", 
+            "Germany"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Choice_magazine", 
+            "CARE_(relief)", 
+            "Eugenics", 
+            "Canada", 
+            "Payment", 
+            "Bureaucracy", 
+            "Liberalism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Wallet", 
+            "National_Hurricane_Center"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Insurance", 
+            "Health_insurance", 
+            "Canada", 
+            "Health_insurance", 
+            "Canada", 
+            "Surgery", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Long-term_care", 
+            "Insurance", 
+            "Canada"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ronald_Fisher", 
+            "Health_care", 
+            "Hospital", 
+            "Physician", 
+            "Primary_care", 
+            "Physician", 
+            "Primary_care_physician", 
+            "Coach_(sport)", 
+            "Primary_care"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "National_Health", 
+            "Bank"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Publicly-funded_health_care", 
+            "National_Health_Service"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Developed_country"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Buck", 
+            "United_States", 
+            "Physician", 
+            "Bankruptcy", 
+            "Bridge", 
+            "Nationalization", 
+            "Health_care", 
+            "Brooklyn", 
+            "Nationalization", 
+            "Health_care_systems", 
+            "Emergency_department", 
+            "Health_care", 
+            "Hospital", 
+            "Law", 
+            "Physician", 
+            "Insurance", 
+            "Public_relations", 
+            "Republican_Party_(United_States)", 
+            "Privatization", 
+            "Health_care", 
+            "Emergency_department", 
+            "Hospital", 
+            "Insurance"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Health_care", 
+            "Eagle", 
+            "Apartment", 
+            "United_States", 
+            "Health_care", 
+            "Insurance"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "National_Health_Service", 
+            "Health_care", 
+            "Health_care", 
+            "Health_insurance", 
+            "Health_care"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "WANT", 
+            "President_of_the_United_States", 
+            "Money_(magazine)", 
+            "Work_Records", 
+            "Goto"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Health_insurance", 
+            "Tax", 
+            "Insurance", 
+            "Health_insurance", 
+            "Insurance", 
+            "Insurance", 
+            "State", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Emergency_medicine", 
+            "Insurance", 
+            "Insurance", 
+            "Universal_health_care", 
+            "State"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Universal_health_care", 
+            "Canada", 
+            "Veterans_Health_Administration", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Health_care", 
+            "Cancer", 
+            "Organ_transplant", 
+            "Universal_Studios", 
+            "Heart_transplantation", 
+            "Emergency_department", 
+            "Oncology", 
+            "First_World", 
+            "Single-payer_health_care", 
+            "Europe", 
+            "Single-payer_health_care", 
+            "Health_care", 
+            "Fork_(software_development)", 
+            "Health_care"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Radio", 
+            "Radio_personality", 
+            "Health_care", 
+            "Conservatism", 
+            "Hell", 
+            "States_and_territories_of_India", 
+            "Cap_(sport)", 
+            "Talk_radio", 
+            "Germany"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Choice_magazine", 
+            "CARE_(relief)", 
+            "Eugenics", 
+            "Canada", 
+            "Payment", 
+            "Bureaucracy", 
+            "Liberalism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Wallet", 
+            "National_Hurricane_Center"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Insurance", 
+            "Health_insurance", 
+            "Canada", 
+            "Health_insurance", 
+            "Canada", 
+            "Surgery", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Long-term_care", 
+            "Insurance", 
+            "Canada"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Ronald_Fisher", 
+            "Health_care", 
+            "Hospital", 
+            "Physician", 
+            "Primary_care", 
+            "Physician", 
+            "Primary_care_physician", 
+            "Coach_(sport)", 
+            "Primary_care"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "National_Health", 
+            "Bank"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Publicly-funded_health_care", 
+            "National_Health_Service"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Developed_country"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Buck", 
+            "United_States", 
+            "Physician", 
+            "Bankruptcy", 
+            "Bridge", 
+            "Nationalization", 
+            "Health_care", 
+            "Brooklyn", 
+            "Nationalization", 
+            "Health_care_systems", 
+            "Emergency_department", 
+            "Health_care", 
+            "Hospital", 
+            "Law", 
+            "Physician", 
+            "Insurance", 
+            "Public_relations", 
+            "Republican_Party_(United_States)", 
+            "Privatization", 
+            "Health_care", 
+            "Emergency_department", 
+            "Hospital", 
+            "Insurance"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Health_care", 
+            "Eagle", 
+            "Apartment", 
+            "United_States", 
+            "Health_care", 
+            "Insurance"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "National_Health_Service", 
+            "Health_care", 
+            "Health_care", 
+            "Health_insurance", 
+            "Health_care"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "WANT", 
+            "President_of_the_United_States", 
+            "Money_(magazine)", 
+            "Work_Records", 
+            "Goto"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Health_insurance", 
+            "Tax", 
+            "Insurance", 
+            "Health_insurance", 
+            "Insurance", 
+            "Insurance", 
+            "State", 
+            "Insurance", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Emergency_medicine", 
+            "Insurance", 
+            "Insurance", 
+            "Universal_health_care", 
+            "State"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Universal_health_care", 
+            "Canada", 
+            "Veterans_Health_Administration", 
+            "Universal_health_care", 
+            "Health_care", 
+            "Health_care", 
+            "Cancer", 
+            "Organ_transplant", 
+            "Universal_Studios", 
+            "Heart_transplantation", 
+            "Emergency_department", 
+            "Oncology", 
+            "First_World", 
+            "Single-payer_health_care", 
+            "Europe", 
+            "Single-payer_health_care", 
+            "Health_care", 
+            "Fork_(software_development)", 
+            "Health_care"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Radio", 
+            "Radio_personality", 
+            "Health_care", 
+            "Conservatism", 
+            "Hell", 
+            "States_and_territories_of_India", 
+            "Cap_(sport)", 
+            "Talk_radio", 
+            "Germany"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Choice_magazine", 
+            "CARE_(relief)", 
+            "Eugenics", 
+            "Canada", 
+            "Payment", 
+            "Bureaucracy", 
+            "Liberalism"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Wallet", 
+            "National_Hurricane_Center"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Insurance", 
+            "Health_insurance", 
+            "Canada", 
+            "Health_insurance", 
+            "Canada", 
+            "Surgery", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Long-term_care", 
+            "Insurance", 
+            "Canada"
+        ], 
+        "postID": 80
+    }
+]

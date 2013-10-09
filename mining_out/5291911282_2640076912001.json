@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "Diploma", 
+            "High_school_diploma", 
+            "High_school", 
+            "United_States_Navy", 
+            "Navy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Grasshopper"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "General_Educational_Development"
+        ], 
+        "postID": 7
+    }
+]

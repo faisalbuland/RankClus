@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Helmet", 
+            "LOL", 
+            "Sight_(device)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Technology"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Law", 
+            "Hope,_British_Columbia", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Nanny_state", 
+            "Nanny", 
+            "State"
+        ], 
+        "postID": 5
+    }
+]

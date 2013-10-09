@@ -1,0 +1,51 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Philip_Berg", 
+            "Terrorism", 
+            "Docket_(court)", 
+            "Docket", 
+            "Supreme_Court_of_the_United_States", 
+            "Confidence_trick", 
+            "Gumbo", 
+            "Berg_(state)", 
+            "September_11,_2001_attacks", 
+            "Barack_Obama", 
+            "Bucks_County,_Pennsylvania", 
+            "Pardon", 
+            "September_11,_2001_attacks", 
+            "Barack_Obama", 
+            "Chicken", 
+            "Berg_(state)", 
+            "Philip_Berg", 
+            "Law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Citizenship"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fictional_extraterrestrials", 
+            "Greys", 
+            "LOL"
+        ], 
+        "postID": 6
+    }
+]

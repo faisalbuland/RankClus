@@ -1,0 +1,390 @@
+[
+    {
+        "entity": [
+            "Reno,_Nevada", 
+            "United_States_Navy", 
+            "New_Hampshire", 
+            "Texas", 
+            "Dear_Mr._President", 
+            "Human_resources", 
+            "Veterans_Health_Administration", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Temple", 
+            "Social_mobility", 
+            "United_States_Department_of_Defense", 
+            "Big_Spring,_Texas", 
+            "Human_resources", 
+            "Pendleton,_Oregon", 
+            "President_of_the_United_States", 
+            "Veterans_Health_Administration", 
+            "Portland,_Oregon", 
+            "Accounting_technician", 
+            "Oregon", 
+            "Nevada", 
+            "Accountancy", 
+            "Reno,_Nevada", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "Nevada", 
+            "Probation_(workplace)", 
+            "Texas", 
+            "USMLE_Step_1", 
+            "Medical_terminology", 
+            "Human_resources", 
+            "United_States_Navy", 
+            "Jimmy_Carter", 
+            "Federal_government_of_the_United_States", 
+            "Marine_Corps_Recruit_Depot_San_Diego", 
+            "Marine_Corps_Base_Camp_Pendleton", 
+            "United_States_Marine_Corps", 
+            "United_States_House_of_Representatives", 
+            "Federal_government_of_the_United_States", 
+            "Reno,_Nevada", 
+            "United_States_Marine_Corps", 
+            "Human_resources", 
+            "Civil_service", 
+            "Hampshire", 
+            "Veterans_Health_Administration", 
+            "Dilemma_(song)", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Technician", 
+            "Portland,_Maine"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Gulf_War", 
+            "District", 
+            "Storm_(Marvel_Comics)", 
+            "Penny"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Repertory", 
+            "United_States_Department_of_Defense", 
+            "Good_Luck", 
+            "CPO", 
+            "United_States_Department_of_Defense", 
+            "Saudi_Arabia", 
+            "United_States_Senate", 
+            "303", 
+            "CPO", 
+            "303", 
+            "CPO", 
+            "United_States_Department_of_Defense", 
+            "DOA", 
+            "United_States_Congress"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "General_Schedule", 
+            "Michael_Brendli"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "One_Nation_(Australia)", 
+            "Desert", 
+            "One_Heart", 
+            "District", 
+            "Desert"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Volunteer"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Michael_Brendli"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Penis", 
+            "Poles", 
+            "Tank"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Norm_(mathematics)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Liar", 
+            "Liar_Liar", 
+            "Liar"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Penis", 
+            "Tank"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Flag_of_the_United_States", 
+            "Flag"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Good_Luck"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Good_Luck"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Ladder"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Ladder"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Reno,_Nevada", 
+            "United_States_Navy", 
+            "New_Hampshire", 
+            "Texas", 
+            "Dear_Mr._President", 
+            "Human_resources", 
+            "Veterans_Health_Administration", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Temple", 
+            "Social_mobility", 
+            "United_States_Department_of_Defense", 
+            "Big_Spring,_Texas", 
+            "Human_resources", 
+            "Pendleton,_Oregon", 
+            "President_of_the_United_States", 
+            "Veterans_Health_Administration", 
+            "Portland,_Oregon", 
+            "Accounting_technician", 
+            "Oregon", 
+            "Nevada", 
+            "Accountancy", 
+            "Reno,_Nevada", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives", 
+            "Nevada", 
+            "Probation_(workplace)", 
+            "Texas", 
+            "USMLE_Step_1", 
+            "Medical_terminology", 
+            "Human_resources", 
+            "United_States_Navy", 
+            "Jimmy_Carter", 
+            "Federal_government_of_the_United_States", 
+            "Marine_Corps_Recruit_Depot_San_Diego", 
+            "Marine_Corps_Base_Camp_Pendleton", 
+            "United_States_Marine_Corps", 
+            "United_States_House_of_Representatives", 
+            "Federal_government_of_the_United_States", 
+            "Reno,_Nevada", 
+            "United_States_Marine_Corps", 
+            "Human_resources", 
+            "Civil_service", 
+            "Hampshire", 
+            "Veterans_Health_Administration", 
+            "Dilemma_(song)", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Technician", 
+            "Portland,_Maine"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Gulf_War", 
+            "District", 
+            "Storm_(Marvel_Comics)", 
+            "Penny"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Repertory", 
+            "United_States_Department_of_Defense", 
+            "Good_Luck", 
+            "CPO", 
+            "United_States_Department_of_Defense", 
+            "Saudi_Arabia", 
+            "United_States_Senate", 
+            "303", 
+            "CPO", 
+            "303", 
+            "CPO", 
+            "United_States_Department_of_Defense", 
+            "DOA", 
+            "United_States_Congress"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "General_Schedule", 
+            "Michael_Brendli"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "One_Nation_(Australia)", 
+            "Desert", 
+            "One_Heart", 
+            "District", 
+            "Desert"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Volunteer"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Michael_Brendli"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Penis", 
+            "Poles", 
+            "Tank"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Norm_(mathematics)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Liar", 
+            "Liar_Liar", 
+            "Liar"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Penis", 
+            "Tank"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Flag_of_the_United_States", 
+            "Flag"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Good_Luck"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Good_Luck"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Ladder"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Ladder"
+        ], 
+        "postID": 40
+    }
+]

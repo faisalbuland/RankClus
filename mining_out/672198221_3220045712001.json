@@ -1,0 +1,59 @@
+[
+    {
+        "entity": [
+            "Climate_change", 
+            "Worms,_Germany"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Shepherd", 
+            "QWERTY", 
+            "God", 
+            "Pepper_spray", 
+            "Paint", 
+            "Black_pepper", 
+            "Ring_of_bells", 
+            "Avatar", 
+            "Fart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Parasitism", 
+            "Al_Gore", 
+            "Al_Gore_presidential_campaign,_2000"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fertilizer"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Carbon_cycle", 
+            "Tax", 
+            "Carbon_dioxide", 
+            "Emissions_trading", 
+            "United_States_Congress"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Mother-in-law"
+        ], 
+        "postID": 7
+    }
+]

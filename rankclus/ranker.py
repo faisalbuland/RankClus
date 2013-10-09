@@ -100,7 +100,7 @@ class SimpleRanker(Ranker):
             rX.append(tmp)
 
         for i in range(n):
-            print wxy[:,i]
+            # print wxy[:,i]
             sumc =wxy[:,i].sum()
 
             # sumc it the sum of column-idx

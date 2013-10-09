@@ -1,0 +1,91 @@
+[
+    {
+        "entity": [
+            "Fashion", 
+            "Steam"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "1936_Summer_Olympics", 
+            "Olympic_Games", 
+            "1936", 
+            "Protocol_(computing)", 
+            "Protocol_(computing)", 
+            "The_Flag", 
+            "Jima_of_Silla", 
+            "Iwo_Jima", 
+            "Battle_of_Iwo_Jima", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Jim_Beam", 
+            "Beam_(nautical)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Breathing"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Eye"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Third_party_(politics)", 
+            "Clown", 
+            "Puerto_Rican_people", 
+            "Puerto_Rico", 
+            "Florida", 
+            "Puerto_Rico"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Intensive_care_unit", 
+            "Hospital"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Pride", 
+            "United_States", 
+            "United_States_Marine_Corps", 
+            "God"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Cat", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 11
+    }
+]

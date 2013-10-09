@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [
+            "2009", 
+            "Physical_trauma", 
+            "April_17", 
+            "Ceramic_plate", 
+            "Armour", 
+            "Ballistic_vest"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Atari_TOS"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Manufacturing", 
+            "Ceramic", 
+            "Irvine,_California", 
+            "Armour", 
+            "Ballistic_vest", 
+            "Ceramic", 
+            "Physical_trauma", 
+            "Physical_trauma", 
+            "University_of_California", 
+            "California", 
+            "Ceramic_plate", 
+            "Ceramic"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mod_(computer_gaming)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

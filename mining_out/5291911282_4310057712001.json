@@ -1,0 +1,346 @@
+[
+    {
+        "entity": [
+            "Latrobe,_Pennsylvania", 
+            "Fireman", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Balts", 
+            "Maryland", 
+            "Lisa_Simpson", 
+            "Family_reunion", 
+            "Virginia"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Beard", 
+            "Marmot", 
+            "Facial_recognition_system", 
+            "Improvised_explosive_device", 
+            "Quantum_Corp.", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Donnie", 
+            "Rez", 
+            "Donnie", 
+            "North_Dakota", 
+            "Quantum_Corp.", 
+            "Baptist", 
+            "Oklahoma", 
+            "Sioux", 
+            "Marmot", 
+            "Sitka,_Alaska", 
+            "Texas", 
+            "Baranof_Island", 
+            "South_Dakota", 
+            "Marmot", 
+            "Sioux"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Latrobe", 
+            "Italy", 
+            "LOL", 
+            "Latrobe", 
+            "LOL"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Lubbock,_Texas", 
+            "Marmot", 
+            "Quantum_Corp.", 
+            "Marmot", 
+            "Latrobe,_Pennsylvania"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Latrobe,_Pennsylvania", 
+            "United_Airlines_Flight_93", 
+            "LOL"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Virginia", 
+            "West_Virginia", 
+            "KNEW_(AM)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Rolling_Rock", 
+            "Brewery", 
+            "Latrobe,_Pennsylvania"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Hairstyle", 
+            "Latrobe,_Pennsylvania", 
+            "Texas", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot", 
+            "West_Virginia", 
+            "Virginia"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum_Corp.", 
+            "Spaghetti", 
+            "Guyana", 
+            "Operations_security", 
+            "Marmot", 
+            "States_and_territories_of_India", 
+            "French_Foreign_Legion", 
+            "Camouflage", 
+            "Grandson_(district)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Latrobe,_Pennsylvania", 
+            "Fireman", 
+            "United_States_Army"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Balts", 
+            "Maryland", 
+            "Lisa_Simpson", 
+            "Family_reunion", 
+            "Virginia"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Beard", 
+            "Marmot", 
+            "Facial_recognition_system", 
+            "Improvised_explosive_device", 
+            "Quantum_Corp.", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Donnie", 
+            "Rez", 
+            "Donnie", 
+            "North_Dakota", 
+            "Quantum_Corp.", 
+            "Baptist", 
+            "Oklahoma", 
+            "Sioux", 
+            "Marmot", 
+            "Sitka,_Alaska", 
+            "Texas", 
+            "Baranof_Island", 
+            "South_Dakota", 
+            "Marmot", 
+            "Sioux"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Latrobe", 
+            "Italy", 
+            "LOL", 
+            "Latrobe", 
+            "LOL"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Lubbock,_Texas", 
+            "Marmot", 
+            "Quantum_Corp.", 
+            "Marmot", 
+            "Latrobe,_Pennsylvania"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Latrobe,_Pennsylvania", 
+            "United_Airlines_Flight_93", 
+            "LOL"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Virginia", 
+            "West_Virginia", 
+            "KNEW_(AM)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Rolling_Rock", 
+            "Brewery", 
+            "Latrobe,_Pennsylvania"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Hairstyle", 
+            "Latrobe,_Pennsylvania", 
+            "Texas", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot", 
+            "West_Virginia", 
+            "Virginia"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum_Corp.", 
+            "Spaghetti", 
+            "Guyana", 
+            "Operations_security", 
+            "Marmot", 
+            "States_and_territories_of_India", 
+            "French_Foreign_Legion", 
+            "Camouflage", 
+            "Grandson_(district)"
+        ], 
+        "postID": 40
+    }
+]

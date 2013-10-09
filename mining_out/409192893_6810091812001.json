@@ -1,0 +1,36 @@
+[
+    {
+        "entity": [
+            "Jam_session", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "London", 
+            "Homelessness", 
+            "United_States_Congress", 
+            "Financial_crisis", 
+            "Hematophagy", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "United_States", 
+            "Earmark", 
+            "United_States_dollar"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Carrot", 
+            "Goldman_Sachs", 
+            "ZF_Sachs", 
+            "Citigroup", 
+            "United_States", 
+            "Bail_(disambiguation)", 
+            "Bank_of_America"
+        ], 
+        "postID": 3
+    }
+]

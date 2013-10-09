@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Iraq", 
+            "Iraq", 
+            "Cadaver", 
+            "Petroleum_industry", 
+            "Iraq", 
+            "Iraq", 
+            "Iraq", 
+            "Petroleum", 
+            "Police", 
+            "Violence", 
+            "327", 
+            "168", 
+            "United_States_Air_Force", 
+            "Tactical_bombing", 
+            "Iraq", 
+            "2003_invasion_of_Iraq", 
+            "Abu_Ghraib_torture_and_prisoner_abuse", 
+            "Iraq_War", 
+            "161", 
+            "Hungary", 
+            "Iraq"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_presidential_election,_2008", 
+            "Republican_Party_(United_States)", 
+            "United_States_presidential_election,_2008", 
+            "John_McCain", 
+            "United_States_presidential_election,_2008", 
+            "2003_invasion_of_Iraq"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Baghdad", 
+            "Iran", 
+            "Marsh", 
+            "Baath_Party", 
+            "Baath_Party", 
+            "Drought", 
+            "United_States", 
+            "United_States", 
+            "Petroleum", 
+            "Newspaper", 
+            "Arab", 
+            "Russia", 
+            "Iraq", 
+            "Soil_salinity"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Left_fielder", 
+            "Ball_game", 
+            "Baseball_positions", 
+            "Iraq", 
+            "Origins_of_baseball", 
+            "Left_fielder", 
+            "Baseball_positions"
+        ], 
+        "postID": 6
+    }
+]

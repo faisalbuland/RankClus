@@ -1,0 +1,414 @@
+[
+    {
+        "entity": [
+            "Airport", 
+            "John_Murtha", 
+            "John_Murtha", 
+            "Heck", 
+            "Smoke"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "KBR_(company)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Cabinet", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Government_debt", 
+            "Debt"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party", 
+            "Pork", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "Religious_restrictions_on_the_consumption_of_pork", 
+            "Barack_Obama", 
+            "Pork", 
+            "Pork", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Stunt", 
+            "Winger_(ice_hockey)", 
+            "Right-wing_politics", 
+            "Government_spending"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Cabinet", 
+            "Smoke"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Middle_class"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Cent_(currency)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Cash_register", 
+            "Cent_(United_States_coin)", 
+            "British_one_penny_coin_(pre-decimal)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Office_supplies", 
+            "Civil_service"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Microeconomics"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Flood", 
+            "Photo_op", 
+            "River", 
+            "Bucket"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Staples_Inc."
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Peanuts"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Balanced_budget"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "2010", 
+            "Tax", 
+            "2009"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Washington", 
+            "Renewable_energy", 
+            "Energy_industry"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Bureaucrat"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Tuberculosis", 
+            "Headlands_and_bays", 
+            "United_States_Seventh_Fleet", 
+            "Foot_(length)", 
+            "F-22_Raptor"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Smoke_and_mirrors", 
+            "Smoke_(Mortal_Kombat)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Government_debt"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "!!!", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Airport", 
+            "John_Murtha", 
+            "John_Murtha", 
+            "Heck", 
+            "Smoke"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "KBR_(company)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States_Cabinet", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Government_debt", 
+            "Debt"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party", 
+            "Pork", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Pork", 
+            "Religious_restrictions_on_the_consumption_of_pork", 
+            "Barack_Obama", 
+            "Pork", 
+            "Pork", 
+            "Barack_Obama"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Stunt", 
+            "Winger_(ice_hockey)", 
+            "Right-wing_politics", 
+            "Government_spending"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Cabinet", 
+            "Smoke"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Middle_class"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Cent_(currency)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Cash_register", 
+            "Cent_(United_States_coin)", 
+            "British_one_penny_coin_(pre-decimal)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Office_supplies", 
+            "Civil_service"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Microeconomics"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Flood", 
+            "Photo_op", 
+            "River", 
+            "Bucket"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Staples_Inc."
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Peanuts"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Balanced_budget"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "2010", 
+            "Tax", 
+            "2009"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Washington", 
+            "Renewable_energy", 
+            "Energy_industry"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bureaucrat"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Tuberculosis", 
+            "Headlands_and_bays", 
+            "United_States_Seventh_Fleet", 
+            "Foot_(length)", 
+            "F-22_Raptor"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Smoke_and_mirrors", 
+            "Smoke_(Mortal_Kombat)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Government_debt"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "!!!", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 58
+    }
+]

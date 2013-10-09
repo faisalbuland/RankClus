@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Talk_radio", 
+            "Talk_radio", 
+            "United_States", 
+            "William_Bennett"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Goat", 
+            "Muslim", 
+            "Flue", 
+            "Pig", 
+            "Influenza", 
+            "Domestic_sheep", 
+            "Cattle", 
+            "Influenza"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Apple", 
+            "Barack_Obama", 
+            "Barrel", 
+            "Bad_apples_excuse"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ann_Coulter", 
+            "Water", 
+            "Mathematics", 
+            "Coulter,_South_Lanarkshire"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Egypt", 
+            "Washington", 
+            "Pig"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Ann_Coulter", 
+            "Influenza", 
+            "Coulter,_South_Lanarkshire", 
+            "Influenza"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Feces", 
+            "Pig", 
+            "Michael_Moore"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Heck", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Swine_flu", 
+            "Pig", 
+            "Influenza", 
+            "Influenza", 
+            "Sorry_(Madonna_song)", 
+            "Influenza", 
+            "Gerbil", 
+            "Flue", 
+            "Virus"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Coke_(fuel)", 
+            "Barack_Obama", 
+            "Influenza"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 15
+    }
+]

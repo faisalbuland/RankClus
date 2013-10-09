@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "Hugh_Hefner", 
+            "Richard_Branson", 
+            "Hugh_Hefner", 
+            "Empire", 
+            "Branson,_Missouri", 
+            "Pornography", 
+            "Pound_sterling", 
+            "Automatic_number_identification", 
+            "Pound_sterling", 
+            "Telegraphy", 
+            "May_26", 
+            "1972", 
+            "Pound_sterling", 
+            "Playboy", 
+            "Hugh_Hefner", 
+            "Empire", 
+            "Virgin_Group", 
+            "London", 
+            "The_Daily_Telegraph", 
+            "Playboy", 
+            "Internet", 
+            "Hugh_Hefner", 
+            "Richard_Branson", 
+            "Playboy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "May_28", 
+            "2009"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dollar"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Larry_Flynt", 
+            "Bob_Guccione"
+        ], 
+        "postID": 6
+    }
+]

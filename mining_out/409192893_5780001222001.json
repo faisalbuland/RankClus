@@ -1,0 +1,402 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Finance", 
+            "Supply-side_economics", 
+            "Credit_card", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Spectre_(comics)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Balanced_budget", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Balanced_budget", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Government_budget", 
+            "Tax"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "State_Children's_Health_Insurance_Program", 
+            "Post-World_War_II_baby_boom", 
+            "Bill_Clinton", 
+            "Medicare_(United_States)", 
+            "Dollar", 
+            "Stream", 
+            "Social_Security_(United_States)", 
+            "Social_Security_(United_States)", 
+            "Medicare_(United_States)", 
+            "Universal_Studios", 
+            "Federal_Insurance_Contributions_Act_tax", 
+            "Universal_health_care"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Inflation"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Baby_boomer", 
+            "Productivity"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Law", 
+            "Constitution", 
+            "Constitution"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bologna"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Economic_problem", 
+            "Amateur_radio", 
+            "Radio", 
+            "Federal_Communications_Commission", 
+            "Amateur_radio", 
+            "Radio", 
+            "Constitution", 
+            "Radio", 
+            "Constitution", 
+            "Constitution", 
+            "Law"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hamilton,_Ontario", 
+            "Hamilton,_Ontario", 
+            "Federalist_Party_(United_States)", 
+            "Alexander_Hamilton", 
+            "Alexander_the_Great"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Capitalism", 
+            "Technology", 
+            "Capitalism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "American_International_Group", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Bill_Gates"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Hat", 
+            "Tin"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Bill_Gates"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Pie", 
+            "Social_Security_(United_States)", 
+            "United_States", 
+            "Population", 
+            "Industrial_society", 
+            "Population", 
+            "United_States", 
+            "Ontology_Inference_Layer", 
+            "Scarcity", 
+            "Global_warming", 
+            "United_States"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Finance", 
+            "Supply-side_economics", 
+            "Credit_card", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Spectre_(comics)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Balanced_budget", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Balanced_budget", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Government_budget", 
+            "Tax"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "State_Children's_Health_Insurance_Program", 
+            "Post-World_War_II_baby_boom", 
+            "Bill_Clinton", 
+            "Medicare_(United_States)", 
+            "Dollar", 
+            "Stream", 
+            "Social_Security_(United_States)", 
+            "Social_Security_(United_States)", 
+            "Medicare_(United_States)", 
+            "Universal_Studios", 
+            "Federal_Insurance_Contributions_Act_tax", 
+            "Universal_health_care"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Inflation"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Baby_boomer", 
+            "Productivity"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Law", 
+            "Constitution", 
+            "Constitution"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bologna"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Economic_problem", 
+            "Amateur_radio", 
+            "Radio", 
+            "Federal_Communications_Commission", 
+            "Amateur_radio", 
+            "Radio", 
+            "Constitution", 
+            "Radio", 
+            "Constitution", 
+            "Constitution", 
+            "Law"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Hamilton,_Ontario", 
+            "Hamilton,_Ontario", 
+            "Federalist_Party_(United_States)", 
+            "Alexander_Hamilton", 
+            "Alexander_the_Great"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Capitalism", 
+            "Technology", 
+            "Capitalism"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "American_International_Group", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Bill_Gates"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Hat", 
+            "Tin"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Bill_Gates"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Pie", 
+            "Social_Security_(United_States)", 
+            "United_States", 
+            "Population", 
+            "Industrial_society", 
+            "Population", 
+            "United_States", 
+            "Ontology_Inference_Layer", 
+            "Scarcity", 
+            "Global_warming", 
+            "United_States"
+        ], 
+        "postID": 56
+    }
+]

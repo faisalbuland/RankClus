@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Information_technology"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Suicide"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Intel_Corporation"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bomber", 
+            "Suicide_attack", 
+            "LOL", 
+            "Suicide"
+        ], 
+        "postID": 5
+    }
+]

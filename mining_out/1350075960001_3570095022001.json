@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Georgia_(U.S._state)", 
+            "E-mail", 
+            "Grand_Lodge", 
+            "Freemasonry", 
+            "Grand_Secretariat", 
+            "Freemasonry", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thucydides", 
+            "Hinesville,_Georgia", 
+            "271", 
+            "Hinesville,_Georgia", 
+            "933", 
+            "Hinesville,_Georgia", 
+            "Liberty_County,_Georgia", 
+            "Liberty_County,_Georgia"
+        ], 
+        "postID": 5
+    }
+]

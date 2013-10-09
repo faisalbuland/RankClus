@@ -1,0 +1,85 @@
+[
+    {
+        "entity": [
+            "Wood"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bus_driver", 
+            "Bus", 
+            "Violence", 
+            "One_Heart", 
+            "Special_needs", 
+            "One_Nation_(Australia)", 
+            "Bus", 
+            "Bus"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Special_needs", 
+            "Special_needs"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Short_bus", 
+            "Bus"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gentleness", 
+            "LOL", 
+            "Bus", 
+            "Leo_(constellation)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Bus"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hit_(baseball)", 
+            "Tyson", 
+            "Mike_Tyson", 
+            "Anger"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Hit_(baseball)", 
+            "Jail", 
+            "Jail"
+        ], 
+        "postID": 12
+    }
+]

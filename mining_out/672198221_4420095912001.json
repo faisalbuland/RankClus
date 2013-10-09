@@ -1,0 +1,77 @@
+[
+    {
+        "entity": [
+            "Adios_(KMFDM_album)", 
+            "Recession", 
+            "Latino_(demonym)", 
+            "Latino_(demonym)", 
+            "Bus_station", 
+            "Bus", 
+            "Mexico_City", 
+            "Winston-Salem,_North_Carolina", 
+            "Mexico", 
+            "Exodus", 
+            "North_Carolina", 
+            "The_Exodus", 
+            "Latino_(demonym)", 
+            "Exodus", 
+            "Oconaluftee_Indian_Village"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Food_Stamp_Program", 
+            "Postage_stamp", 
+            "Public_housing", 
+            "Deportation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "South_Carolina"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Western_Bug"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nationality_law", 
+            "Immigration"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Economy", 
+            "Stalinism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Permanent_residence_(United_States)"
+        ], 
+        "postID": 10
+    }
+]

@@ -1,0 +1,927 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Torture", 
+            "National_security", 
+            "United_States", 
+            "United_States", 
+            "Savage,_Minnesota", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "National_security", 
+            "Interrogation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "USA_Today", 
+            "Rasmussen_Reports", 
+            "George_W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Faith", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Newspaper"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Rasmussen", 
+            "Bank"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Jack_(device)", 
+            "New_York_City", 
+            "Far_left"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Independent_station"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "Independent_(politician)", 
+            "Gallup"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Bank"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hell", 
+            "Election", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Ear", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Voting_booth"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Critical_thinking"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "USA_Today", 
+            "George_W._Bush"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Allergy", 
+            "Illegal_immigration", 
+            "Anaphylaxis", 
+            "Alien_(law)", 
+            "Flagellation", 
+            "Life_support", 
+            "Economy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "Immigration", 
+            "Ford_Motor_Company", 
+            "Allergy", 
+            "Fiat", 
+            "Yea,_Victoria", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Bail_out_(finance)", 
+            "Illegal_immigration", 
+            "Chrysler", 
+            "Illegal_immigration", 
+            "Life_support", 
+            "Allergy"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Torture", 
+            "National_security", 
+            "United_States", 
+            "United_States", 
+            "Savage,_Minnesota", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "National_security", 
+            "Interrogation"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "USA_Today", 
+            "Rasmussen_Reports", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Faith", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Newspaper"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Rasmussen", 
+            "Bank"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Jack_(device)", 
+            "New_York_City", 
+            "Far_left"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Independent_station"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "Independent_(politician)", 
+            "Gallup"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Bank"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hell", 
+            "Election", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Ear", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Voting_booth"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Critical_thinking"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "USA_Today", 
+            "George_W._Bush"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Allergy", 
+            "Illegal_immigration", 
+            "Anaphylaxis", 
+            "Alien_(law)", 
+            "Flagellation", 
+            "Life_support", 
+            "Economy"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "Immigration", 
+            "Ford_Motor_Company", 
+            "Allergy", 
+            "Fiat", 
+            "Yea,_Victoria", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Bail_out_(finance)", 
+            "Illegal_immigration", 
+            "Chrysler", 
+            "Illegal_immigration", 
+            "Life_support", 
+            "Allergy"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Barack_Obama"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Torture", 
+            "National_security", 
+            "United_States", 
+            "United_States", 
+            "Savage,_Minnesota", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "National_security", 
+            "Interrogation"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "USA_Today", 
+            "Rasmussen_Reports", 
+            "George_W._Bush"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Faith", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Newspaper"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Rasmussen", 
+            "Bank"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Jack_(device)", 
+            "New_York_City", 
+            "Far_left"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Independent_station"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "Independent_(politician)", 
+            "Gallup"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Bank"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hell", 
+            "Election", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Ear", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Voting_booth"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Critical_thinking"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "USA_Today", 
+            "George_W._Bush"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Allergy", 
+            "Illegal_immigration", 
+            "Anaphylaxis", 
+            "Alien_(law)", 
+            "Flagellation", 
+            "Life_support", 
+            "Economy"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "Immigration", 
+            "Ford_Motor_Company", 
+            "Allergy", 
+            "Fiat", 
+            "Yea,_Victoria", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Bail_out_(finance)", 
+            "Illegal_immigration", 
+            "Chrysler", 
+            "Illegal_immigration", 
+            "Life_support", 
+            "Allergy"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Barack_Obama"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Torture", 
+            "National_security", 
+            "United_States", 
+            "United_States", 
+            "Savage,_Minnesota", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "National_security", 
+            "Interrogation"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "USA_Today", 
+            "Rasmussen_Reports", 
+            "George_W._Bush"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Faith", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Newspaper"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Rasmussen", 
+            "Bank"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Jack_(device)", 
+            "New_York_City", 
+            "Far_left"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Independent_station"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "Independent_(politician)", 
+            "Gallup"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Bank"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hell", 
+            "Election", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Ear", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Voting_booth"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Critical_thinking"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "USA_Today", 
+            "George_W._Bush"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Allergy", 
+            "Illegal_immigration", 
+            "Anaphylaxis", 
+            "Alien_(law)", 
+            "Flagellation", 
+            "Life_support", 
+            "Economy"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "Immigration", 
+            "Ford_Motor_Company", 
+            "Allergy", 
+            "Fiat", 
+            "Yea,_Victoria", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Bail_out_(finance)", 
+            "Illegal_immigration", 
+            "Chrysler", 
+            "Illegal_immigration", 
+            "Life_support", 
+            "Allergy"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Barack_Obama"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Torture", 
+            "National_security", 
+            "United_States", 
+            "United_States", 
+            "Savage,_Minnesota", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "National_security", 
+            "Interrogation"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "USA_Today", 
+            "Rasmussen_Reports", 
+            "George_W._Bush"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Faith", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Newspaper"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Rasmussen", 
+            "Bank"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Jack_(device)", 
+            "New_York_City", 
+            "Far_left"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Independent_station"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "Independent_(politician)", 
+            "Gallup"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Bank"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hell", 
+            "Election", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Ear", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Voting_booth"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Critical_thinking"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "USA_Today", 
+            "George_W._Bush"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Allergy", 
+            "Illegal_immigration", 
+            "Anaphylaxis", 
+            "Alien_(law)", 
+            "Flagellation", 
+            "Life_support", 
+            "Economy"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "Immigration", 
+            "Ford_Motor_Company", 
+            "Allergy", 
+            "Fiat", 
+            "Yea,_Victoria", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Bail_out_(finance)", 
+            "Illegal_immigration", 
+            "Chrysler", 
+            "Illegal_immigration", 
+            "Life_support", 
+            "Allergy"
+        ], 
+        "postID": 100
+    }
+]

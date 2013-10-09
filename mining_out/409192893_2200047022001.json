@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "British_Army", 
+            "British_Armed_Forces", 
+            "Armed_forces", 
+            "United_Kingdom"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Star"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "General_Corps_(Israel)", 
+            "Iraq"
+        ], 
+        "postID": 3
+    }
+]

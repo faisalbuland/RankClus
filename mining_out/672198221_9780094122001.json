@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Korea"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Korea", 
+            "Koreans", 
+            "South_Korea"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Soju", 
+            "Red_Cloud"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Soju"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Battalion", 
+            "Thunderbolt", 
+            "South_Korea", 
+            "Soju", 
+            "Lightning"
+        ], 
+        "postID": 7
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "entity": [
+            "Boxing", 
+            "Kickboxing", 
+            "Gym", 
+            "Cardio", 
+            "Hospital", 
+            "Thread_(computer_science)", 
+            "Boxing", 
+            "Ill_(France)", 
+            "Ambulance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Black_belt_(martial_arts)", 
+            "Karate", 
+            "SWAT", 
+            "SWAT", 
+            "Chinese_martial_arts", 
+            "Tai_peoples", 
+            "Bruce_Lee", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Belt_(mechanical)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Black_belt_(martial_arts)", 
+            "Ill_(France)", 
+            "Cardio", 
+            "Pagliacci", 
+            "Karate", 
+            "Colt's_Manufacturing_Company", 
+            "Flagellation", 
+            "Gym", 
+            "Self-defense"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Judo", 
+            "United_States_Army", 
+            "Boxing", 
+            "High_school"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bundesautobahn_60"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Joint", 
+            "Cardio", 
+            "Thomas_Paine", 
+            "Thomas_Paine", 
+            "Emergency_medical_services"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Kendo", 
+            "Kenp\u014d", 
+            "Sakaldwipiya", 
+            "God", 
+            "Skin", 
+            "Martial_arts", 
+            "Krav_Maga"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Boxing", 
+            "Fish", 
+            "Scuba_diving", 
+            "Ill_(France)", 
+            "Water", 
+            "Gym", 
+            "Oxygen", 
+            "Knife", 
+            "Huh_(god)", 
+            "Anchor", 
+            "Fish", 
+            "Spear", 
+            "Sharon_Rickman", 
+            "Rope", 
+            "Speargun", 
+            "Foot_(length)", 
+            "Tetragrammaton", 
+            "Kickboxing", 
+            "Anchor", 
+            "Professional_Association_of_Diving_Instructors", 
+            "Swimming", 
+            "Huh_(god)", 
+            "Foot_(length)", 
+            "Foot_(length)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cardio"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Bell_(instrument)", 
+            "Thomas_Paine", 
+            "Nose", 
+            "Charon_(moon)"
+        ], 
+        "postID": 12
+    }
+]

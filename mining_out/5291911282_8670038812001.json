@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Desert"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Feedback", 
+            "United_States_Army", 
+            "United_States_Army"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Internet_forum", 
+            "United_States_Army", 
+            "Thomas_Jefferson", 
+            "Association_of_National_Olympic_Committees"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Saw_(film)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Alot", 
+            "Fads_and_trends", 
+            "Desert"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Payroll"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "Soldier", 
+            "Ordre_des_Arts_et_des_Lettres", 
+            "God", 
+            "JAG", 
+            "JAG", 
+            "Duck"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bump"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Jungle_gym", 
+            "Sit-up", 
+            "Press_up", 
+            "Lever", 
+            "Pull-up_(exercise)", 
+            "Mile", 
+            "Ladder", 
+            "Army_Physical_Fitness_Test_(APFT)"
+        ], 
+        "postID": 9
+    }
+]

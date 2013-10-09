@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "Judge", 
+            "Ethnic_group", 
+            "Gender", 
+            "Defendant", 
+            "Judge", 
+            "Lawyer", 
+            "Ethnic_group", 
+            "Constitution", 
+            "Defendant", 
+            "Gender"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sexual_orientation", 
+            "Defendant"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Defendant", 
+            "Dog"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 4
+    }
+]

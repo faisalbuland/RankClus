@@ -1,0 +1,124 @@
+[
+    {
+        "entity": [
+            "Civil_disorder", 
+            "York,_Pennsylvania", 
+            "Terror_(band)", 
+            "New_York", 
+            "New_York_City"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Civil_disorder"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Minor_league_baseball", 
+            "Bubonic_plague", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Finger_(gesture)", 
+            "Finger", 
+            "President_of_the_United_States", 
+            "Posture"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Illinois'_4th_congressional_district", 
+            "Extermination_camp", 
+            "New_York_City_Transit_buses", 
+            "Federal_Emergency_Management_Agency", 
+            "Ge'ez_language", 
+            "New_York_City"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "New_York_City_Police_Department", 
+            "Al-Qaeda", 
+            "New_York_City", 
+            "Anti-terrorism_legislation", 
+            "No_Idea_Records", 
+            "New_York_City", 
+            "Terrorism", 
+            "September_11,_2001_attacks", 
+            "Television"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Local_government", 
+            "Federal_Emergency_Management_Agency", 
+            "Queen_(chess)", 
+            "Mass", 
+            "Jail", 
+            "Civil_disorder", 
+            "Classified_information", 
+            "Repertory"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "President_of_the_United_States", 
+            "Patio"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Boarding_school"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Arizona", 
+            "George_W._Bush", 
+            "Radical_left", 
+            "Dime_(United_States_coin)", 
+            "Hispanic"
+        ], 
+        "postID": 15
+    }
+]

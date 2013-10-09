@@ -1,0 +1,133 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Associated_Press", 
+            "Joe_Lieberman", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "United_States", 
+            "Joe_Lieberman", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Associated_Press", 
+            "Republican_Party_(United_States)", 
+            "United_States_presidential_election,_2008", 
+            "Joe_Lieberman", 
+            "Democratic_Party_(United_States)", 
+            "Joe_Lieberman", 
+            "Interest_group"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Nice_guy", 
+            "John_McCain", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Joe_Lieberman"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Flip-flop_(politics)", 
+            "Politician"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Joe_Lieberman", 
+            "Election"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_House_Committee_on_Homeland_Security", 
+            "Chair_(official)", 
+            "United_States_House_Committee_on_Armed_Services", 
+            "United_States_Senate", 
+            "United_States_Senate_Committee_on_Armed_Services", 
+            "United_States_Senate", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_House_Committee_on_Armed_Services"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Connecticut", 
+            "Joe_Lieberman", 
+            "WINS_(AM)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Politician"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Joe_Lieberman", 
+            "Federalism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "John_McCain", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Liberalism", 
+            "Joe_Lieberman", 
+            "John_McCain"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Senate"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Woody_Hayes", 
+            "George_W._Bush", 
+            "Joe_Lieberman", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "W00t", 
+            "W00t", 
+            "President_of_the_United_States", 
+            "Routing_Information_Protocol", 
+            "George_W._Bush", 
+            "Sheriff_Woody", 
+            "Rutherford_B._Hayes"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "!!!", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Bingo"
+        ], 
+        "postID": 13
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "entity": [
+            "High_school", 
+            "E-8_Joint_STARS", 
+            "USA_Today", 
+            "United_States", 
+            "Assembly_line", 
+            "Today_(UK_newspaper)", 
+            "Education", 
+            "Newspaper", 
+            "Hour", 
+            "E-8_Joint_STARS"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Apples_and_Oranges_(song)", 
+            "Stupidity", 
+            "Mass_production", 
+            "United_States_Air_Force", 
+            "E-8_Joint_STARS", 
+            "Orange_(fruit)", 
+            "Apple", 
+            "Economy", 
+            "Economy", 
+            "Payroll", 
+            "Chevys_Fresh_Mex", 
+            "E-8_Joint_STARS", 
+            "Civil_service", 
+            "Military_rank", 
+            "E-6_process"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bell_(instrument)", 
+            "Luxury_vehicle", 
+            "Tranny", 
+            "Sport_utility_vehicle", 
+            "Lock_(water_transport)", 
+            "Whistles", 
+            "Sport_utility_vehicle", 
+            "Nore", 
+            "Carpet", 
+            "Bells_and_whistles"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers", 
+            "Bankruptcy", 
+            "UAW", 
+            "Layoff", 
+            "Bank"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Point_of_sale", 
+            "Oil"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers", 
+            "Health_care", 
+            "Plant", 
+            "List_of_auto_parts", 
+            "Pension", 
+            "Trade_union", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "North_America", 
+            "North_America", 
+            "Big_Business", 
+            "Automotive_industry", 
+            "North_America", 
+            "Profit", 
+            "United_States_Army", 
+            "United_States_dollar", 
+            "Honda", 
+            "Profit", 
+            "Union_(American_Civil_War)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dodge_Ram", 
+            "2008", 
+            "Nose", 
+            "Ford_Motor_Company", 
+            "The_Ram", 
+            "Ford_F-Series", 
+            "Dodge", 
+            "German_Shepherd_Dog", 
+            "1500", 
+            "Dodge_Ram", 
+            "Power_window", 
+            "Germany", 
+            "2003", 
+            "Dodge_Ram", 
+            "Dodge_Ram", 
+            "Ford_F-Series"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Nock"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Honda_Civic", 
+            "Truck", 
+            "Honda", 
+            "Angle", 
+            "Honda", 
+            "Honda_Civic", 
+            "England", 
+            "Truck", 
+            "Lock_(water_transport)", 
+            "Wheel", 
+            "Truck", 
+            "Truck", 
+            "Forehead", 
+            "Profit", 
+            "Dude"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Heater", 
+            "Steel", 
+            "Automotive_lighting"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Golden_parachute", 
+            "Trade_union", 
+            "United_States", 
+            "Dollar", 
+            "Golden_parachute", 
+            "Dollar", 
+            "Parachute", 
+            "Parachutes", 
+            "Greed", 
+            "Bail_(disambiguation)", 
+            "Aircraft", 
+            "Dollar"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Independent_contractor", 
+            "Manufacturing", 
+            "Napa,_California", 
+            "Junk", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "720", 
+            "Gasoline", 
+            "Tax", 
+            "Internal_Revenue_Service", 
+            "Sake", 
+            "Gallon", 
+            "Gallon", 
+            "Safety_(American_football)", 
+            "Tax", 
+            "Treasury", 
+            "Off-the-Record_Messaging"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "Universal_health_care", 
+            "E8", 
+            "E8"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Labor_unions_in_the_United_States", 
+            "Fart", 
+            "Money_(magazine)", 
+            "Labor_unions_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "E-8_Joint_STARS", 
+            "USA_Today", 
+            "United_States", 
+            "Assembly_line", 
+            "Today_(UK_newspaper)", 
+            "Education", 
+            "Newspaper", 
+            "Hour", 
+            "E-8_Joint_STARS"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Apples_and_Oranges_(song)", 
+            "Stupidity", 
+            "Mass_production", 
+            "United_States_Air_Force", 
+            "E-8_Joint_STARS", 
+            "Orange_(fruit)", 
+            "Apple", 
+            "Economy", 
+            "Economy", 
+            "Payroll", 
+            "Chevys_Fresh_Mex", 
+            "E-8_Joint_STARS", 
+            "Civil_service", 
+            "Military_rank", 
+            "E-6_process"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Bell_(instrument)", 
+            "Luxury_vehicle", 
+            "Tranny", 
+            "Sport_utility_vehicle", 
+            "Lock_(water_transport)", 
+            "Whistles", 
+            "Sport_utility_vehicle", 
+            "Nore", 
+            "Carpet", 
+            "Bells_and_whistles"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers", 
+            "Bankruptcy", 
+            "UAW", 
+            "Layoff", 
+            "Bank"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Point_of_sale", 
+            "Oil"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers", 
+            "Health_care", 
+            "Plant", 
+            "List_of_auto_parts", 
+            "Pension", 
+            "Trade_union", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "North_America", 
+            "North_America", 
+            "Big_Business", 
+            "Automotive_industry", 
+            "North_America", 
+            "Profit", 
+            "United_States_Army", 
+            "United_States_dollar", 
+            "Honda", 
+            "Profit", 
+            "Union_(American_Civil_War)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dodge_Ram", 
+            "2008", 
+            "Nose", 
+            "Ford_Motor_Company", 
+            "The_Ram", 
+            "Ford_F-Series", 
+            "Dodge", 
+            "German_Shepherd_Dog", 
+            "1500", 
+            "Dodge_Ram", 
+            "Power_window", 
+            "Germany", 
+            "2003", 
+            "Dodge_Ram", 
+            "Dodge_Ram", 
+            "Ford_F-Series"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Chrysler", 
+            "Nock"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Honda_Civic", 
+            "Truck", 
+            "Honda", 
+            "Angle", 
+            "Honda", 
+            "Honda_Civic", 
+            "England", 
+            "Truck", 
+            "Lock_(water_transport)", 
+            "Wheel", 
+            "Truck", 
+            "Truck", 
+            "Forehead", 
+            "Profit", 
+            "Dude"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Heater", 
+            "Steel", 
+            "Automotive_lighting"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Golden_parachute", 
+            "Trade_union", 
+            "United_States", 
+            "Dollar", 
+            "Golden_parachute", 
+            "Dollar", 
+            "Parachute", 
+            "Parachutes", 
+            "Greed", 
+            "Bail_(disambiguation)", 
+            "Aircraft", 
+            "Dollar"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Independent_contractor", 
+            "Manufacturing", 
+            "Napa,_California", 
+            "Junk", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "720", 
+            "Gasoline", 
+            "Tax", 
+            "Internal_Revenue_Service", 
+            "Sake", 
+            "Gallon", 
+            "Gallon", 
+            "Safety_(American_football)", 
+            "Tax", 
+            "Treasury", 
+            "Off-the-Record_Messaging"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "Universal_health_care", 
+            "E8", 
+            "E8"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Labor_unions_in_the_United_States", 
+            "Fart", 
+            "Money_(magazine)", 
+            "Labor_unions_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 40
+    }
+]

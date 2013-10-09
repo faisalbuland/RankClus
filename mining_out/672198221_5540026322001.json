@@ -1,0 +1,803 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Breed", 
+            "Good_old_boys", 
+            "United_States_Senate", 
+            "McCain_Foods_Limited", 
+            "United_States_Senate", 
+            "Palin_Majere", 
+            "Condoleezza_Rice", 
+            "Republican_Party_(United_States)", 
+            "Abortion_debate", 
+            "Bristol", 
+            "Hillary_Rodham_Clinton", 
+            "President_of_the_United_States", 
+            "Sex", 
+            "Rice", 
+            "Humour", 
+            "Safe_sex", 
+            "Barack_Obama", 
+            "Gay", 
+            "Republican_Party_(United_States)", 
+            "Gay", 
+            "Sex", 
+            "Republican_Party_(United_States)", 
+            "Church", 
+            "Education", 
+            "Jean-Baptiste_Colbert", 
+            "Condom", 
+            "Abortion", 
+            "40th_Canadian_federal_election", 
+            "Michelle_Obama", 
+            "Jean-Baptiste_Colbert", 
+            "Sex", 
+            "Sex", 
+            "McCain_Foods_Limited", 
+            "Sex"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "High_school", 
+            "College", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Antiscience", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "McCain_Foods_Limited"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Independent_(politician)", 
+            "Rock_music", 
+            "Star", 
+            "Rock_Star"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "School_voucher", 
+            "Education", 
+            "Trade_union", 
+            "Voucher", 
+            "Bow_(weapon)", 
+            "Japan_Teachers_Union"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Meghan_McCain", 
+            "Celebrity", 
+            "Stream", 
+            "Tailcoat", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Mass_media", 
+            "Meghan_McCain", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Flavor", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "Afghanistan", 
+            "Bench_press", 
+            "Radicalism_(historical)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "Debt", 
+            "War_crime", 
+            "George_W._Bush", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Liberalism_in_the_United_States", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Fault_(geology)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science_in_Nursing", 
+            "Liberalism", 
+            "Website", 
+            "Nursing", 
+            "Teacher", 
+            "College", 
+            "Trade_union", 
+            "Florida_State_University", 
+            "College", 
+            "Health_care", 
+            "California", 
+            "Professor", 
+            "Florida"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Bat", 
+            "Balanced_budget", 
+            "Democratic_Party_(United_States)", 
+            "Minority_group", 
+            "Republican_Party_(United_States)", 
+            "Liberalism", 
+            "28_Fundamentals", 
+            "Democratic_Party_(United_States)", 
+            "Ethics", 
+            "Republican_Party_(United_States)", 
+            "28_Fundamentals", 
+            "Christianity", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "IMHO"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Bob_Jones_University", 
+            "Bob_Jones", 
+            "Far_right", 
+            "Liberalism", 
+            "Brain", 
+            "Right-wing_politics", 
+            "Philosophy", 
+            "Extremism", 
+            "Wing", 
+            "Moron"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "President_of_the_United_States", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Bench_press", 
+            "Race_card", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Nose", 
+            "Teacher", 
+            "Politics", 
+            "Ford_Motor_Company", 
+            "Arse", 
+            "CNN", 
+            "Conservatism", 
+            "Gerald_Ford", 
+            "Religion", 
+            "Palin_Majere", 
+            "Fox", 
+            "Mind_control", 
+            "Brain"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Shame"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Breed", 
+            "Good_old_boys", 
+            "United_States_Senate", 
+            "McCain_Foods_Limited", 
+            "United_States_Senate", 
+            "Palin_Majere", 
+            "Condoleezza_Rice", 
+            "Republican_Party_(United_States)", 
+            "Abortion_debate", 
+            "Bristol", 
+            "Hillary_Rodham_Clinton", 
+            "President_of_the_United_States", 
+            "Sex", 
+            "Rice", 
+            "Humour", 
+            "Safe_sex", 
+            "Barack_Obama", 
+            "Gay", 
+            "Republican_Party_(United_States)", 
+            "Gay", 
+            "Sex", 
+            "Republican_Party_(United_States)", 
+            "Church", 
+            "Education", 
+            "Jean-Baptiste_Colbert", 
+            "Condom", 
+            "Abortion", 
+            "40th_Canadian_federal_election", 
+            "Michelle_Obama", 
+            "Jean-Baptiste_Colbert", 
+            "Sex", 
+            "Sex", 
+            "McCain_Foods_Limited", 
+            "Sex"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "High_school", 
+            "College", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Antiscience", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "McCain_Foods_Limited"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Independent_(politician)", 
+            "Rock_music", 
+            "Star", 
+            "Rock_Star"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "School_voucher", 
+            "Education", 
+            "Trade_union", 
+            "Voucher", 
+            "Bow_(weapon)", 
+            "Japan_Teachers_Union"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Meghan_McCain", 
+            "Celebrity", 
+            "Stream", 
+            "Tailcoat", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Mass_media", 
+            "Meghan_McCain", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Flavor", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "Afghanistan", 
+            "Bench_press", 
+            "Radicalism_(historical)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "Debt", 
+            "War_crime", 
+            "George_W._Bush", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Liberalism_in_the_United_States", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Fault_(geology)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science_in_Nursing", 
+            "Liberalism", 
+            "Website", 
+            "Nursing", 
+            "Teacher", 
+            "College", 
+            "Trade_union", 
+            "Florida_State_University", 
+            "College", 
+            "Health_care", 
+            "California", 
+            "Professor", 
+            "Florida"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Bat", 
+            "Balanced_budget", 
+            "Democratic_Party_(United_States)", 
+            "Minority_group", 
+            "Republican_Party_(United_States)", 
+            "Liberalism", 
+            "28_Fundamentals", 
+            "Democratic_Party_(United_States)", 
+            "Ethics", 
+            "Republican_Party_(United_States)", 
+            "28_Fundamentals", 
+            "Christianity", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "IMHO"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Bob_Jones_University", 
+            "Bob_Jones", 
+            "Far_right", 
+            "Liberalism", 
+            "Brain", 
+            "Right-wing_politics", 
+            "Philosophy", 
+            "Extremism", 
+            "Wing", 
+            "Moron"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "President_of_the_United_States", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Bench_press", 
+            "Race_card", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Nose", 
+            "Teacher", 
+            "Politics", 
+            "Ford_Motor_Company", 
+            "Arse", 
+            "CNN", 
+            "Conservatism", 
+            "Gerald_Ford", 
+            "Religion", 
+            "Palin_Majere", 
+            "Fox", 
+            "Mind_control", 
+            "Brain"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Shame"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Breed", 
+            "Good_old_boys", 
+            "United_States_Senate", 
+            "McCain_Foods_Limited", 
+            "United_States_Senate", 
+            "Palin_Majere", 
+            "Condoleezza_Rice", 
+            "Republican_Party_(United_States)", 
+            "Abortion_debate", 
+            "Bristol", 
+            "Hillary_Rodham_Clinton", 
+            "President_of_the_United_States", 
+            "Sex", 
+            "Rice", 
+            "Humour", 
+            "Safe_sex", 
+            "Barack_Obama", 
+            "Gay", 
+            "Republican_Party_(United_States)", 
+            "Gay", 
+            "Sex", 
+            "Republican_Party_(United_States)", 
+            "Church", 
+            "Education", 
+            "Jean-Baptiste_Colbert", 
+            "Condom", 
+            "Abortion", 
+            "40th_Canadian_federal_election", 
+            "Michelle_Obama", 
+            "Jean-Baptiste_Colbert", 
+            "Sex", 
+            "Sex", 
+            "McCain_Foods_Limited", 
+            "Sex"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "High_school", 
+            "College", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Antiscience", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "McCain_Foods_Limited"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Independent_(politician)", 
+            "Rock_music", 
+            "Star", 
+            "Rock_Star"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "School_voucher", 
+            "Education", 
+            "Trade_union", 
+            "Voucher", 
+            "Bow_(weapon)", 
+            "Japan_Teachers_Union"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Meghan_McCain", 
+            "Celebrity", 
+            "Stream", 
+            "Tailcoat", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Mass_media", 
+            "Meghan_McCain", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Flavor", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Liberalism_in_the_United_States", 
+            "Afghanistan", 
+            "Bench_press", 
+            "Radicalism_(historical)", 
+            "Republican_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "Debt", 
+            "War_crime", 
+            "George_W._Bush", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Liberalism_in_the_United_States", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Fault_(geology)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science_in_Nursing", 
+            "Liberalism", 
+            "Website", 
+            "Nursing", 
+            "Teacher", 
+            "College", 
+            "Trade_union", 
+            "Florida_State_University", 
+            "College", 
+            "Health_care", 
+            "California", 
+            "Professor", 
+            "Florida"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Bat", 
+            "Balanced_budget", 
+            "Democratic_Party_(United_States)", 
+            "Minority_group", 
+            "Republican_Party_(United_States)", 
+            "Liberalism", 
+            "28_Fundamentals", 
+            "Democratic_Party_(United_States)", 
+            "Ethics", 
+            "Republican_Party_(United_States)", 
+            "28_Fundamentals", 
+            "Christianity", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "IMHO"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Bob_Jones_University", 
+            "Bob_Jones", 
+            "Far_right", 
+            "Liberalism", 
+            "Brain", 
+            "Right-wing_politics", 
+            "Philosophy", 
+            "Extremism", 
+            "Wing", 
+            "Moron"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "President_of_the_United_States", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Bench_press", 
+            "Race_card", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Nose", 
+            "Teacher", 
+            "Politics", 
+            "Ford_Motor_Company", 
+            "Arse", 
+            "CNN", 
+            "Conservatism", 
+            "Gerald_Ford", 
+            "Religion", 
+            "Palin_Majere", 
+            "Fox", 
+            "Mind_control", 
+            "Brain"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Shame"
+        ], 
+        "postID": 60
+    }
+]

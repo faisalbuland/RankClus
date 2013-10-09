@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Specialist_(rank)", 
+            "BEAR_and_LION_Cipher", 
+            "Redstone_(rocket)", 
+            "Private_First_Class", 
+            "Advanced_Intelligent_Tape", 
+            "Advanced_Intelligent_Tape", 
+            "Specialist_(rank)", 
+            "BEAR_and_LION_Cipher", 
+            "Military_Occupational_Specialty", 
+            "Advanced_Intelligent_Tape", 
+            "Personal_Communications_Service", 
+            "BEAR_and_LION_Cipher", 
+            "Personal_Communications_Service"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Army"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

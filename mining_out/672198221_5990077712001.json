@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Semen"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pornography"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sewing_needle", 
+            "Sewing_needle"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Aluminium", 
+            "KNOW-FM", 
+            "Foil", 
+            "Aluminium_foil"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Aluminium_foil", 
+            "Aluminium", 
+            "Aluminium_foil", 
+            "Aluminium_foil", 
+            "Aluminium_foil", 
+            "Packaging_and_labelling", 
+            "Aluminium"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Misdemeanor", 
+            "Jerry_Springer", 
+            "Springer_Science+Business_Media", 
+            "Intrusion", 
+            "Fowl", 
+            "Incest"
+        ], 
+        "postID": 8
+    }
+]

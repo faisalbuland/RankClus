@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Vladimir_Putin", 
+            "Mouthpiece"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin", 
+            "Psyche_(psychology)", 
+            "Bum", 
+            "Russians", 
+            "Russia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Psyche_(psychology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Paranoia", 
+            "George_W._Bush", 
+            "Bullying", 
+            "Russian_language"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Serbia", 
+            "Moscow", 
+            "Belarus", 
+            "Ukraine", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "Venezuela", 
+            "Communism", 
+            "String_instrument", 
+            "Petroleum", 
+            "Soap", 
+            "Afghanistan", 
+            "Immigration", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Joseph_Stalin", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 6
+    }
+]

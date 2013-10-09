@@ -1,0 +1,548 @@
+[
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "National_park", 
+            "Dick_Cheney", 
+            "Barack_Obama", 
+            "Mythology", 
+            "LOL", 
+            "Thomas_Jefferson", 
+            "National_Rifle_Association", 
+            "Barack_Obama", 
+            "Bank", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Legislation"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Credit_card"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "National_park", 
+            "George_W._Bush", 
+            "Judge", 
+            "United_States_Senate", 
+            "United_States_Congress", 
+            "United_States_district_court"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Filibuster", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gun_politics_in_the_United_States", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Timeline", 
+            "United_States_Congress", 
+            "History_of_the_United_States_Republican_Party", 
+            "Legislation"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "The_Demos", 
+            "Senate", 
+            "Simple_majority", 
+            "Demos", 
+            "Credit_card"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Filibuster_(military)", 
+            "Demo_(music)", 
+            "Simple_majority"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republicanism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Southern_United_States", 
+            "Gun_politics"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "Mythology", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Right-wing_politics", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "Law", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Conference_committee", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Credit_card", 
+            "United_States_Congress_Conference_committee", 
+            "Barack_Obama", 
+            "Memorial_Day", 
+            "Coburn_(band)", 
+            "President_of_the_United_States", 
+            "Tom_Coburn"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "National_park", 
+            "United_States_Senate", 
+            "Wildlife", 
+            "National_park", 
+            "United_States_Congress", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Elvis_(album)", 
+            "Sun", 
+            "Elvis_Presley"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "National_park", 
+            "Dick_Cheney", 
+            "Barack_Obama", 
+            "Mythology", 
+            "LOL", 
+            "Thomas_Jefferson", 
+            "National_Rifle_Association", 
+            "Barack_Obama", 
+            "Bank", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Legislation"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Credit_card"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "National_park", 
+            "George_W._Bush", 
+            "Judge", 
+            "United_States_Senate", 
+            "United_States_Congress", 
+            "United_States_district_court"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Filibuster", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Gun_politics_in_the_United_States", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Timeline", 
+            "United_States_Congress", 
+            "History_of_the_United_States_Republican_Party", 
+            "Legislation"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "The_Demos", 
+            "Senate", 
+            "Simple_majority", 
+            "Demos", 
+            "Credit_card"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Filibuster_(military)", 
+            "Demo_(music)", 
+            "Simple_majority"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Republicanism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Southern_United_States", 
+            "Gun_politics"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "Mythology", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Right-wing_politics", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "Law", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Conference_committee", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Credit_card", 
+            "United_States_Congress_Conference_committee", 
+            "Barack_Obama", 
+            "Memorial_Day", 
+            "Coburn_(band)", 
+            "President_of_the_United_States", 
+            "Tom_Coburn"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "National_park", 
+            "United_States_Senate", 
+            "Wildlife", 
+            "National_park", 
+            "United_States_Congress", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Elvis_(album)", 
+            "Sun", 
+            "Elvis_Presley"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "National_park", 
+            "Dick_Cheney", 
+            "Barack_Obama", 
+            "Mythology", 
+            "LOL", 
+            "Thomas_Jefferson", 
+            "National_Rifle_Association", 
+            "Barack_Obama", 
+            "Bank", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Legislation"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Credit_card"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "National_park", 
+            "George_W._Bush", 
+            "Judge", 
+            "United_States_Senate", 
+            "United_States_Congress", 
+            "United_States_district_court"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Filibuster", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Gun_politics_in_the_United_States", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "Gun_politics", 
+            "Gun_politics", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Timeline", 
+            "United_States_Congress", 
+            "History_of_the_United_States_Republican_Party", 
+            "Legislation"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "The_Demos", 
+            "Senate", 
+            "Simple_majority", 
+            "Demos", 
+            "Credit_card"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Filibuster_(military)", 
+            "Demo_(music)", 
+            "Simple_majority"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Republicanism"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Firearm", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Liberal_democracy", 
+            "Southern_United_States", 
+            "Gun_politics"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "Mythology", 
+            "George_W._Bush_presidential_campaign,_2004", 
+            "Right-wing_politics", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "Law", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Conference_committee", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Credit_card", 
+            "United_States_Congress_Conference_committee", 
+            "Barack_Obama", 
+            "Memorial_Day", 
+            "Coburn_(band)", 
+            "President_of_the_United_States", 
+            "Tom_Coburn"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "National_park", 
+            "United_States_Senate", 
+            "Wildlife", 
+            "National_park", 
+            "United_States_Congress", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Elvis_(album)", 
+            "Sun", 
+            "Elvis_Presley"
+        ], 
+        "postID": 60
+    }
+]

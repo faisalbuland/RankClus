@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "Dwight_D._Eisenhower", 
+            "Bill_Clinton", 
+            "Gerald_Ford", 
+            "George_H._W._Bush", 
+            "Harry_S._Truman", 
+            "George_H._W._Bush", 
+            "Jimmy_Carter", 
+            "John_F._Kennedy", 
+            "Richard_Nixon", 
+            "Ronald_Reagan", 
+            "Gerald_Ford", 
+            "President_of_the_United_States", 
+            "Franklin_D._Roosevelt", 
+            "Gerald_Ford"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine", 
+            "Bipolar_disorder"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bipolar_disorder", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Gerald_Ford", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 4
+    }
+]

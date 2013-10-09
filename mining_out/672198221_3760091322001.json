@@ -1,0 +1,428 @@
+[
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Blanket", 
+            "Politics", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Recess", 
+            "Health_care", 
+            "Calorie", 
+            "Tax", 
+            "Ge'ez_language", 
+            "Playground", 
+            "Video_game", 
+            "Energy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Soda", 
+            "Health_care", 
+            "Soda"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Soft_drink", 
+            "Mafia"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "Textile", 
+            "Tobacco_smoking", 
+            "Sugar", 
+            "Textile", 
+            "Tax", 
+            "Shame", 
+            "Pop_music", 
+            "Europe", 
+            "Plastic", 
+            "Tobacco_smoking", 
+            "Food_industry", 
+            "Fast_food", 
+            "Plastic", 
+            "Fast_food", 
+            "England", 
+            "Plastic_bag", 
+            "Garden"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Regressive_tax", 
+            "Cancer", 
+            "Cigarette", 
+            "Tobacco_smoking", 
+            "Oregon", 
+            "State", 
+            "Tax", 
+            "Lung_cancer", 
+            "Cancer_research", 
+            "Tax", 
+            "Regressive_tax", 
+            "Torture", 
+            "Lung_cancer"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hack_(technology)", 
+            "Nickel"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Smoking", 
+            "Smoking", 
+            "Smoking", 
+            "Smoking", 
+            "Addiction", 
+            "Smoking", 
+            "Doc_(TV_series)", 
+            "Smoking"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Joseph_Stalin", 
+            "Beer", 
+            "Joseph_Stalin", 
+            "Alcoholic_beverage", 
+            "Excise", 
+            "Tax", 
+            "Politics", 
+            "Distilled_beverage", 
+            "Doc_(TV_series)", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Cookie", 
+            "Politician", 
+            "Tax", 
+            "Oreo", 
+            "Cigarette", 
+            "Hack_(technology)", 
+            "Soft_drink", 
+            "Sugar", 
+            "Marathon", 
+            "Fast_food", 
+            "Soft_drink", 
+            "Soft_drink", 
+            "Candy", 
+            "Dessert"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "154", 
+            "Tax", 
+            "Product_(chemistry)", 
+            "Universal_Studios", 
+            "Alcohol", 
+            "Cigarette", 
+            "Tobacco", 
+            "Health_care"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Junk_(ship)", 
+            "Alcohol", 
+            "!!!", 
+            "Disease", 
+            "Health_care", 
+            "Liver_disease", 
+            "Junk_food", 
+            "Liver", 
+            "Tax", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Emergency_management", 
+            "Bridge", 
+            "Public_education", 
+            "Common_land", 
+            "National_security", 
+            "Firefighting", 
+            "Law", 
+            "Education", 
+            "Regressive_tax", 
+            "Road"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Health_care"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Blanket", 
+            "Politics", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Recess", 
+            "Health_care", 
+            "Calorie", 
+            "Tax", 
+            "Ge'ez_language", 
+            "Playground", 
+            "Video_game", 
+            "Energy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Soda", 
+            "Health_care", 
+            "Soda"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Soft_drink", 
+            "Mafia"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "Textile", 
+            "Tobacco_smoking", 
+            "Sugar", 
+            "Textile", 
+            "Tax", 
+            "Shame", 
+            "Pop_music", 
+            "Europe", 
+            "Plastic", 
+            "Tobacco_smoking", 
+            "Food_industry", 
+            "Fast_food", 
+            "Plastic", 
+            "Fast_food", 
+            "England", 
+            "Plastic_bag", 
+            "Garden"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Regressive_tax", 
+            "Cancer", 
+            "Cigarette", 
+            "Tobacco_smoking", 
+            "Oregon", 
+            "State", 
+            "Tax", 
+            "Lung_cancer", 
+            "Cancer_research", 
+            "Tax", 
+            "Regressive_tax", 
+            "Torture", 
+            "Lung_cancer"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Hack_(technology)", 
+            "Nickel"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Smoking", 
+            "Smoking", 
+            "Smoking", 
+            "Smoking", 
+            "Addiction", 
+            "Smoking", 
+            "Doc_(TV_series)", 
+            "Smoking"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Joseph_Stalin", 
+            "Beer", 
+            "Joseph_Stalin", 
+            "Alcoholic_beverage", 
+            "Excise", 
+            "Tax", 
+            "Politics", 
+            "Distilled_beverage", 
+            "Doc_(TV_series)", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Cookie", 
+            "Politician", 
+            "Tax", 
+            "Oreo", 
+            "Cigarette", 
+            "Hack_(technology)", 
+            "Soft_drink", 
+            "Sugar", 
+            "Marathon", 
+            "Fast_food", 
+            "Soft_drink", 
+            "Soft_drink", 
+            "Candy", 
+            "Dessert"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "154", 
+            "Tax", 
+            "Product_(chemistry)", 
+            "Universal_Studios", 
+            "Alcohol", 
+            "Cigarette", 
+            "Tobacco", 
+            "Health_care"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Junk_(ship)", 
+            "Alcohol", 
+            "!!!", 
+            "Disease", 
+            "Health_care", 
+            "Liver_disease", 
+            "Junk_food", 
+            "Liver", 
+            "Tax", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Emergency_management", 
+            "Bridge", 
+            "Public_education", 
+            "Common_land", 
+            "National_security", 
+            "Firefighting", 
+            "Law", 
+            "Education", 
+            "Regressive_tax", 
+            "Road"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

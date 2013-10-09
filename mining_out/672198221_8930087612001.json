@@ -1,0 +1,99 @@
+[
+    {
+        "entity": [
+            "Carpet_bombing", 
+            "MIM-104_Patriot", 
+            "Iran", 
+            "Artillery_battery", 
+            "Ballistic_missile", 
+            "Poles", 
+            "Ballistics", 
+            "Russia", 
+            "MIM-104_Patriot", 
+            "Carpet"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Russia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Poland", 
+            "Missile", 
+            "Iran", 
+            "Manas"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Classified_information", 
+            "Iraqi_insurgency", 
+            "Iranian_peoples", 
+            "Insurgency", 
+            "Iraq", 
+            "Newspaper", 
+            "U.S._state"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Okay", 
+            "Discourse"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Missile", 
+            "China", 
+            "Russia", 
+            "Dictatorship"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Doctorate", 
+            "United_States_Senate", 
+            "Tsar", 
+            "Hugo_Ch\u00e1vez", 
+            "Barack_Obama", 
+            "United_States", 
+            "Kindergarten", 
+            "Barack_Obama", 
+            "United_States_Ski_and_Snowboard_Association", 
+            "Hugo_Award", 
+            "United_States", 
+            "Health_care", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 11
+    }
+]

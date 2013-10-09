@@ -1,0 +1,402 @@
+[
+    {
+        "entity": [
+            "Crow", 
+            "China", 
+            "Hill"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "USS_Chung-Hoon_(DDG-93)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Arleigh_Burke", 
+            "Surveillance_Towed_Array_Sensor_System", 
+            "Anti-submarine_warfare", 
+            "Edmund_Burke"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Admiral", 
+            "Chinese_American", 
+            "China", 
+            "World_War_II", 
+            "Hawaii", 
+            "Rear_admiral", 
+            "Hero_(2002_film)", 
+            "Hong_Kong"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hat", 
+            "Mod_(lifestyle)", 
+            "Mod_(lifestyle)", 
+            "688", 
+            "Hat"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Debt", 
+            "Diplomacy", 
+            "China", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Chinese_language", 
+            "Chinese_language"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Translation"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Submarine", 
+            "Los_Angeles_class_submarine", 
+            "Submarine"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "688", 
+            "688", 
+            "USS_Los_Angeles_(ZR-3)", 
+            "Los_Angeles,_California"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fishing_vessel", 
+            "Fishing", 
+            "Japan", 
+            "Drill"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States_Naval_Academy", 
+            "1945", 
+            "Sorry_(Madonna_song)", 
+            "Engine", 
+            "July_25", 
+            "Honolulu,_Hawaii", 
+            "Strike_action", 
+            "Port_(nautical)", 
+            "Ky\u016bsh\u016b", 
+            "Port", 
+            "United_States_Naval_Academy", 
+            "United_States_Navy", 
+            "1945", 
+            "Kamikaze", 
+            "Admiral", 
+            "Okinawa_Prefecture", 
+            "Empire_of_Japan", 
+            "Japanese_Archipelago", 
+            "Admiral", 
+            "1945", 
+            "United_States", 
+            "Commander", 
+            "Anti-aircraft_warfare", 
+            "Artillery_battery", 
+            "1910", 
+            "Anti-aircraft_warfare", 
+            "502", 
+            "Radar", 
+            "Rear_admiral", 
+            "Radar_picket", 
+            "1934", 
+            "Arleigh_Burke_class_destroyer", 
+            "United_States_Navy", 
+            "Football", 
+            "April_14", 
+            "United_States_Naval_Academy", 
+            "Damage_control", 
+            "Navy_Cross", 
+            "1944", 
+            "Admiral", 
+            "Island", 
+            "Hawaii", 
+            "Knot_(speed)", 
+            "Engine", 
+            "Silver_Star", 
+            "Rear_admiral", 
+            "Gordon_Pai'ea_Chung-Hoon"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Periscope", 
+            "Noise", 
+            "Sonar"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Sailor", 
+            "Tin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Fishing"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Interference", 
+            "1956_Grand_Canyon_mid-air_collision", 
+            "Geek", 
+            "Sonar", 
+            "Module_(mathematics)", 
+            "Arleigh_Burke_class_destroyer"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Fishing"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Crow", 
+            "China", 
+            "Hill"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "USS_Chung-Hoon_(DDG-93)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Arleigh_Burke", 
+            "Surveillance_Towed_Array_Sensor_System", 
+            "Anti-submarine_warfare", 
+            "Edmund_Burke"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Admiral", 
+            "Chinese_American", 
+            "China", 
+            "World_War_II", 
+            "Hawaii", 
+            "Rear_admiral", 
+            "Hero_(2002_film)", 
+            "Hong_Kong"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Hat", 
+            "Mod_(lifestyle)", 
+            "Mod_(lifestyle)", 
+            "688", 
+            "Hat"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Debt", 
+            "Diplomacy", 
+            "China", 
+            "Barack_Obama"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Chinese_language", 
+            "Chinese_language"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Translation"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Submarine", 
+            "Los_Angeles_class_submarine", 
+            "Submarine"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "688", 
+            "688", 
+            "USS_Los_Angeles_(ZR-3)", 
+            "Los_Angeles,_California"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fishing_vessel", 
+            "Fishing", 
+            "Japan", 
+            "Drill"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States_Naval_Academy", 
+            "1945", 
+            "Sorry_(Madonna_song)", 
+            "Engine", 
+            "July_25", 
+            "Honolulu,_Hawaii", 
+            "Strike_action", 
+            "Port_(nautical)", 
+            "Ky\u016bsh\u016b", 
+            "Port", 
+            "United_States_Naval_Academy", 
+            "United_States_Navy", 
+            "1945", 
+            "Kamikaze", 
+            "Admiral", 
+            "Okinawa_Prefecture", 
+            "Empire_of_Japan", 
+            "Japanese_Archipelago", 
+            "Admiral", 
+            "1945", 
+            "United_States", 
+            "Commander", 
+            "Anti-aircraft_warfare", 
+            "Artillery_battery", 
+            "1910", 
+            "Anti-aircraft_warfare", 
+            "502", 
+            "Radar", 
+            "Rear_admiral", 
+            "Radar_picket", 
+            "1934", 
+            "Arleigh_Burke_class_destroyer", 
+            "United_States_Navy", 
+            "Football", 
+            "April_14", 
+            "United_States_Naval_Academy", 
+            "Damage_control", 
+            "Navy_Cross", 
+            "1944", 
+            "Admiral", 
+            "Island", 
+            "Hawaii", 
+            "Knot_(speed)", 
+            "Engine", 
+            "Silver_Star", 
+            "Rear_admiral", 
+            "Gordon_Pai'ea_Chung-Hoon"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Periscope", 
+            "Noise", 
+            "Sonar"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Sailor", 
+            "Tin"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Fishing"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Interference", 
+            "1956_Grand_Canyon_mid-air_collision", 
+            "Geek", 
+            "Sonar", 
+            "Module_(mathematics)", 
+            "Arleigh_Burke_class_destroyer"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fishing"
+        ], 
+        "postID": 40
+    }
+]

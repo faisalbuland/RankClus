@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [
+            "Judge", 
+            "Road", 
+            "Judge"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Firearm"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Handgun", 
+            "Gun_politics", 
+            "Citizenship", 
+            "Law", 
+            "Loaded_(magazine)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Irony", 
+            "Glass", 
+            "Localization", 
+            "Republican_Party_(United_States)", 
+            "Libertarianism", 
+            "Gray_Wolf", 
+            "The_Boy_Who_Cried_Wolf"
+        ], 
+        "postID": 4
+    }
+]

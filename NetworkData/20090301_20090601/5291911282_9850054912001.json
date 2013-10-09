@@ -1,0 +1,211 @@
+[
+    {
+        "content": "HEADS UP EVERYONE, MAKE SURE YOUR ANTI-VIRUS SOFTWARE IS UP-TO-DATE! ...http://www.usatoday.com/money/industries/technology/2009-03-24-conficker-computer-worm_N.htm... SEATTLE \u2014 In the brief, tumultuous history of cybercrime, there has never been anything quite like the Conficker worm. In the past few months, Conficker's creators have infected at least 3 million Windows PCs worldwide with malicious software, and perhaps as many as 12 million. At this moment, the bad guys are locked in a high-stakes showdown with a posse of security groups led by Microsoft. Conficker's controllers have set a date for what amounts to a cyber-shootout at the OK Corral. Next Wednesday \u2014 April Fools' Day \u2014 millions of infected PCs, called bots, will begin reporting for further instructions, presumably to begin spreading spam, stealing data or carrying out online scams. And there appears to be little the good guys can do to cut off such communications. \"We have not yet begun to feel the real impact of Conficker,\" says Paul Henry, researcher at security firm Lumension. \"We may soon be at the whim of those in control of what has emerged as a formidable army of infected machines.\" Vintage worm Conficker requires no action on the part of the PC user to spread. It's a throwback to self-replicating worms that scanned the Internet for PCs displaying known \u2014 and unpatched \u2014 Windows security holes. Such worms largely disappeared after 2004, as Microsoft (MSFT) improved its process for identifying new holes and quickly issuing patches. But last September, Chinese hackers began selling a $37.80 program for tapping into a newly discovered Windows hole on some 800 million machines worldwide, according to SRI International, a non-profit research firm. Microsoft took notice, and on Oct. 23, issued a rare emergency patch. Most home PC users in North America got patched quickly, via Windows Auto update. But many corporate and government users were lackadaisical about patching. In China and other nations where pirated copies of Windows are widely used, patches simply weren't available. \"Once the patch was out, no one paid attention,\" says Don Jackson, senior researcher at SecureWorks. \"They underestimated the risk.\" Precursors of Conficker began spreading on a limited basis, mostly in Asia. In early January, a full-featured version began seeking out unpatched PCs across the globe. The worm slithered onto any shared hard drives; it searched out nearby servers and issued hundreds of combinations of user IDs and passwords to break in; it copied itself onto any device plugged into a USB port, such as thumb drives, music players or digital cameras. When that infected device later got inserted into another work station, that machine became infected. Conficker also took extraordinary measures to prevent each new bot from being disinfected by Microsoft or antivirus programs, or usurped by a rival botnet group. SRI found, for instance, that Conficker's encryption algorithm came from MIT's Ron Rivest, copied from a recently published research paper. On Feb. 12, Microsoft put up a $250,000 bounty for information leading to the capture of Conficker's creators. The software giant also formed an alliance of security groups, dubbed the Conficker Cabal, to battle the worm. The Cabal focused on disrupting what was perhaps Conficker's most unnerving feature. Eight times a day, each bot tried to connect with a list of 250 randomly generated Web addresses \u2014 each a potential rendezvous point to receive further instructions. Each day, this list of 250 rendezvous points changed. To cut this off, the Cabal identified the Web addresses scheduled to turn up on the daily lists, and began registering any that weren't already registered by someone else. The goal: to \"pre-empt registration of those domains for potential criminal use,\" says Christopher Budd, of Microsoft's security response team. Upgrade slips through Yet, on March 6 and on March 17, the bad guys somehow slipped a malicious software upgrade to millions of infected PCs. The upgrade began organizing the bots into a vast peer-to-peer, or P2P, network, says SRI program manager Phillip Porras. P2P networks are powerful and flexible, because each PC can function as a command server. They're commonly used to share videos and music and play complex online games. The upgrade also included instructions for each bot to begin a daily routine on April 1 of checking in at 500 rendezvous points, randomly selected from a pool of 50,000 domain names. This trick will make it more difficult for the Cabal to preregister addresses, says Porras. Joe Stewart, a senior researcher at SecureWorks, notes that the infected PCs are already capable of receiving directives from the controllers via the P2P network, \"so the 50,000 domains aren't really needed. They could even be a practical joke on the part of the authors.\" Botnets have emerged as the cybercrime world's tool of choice to carry out scams. Josu Franco, Panda Security's director of business development, surmises that Conficker's controllers may be moving methodically to corner the market on botnets for hire. \"This is free inventory for them,\" says Franco. The good guys' defense boils down to vigilance. While the Cabal may not be able to stop the controllers from issuing directives, it remains poised to disrupt any criminal activity attempted by Conficker bots. \"There may be a second phase of the threat at some point in time,\" acknowledges Microsoft's Budd. \"However, we believe, given the tremendous amount of attention this worm has received, industry and law enforcement efforts will be a deterrent to a large second wave of attacks.\"", 
+        "intTime": 20090331, 
+        "postID": 1, 
+        "quote": "", 
+        "reply": "HEADS UP EVERYONE, MAKE SURE YOUR ANTI-VIRUS SOFTWARE IS UP-TO-DATE! ...http://www.usatoday.com/money/industries/technology/2009-03-24-conficker-computer-worm_N.htm... SEATTLE \u2014 In the brief, tumultuous history of cybercrime, there has never been anything quite like the Conficker worm. In the past few months, Conficker's creators have infected at least 3 million Windows PCs worldwide with malicious software, and perhaps as many as 12 million. At this moment, the bad guys are locked in a high-stakes showdown with a posse of security groups led by Microsoft. Conficker's controllers have set a date for what amounts to a cyber-shootout at the OK Corral. Next Wednesday \u2014 April Fools' Day \u2014 millions of infected PCs, called bots, will begin reporting for further instructions, presumably to begin spreading spam, stealing data or carrying out online scams. And there appears to be little the good guys can do to cut off such communications. \"We have not yet begun to feel the real impact of Conficker,\" says Paul Henry, researcher at security firm Lumension. \"We may soon be at the whim of those in control of what has emerged as a formidable army of infected machines.\" Vintage worm Conficker requires no action on the part of the PC user to spread. It's a throwback to self-replicating worms that scanned the Internet for PCs displaying known \u2014 and unpatched \u2014 Windows security holes. Such worms largely disappeared after 2004, as Microsoft (MSFT) improved its process for identifying new holes and quickly issuing patches. But last September, Chinese hackers began selling a $37.80 program for tapping into a newly discovered Windows hole on some 800 million machines worldwide, according to SRI International, a non-profit research firm. Microsoft took notice, and on Oct. 23, issued a rare emergency patch. Most home PC users in North America got patched quickly, via Windows Auto update. But many corporate and government users were lackadaisical about patching. In China and other nations where pirated copies of Windows are widely used, patches simply weren't available. \"Once the patch was out, no one paid attention,\" says Don Jackson, senior researcher at SecureWorks. \"They underestimated the risk.\" Precursors of Conficker began spreading on a limited basis, mostly in Asia. In early January, a full-featured version began seeking out unpatched PCs across the globe. The worm slithered onto any shared hard drives; it searched out nearby servers and issued hundreds of combinations of user IDs and passwords to break in; it copied itself onto any device plugged into a USB port, such as thumb drives, music players or digital cameras. When that infected device later got inserted into another work station, that machine became infected. Conficker also took extraordinary measures to prevent each new bot from being disinfected by Microsoft or antivirus programs, or usurped by a rival botnet group. SRI found, for instance, that Conficker's encryption algorithm came from MIT's Ron Rivest, copied from a recently published research paper. On Feb. 12, Microsoft put up a $250,000 bounty for information leading to the capture of Conficker's creators. The software giant also formed an alliance of security groups, dubbed the Conficker Cabal, to battle the worm. The Cabal focused on disrupting what was perhaps Conficker's most unnerving feature. Eight times a day, each bot tried to connect with a list of 250 randomly generated Web addresses \u2014 each a potential rendezvous point to receive further instructions. Each day, this list of 250 rendezvous points changed. To cut this off, the Cabal identified the Web addresses scheduled to turn up on the daily lists, and began registering any that weren't already registered by someone else. The goal: to \"pre-empt registration of those domains for potential criminal use,\" says Christopher Budd, of Microsoft's security response team. Upgrade slips through Yet, on March 6 and on March 17, the bad guys somehow slipped a malicious software upgrade to millions of infected PCs. The upgrade began organizing the bots into a vast peer-to-peer, or P2P, network, says SRI program manager Phillip Porras. P2P networks are powerful and flexible, because each PC can function as a command server. They're commonly used to share videos and music and play complex online games. The upgrade also included instructions for each bot to begin a daily routine on April 1 of checking in at 500 rendezvous points, randomly selected from a pool of 50,000 domain names. This trick will make it more difficult for the Cabal to preregister addresses, says Porras. Joe Stewart, a senior researcher at SecureWorks, notes that the infected PCs are already capable of receiving directives from the controllers via the P2P network, \"so the 50,000 domains aren't really needed. They could even be a practical joke on the part of the authors.\" Botnets have emerged as the cybercrime world's tool of choice to carry out scams. Josu Franco, Panda Security's director of business development, surmises that Conficker's controllers may be moving methodically to corner the market on botnets for hire. \"This is free inventory for them,\" says Franco. The good guys' defense boils down to vigilance. While the Cabal may not be able to stop the controllers from issuing directives, it remains poised to disrupt any criminal activity attempted by Conficker bots. \"There may be a second phase of the threat at some point in time,\" acknowledges Microsoft's Budd. \"However, we believe, given the tremendous amount of attention this worm has received, industry and law enforcement efforts will be a deterrent to a large second wave of attacks.\"", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 12:37:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "navy8086"
+    }, 
+    {
+        "content": "If you don't have an ant-virus softeware, AVG is pretty good and free too. ...http://free.avg.com/...", 
+        "intTime": 20090331, 
+        "postID": 2, 
+        "quote": "", 
+        "reply": "If you don't have an ant-virus softeware, AVG is pretty good and free too. ...http://free.avg.com/...", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 12:44:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "navy8086"
+    }, 
+    {
+        "content": "Here's a few programs that are suppossed to remove the worm if it's infected your computer. Both are updated daily to account for changes. Microsoft Malicious Software Removal Tool: \"http://www.microsoft.com/downloads/details.aspx?FamilyId=AD724AE0-E72D-4F54-9AB3-75B8EB148356&displaylang=en\" McAfee's removal tool: \"http://67.97.80.71/vil/conficker_stinger/Stinger_Coficker.exe\" Oh, you can check to see if you're infected with Conficker Virus. Try going to Microsoft.com, if you get a \"page cannot be displayed\" message, then it's likely being blocked by Conficker. C.R.", 
+        "intTime": 20090331, 
+        "postID": 3, 
+        "quote": "", 
+        "reply": "Here's a few programs that are suppossed to remove the worm if it's infected your computer. Both are updated daily to account for changes. Microsoft Malicious Software Removal Tool: \"http://www.microsoft.com/downloads/details.aspx?FamilyId=AD724AE0-E72D-4F54-9AB3-75B8EB148356&displaylang=en\" McAfee's removal tool: \"http://67.97.80.71/vil/conficker_stinger/Stinger_Coficker.exe\" Oh, you can check to see if you're infected with Conficker Virus. Try going to Microsoft.com, if you get a \"page cannot be displayed\" message, then it's likely being blocked by Conficker. C.R.", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 12:49:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "CYCLIC_RUNAWAY"
+    }, 
+    {
+        "content": "Thanks Navy. I went to Microsofts site and downloaded the upgrade. I have AVG so I just checked the system for the new old virus updates. You Da Man. Dawg", 
+        "intTime": 20090331, 
+        "postID": 4, 
+        "quote": "", 
+        "reply": "Thanks Navy. I went to Microsofts site and downloaded the upgrade. I have AVG so I just checked the system for the new old virus updates. You Da Man. Dawg", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 13:11:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "mainedawg"
+    }, 
+    {
+        "content": "What about Spy-bot? I'm running it now - - I got AVG too, but it takes for ever!! Is this coming from China the way the recently discovered spy network was? I seems time that the computer world build a wall around all Chinese activity and cut them off from the rest of the planet! Wandering and Wondering", 
+        "intTime": 20090331, 
+        "postID": 5, 
+        "quote": "", 
+        "reply": "What about Spy-bot? I'm running it now - - I got AVG too, but it takes for ever!! Is this coming from China the way the recently discovered spy network was? I seems time that the computer world build a wall around all Chinese activity and cut them off from the rest of the planet! Wandering and Wondering", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 13:18:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "greywolfghost"
+    }, 
+    {
+        "content": "simple fix for me.... I'm unplugging my pca round evening. I have great protection,but would rather not chance it. I can live w/ out a computer for a little while. I'l watch the news and see what happened.", 
+        "intTime": 20090331, 
+        "postID": 6, 
+        "quote": "", 
+        "reply": "simple fix for me.... I'm unplugging my pca round evening. I have great protection,but would rather not chance it. I can live w/ out a computer for a little while. I'l watch the news and see what happened.", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 13:39:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "Jonsey36"
+    }, 
+    {
+        "content": "Conficker-C (this is the beast in question) may be an over-hyped April Fool's Joke; they're really not certain just what it is and there's a huge amount of debate on the matter! If you've got a good AntiVirus program that's up to date and all of your Windows Critical updates are current, you'll probably be OK (hopefully you've run a comprehensive scan of your system recently). If you are feeling insecure about it, just don't turn on your computer tomorrow or, before you do, disconnect your Internet connection (Modem/Cable/Router) before switching your computer on! Some information at these links: http://blogs.techrepublic.com.com/security/?p=1218&tag=nl.e101 http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9130733&source=NLT_PM http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9130778&source=NLT_AM This message has been edited. Last edited by: KJ1110, Tue 31 March 2009 02:32 PM It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "intTime": 20090331, 
+        "postID": 7, 
+        "quote": "", 
+        "reply": "Conficker-C (this is the beast in question) may be an over-hyped April Fool's Joke; they're really not certain just what it is and there's a huge amount of debate on the matter! If you've got a good AntiVirus program that's up to date and all of your Windows Critical updates are current, you'll probably be OK (hopefully you've run a comprehensive scan of your system recently). If you are feeling insecure about it, just don't turn on your computer tomorrow or, before you do, disconnect your Internet connection (Modem/Cable/Router) before switching your computer on! Some information at these links: http://blogs.techrepublic.com.com/security/?p=1218&tag=nl.e101 http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9130733&source=NLT_PM http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9130778&source=NLT_AM This message has been edited. Last edited by: KJ1110, Tue 31 March 2009 02:32 PM It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 13:52:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "KJ1110"
+    }, 
+    {
+        "content": "quote: Originally posted by greywolfghost: What about Spy-bot? I'm running it now - - I got AVG too, but it takes for ever!! Is this coming from China the way the recently discovered spy network was? I seems time that the computer world build a wall around all Chinese activity and cut them off from the rest of the planet! SpyBot isn't the tool for this job, but AVG is so long as you've got it up to date as I describe above (assuming that it's not too old a version; they're currently on version 8.5 (free))! ETA: AVG's FAQ on Conficker: http://www.avg.com/faq.num-766#faq_766 NOTE to Mods! Hopefully, this won't be seen as SPAM for the above product, but it was the one mentioned so I point to it! There are similar FAQ's for any flavor of AntiVirus you may use! This message has been edited. Last edited by: KJ1110, Tue 31 March 2009 02:30 PM It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "intTime": 20090331, 
+        "postID": 8, 
+        "quote": "Originally posted by greywolfghost: What about Spy-bot? I'm running it now - - I got AVG too, but it takes for ever!! Is this coming from China the way the recently discovered spy network was? I seems time that the computer world build a wall around all Chinese activity and cut them off from the rest of the planet!", 
+        "reply": " SpyBot isn't the tool for this job, but AVG is so long as you've got it up to date as I describe above (assuming that it's not too old a version; they're currently on version 8.5 (free))! ETA: AVG's FAQ on Conficker: http://www.avg.com/faq.num-766#faq_766 NOTE to Mods! Hopefully, this won't be seen as SPAM for the above product, but it was the one mentioned so I point to it! There are similar FAQ's for any flavor of AntiVirus you may use! This message has been edited. Last edited by: KJ1110, Tue 31 March 2009 02:30 PM It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 13:59:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "KJ1110"
+    }, 
+    {
+        "content": "Yup -got that - - Wandering and Wondering", 
+        "intTime": 20090331, 
+        "postID": 9, 
+        "quote": "", 
+        "reply": "Yup -got that - - Wandering and Wondering", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-03-31 14:23:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "greywolfghost"
+    }, 
+    {
+        "content": "I use AVG as well. Along with ***http://www.lavasoft.com/single/trialpay.php*** Another great free program that I have been using for years. Also bump!", 
+        "intTime": 20090401, 
+        "postID": 10, 
+        "quote": "", 
+        "reply": "I use AVG as well. Along with ***http://www.lavasoft.com/single/trialpay.php*** Another great free program that I have been using for years. Also bump!", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 07:37:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "Grimbo"
+    }, 
+    {
+        "content": "Microsoft has a download patch for conficker! Keep smiling, everyone will wonder what you've been up to!", 
+        "intTime": 20090401, 
+        "postID": 11, 
+        "quote": "", 
+        "reply": "Microsoft has a download patch for conficker! Keep smiling, everyone will wonder what you've been up to!", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 07:47:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "Bergy46"
+    }, 
+    {
+        "content": "Thx for the warning \"Navy\". But, I HAVE A MAC! Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "intTime": 20090401, 
+        "postID": 12, 
+        "quote": "", 
+        "reply": "Thx for the warning \"Navy\". But, I HAVE A MAC! Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 09:30:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "sargeant_green"
+    }, 
+    {
+        "content": "quote: Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC! You have my symapathies ...", 
+        "intTime": 20090401, 
+        "postID": 13, 
+        "quote": "Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC!", 
+        "reply": " You have my symapathies ...", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 10:09:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "navy8086"
+    }, 
+    {
+        "content": "quote: Originally posted by navy8086: quote: Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC! You have my symapathies ... .and you can keep your viruses... Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "intTime": 20090401, 
+        "postID": 14, 
+        "quote": "Originally posted by navy8086: quote: Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC! You have my symapathies ...", 
+        "reply": " .and you can keep your viruses... Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 10:32:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "sargeant_green"
+    }, 
+    {
+        "content": "quote: Originally posted by sargeant_green: quote: Originally posted by navy8086: quote: Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC! You have my symapathies ... .and you can keep your viruses... SOME DAY ....", 
+        "intTime": 20090401, 
+        "postID": 15, 
+        "quote": "Originally posted by sargeant_green: quote: Originally posted by navy8086: quote: Originally posted by sargeant_green: Thx for the warning \"Navy\". But, I HAVE A MAC! You have my symapathies ... .and you can keep your viruses...", 
+        "reply": " SOME DAY ....", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 10:36:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "navy8086"
+    }, 
+    {
+        "content": "I paid six-hundred for this laptop and have never had a virus program running on it. I don't even know if they offer virus protection for Macs. Anything I connect to it (peripherals) the computer automatically goes looking for the driver where ever I tell it to or by itself finds the driver and installs it. Rarely do I have a problem. I run PC as well and go through the same stuff anybody else with a PC does. I would never think of taking a PC out for a walk on the Internet. Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "intTime": 20090401, 
+        "postID": 16, 
+        "quote": "", 
+        "reply": "I paid six-hundred for this laptop and have never had a virus program running on it. I don't even know if they offer virus protection for Macs. Anything I connect to it (peripherals) the computer automatically goes looking for the driver where ever I tell it to or by itself finds the driver and installs it. Rarely do I have a problem. I run PC as well and go through the same stuff anybody else with a PC does. I would never think of taking a PC out for a walk on the Internet. Quantum materiae materietur marmota monax si marmota monax materiam possit materiari?", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 10:52:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "sargeant_green"
+    }, 
+    {
+        "content": "quote: Originally posted by sargeant_green: I paid six-hundred for this laptop and have never had a virus program running on it. I don't even know if they offer virus protection for Macs. Anything I connect to it (peripherals) the computer automatically goes looking for the driver where ever I tell it to or by itself finds the driver and installs it. Rarely do I have a problem. I run PC as well and go through the same stuff anybody else with a PC does. I would never think of taking a PC out for a walk on the Internet. I \"grew up\" on PC, so using a MAC is somewhat foriegn territory, I hear from people who use them (like you)they love 'em and I got nothing against 'em. It's just something I never got into.", 
+        "intTime": 20090401, 
+        "postID": 17, 
+        "quote": "Originally posted by sargeant_green: I paid six-hundred for this laptop and have never had a virus program running on it. I don't even know if they offer virus protection for Macs. Anything I connect to it (peripherals) the computer automatically goes looking for the driver where ever I tell it to or by itself finds the driver and installs it. Rarely do I have a problem. I run PC as well and go through the same stuff anybody else with a PC does. I would never think of taking a PC out for a walk on the Internet.", 
+        "reply": " I \"grew up\" on PC, so using a MAC is somewhat foriegn territory, I hear from people who use them (like you)they love 'em and I got nothing against 'em. It's just something I never got into.", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 10:56:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "navy8086"
+    }, 
+    {
+        "content": "Everything is fine here. Of course my anti virus software automatically looks for updates once every twenty four hours. Of course one of my computers is running Linux and, of course, viruses aren't a problem. I backup everything I care about to that computer. As time goes by Linux is getting more and more popular. Unlike Windows, it's free and open source. It's totally stable and has many programs that do what Windows programs do and do them better. . How come I pressed \"One for English\" and still can't understand a word the dude is saying?", 
+        "intTime": 20090401, 
+        "postID": 18, 
+        "quote": "", 
+        "reply": "Everything is fine here. Of course my anti virus software automatically looks for updates once every twenty four hours. Of course one of my computers is running Linux and, of course, viruses aren't a problem. I backup everything I care about to that computer. As time goes by Linux is getting more and more popular. Unlike Windows, it's free and open source. It's totally stable and has many programs that do what Windows programs do and do them better. . How come I pressed \"One for English\" and still can't understand a word the dude is saying?", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 13:01:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "Vicdude"
+    }, 
+    {
+        "content": "No problems here, either! I did catch a \"tease\" on CNN earlier today that some of the first effects of Conficker would be reported, but I had to go out and missed it! It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "intTime": 20090401, 
+        "postID": 19, 
+        "quote": "", 
+        "reply": "No problems here, either! I did catch a \"tease\" on CNN earlier today that some of the first effects of Conficker would be reported, but I had to go out and missed it! It is not our belief or disbelief that can make or unmake the fact. ~ Thomas Paine", 
+        "threadID": "5291911282_9850054912001", 
+        "time": "2009-04-01 13:33:00", 
+        "title": "BEWARE! READ THIS ARTICLE  .... conficker virus - NOT an April Fool's joke !", 
+        "userID": "KJ1110"
+    }
+]

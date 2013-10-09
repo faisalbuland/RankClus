@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [
+            "Carl_Jung", 
+            "Kim_Jong-il", 
+            "Coma", 
+            "One_Nation_(Australia)", 
+            "Ill_(France)", 
+            "Quadriplegia", 
+            "Smiley", 
+            "Hospital", 
+            "Ballet", 
+            "One_Heart"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Steroid"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Parliament_of_the_United_Kingdom", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "North_Korea", 
+            "John_Sheridan_(Babylon_5)", 
+            "Koreans", 
+            "North_Korea", 
+            "Korean_language"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Tanker_(ship)", 
+            "One_Heart"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein"
+        ], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "entity": [
+            "American_International_Group", 
+            "SHARE_(computing)", 
+            "New_York_City", 
+            "American_International_Group", 
+            "Scot_(disambiguation)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dividend", 
+            "Mutual_fund", 
+            "Dividend"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Compact_Disc", 
+            "Stock_market", 
+            "Certificate_of_deposit", 
+            "Gold", 
+            "Dividend", 
+            "Profit", 
+            "Hell", 
+            "Stock"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Saskatchewan_Order_of_Merit", 
+            "American_International_Group", 
+            "American_Guild_of_Organists", 
+            "Goto", 
+            "American_International_Group", 
+            "WAIT_(AM)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Ford_Motor_Company", 
+            "British_Aircraft_Corporation", 
+            "American_International_Group", 
+            "Gambling", 
+            "20", 
+            "Hindsight_bias"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Buck", 
+            "Penny_stock", 
+            "Penny", 
+            "Stock"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Evergreen", 
+            "American_International_Group", 
+            "Fannie_Mae", 
+            "F\u00e1brica_Nacional_de_Motores", 
+            "Ford_Motor_Company", 
+            "Mae"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Enron", 
+            "Cent_(music)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "March_16", 
+            "2009", 
+            "Bankruptcy", 
+            "Mon_people", 
+            "JPM"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Europe"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Volatility", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "The_Home_Depot"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Donkey"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "United_States", 
+            "Dollar_cost_averaging"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Semper_fidelis"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Penny_stock", 
+            "Mae", 
+            "Fannie_Mae", 
+            "Penny", 
+            "Cent_(currency)", 
+            "American_International_Group", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Hell"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Bankruptcy_protection", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Bankruptcy", 
+            "The_Christian_Science_Monitor", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "March_31", 
+            "Wagoner,_Oklahoma", 
+            "Bankruptcy", 
+            "Science", 
+            "Rick_Wagoner", 
+            "Christian_Science", 
+            "Monitor_(NBC_Radio)", 
+            "Washington", 
+            "Chief_executive_officer", 
+            "Wagoner,_Oklahoma", 
+            "Breakfast", 
+            "Christian", 
+            "General_Motors", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Wagoner,_Oklahoma", 
+            "General_Motors", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Automotive_industry", 
+            "General_Motors", 
+            "The_Christian_Science_Monitor"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Williston,_North_Dakota", 
+            "Sone", 
+            "Williston_Basin", 
+            "Pipeline_transport", 
+            "Natural_gas", 
+            "Shale", 
+            "Petroleum", 
+            "Dividend"
+        ], 
+        "postID": 22
+    }
+]

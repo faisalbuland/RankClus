@@ -1,0 +1,67 @@
+[
+    {
+        "entity": [
+            "George_Bernard_Shaw", 
+            "Shaw_Air_Force_Base", 
+            "Airman"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "United_States_Air_Force", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Internet_forum", 
+            "Tax", 
+            "Tax_return", 
+            "D._V._Gundappa", 
+            "Air_force", 
+            "Derelict", 
+            "Airman", 
+            "God", 
+            "Brooklyn-Manhattan_Transit_Corporation", 
+            "Airman", 
+            "Duck", 
+            "God", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mail", 
+            "Blah", 
+            "Placeholder_name", 
+            "Graduation", 
+            "Placeholder_name", 
+            "TRICARE", 
+            "Placeholder_name"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Duck", 
+            "God", 
+            "Tax", 
+            "Soldier", 
+            "Tax_return_(United_States)", 
+            "God"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

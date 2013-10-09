@@ -1,0 +1,32 @@
+[
+    {
+        "entity": [
+            "Financial_Times"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "Iran", 
+            "Nuclear_weapon", 
+            "Shield", 
+            "Missile", 
+            "Russia", 
+            "Demining", 
+            "Missile_defense"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Free_House", 
+            "Medicare_(Canada)", 
+            "Ocean", 
+            "Recycling", 
+            "Armed_forces"
+        ], 
+        "postID": 3
+    }
+]

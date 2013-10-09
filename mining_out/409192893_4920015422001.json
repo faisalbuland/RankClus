@@ -1,0 +1,83 @@
+[
+    {
+        "entity": [
+            "Dictator", 
+            "Democracy", 
+            "Dictator", 
+            "Hell", 
+            "Human", 
+            "Dictator", 
+            "Dictatorship", 
+            "Democracy", 
+            "Collateral_damage", 
+            "Collateral_(finance)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_law", 
+            "Law", 
+            "Sun", 
+            "2009", 
+            "May_31", 
+            "Human_rights"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Al_Capone", 
+            "Big_Stick_Ideology", 
+            "Diplomacy", 
+            "Theodore_Roosevelt", 
+            "Mite", 
+            "Al_Capone"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "STFU", 
+            "Left-wing_politics", 
+            "Loon"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Dogs_of_War_(Warhammer)", 
+            "President_of_the_Philippines", 
+            "Muzzle_(device)", 
+            "1985", 
+            "United_States_Marine_Corps", 
+            "Blinders"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Al_Capp", 
+            "Mammy_archetype"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "World_War_II", 
+            "Democracy", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 8
+    }
+]

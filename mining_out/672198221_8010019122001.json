@@ -1,0 +1,149 @@
+[
+    {
+        "entity": [
+            "April_27", 
+            "News", 
+            "Liberalism", 
+            "Donkey", 
+            "2009", 
+            "Mon_people", 
+            "All-news_radio", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Cable_television", 
+            "Town", 
+            "Cable_network"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Sarcasm", 
+            "Stalinism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Men_who_have_sex_with_men", 
+            "Presidency_of_George_W._Bush", 
+            "Free_rider_problem", 
+            "Ronald_Reagan", 
+            "Softball", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Bribery", 
+            "George_H._W._Bush", 
+            "Ronald_Reagan", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Prosecutor"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "LOL", 
+            "Obama,_Fukui", 
+            "Horton,_Kansas"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "2010", 
+            "Cabinet"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Horror_fiction", 
+            "2010", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "MSNBC"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "2010"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "United_States_Cabinet", 
+            "Barack_Obama"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Kathleen_Sebelius", 
+            "Barack_Obama", 
+            "Cabinet", 
+            "HHS"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Cabinet", 
+            "Foreign_relations", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tin", 
+            "Tin_foil", 
+            "Aluminium_foil"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }
+]

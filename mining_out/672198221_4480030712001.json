@@ -1,0 +1,350 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Tax_reform", 
+            "New_York_City", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "City-state", 
+            "State", 
+            "New_York_City"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "AFL-CIO", 
+            "Trade_union", 
+            "Card_check", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "State", 
+            "FairTax", 
+            "Taxation_in_the_United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Devaluation", 
+            "Electricity", 
+            "Fossil_fuel", 
+            "Heating_oil", 
+            "Agriculture", 
+            "Natural_gas", 
+            "Fossil", 
+            "Stimulus_(physiology)", 
+            "United_States_dollar", 
+            "Emissions_trading", 
+            "Natural_gas", 
+            "IMHO", 
+            "Pesticide", 
+            "Fertilizer", 
+            "Cap_(sport)", 
+            "Petroleum"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "New_York", 
+            "Sales_tax", 
+            "Paterson,_New_Jersey", 
+            "Sorry_(Madonna_song)", 
+            "QWERTY", 
+            "New_York", 
+            "Tax", 
+            "Deficit", 
+            "Middle_class", 
+            "Income_tax", 
+            "Toll_road"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Deficit", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Double_Whammy", 
+            "Tax", 
+            "State"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Accountancy", 
+            "1980s", 
+            "Nuclear_power", 
+            "Overpass", 
+            "Nuclear_power", 
+            "Remuneration", 
+            "Delmarva_Peninsula", 
+            "Delmarva_Peninsula", 
+            "Bus", 
+            "Shoreham_Nuclear_Power_Plant", 
+            "Overpass", 
+            "Bridge", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "1990s", 
+            "List_of_peninsulas", 
+            "Causeway", 
+            "Rapid_transit", 
+            "Power_station", 
+            "Overpass", 
+            "San_Francisco_\u2013_Oakland_Bay_Bridge", 
+            "Nuclear_power", 
+            "Bridge", 
+            "Tax", 
+            "Overpass", 
+            "Causeway"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Sales_tax", 
+            "Dollar", 
+            "Income_tax", 
+            "Dollar", 
+            "Lower_East_Side", 
+            "Tax", 
+            "Tax", 
+            "Tax", 
+            "Dollar", 
+            "Tax_rate", 
+            "Tax", 
+            "State_income_tax", 
+            "Income_tax", 
+            "Tax", 
+            "Tax_rate", 
+            "State_income_tax", 
+            "Income_tax", 
+            "U.S._state", 
+            "East_Side", 
+            "Tax", 
+            "Tax_rate", 
+            "Tax", 
+            "Milky_Way~Kimi_no_Uta~)", 
+            "Tax", 
+            "Tax", 
+            "Dollar", 
+            "Tax_rate", 
+            "New_York", 
+            "Tax", 
+            "Dollar", 
+            "Commuting", 
+            "New_York_City", 
+            "Tax", 
+            "Tax_rate", 
+            "Tax_rate", 
+            "Tax", 
+            "Progressive_tax", 
+            "Tax", 
+            "Income_tax", 
+            "Dollar", 
+            "Tax", 
+            "Bracket", 
+            "Dollar", 
+            "Dollar", 
+            "Discretionary_income", 
+            "New_York_City", 
+            "Tax_rate", 
+            "Tax", 
+            "New_York", 
+            "Tax", 
+            "New_York_City"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Elevator", 
+            "Governor", 
+            "Sutton,_London", 
+            "Boiler", 
+            "Bank", 
+            "Middle_class", 
+            "Porter_(beer)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Class_war", 
+            "Socialist_state", 
+            "Democratic_socialism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Socialism", 
+            "Discretionary_income", 
+            "Product_(chemistry)", 
+            "Bracket", 
+            "Bridges", 
+            "Greed", 
+            "United_States", 
+            "Progressive_tax", 
+            "List_of_fixed_crossings_of_the_East_River", 
+            "Mercedes-Benz_500K", 
+            "Economy", 
+            "Bracket", 
+            "Mercedes-Benz_500K", 
+            "Public_utility", 
+            "Productivity", 
+            "Income_tax", 
+            "Discretionary_income", 
+            "East_River", 
+            "Food_Stamp_Program", 
+            "Radical_(chemistry)", 
+            "Infrastructure", 
+            "Education", 
+            "Consumer_economy", 
+            "Middle_class", 
+            "Progressive_tax", 
+            "New_York", 
+            "Tax", 
+            "Recession", 
+            "Progressive_tax", 
+            "Income_tax", 
+            "Reflection_(physics)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "New_York_City_Subway", 
+            "Queens", 
+            "Tax", 
+            "Energy", 
+            "Plant", 
+            "Queens", 
+            "Poverty", 
+            "New_York", 
+            "Energy", 
+            "Atlantic_Ocean", 
+            "New_York_City", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "New_York_and_Atlantic_Railway", 
+            "Tax_revenue", 
+            "Energy_policy_of_the_United_Kingdom", 
+            "Norfolk", 
+            "Tax_reform", 
+            "Tax", 
+            "Plant", 
+            "Coal", 
+            "Confidence_trick", 
+            "Cap_(sport)", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "Property_tax", 
+            "Carbon", 
+            "Long_Island_Rail_Road", 
+            "Emissions_trading", 
+            "Tax", 
+            "Tax", 
+            "Bloomberg_L.P.", 
+            "Tax", 
+            "Tax", 
+            "United_National_Party", 
+            "Brand", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "Emissions_trading", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Profit", 
+            "Tax_revenue", 
+            "New_York_City_Subway", 
+            "Atlantic_Ocean", 
+            "Bond_(finance)", 
+            "Long_Island_Rail_Road", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "Tax", 
+            "Duty-free_shop", 
+            "Tax", 
+            "Norfolk,_Virginia", 
+            "New_York", 
+            "Metropolitan_Transportation_Authority_(New_York)", 
+            "New_York_City_Subway", 
+            "Profit", 
+            "Capitalism", 
+            "New_York_City_Subway", 
+            "Capitalism", 
+            "Bond_(finance)", 
+            "Socialism", 
+            "Bond_(finance)", 
+            "Amtrak", 
+            "Tax", 
+            "Duty-free_shop", 
+            "Tax", 
+            "Tax", 
+            "New_York_City", 
+            "New_York_and_Atlantic_Railway", 
+            "Tax", 
+            "United_National_Party"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Burn_(Usher_song)", 
+            "God"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Stem_cell", 
+            "Plant_stem", 
+            "Cell_(biology)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Stem_cell", 
+            "Republican_Party_(United_States)", 
+            "Cell_(biology)", 
+            "Stem", 
+            "Biomedical_research", 
+            "Stem_cell"
+        ], 
+        "postID": 20
+    }
+]

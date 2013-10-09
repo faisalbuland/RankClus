@@ -1,0 +1,96 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bar_association"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Puppy", 
+            "Newt", 
+            "LOL"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Newt_(film)", 
+            "Newt_(film)", 
+            "Newt_(film)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Michelle_Fowler", 
+            "Artist"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Mixed-breed_dog", 
+            "LOL", 
+            "Dog"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "!!!_(album)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "That_dog.", 
+            "Barker_(occupation)", 
+            "Dog"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Toilet_training", 
+            "Chamber_pot", 
+            "Dog", 
+            "Puppy"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Constitutionalism", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Barack_Obama"
+        ], 
+        "postID": 17
+    }
+]

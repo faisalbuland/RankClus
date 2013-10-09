@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "Foot", 
+            "Flat_feet"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hiking", 
+            "Waiver", 
+            "Recruiter", 
+            "Pain"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Duck"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

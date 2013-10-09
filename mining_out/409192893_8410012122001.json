@@ -1,0 +1,21 @@
+[
+    {
+        "entity": [
+            "HEALTH_(band)", 
+            "CARE_(relief)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Law", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

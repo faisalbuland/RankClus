@@ -1,0 +1,941 @@
+[
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Safety_(American_football)", 
+            "Enhanced_interrogation_techniques", 
+            "Software_bug", 
+            "Enhanced_interrogation_techniques", 
+            "United_States", 
+            "Terrorism", 
+            "Interrogation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Socialism", 
+            "United_States_Constitution"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Presidency_of_George_W._Bush", 
+            "Terrorism", 
+            "Yawn", 
+            "Enhanced_interrogation_techniques", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Islam", 
+            "Intelligence_(information_gathering)", 
+            "Islamic_terrorism", 
+            "September_11,_2001_attacks", 
+            "Intelligence_agency", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Compass", 
+            "Barack_Obama", 
+            "Abortion", 
+            "United_States", 
+            "Compass", 
+            "Morality", 
+            "Morality", 
+            "Barack_Obama", 
+            "Compass", 
+            "Marriage", 
+            "Morality"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "George_W._Bush", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "April_21", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "Al-Qaeda", 
+            "Saddam_Hussein", 
+            "Witch-hunt", 
+            "Intelligence_(information_gathering)", 
+            "2003", 
+            "George_W._Bush", 
+            "United_States_Army", 
+            "Saddam_Hussein", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Briefs", 
+            "Interrogation"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Slavery", 
+            "George_W._Bush", 
+            "England"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Osama_bin_Laden", 
+            "Sake", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "President_of_the_United_States", 
+            "Osama_bin_Laden", 
+            "God", 
+            "Al-Qaeda", 
+            "Osama_bin_Laden", 
+            "2003", 
+            "United_States", 
+            "Iraq", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "United_States", 
+            "Constitutional_right", 
+            "Federal_government_of_the_United_States", 
+            "Compass", 
+            "United_States", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sake", 
+            "Yahoo!", 
+            "Google"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "Analogy", 
+            "Hazing", 
+            "Felony"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Sycophant", 
+            "Mystery_(fiction)", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Sniper", 
+            "Helicopter"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "North_American_fraternity_and_sorority_housing", 
+            "College", 
+            "Abu_Ghraib", 
+            "Fraternity", 
+            "Major", 
+            "Terrorism", 
+            "Dog"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "War_crime", 
+            "2003_invasion_of_Iraq", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "United_States_Congress", 
+            "September_11,_2001_attacks", 
+            "John_Kerry", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "John_Kerry", 
+            "!!!", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "!!!", 
+            "Ear", 
+            "George_W._Bush"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld", 
+            "Rove_(TV_series)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Brig", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Envy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Envy", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Abu_Ghraib", 
+            "Accountability", 
+            "Symptom", 
+            "Prank"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Nuremberg_Defense", 
+            "Nuremberg_Trials"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Derangement", 
+            "Islamic_psychology", 
+            "Envy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Leavenworth,_Kansas"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States", 
+            "Screw_thread"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Safety_(American_football)", 
+            "Enhanced_interrogation_techniques", 
+            "Software_bug", 
+            "Enhanced_interrogation_techniques", 
+            "United_States", 
+            "Terrorism", 
+            "Interrogation"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Socialism", 
+            "United_States_Constitution"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Presidency_of_George_W._Bush", 
+            "Terrorism", 
+            "Yawn", 
+            "Enhanced_interrogation_techniques", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Islam", 
+            "Intelligence_(information_gathering)", 
+            "Islamic_terrorism", 
+            "September_11,_2001_attacks", 
+            "Intelligence_agency", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Compass", 
+            "Barack_Obama", 
+            "Abortion", 
+            "United_States", 
+            "Compass", 
+            "Morality", 
+            "Morality", 
+            "Barack_Obama", 
+            "Compass", 
+            "Marriage", 
+            "Morality"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "George_W._Bush", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "April_21", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "Al-Qaeda", 
+            "Saddam_Hussein", 
+            "Witch-hunt", 
+            "Intelligence_(information_gathering)", 
+            "2003", 
+            "George_W._Bush", 
+            "United_States_Army", 
+            "Saddam_Hussein", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Briefs", 
+            "Interrogation"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Slavery", 
+            "George_W._Bush", 
+            "England"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Osama_bin_Laden", 
+            "Sake", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "President_of_the_United_States", 
+            "Osama_bin_Laden", 
+            "God", 
+            "Al-Qaeda", 
+            "Osama_bin_Laden", 
+            "2003", 
+            "United_States", 
+            "Iraq", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "United_States", 
+            "Constitutional_right", 
+            "Federal_government_of_the_United_States", 
+            "Compass", 
+            "United_States", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sake", 
+            "Yahoo!", 
+            "Google"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "Analogy", 
+            "Hazing", 
+            "Felony"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Sycophant", 
+            "Mystery_(fiction)", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Sniper", 
+            "Helicopter"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "North_American_fraternity_and_sorority_housing", 
+            "College", 
+            "Abu_Ghraib", 
+            "Fraternity", 
+            "Major", 
+            "Terrorism", 
+            "Dog"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "War_crime", 
+            "2003_invasion_of_Iraq", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "United_States_Congress", 
+            "September_11,_2001_attacks", 
+            "John_Kerry", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "John_Kerry", 
+            "!!!", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "!!!", 
+            "Ear", 
+            "George_W._Bush"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld", 
+            "Rove_(TV_series)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Brig", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Envy"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Envy", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Abu_Ghraib", 
+            "Accountability", 
+            "Symptom", 
+            "Prank"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Nuremberg_Defense", 
+            "Nuremberg_Trials"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Derangement", 
+            "Islamic_psychology", 
+            "Envy"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Leavenworth,_Kansas"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States", 
+            "Screw_thread"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Safety_(American_football)", 
+            "Enhanced_interrogation_techniques", 
+            "Software_bug", 
+            "Enhanced_interrogation_techniques", 
+            "United_States", 
+            "Terrorism", 
+            "Interrogation"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Socialism", 
+            "United_States_Constitution"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Presidency_of_George_W._Bush", 
+            "Terrorism", 
+            "Yawn", 
+            "Enhanced_interrogation_techniques", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Islam", 
+            "Intelligence_(information_gathering)", 
+            "Islamic_terrorism", 
+            "September_11,_2001_attacks", 
+            "Intelligence_agency", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Compass", 
+            "Barack_Obama", 
+            "Abortion", 
+            "United_States", 
+            "Compass", 
+            "Morality", 
+            "Morality", 
+            "Barack_Obama", 
+            "Compass", 
+            "Marriage", 
+            "Morality"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "George_W._Bush", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Osama_bin_Laden", 
+            "April_21", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "Al-Qaeda", 
+            "Saddam_Hussein", 
+            "Witch-hunt", 
+            "Intelligence_(information_gathering)", 
+            "2003", 
+            "George_W._Bush", 
+            "United_States_Army", 
+            "Saddam_Hussein", 
+            "United_States"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Briefs", 
+            "Interrogation"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Slavery", 
+            "George_W._Bush", 
+            "England"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Osama_bin_Laden", 
+            "Sake", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "President_of_the_United_States", 
+            "Osama_bin_Laden", 
+            "God", 
+            "Al-Qaeda", 
+            "Osama_bin_Laden", 
+            "2003", 
+            "United_States", 
+            "Iraq", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Psychiatrist", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "United_States", 
+            "Constitutional_right", 
+            "Federal_government_of_the_United_States", 
+            "Compass", 
+            "United_States", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sake", 
+            "Yahoo!", 
+            "Google"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "Analogy", 
+            "Hazing", 
+            "Felony"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Sycophant", 
+            "Mystery_(fiction)", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Sniper", 
+            "Helicopter"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "North_American_fraternity_and_sorority_housing", 
+            "College", 
+            "Abu_Ghraib", 
+            "Fraternity", 
+            "Major", 
+            "Terrorism", 
+            "Dog"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "War_crime", 
+            "2003_invasion_of_Iraq", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "United_States_Congress", 
+            "September_11,_2001_attacks", 
+            "John_Kerry", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "John_Kerry", 
+            "!!!", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "!!!", 
+            "Ear", 
+            "George_W._Bush"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld", 
+            "Rove_(TV_series)"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Brig", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Envy"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Envy", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Abu_Ghraib", 
+            "Accountability", 
+            "Symptom", 
+            "Prank"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Nuremberg_Defense", 
+            "Nuremberg_Trials"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Derangement", 
+            "Islamic_psychology", 
+            "Envy"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Leavenworth,_Kansas"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States", 
+            "Screw_thread"
+        ], 
+        "postID": 90
+    }
+]

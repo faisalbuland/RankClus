@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [
+            "Advanced_Intelligent_Tape", 
+            "Recruit_training", 
+            "Mobile_phone", 
+            "Jackson,_Mississippi", 
+            "Cell_site"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Clock", 
+            "Mobile_phone", 
+            "2003", 
+            "Alarm_clock"
+        ], 
+        "postID": 3
+    }
+]

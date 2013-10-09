@@ -1,0 +1,169 @@
+[
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Prescription_drug", 
+            "George_H._W._Bush", 
+            "Medicare_(United_States)", 
+            "Drug", 
+            "George_W._Bush", 
+            "Medical_prescription", 
+            "Disease", 
+            "Socialism", 
+            "Physician", 
+            "George_W._Bush"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rug"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "American_Broadcasting_Company", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "Stanford_University", 
+            "Monogamy", 
+            "AIDS", 
+            "Stanford_University", 
+            "Prostitution", 
+            "Monogamy", 
+            "Medical_News_Today", 
+            "President_of_the_United_States", 
+            "AIDS", 
+            "Medicare_(United_States)", 
+            "Medicine", 
+            "Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act", 
+            "AIDS", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "Africa", 
+            "Condom", 
+            "Internal_medicine", 
+            "Sexual_abstinence", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Charitable_organization", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "HIV", 
+            "HIV", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Discordant", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Abstinence,_be_faithful,_use_a_condom", 
+            "AIDS_in_Africa", 
+            "AIDS", 
+            "Condom", 
+            "Condom", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "Marriage", 
+            "United_States", 
+            "AIDS", 
+            "American_Broadcasting_Company", 
+            "Veto", 
+            "2004", 
+            "Sexual_abstinence", 
+            "United_States_Congress", 
+            "2003", 
+            "Condom", 
+            "AIDS", 
+            "U.S._state", 
+            "Annals_(Tacitus)", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "Aid", 
+            "2007", 
+            "Sexual_abstinence", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President's_Emergency_Plan_for_AIDS_Relief", 
+            "George_W._Bush", 
+            "Marriage", 
+            "United_States_Agency_for_International_Development", 
+            "Sexual_abstinence", 
+            "American_Broadcasting_Company", 
+            "HIV"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Sun", 
+            "White_House", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Tax", 
+            "Federation_Against_Copyright_Theft", 
+            "George_W._Bush", 
+            "Insurance", 
+            "Illegal_drug_trade", 
+            "Suggested_retail_price"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "American_Broadcasting_Company", 
+            "Big_Trouble_(film)", 
+            "Pope", 
+            "Trouble_(band)", 
+            "Devil"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "George_H._W._Bush", 
+            "Catholic"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Africa", 
+            "Third_World", 
+            "Third_World", 
+            "Independence", 
+            "Poverty"
+        ], 
+        "postID": 12
+    }
+]

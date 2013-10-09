@@ -1,0 +1,316 @@
+[
+    {
+        "entity": [
+            "Church_(building)", 
+            "Catholic", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Jail"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "International_Maritime_Organization", 
+            "Religion"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Native_Americans_in_the_United_States", 
+            "Native_American_reservation", 
+            "Evangelicalism", 
+            "List_of_Christian_denominations"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Religion", 
+            "Morality"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Priest", 
+            "Thread_(computer_science)", 
+            "Roman_Catholic_Church", 
+            "Emotion", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Faith"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Ireland", 
+            "Roman_Catholic_Church", 
+            "Bishop", 
+            "Nun", 
+            "Atheism", 
+            "Se\u00e1n_O'Casey", 
+            "Roman_Catholic_Church", 
+            "Ireland", 
+            "Film", 
+            "Archbishop", 
+            "Roman_Catholic_Church", 
+            "Ireland"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Sexual_abuse", 
+            "Newspaper"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "May_21", 
+            "2009"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Insurance", 
+            "Church", 
+            "Constitution", 
+            "Church", 
+            "Religion", 
+            "Insurance", 
+            "Insurance", 
+            "Outlaw", 
+            "Crime", 
+            "Church", 
+            "U.S._state", 
+            "Insurance", 
+            "Church"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Free_rider_problem", 
+            "Political_science", 
+            "Alien_(film)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Alien_(film)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Roman_Catholic_Church", 
+            "Paraphilia", 
+            "Terrorism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Poster"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Church_(building)", 
+            "Catholic", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Jail"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "International_Maritime_Organization", 
+            "Religion"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Native_Americans_in_the_United_States", 
+            "Native_American_reservation", 
+            "Evangelicalism", 
+            "List_of_Christian_denominations"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Religion", 
+            "Morality"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Priest", 
+            "Thread_(computer_science)", 
+            "Roman_Catholic_Church", 
+            "Emotion", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Faith"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Ireland", 
+            "Roman_Catholic_Church", 
+            "Bishop", 
+            "Nun", 
+            "Atheism", 
+            "Se\u00e1n_O'Casey", 
+            "Roman_Catholic_Church", 
+            "Ireland", 
+            "Film", 
+            "Archbishop", 
+            "Roman_Catholic_Church", 
+            "Ireland"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Sexual_abuse", 
+            "Newspaper"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "May_21", 
+            "2009"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Insurance", 
+            "Church", 
+            "Constitution", 
+            "Church", 
+            "Religion", 
+            "Insurance", 
+            "Insurance", 
+            "Outlaw", 
+            "Crime", 
+            "Church", 
+            "U.S._state", 
+            "Insurance", 
+            "Church"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Free_rider_problem", 
+            "Political_science", 
+            "Alien_(film)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Alien_(film)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Roman_Catholic_Church", 
+            "Paraphilia", 
+            "Terrorism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Poster"
+        ], 
+        "postID": 38
+    }
+]

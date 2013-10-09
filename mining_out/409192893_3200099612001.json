@@ -1,0 +1,66 @@
+[
+    {
+        "entity": [
+            "Chair_(official)", 
+            "Voorhees_Township,_New_Jersey", 
+            "Newport", 
+            "Mutiny", 
+            "Stuff_(magazine)", 
+            "Deal,_Kent", 
+            "Time_(magazine)", 
+            "Coddington", 
+            "Conservatism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Novel", 
+            "Writer", 
+            "Literature"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Screen_name"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Sergeant", 
+            "KNEW_(AM)", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Ivy", 
+            "Ivy_League", 
+            "Liberal_Party_(UK)", 
+            "Conservative_Party_(UK)", 
+            "Beltway", 
+            "Conservative_Party_of_Canada"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Hack_(technology)", 
+            "Constitution", 
+            "Conservatism"
+        ], 
+        "postID": 8
+    }
+]

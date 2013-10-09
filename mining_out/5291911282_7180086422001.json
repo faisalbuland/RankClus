@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [
+            "Database_management_system", 
+            "Pointer_(computing)", 
+            "E-mail"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Hindsight_bias"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Duck", 
+            "God", 
+            "Derelict", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Military_airbase"
+        ], 
+        "postID": 4
+    }
+]

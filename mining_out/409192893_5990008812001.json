@@ -1,0 +1,976 @@
+[
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Boss_(video_games)", 
+            "Socialism", 
+            "Jack_(device)", 
+            "Bread", 
+            "Socialism", 
+            "Satellite", 
+            "Lego", 
+            "Historical_exchange_rates_of_Argentine_currency", 
+            "Fantasy", 
+            "Colin_Powell", 
+            "Barack_Obama", 
+            "Void_type", 
+            "McDonald's", 
+            "Happy_Meal", 
+            "College", 
+            "Seasonal_affective_disorder", 
+            "Liberalism", 
+            "Education", 
+            "George_W._Bush", 
+            "Boss_(video_games)", 
+            "Boss_(video_games)", 
+            "Bone", 
+            "Soviet_Union", 
+            "Brain", 
+            "Inventory", 
+            "Barack_Obama", 
+            "Sorry_(Madonna_song)", 
+            "Loss_leader", 
+            "Spin_(magazine)", 
+            "College", 
+            "Higher_education", 
+            "Dude", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Glass_Onion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Shepherd", 
+            "Jonestown", 
+            "Kool-Aid"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Manufacturing", 
+            "Europe", 
+            "Spoons", 
+            "United_States_dollar", 
+            "Census", 
+            "Bill_Clinton", 
+            "Hell", 
+            "Socialism", 
+            "Socialism", 
+            "Progressivism", 
+            "Soup", 
+            "George_W._Bush", 
+            "Hell", 
+            "Bus", 
+            "Socialism", 
+            "District", 
+            "Tax", 
+            "Corporation", 
+            "Bus", 
+            "Highway", 
+            "Nancy", 
+            "Farce", 
+            "Debt", 
+            "Unemployment", 
+            "Dictator", 
+            "Vomiting", 
+            "Job_control_(Unix)", 
+            "Liberty", 
+            "Socialism", 
+            "Elis", 
+            "Socialism", 
+            "United_States", 
+            "Metre", 
+            "Barack_Obama", 
+            "Iraq", 
+            "Liberty_(goddess)", 
+            "Thought", 
+            "American_International_Group", 
+            "Bank", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Snake", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Treasury", 
+            "Public_Broadcasting_Service"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nerds_(candy)", 
+            "Coach_(sport)", 
+            "Revenge", 
+            "Sportsperson"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Grape"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Socialism", 
+            "American_International_Group", 
+            "Elitism", 
+            "Spin_(physics)", 
+            "Pony", 
+            "Munchies", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Transparency_(optics)", 
+            "Little_people", 
+            "Demographics", 
+            "American_International_Group", 
+            "Kool-Aid"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Sheeple", 
+            "Panama_Canal_Zone", 
+            "Panama_Canal", 
+            "Heat", 
+            "United_States_Army", 
+            "Panama_Canal_Zone", 
+            "United_States", 
+            "193rd_Infantry_Brigade_(United_States)", 
+            "Warriors", 
+            "Infantry", 
+            "Panama", 
+            "United_States_Army", 
+            "Jungle"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bump_(Internet)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bipartisanship", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Bipartisanship", 
+            "Partisan_(military)", 
+            "Greed"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Okie", 
+            "Bipartisanship", 
+            "Democratic_Party_(United_States)", 
+            "Greed"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "WISE", 
+            "Brainwashed_(album)", 
+            "Pipe_(material)", 
+            "Recession", 
+            "Economics", 
+            "Deficit_spending", 
+            "Sheeple"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Debt", 
+            "Richard_Nixon", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)", 
+            "Xenophobia", 
+            "Stimulus_(physiology)", 
+            "Ronald_Reagan", 
+            "Republican_Party_(United_States)", 
+            "Savings_and_loan_crisis", 
+            "Savings_and_loan_association", 
+            "Government_debt", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Government_debt", 
+            "Richard_Nixon", 
+            "Debt", 
+            "Anti-Americanism", 
+            "Ronald_Reagan", 
+            "Crisis_on_Infinite_Earths", 
+            "1973_oil_crisis", 
+            "Ronald_Reagan", 
+            "Republican_Party_(United_States)", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Wing", 
+            "College", 
+            "Ad_hominem", 
+            "Hello", 
+            "Right-wing_politics", 
+            "Noise", 
+            "Canard_(aeronautics)", 
+            "Television", 
+            "Republicanism", 
+            "Darwin_Awards", 
+            "Recruiter", 
+            "Charles_Darwin", 
+            "Constitution", 
+            "Plagiarism", 
+            "Lunatic", 
+            "Television", 
+            "Television", 
+            "Mother_insult", 
+            "Hell", 
+            "Payroll", 
+            "Catch_phrase", 
+            "World_History", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Sheeple"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Bush_family"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Liberalism_in_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter", 
+            "Richard_Nixon", 
+            "Tarpaulin", 
+            "Carbon", 
+            "Confidence_trick", 
+            "Millionaires", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)", 
+            "Thread_(computer_science)", 
+            "Energy_policy_of_the_United_Kingdom", 
+            "Ronald_Reagan", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Divine_grace", 
+            "United_States", 
+            "Military-industrial_complex", 
+            "Emissions_trading", 
+            "Billionaire", 
+            "Millionaires", 
+            "Barack_Obama", 
+            "Unemployment", 
+            "Carbon", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Skippy_(1931_film)", 
+            "Rhetoric"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan", 
+            "Chair_(official)", 
+            "Citizenship", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Economy", 
+            "Rush_(band)", 
+            "Ronald_Reagan", 
+            "Democratic_Party_(United_States)", 
+            "Michael_S._Steele", 
+            "Rush_Limbaugh", 
+            "Economic_history", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Cliff", 
+            "Marxism", 
+            "Barack_Obama", 
+            "Marx's_theory_of_alienation", 
+            "Tree"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Accountant", 
+            "Thomas_Jefferson", 
+            "Pay_to_Play", 
+            "Reform_Act_1832", 
+            "Reform_Party_of_Canada", 
+            "Bill_Clinton", 
+            "1996", 
+            "Coalition_government", 
+            "Veto", 
+            "Christopher_Dodd", 
+            "Economy", 
+            "United_States", 
+            "Private_Securities_Litigation_Reform_Act", 
+            "1995", 
+            "United_States_Senate", 
+            "Class_action", 
+            "United_States_Congress", 
+            "Liability", 
+            "Security_(finance)", 
+            "Democratic_Party_(United_States)", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Corporation", 
+            "Certified_Public_Accountant", 
+            "Democratic_Party_(United_States)", 
+            "Barney_Gumble", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Securities_regulation_in_the_United_States", 
+            "Security_(finance)", 
+            "Christopher_Dodd", 
+            "William_J._Jefferson", 
+            "Reform_Party_of_Canada", 
+            "Barney_Gumble", 
+            "Bill_Clinton", 
+            "Refrigerator", 
+            "Reform_Act", 
+            "Legislation", 
+            "Coalition", 
+            "Bill_Clinton", 
+            "Jail", 
+            "Standard_gravity", 
+            "Arthur_Levitt", 
+            "Federal_Bureau_of_Investigation", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Money_(magazine)", 
+            "United_States_Senate", 
+            "Bill_Clinton", 
+            "Security_(finance)", 
+            "American_Institute_of_Certified_Public_Accountants", 
+            "Heres_Municipality", 
+            "Harbor", 
+            "Accountancy", 
+            "Ronald_Reagan", 
+            "Certified_Public_Accountant", 
+            "Certified_Public_Accountant", 
+            "Security_(finance)", 
+            "United_States_Senate", 
+            "Veto", 
+            "U.S._state", 
+            "Class_action", 
+            "Certified_Public_Accountant", 
+            "Clan", 
+            "President_of_the_United_States", 
+            "U.S._Securities_and_Exchange_Commission", 
+            "Lawsuit", 
+            "White_House", 
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Underwriting", 
+            "Veto", 
+            "Veto", 
+            "Chair_(official)", 
+            "Bill_Clinton", 
+            "Safe_harbor", 
+            "American_Institute_of_Certified_Public_Accountants", 
+            "Security_(finance)", 
+            "Security_(finance)", 
+            "Arthur_(TV_series)", 
+            "Freddie", 
+            "Certified_Public_Accountant", 
+            "Lawsuit", 
+            "Franks", 
+            "Damages", 
+            "Shield", 
+            "181", 
+            "Thomas_Jefferson", 
+            "U.S._Securities_and_Exchange_Commission"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Doom_metal", 
+            "Al_Capp", 
+            "Glass_Onion", 
+            "Mammy_archetype", 
+            "Onion"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Rush_(band)", 
+            "Abortion", 
+            "State", 
+            "State_religion", 
+            "Cell_(biology)", 
+            "Christianity"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Boss_(video_games)", 
+            "Socialism", 
+            "Jack_(device)", 
+            "Bread", 
+            "Socialism", 
+            "Satellite", 
+            "Lego", 
+            "Historical_exchange_rates_of_Argentine_currency", 
+            "Fantasy", 
+            "Colin_Powell", 
+            "Barack_Obama", 
+            "Void_type", 
+            "McDonald's", 
+            "Happy_Meal", 
+            "College", 
+            "Seasonal_affective_disorder", 
+            "Liberalism", 
+            "Education", 
+            "George_W._Bush", 
+            "Boss_(video_games)", 
+            "Boss_(video_games)", 
+            "Bone", 
+            "Soviet_Union", 
+            "Brain", 
+            "Inventory", 
+            "Barack_Obama", 
+            "Sorry_(Madonna_song)", 
+            "Loss_leader", 
+            "Spin_(magazine)", 
+            "College", 
+            "Higher_education", 
+            "Dude", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Glass_Onion"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Shepherd", 
+            "Jonestown", 
+            "Kool-Aid"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Manufacturing", 
+            "Europe", 
+            "Spoons", 
+            "United_States_dollar", 
+            "Census", 
+            "Bill_Clinton", 
+            "Hell", 
+            "Socialism", 
+            "Socialism", 
+            "Progressivism", 
+            "Soup", 
+            "George_W._Bush", 
+            "Hell", 
+            "Bus", 
+            "Socialism", 
+            "District", 
+            "Tax", 
+            "Corporation", 
+            "Bus", 
+            "Highway", 
+            "Nancy", 
+            "Farce", 
+            "Debt", 
+            "Unemployment", 
+            "Dictator", 
+            "Vomiting", 
+            "Job_control_(Unix)", 
+            "Liberty", 
+            "Socialism", 
+            "Elis", 
+            "Socialism", 
+            "United_States", 
+            "Metre", 
+            "Barack_Obama", 
+            "Iraq", 
+            "Liberty_(goddess)", 
+            "Thought", 
+            "American_International_Group", 
+            "Bank", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Snake", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Treasury", 
+            "Public_Broadcasting_Service"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Nerds_(candy)", 
+            "Coach_(sport)", 
+            "Revenge", 
+            "Sportsperson"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Grape"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Socialism", 
+            "American_International_Group", 
+            "Elitism", 
+            "Spin_(physics)", 
+            "Pony", 
+            "Munchies", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Transparency_(optics)", 
+            "Little_people", 
+            "Demographics", 
+            "American_International_Group", 
+            "Kool-Aid"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Sheeple", 
+            "Panama_Canal_Zone", 
+            "Panama_Canal", 
+            "Heat", 
+            "United_States_Army", 
+            "Panama_Canal_Zone", 
+            "United_States", 
+            "193rd_Infantry_Brigade_(United_States)", 
+            "Warriors", 
+            "Infantry", 
+            "Panama", 
+            "United_States_Army", 
+            "Jungle"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bump_(Internet)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Bipartisanship", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Bipartisanship", 
+            "Partisan_(military)", 
+            "Greed"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Okie", 
+            "Bipartisanship", 
+            "Democratic_Party_(United_States)", 
+            "Greed"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "WISE", 
+            "Brainwashed_(album)", 
+            "Pipe_(material)", 
+            "Recession", 
+            "Economics", 
+            "Deficit_spending", 
+            "Sheeple"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Debt", 
+            "Richard_Nixon", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)", 
+            "Xenophobia", 
+            "Stimulus_(physiology)", 
+            "Ronald_Reagan", 
+            "Republican_Party_(United_States)", 
+            "Savings_and_loan_crisis", 
+            "Savings_and_loan_association", 
+            "Government_debt", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Government_debt", 
+            "Richard_Nixon", 
+            "Debt", 
+            "Anti-Americanism", 
+            "Ronald_Reagan", 
+            "Crisis_on_Infinite_Earths", 
+            "1973_oil_crisis", 
+            "Ronald_Reagan", 
+            "Republican_Party_(United_States)", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Wing", 
+            "College", 
+            "Ad_hominem", 
+            "Hello", 
+            "Right-wing_politics", 
+            "Noise", 
+            "Canard_(aeronautics)", 
+            "Television", 
+            "Republicanism", 
+            "Darwin_Awards", 
+            "Recruiter", 
+            "Charles_Darwin", 
+            "Constitution", 
+            "Plagiarism", 
+            "Lunatic", 
+            "Television", 
+            "Television", 
+            "Mother_insult", 
+            "Hell", 
+            "Payroll", 
+            "Catch_phrase", 
+            "World_History", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Sheeple"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Bush_family"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Liberalism_in_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter", 
+            "Richard_Nixon", 
+            "Tarpaulin", 
+            "Carbon", 
+            "Confidence_trick", 
+            "Millionaires", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)", 
+            "Thread_(computer_science)", 
+            "Energy_policy_of_the_United_Kingdom", 
+            "Ronald_Reagan", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Divine_grace", 
+            "United_States", 
+            "Military-industrial_complex", 
+            "Emissions_trading", 
+            "Billionaire", 
+            "Millionaires", 
+            "Barack_Obama", 
+            "Unemployment", 
+            "Carbon", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Skippy_(1931_film)", 
+            "Rhetoric"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan", 
+            "Chair_(official)", 
+            "Citizenship", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Economy", 
+            "Rush_(band)", 
+            "Ronald_Reagan", 
+            "Democratic_Party_(United_States)", 
+            "Michael_S._Steele", 
+            "Rush_Limbaugh", 
+            "Economic_history", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Cliff", 
+            "Marxism", 
+            "Barack_Obama", 
+            "Marx's_theory_of_alienation", 
+            "Tree"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Accountant", 
+            "Thomas_Jefferson", 
+            "Pay_to_Play", 
+            "Reform_Act_1832", 
+            "Reform_Party_of_Canada", 
+            "Bill_Clinton", 
+            "1996", 
+            "Coalition_government", 
+            "Veto", 
+            "Christopher_Dodd", 
+            "Economy", 
+            "United_States", 
+            "Private_Securities_Litigation_Reform_Act", 
+            "1995", 
+            "United_States_Senate", 
+            "Class_action", 
+            "United_States_Congress", 
+            "Liability", 
+            "Security_(finance)", 
+            "Democratic_Party_(United_States)", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Corporation", 
+            "Certified_Public_Accountant", 
+            "Democratic_Party_(United_States)", 
+            "Barney_Gumble", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Securities_regulation_in_the_United_States", 
+            "Security_(finance)", 
+            "Christopher_Dodd", 
+            "William_J._Jefferson", 
+            "Reform_Party_of_Canada", 
+            "Barney_Gumble", 
+            "Bill_Clinton", 
+            "Refrigerator", 
+            "Reform_Act", 
+            "Legislation", 
+            "Coalition", 
+            "Bill_Clinton", 
+            "Jail", 
+            "Standard_gravity", 
+            "Arthur_Levitt", 
+            "Federal_Bureau_of_Investigation", 
+            "Barney_Gumble", 
+            "Criminal_law", 
+            "Money_(magazine)", 
+            "United_States_Senate", 
+            "Bill_Clinton", 
+            "Security_(finance)", 
+            "American_Institute_of_Certified_Public_Accountants", 
+            "Heres_Municipality", 
+            "Harbor", 
+            "Accountancy", 
+            "Ronald_Reagan", 
+            "Certified_Public_Accountant", 
+            "Certified_Public_Accountant", 
+            "Security_(finance)", 
+            "United_States_Senate", 
+            "Veto", 
+            "U.S._state", 
+            "Class_action", 
+            "Certified_Public_Accountant", 
+            "Clan", 
+            "President_of_the_United_States", 
+            "U.S._Securities_and_Exchange_Commission", 
+            "Lawsuit", 
+            "White_House", 
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Underwriting", 
+            "Veto", 
+            "Veto", 
+            "Chair_(official)", 
+            "Bill_Clinton", 
+            "Safe_harbor", 
+            "American_Institute_of_Certified_Public_Accountants", 
+            "Security_(finance)", 
+            "Security_(finance)", 
+            "Arthur_(TV_series)", 
+            "Freddie", 
+            "Certified_Public_Accountant", 
+            "Lawsuit", 
+            "Franks", 
+            "Damages", 
+            "Shield", 
+            "181", 
+            "Thomas_Jefferson", 
+            "U.S._Securities_and_Exchange_Commission"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Doom_metal", 
+            "Al_Capp", 
+            "Glass_Onion", 
+            "Mammy_archetype", 
+            "Onion"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Rush_(band)", 
+            "Abortion", 
+            "State", 
+            "State_religion", 
+            "Cell_(biology)", 
+            "Christianity"
+        ], 
+        "postID": 58
+    }
+]

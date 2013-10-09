@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "Medvedev", 
+            "Russia", 
+            "Dmitry_Medvedev", 
+            "Silvio_Berlusconi"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Charles_Barkley", 
+            "Chucky_(Child's_Play)", 
+            "Used_car", 
+            "Charles_Barkley", 
+            "College_basketball", 
+            "John_Locke", 
+            "College", 
+            "Medvedev", 
+            "Automobile_salesperson", 
+            "Gary_Locke_(politician)", 
+            "Washington", 
+            "Governor", 
+            "Automobile_salesperson", 
+            "President_of_the_United_States", 
+            "Basketball", 
+            "Leigh_Hart", 
+            "Dick_Vitale", 
+            "John_Locke"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "T-shirt", 
+            "Jeans", 
+            "Dude"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Medvedev", 
+            "Goethe_Basin", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Eastern_Front_(World_War_II)", 
+            "Russia"
+        ], 
+        "postID": 5
+    }
+]

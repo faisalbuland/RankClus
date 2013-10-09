@@ -1,0 +1,150 @@
+[
+    {
+        "entity": [
+            "Economic_system", 
+            "Toilet", 
+            "Barack_Obama", 
+            "Economic_system"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Republican_Party_(United_States)", 
+            "Insurance", 
+            "Global_warming", 
+            "Detroit,_Michigan", 
+            "Eye", 
+            "Automotive_industry", 
+            "Stimulus_(physiology)", 
+            "Insurance"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Harvard_University", 
+            "Boys_Club"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bail", 
+            "January_20", 
+            "Barack_Obama", 
+            "Gas", 
+            "George_W._Bush", 
+            "Economy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Automotive_industry", 
+            "Trade_union", 
+            "White_House", 
+            "Democratic_Party_(United_States)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Socialism", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_Federation_of_Teachers", 
+            "Democratic_Party_(United_States)", 
+            "Washington", 
+            "Education", 
+            "United_States", 
+            "Washington"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Honesty"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Fannie_Mae", 
+            "Mae", 
+            "Barney_Gumble", 
+            "Freddie", 
+            "Bill_Clinton", 
+            "Macintosh", 
+            "Economy", 
+            "Christopher_Dodd", 
+            "Freddie_Mac", 
+            "Barney_Frank", 
+            "Bill_Clinton", 
+            "Jimmy_Carter", 
+            "Jimmy_Carter", 
+            "Barack_Obama", 
+            "Shoe"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Deficit", 
+            "Government_debt", 
+            "Government_debt", 
+            "Ronald_Reagan", 
+            "United_States", 
+            "Ronald_Reagan", 
+            "Deficit", 
+            "Government_debt", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 15
+    }
+]

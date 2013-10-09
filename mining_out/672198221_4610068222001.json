@@ -1,0 +1,612 @@
+[
+    {
+        "entity": [
+            "Science", 
+            "Job_creation_program", 
+            "Mathematics", 
+            "Presidency_of_George_W._Bush", 
+            "United_States", 
+            "Private_sector", 
+            "Science", 
+            "George_W._Bush", 
+            "The_Global_Economy", 
+            "2004", 
+            "21st_century", 
+            "Community_college", 
+            "High_school", 
+            "United_States", 
+            "United_States", 
+            "Economy", 
+            "High_school", 
+            "High_school_football", 
+            "High_school", 
+            "Unemployment", 
+            "John_McCain", 
+            "Economy", 
+            "Mathematics", 
+            "Applause_(musical)", 
+            "Community_college", 
+            "President_of_the_United_States", 
+            "Employment", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "Economy", 
+            "College", 
+            "Mathematics", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Advanced_Placement_Program", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "High_school"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "GI_(military)", 
+            "G.I._Bill"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "40th_Canadian_federal_election", 
+            "Unemployment", 
+            "United_States", 
+            "Yea,_Victoria", 
+            "Cordillera_Administrative_Region", 
+            "Barack_Obama", 
+            "Chrysler", 
+            "Mexico", 
+            "LOT_Polish_Airlines", 
+            "Unemployment", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Entitlement", 
+            "Democratic_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Entitlement"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Hypocrisy", 
+            "Joseph_Stalin", 
+            "Politician", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Fantasy_(psychology)", 
+            "Barack_Obama", 
+            "Utopia", 
+            "George_W._Bush", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Garden_strawberry", 
+            "Boiler", 
+            "Hamburger", 
+            "Lettuce", 
+            "College", 
+            "Education"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "High_school_diploma", 
+            "Sorry_(Madonna_song)", 
+            "Education", 
+            "Barack_Obama", 
+            "Unemployment", 
+            "President_of_the_United_States", 
+            "Diploma", 
+            "Joseph_Stalin", 
+            "Economy", 
+            "Barack_Obama", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Tumor", 
+            "Gene", 
+            "United_States", 
+            "Curve", 
+            "Major_depressive_disorder", 
+            "Diagnosis", 
+            "Social_mobility", 
+            "Population", 
+            "Brain_tumor", 
+            "Bipolar_disorder", 
+            "Military_of_the_United_States", 
+            "Mania", 
+            "Brain"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "Fortune_500", 
+            "Fortune_(magazine)", 
+            "North_America"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Social_liberalism", 
+            "Liberalism_in_the_United_States", 
+            "Liberalism_in_the_United_States", 
+            "Tax", 
+            "Boondoggle_(project)", 
+            "Cat"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "1895", 
+            "Tax", 
+            "Liberalism", 
+            "Rates_(tax)", 
+            "Supreme_Court_of_the_United_States", 
+            "President_of_the_United_States", 
+            "1913", 
+            "Republican_Party_(United_States)", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Jennings,_Louisiana", 
+            "Progressive_tax", 
+            "1862", 
+            "American_Civil_War", 
+            "Tax", 
+            "Democracy", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Supreme_Court_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Tax", 
+            "Law", 
+            "United_States", 
+            "Supreme_Court_of_the_United_States", 
+            "Income_tax", 
+            "Income_tax", 
+            "Tax", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "Income_tax", 
+            "William_Jennings_Bryan", 
+            "United_States_Constitution", 
+            "Judge", 
+            "Tax", 
+            "Gorham,_New_Hampshire", 
+            "President_of_the_United_States", 
+            "Arthur_(TV_series)", 
+            "Democratic_Party_(United_States)", 
+            "Gold", 
+            "Law", 
+            "William_Wilson_(Ohio_politician)", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Republican_Party_(United_States)", 
+            "William_Howard_Taft", 
+            "Judge", 
+            "Tariff", 
+            "1861", 
+            "Tax", 
+            "Justice", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "United_States_presidential_election,_1896", 
+            "Tax", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Income_tax", 
+            "Income_tax", 
+            "Income_tax", 
+            "1894", 
+            "Tax", 
+            "United_States_Senate", 
+            "William_Howard_Taft", 
+            "William_Jennings_Bryan", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "Republican_Party_(United_States)", 
+            "1866", 
+            "William_Sherman_Jennings"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Liberal_Party_of_Canada", 
+            "Tax"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Income_tax", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "Tax"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Liberal_Party_(UK)", 
+            "Country_music", 
+            "Standard_Oil", 
+            "Income_tax", 
+            "Novel", 
+            "Liberal_Party_(UK)", 
+            "Income_tax", 
+            "Classical_liberalism", 
+            "Liberalism", 
+            "Liberal_Party_(UK)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "Job_creation_program", 
+            "Mathematics", 
+            "Presidency_of_George_W._Bush", 
+            "United_States", 
+            "Private_sector", 
+            "Science", 
+            "George_W._Bush", 
+            "The_Global_Economy", 
+            "2004", 
+            "21st_century", 
+            "Community_college", 
+            "High_school", 
+            "United_States", 
+            "United_States", 
+            "Economy", 
+            "High_school", 
+            "High_school_football", 
+            "High_school", 
+            "Unemployment", 
+            "John_McCain", 
+            "Economy", 
+            "Mathematics", 
+            "Applause_(musical)", 
+            "Community_college", 
+            "President_of_the_United_States", 
+            "Employment", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "Economy", 
+            "College", 
+            "Mathematics", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Advanced_Placement_Program", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "High_school"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "GI_(military)", 
+            "G.I._Bill"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "40th_Canadian_federal_election", 
+            "Unemployment", 
+            "United_States", 
+            "Yea,_Victoria", 
+            "Cordillera_Administrative_Region", 
+            "Barack_Obama", 
+            "Chrysler", 
+            "Mexico", 
+            "LOT_Polish_Airlines", 
+            "Unemployment", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Entitlement", 
+            "Democratic_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Entitlement"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Hypocrisy", 
+            "Joseph_Stalin", 
+            "Politician", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Fantasy_(psychology)", 
+            "Barack_Obama", 
+            "Utopia", 
+            "George_W._Bush", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Garden_strawberry", 
+            "Boiler", 
+            "Hamburger", 
+            "Lettuce", 
+            "College", 
+            "Education"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "High_school_diploma", 
+            "Sorry_(Madonna_song)", 
+            "Education", 
+            "Barack_Obama", 
+            "Unemployment", 
+            "President_of_the_United_States", 
+            "Diploma", 
+            "Joseph_Stalin", 
+            "Economy", 
+            "Barack_Obama", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Tumor", 
+            "Gene", 
+            "United_States", 
+            "Curve", 
+            "Major_depressive_disorder", 
+            "Diagnosis", 
+            "Social_mobility", 
+            "Population", 
+            "Brain_tumor", 
+            "Bipolar_disorder", 
+            "Military_of_the_United_States", 
+            "Mania", 
+            "Brain"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "Fortune_500", 
+            "Fortune_(magazine)", 
+            "North_America"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Social_liberalism", 
+            "Liberalism_in_the_United_States", 
+            "Liberalism_in_the_United_States", 
+            "Tax", 
+            "Boondoggle_(project)", 
+            "Cat"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "1895", 
+            "Tax", 
+            "Liberalism", 
+            "Rates_(tax)", 
+            "Supreme_Court_of_the_United_States", 
+            "President_of_the_United_States", 
+            "1913", 
+            "Republican_Party_(United_States)", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Jennings,_Louisiana", 
+            "Progressive_tax", 
+            "1862", 
+            "American_Civil_War", 
+            "Tax", 
+            "Democracy", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Supreme_Court_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Tax", 
+            "Law", 
+            "United_States", 
+            "Supreme_Court_of_the_United_States", 
+            "Income_tax", 
+            "Income_tax", 
+            "Tax", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "Income_tax", 
+            "William_Jennings_Bryan", 
+            "United_States_Constitution", 
+            "Judge", 
+            "Tax", 
+            "Gorham,_New_Hampshire", 
+            "President_of_the_United_States", 
+            "Arthur_(TV_series)", 
+            "Democratic_Party_(United_States)", 
+            "Gold", 
+            "Law", 
+            "William_Wilson_(Ohio_politician)", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Republican_Party_(United_States)", 
+            "William_Howard_Taft", 
+            "Judge", 
+            "Tariff", 
+            "1861", 
+            "Tax", 
+            "Justice", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "United_States_presidential_election,_1896", 
+            "Tax", 
+            "Sixteenth_Amendment_to_the_United_States_Constitution", 
+            "Income_tax", 
+            "Income_tax", 
+            "Income_tax", 
+            "1894", 
+            "Tax", 
+            "United_States_Senate", 
+            "William_Howard_Taft", 
+            "William_Jennings_Bryan", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "Republican_Party_(United_States)", 
+            "1866", 
+            "William_Sherman_Jennings"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Liberal_Party_of_Canada", 
+            "Tax"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Income_tax", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "Tax"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Liberal_Party_(UK)", 
+            "Country_music", 
+            "Standard_Oil", 
+            "Income_tax", 
+            "Novel", 
+            "Liberal_Party_(UK)", 
+            "Income_tax", 
+            "Classical_liberalism", 
+            "Liberalism", 
+            "Liberal_Party_(UK)"
+        ], 
+        "postID": 40
+    }
+]

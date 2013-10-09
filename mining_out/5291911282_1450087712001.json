@@ -1,0 +1,103 @@
+[
+    {
+        "entity": [
+            "Apartment_building", 
+            "Finance_lease", 
+            "Finance_lease", 
+            "Leasing", 
+            "Condominium", 
+            "Florida", 
+            "Statute", 
+            "Apartment_building", 
+            "Leasing", 
+            "Condominium", 
+            "College", 
+            "Florida", 
+            "Statute"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Lease", 
+            "One_Heart"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Platoon"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Duck", 
+            "God", 
+            "Soldier"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Renting", 
+            "Manager_(baseball)", 
+            "Condominium", 
+            "Condominium"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Condominium", 
+            "States_and_territories_of_India", 
+            "Renting", 
+            "Condominium", 
+            "Renting"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "MGR", 
+            "Leasehold_estate", 
+            "Landlord", 
+            "Lease", 
+            "FYI", 
+            "Leasehold_estate", 
+            "Campbell,_California", 
+            "College", 
+            "Good_Luck", 
+            "Lease"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Lease"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 11
+    }
+]

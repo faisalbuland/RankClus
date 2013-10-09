@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Populism", 
+            "Interest", 
+            "Credit_card", 
+            "Crest_(heraldry)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Late_fee", 
+            "The_Home_Depot", 
+            "Vinegar", 
+            "Late_fee", 
+            "The_Home_Depot"
+        ], 
+        "postID": 2
+    }
+]

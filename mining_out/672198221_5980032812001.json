@@ -1,0 +1,79 @@
+[
+    {
+        "entity": [
+            "Tax", 
+            "Status_Quo", 
+            "Debt", 
+            "Bond_(finance)", 
+            "Printing", 
+            "Printing_press", 
+            "China", 
+            "United_States_Department_of_the_Treasury", 
+            "Treasury", 
+            "Economy", 
+            "USA_Today", 
+            "United_States", 
+            "Bond_(finance)", 
+            "Stock_market", 
+            "Bankruptcy", 
+            "Bond_(finance)", 
+            "Hook_(music)", 
+            "Wheelbarrow", 
+            "United_States_dollar", 
+            "7", 
+            "Zimbabwe", 
+            "Ink", 
+            "Stock_market", 
+            "United_States", 
+            "Fiscal_policy", 
+            "United_States_dollar", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Battle_of_Gettysburg", 
+            "Sickles_High_School"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Public_house", 
+            "Hook_(film)", 
+            "Red_Hook,_Brooklyn", 
+            "Electricity_Supply_Board"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sl\u00e0inte"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Red_Hook,_Brooklyn", 
+            "Bass_guitar", 
+            "Hook_(film)", 
+            "Ale", 
+            "Bass_Brewery"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Davy_Jones_(actor)", 
+            "Public_house", 
+            "Bass_Brewery", 
+            "England", 
+            "Bass_guitar", 
+            "Ale", 
+            "Public_house", 
+            "Experimental_Prototype_Community_of_Tomorrow_(concept)"
+        ], 
+        "postID": 6
+    }
+]

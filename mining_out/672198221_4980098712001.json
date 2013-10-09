@@ -1,0 +1,124 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Fault_(geology)", 
+            "Colorado", 
+            "Ritter", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Economy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Free_school_meal", 
+            "Free_school", 
+            "Layoff"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Mexico", 
+            "English_language", 
+            "United_States", 
+            "Citizenship", 
+            "Mexico", 
+            "Fault_(geology)", 
+            "Education", 
+            "Administration_of_federal_assistance_in_the_United_States", 
+            "University", 
+            "Academic_degree", 
+            "Spanish_language", 
+            "College"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "!!!"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "Twelfth_grade", 
+            "Bleeding", 
+            "Dicentra", 
+            "Governor", 
+            "Heck", 
+            "ITN", 
+            "Mexico", 
+            "Colorado", 
+            "Woodworking", 
+            "El_Paso,_Texas", 
+            "Thread_(computer_science)", 
+            "Ciudad_Ju\u00e1rez"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "United_States", 
+            "District_11_(Z\u00fcrich)", 
+            "District", 
+            "Law"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Social_Security_number", 
+            "Medicare_(United_States)", 
+            "Property_tax"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "High_school"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Right_of_asylum", 
+            "2002", 
+            "Visa_(document)", 
+            "Armenia"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Utah", 
+            "Tax", 
+            "England", 
+            "Foreign_exchange_market", 
+            "Town", 
+            "Student_exchange_program"
+        ], 
+        "postID": 13
+    }
+]

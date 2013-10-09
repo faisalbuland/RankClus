@@ -1,0 +1,408 @@
+[
+    {
+        "entity": [
+            "Physician", 
+            "Eye", 
+            "Gas_chamber", 
+            "Gas", 
+            "Air_force"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Air_force", 
+            "Electronics", 
+            "Scope_(British_charity)", 
+            "Aviator", 
+            "Air_force", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Radar", 
+            "Depend", 
+            "25", 
+            "Glitch", 
+            "Radar", 
+            "Glasses", 
+            "Eye", 
+            "Eye", 
+            "Welding", 
+            "Police", 
+            "Glasses", 
+            "Freeway", 
+            "Electronic_music", 
+            "Electronics", 
+            "Dust", 
+            "Electrolysis", 
+            "30", 
+            "Lens_(optics)", 
+            "Radar_Scope"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Regulation", 
+            "Eye", 
+            "One_Heart", 
+            "Monocle"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Tank"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Association_football", 
+            "Boot_camp"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Rhyme", 
+            "Optometry"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "M16_rifle", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Army", 
+            "Internal_affairs", 
+            "United_States_Army_Rangers", 
+            "Sergeant", 
+            "Breast"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Rifle", 
+            "!!!", 
+            "Stock_(firearm)", 
+            "Mattel", 
+            "Platoon_(film)", 
+            "M16_rifle", 
+            "M16_rifle", 
+            "Bayonet"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Desert", 
+            "Vietnam", 
+            "Regulation", 
+            "M14_rifle", 
+            "M16_rifle", 
+            "Perspiration", 
+            "United_States_Army", 
+            "Iraq", 
+            "Polk_County,_Florida", 
+            "Nose", 
+            "1969"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "1969", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "World_War_II", 
+            "M14_rifle", 
+            "M1_Garand_rifle", 
+            "Korean_War"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Gas_chamber", 
+            "Gas"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Boss_(video_games)", 
+            "SWAT", 
+            "Boss_(video_games)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Gulf_War", 
+            "Chemical_warfare", 
+            "Wind", 
+            "Storm_(Marvel_Comics)", 
+            "April_25", 
+            "Saddam_Hussein", 
+            "United_States_House_of_Representatives", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "Exhibition_game", 
+            "Press_up", 
+            "Marches", 
+            "Wind"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "SSN_(hull_classification_symbol)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Eye", 
+            "Gas_chamber", 
+            "Gas", 
+            "Air_force"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Air_force", 
+            "Electronics", 
+            "Scope_(British_charity)", 
+            "Aviator", 
+            "Air_force", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Radar", 
+            "Depend", 
+            "25", 
+            "Glitch", 
+            "Radar", 
+            "Glasses", 
+            "Eye", 
+            "Eye", 
+            "Welding", 
+            "Police", 
+            "Glasses", 
+            "Freeway", 
+            "Electronic_music", 
+            "Electronics", 
+            "Dust", 
+            "Electrolysis", 
+            "30", 
+            "Lens_(optics)", 
+            "Radar_Scope"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Regulation", 
+            "Eye", 
+            "One_Heart", 
+            "Monocle"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Tank"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Association_football", 
+            "Boot_camp"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Rhyme", 
+            "Optometry"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "M16_rifle", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Army", 
+            "Internal_affairs", 
+            "United_States_Army_Rangers", 
+            "Sergeant", 
+            "Breast"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Rifle", 
+            "!!!", 
+            "Stock_(firearm)", 
+            "Mattel", 
+            "Platoon_(film)", 
+            "M16_rifle", 
+            "M16_rifle", 
+            "Bayonet"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Desert", 
+            "Vietnam", 
+            "Regulation", 
+            "M14_rifle", 
+            "M16_rifle", 
+            "Perspiration", 
+            "United_States_Army", 
+            "Iraq", 
+            "Polk_County,_Florida", 
+            "Nose", 
+            "1969"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "1969", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "World_War_II", 
+            "M14_rifle", 
+            "M1_Garand_rifle", 
+            "Korean_War"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Gas_chamber", 
+            "Gas"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Boss_(video_games)", 
+            "SWAT", 
+            "Boss_(video_games)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Gulf_War", 
+            "Chemical_warfare", 
+            "Wind", 
+            "Storm_(Marvel_Comics)", 
+            "April_25", 
+            "Saddam_Hussein", 
+            "United_States_House_of_Representatives", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "Exhibition_game", 
+            "Press_up", 
+            "Marches", 
+            "Wind"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "SSN_(hull_classification_symbol)"
+        ], 
+        "postID": 40
+    }
+]

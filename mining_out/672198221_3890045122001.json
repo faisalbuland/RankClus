@@ -1,0 +1,106 @@
+[
+    {
+        "entity": [
+            "Lever", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Insurgency", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Treadmill", 
+            "Armour", 
+            "Personal_protective_equipment", 
+            "Washington,_D.C.", 
+            "Infantry", 
+            "United_States_Marine_Corps", 
+            "Ballistic_vest", 
+            "Ballistic_vest", 
+            "Armour", 
+            "Armour", 
+            "United_States_Marine_Corps", 
+            "Lieutenant_Colonel", 
+            "Personal_protective_equipment", 
+            "Foot_(length)", 
+            "Tom_Wood", 
+            "Ballistic_vest", 
+            "Lieutenant", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "United_States_Marine_Corps", 
+            "Armour"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Iraq", 
+            "Armour", 
+            "United_States_Marine_Corps", 
+            "Bosnia_and_Herzegovina", 
+            "Model_(person)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Velcro", 
+            "United_States_Army"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Soldier", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Medic", 
+            "Leash"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Athletic_shoe", 
+            "Taliban", 
+            "Armour"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Vietnam"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sandal_(footwear)", 
+            "Vietnamese_language"
+        ], 
+        "postID": 10
+    }
+]

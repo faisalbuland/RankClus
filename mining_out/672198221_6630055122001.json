@@ -1,0 +1,87 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "The_Pentagon", 
+            "United_States_Air_Force"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "KC-10_Extender", 
+            "Engine", 
+            "KC-135_Stratotanker", 
+            "KC-135_Stratotanker", 
+            "Wing", 
+            "Hampshire", 
+            "Wing", 
+            "Thread_(computer_science)", 
+            "Francis_Gladheim_Pease", 
+            "Altitude", 
+            "Pease_Air_Force_Base", 
+            "New_Hampshire", 
+            "Air_National_Guard", 
+            "Airport", 
+            "Engine"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Boeing_KC-767", 
+            "Airbus_A330_MRTT", 
+            "Airbus"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bombardier_CRJ200", 
+            "Regional_airliner", 
+            "E170", 
+            "Bombardier_Aerospace", 
+            "Fixed-wing_aircraft", 
+            "Embraer_ERJ_145_family", 
+            "Manufacturing", 
+            "Fuel_economy_in_automobiles", 
+            "Ecological_niche"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "South_America", 
+            "Jock_(athlete)", 
+            "United_States", 
+            "United_States_Air_Force", 
+            "Sponge", 
+            "Bullet"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bird", 
+            "Russian_language", 
+            "Chavez_(band)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Ecological_niche", 
+            "Aircraft", 
+            "Bombardier_Aerospace", 
+            "Aerospace_manufacturer", 
+            "Embraer"
+        ], 
+        "postID": 8
+    }
+]

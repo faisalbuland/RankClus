@@ -1,0 +1,922 @@
+[
+    {
+        "entity": [
+            "Cartel", 
+            "Demographics_of_Mexico", 
+            "Boarding_school", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Vein", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Mexico", 
+            "Tank", 
+            "Brigade", 
+            "Moola", 
+            "Mexico_City", 
+            "Hood_(comics)", 
+            "John_J._Pershing", 
+            "Time_(magazine)", 
+            "Mange"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Beehive_tomb", 
+            "One_Heart", 
+            "Canister_shot", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Post_Office_Stowage_Van"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Git_(software)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Capital_punishment", 
+            "Decapitation", 
+            "China", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "California", 
+            "National_Guard_of_the_United_States", 
+            "Mile", 
+            "Citizenship", 
+            "World_War_II", 
+            "Ammunition", 
+            "Bombing_range", 
+            "Inch", 
+            "Ordnance", 
+            "Mexico", 
+            "Inch", 
+            "Texas"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Dead_zone_(ecology)", 
+            "Time_(magazine)", 
+            "Illegal_drug_trade", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Improvised_explosive_device", 
+            "Mile", 
+            "Drug", 
+            "United_States", 
+            "Unmanned_aerial_vehicle", 
+            "Drug"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "United_States", 
+            "United_States", 
+            "Metal", 
+            "Millesimal_fineness", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "American_Revolution", 
+            "Dross", 
+            "Slag", 
+            "Slug", 
+            "1812", 
+            "Improvised_explosive_device", 
+            "Steel", 
+            "Gold", 
+            "U.S._state"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Sanity", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "NFL_Draft", 
+            "Afghanistan"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Demographics_of_Mexico", 
+            "Boarding_school", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Vein", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Mexico", 
+            "Tank", 
+            "Brigade", 
+            "Moola", 
+            "Mexico_City", 
+            "Hood_(comics)", 
+            "John_J._Pershing", 
+            "Time_(magazine)", 
+            "Mange"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Beehive_tomb", 
+            "One_Heart", 
+            "Canister_shot", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Post_Office_Stowage_Van"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Git_(software)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Capital_punishment", 
+            "Decapitation", 
+            "China", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "California", 
+            "National_Guard_of_the_United_States", 
+            "Mile", 
+            "Citizenship", 
+            "World_War_II", 
+            "Ammunition", 
+            "Bombing_range", 
+            "Inch", 
+            "Ordnance", 
+            "Mexico", 
+            "Inch", 
+            "Texas"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Dead_zone_(ecology)", 
+            "Time_(magazine)", 
+            "Illegal_drug_trade", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Improvised_explosive_device", 
+            "Mile", 
+            "Drug", 
+            "United_States", 
+            "Unmanned_aerial_vehicle", 
+            "Drug"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "United_States", 
+            "United_States", 
+            "Metal", 
+            "Millesimal_fineness", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "American_Revolution", 
+            "Dross", 
+            "Slag", 
+            "Slug", 
+            "1812", 
+            "Improvised_explosive_device", 
+            "Steel", 
+            "Gold", 
+            "U.S._state"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Sanity", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "NFL_Draft", 
+            "Afghanistan"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Demographics_of_Mexico", 
+            "Boarding_school", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Vein", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Mexico", 
+            "Tank", 
+            "Brigade", 
+            "Moola", 
+            "Mexico_City", 
+            "Hood_(comics)", 
+            "John_J._Pershing", 
+            "Time_(magazine)", 
+            "Mange"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Beehive_tomb", 
+            "One_Heart", 
+            "Canister_shot", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Post_Office_Stowage_Van"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Git_(software)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Capital_punishment", 
+            "Decapitation", 
+            "China", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "California", 
+            "National_Guard_of_the_United_States", 
+            "Mile", 
+            "Citizenship", 
+            "World_War_II", 
+            "Ammunition", 
+            "Bombing_range", 
+            "Inch", 
+            "Ordnance", 
+            "Mexico", 
+            "Inch", 
+            "Texas"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Dead_zone_(ecology)", 
+            "Time_(magazine)", 
+            "Illegal_drug_trade", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Improvised_explosive_device", 
+            "Mile", 
+            "Drug", 
+            "United_States", 
+            "Unmanned_aerial_vehicle", 
+            "Drug"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "United_States", 
+            "United_States", 
+            "Metal", 
+            "Millesimal_fineness", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "American_Revolution", 
+            "Dross", 
+            "Slag", 
+            "Slug", 
+            "1812", 
+            "Improvised_explosive_device", 
+            "Steel", 
+            "Gold", 
+            "U.S._state"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Sanity", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "NFL_Draft", 
+            "Afghanistan"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Demographics_of_Mexico", 
+            "Boarding_school", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Vein", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Mexico", 
+            "Tank", 
+            "Brigade", 
+            "Moola", 
+            "Mexico_City", 
+            "Hood_(comics)", 
+            "John_J._Pershing", 
+            "Time_(magazine)", 
+            "Mange"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Beehive_tomb", 
+            "One_Heart", 
+            "Canister_shot", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Post_Office_Stowage_Van"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Git_(software)"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Capital_punishment", 
+            "Decapitation", 
+            "China", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "California", 
+            "National_Guard_of_the_United_States", 
+            "Mile", 
+            "Citizenship", 
+            "World_War_II", 
+            "Ammunition", 
+            "Bombing_range", 
+            "Inch", 
+            "Ordnance", 
+            "Mexico", 
+            "Inch", 
+            "Texas"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Dead_zone_(ecology)", 
+            "Time_(magazine)", 
+            "Illegal_drug_trade", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Improvised_explosive_device", 
+            "Mile", 
+            "Drug", 
+            "United_States", 
+            "Unmanned_aerial_vehicle", 
+            "Drug"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "United_States", 
+            "United_States", 
+            "Metal", 
+            "Millesimal_fineness", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "American_Revolution", 
+            "Dross", 
+            "Slag", 
+            "Slug", 
+            "1812", 
+            "Improvised_explosive_device", 
+            "Steel", 
+            "Gold", 
+            "U.S._state"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Sanity", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "NFL_Draft", 
+            "Afghanistan"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Demographics_of_Mexico", 
+            "Boarding_school", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug_cartel"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Vein", 
+            "England", 
+            "Dude"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "George_S._Patton", 
+            "Mexico", 
+            "Tank", 
+            "Brigade", 
+            "Moola", 
+            "Mexico_City", 
+            "Hood_(comics)", 
+            "John_J._Pershing", 
+            "Time_(magazine)", 
+            "Mange"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Beehive_tomb", 
+            "One_Heart", 
+            "Canister_shot", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Post_Office_Stowage_Van"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Mexico"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Git_(software)"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Capital_punishment", 
+            "Decapitation", 
+            "China", 
+            "Law", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "California", 
+            "National_Guard_of_the_United_States", 
+            "Mile", 
+            "Citizenship", 
+            "World_War_II", 
+            "Ammunition", 
+            "Bombing_range", 
+            "Inch", 
+            "Ordnance", 
+            "Mexico", 
+            "Inch", 
+            "Texas"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Dead_zone_(ecology)", 
+            "Time_(magazine)", 
+            "Illegal_drug_trade", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Improvised_explosive_device", 
+            "Mile", 
+            "Drug", 
+            "United_States", 
+            "Unmanned_aerial_vehicle", 
+            "Drug"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "World_War_I", 
+            "United_States", 
+            "United_States", 
+            "Metal", 
+            "Millesimal_fineness", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "American_Revolution", 
+            "Dross", 
+            "Slag", 
+            "Slug", 
+            "1812", 
+            "Improvised_explosive_device", 
+            "Steel", 
+            "Gold", 
+            "U.S._state"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [], 
+        "postID": 96
+    }, 
+    {
+        "entity": [], 
+        "postID": 97
+    }, 
+    {
+        "entity": [], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Sanity", 
+            "Improvised_explosive_device", 
+            "Improvised_explosive_device", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "NFL_Draft", 
+            "Afghanistan"
+        ], 
+        "postID": 100
+    }
+]

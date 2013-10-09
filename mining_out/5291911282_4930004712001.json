@@ -1,0 +1,77 @@
+[
+    {
+        "entity": [
+            "Recruit_training", 
+            "Abscess", 
+            "United_States_Army", 
+            "National_Guard_of_the_United_States", 
+            "Surgery", 
+            "Army_National_Guard", 
+            "Crohn's_disease"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Internet_forum", 
+            "One_Heart", 
+            "Guard_(American_football)", 
+            "Crohn's_disease"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Insurance", 
+            "Health_insurance", 
+            "Insurance", 
+            "College"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "United_States_Military_Pay", 
+            "Recruit_training"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Nail_(fastener)", 
+            "Crohn's_disease", 
+            "Crohn's_disease"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Military_discharge", 
+            "Blacklist", 
+            "Diabetes_mellitus", 
+            "Crohn's_disease"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Engagement", 
+            "Nutrient", 
+            "Diet_(nutrition)", 
+            "Pound_(mass)", 
+            "Medicine", 
+            "Engagement", 
+            "Iraq"
+        ], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,539 @@
+[
+    {
+        "entity": [
+            "People's_Liberation_Army_Navy", 
+            "United_States_Navy", 
+            "Chinese_Navy", 
+            "Chinese_language", 
+            "Associated_Press"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Naval_Ship"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Toilet_paper", 
+            "Toilet"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Kingdome", 
+            "Skipper", 
+            "Gunship_(video_game)", 
+            "Airway_(aviation)", 
+            "Wood"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Bank", 
+            "Energy", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Economy", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Orion_(constellation)", 
+            "Fighter_aircraft", 
+            "P-3_Orion", 
+            "P3"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_H._W._Bush", 
+            "Bank", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Jimmy_Carter", 
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Shoe", 
+            "President_of_the_United_States", 
+            "FYI", 
+            "Jimmy_Carter", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Messiah", 
+            "Messiah", 
+            "President_of_the_United_States", 
+            "News_(band)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Democratic_National_Committee"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "International_waters", 
+            "Aggression"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "China", 
+            "Bill_Clinton", 
+            "Presidency_of_Bill_Clinton"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Jet_engine", 
+            "China", 
+            "2001", 
+            "EP-3E_Aries_II", 
+            "Emergency_landing", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Fighter_aircraft"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Yankee", 
+            "Imperialism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Lock_(water_transport)", 
+            "Gun_barrel", 
+            "Republicanism", 
+            "Bench_press"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "YUP_(band)", 
+            "Puppy", 
+            "Model_(person)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Russian_language", 
+            "Guess_(clothing)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "People's_Liberation_Army_Navy", 
+            "United_States_Navy", 
+            "Chinese_Navy", 
+            "Chinese_language", 
+            "Associated_Press"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States_Naval_Ship"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Toilet_paper", 
+            "Toilet"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Kingdome", 
+            "Skipper", 
+            "Gunship_(video_game)", 
+            "Airway_(aviation)", 
+            "Wood"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Bank", 
+            "Energy", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Economy", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Orion_(constellation)", 
+            "Fighter_aircraft", 
+            "P-3_Orion", 
+            "P3"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_H._W._Bush", 
+            "Bank", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Jimmy_Carter", 
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Shoe", 
+            "President_of_the_United_States", 
+            "FYI", 
+            "Jimmy_Carter", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Messiah", 
+            "Messiah", 
+            "President_of_the_United_States", 
+            "News_(band)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Democratic_National_Committee"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "International_waters", 
+            "Aggression"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "China", 
+            "Bill_Clinton", 
+            "Presidency_of_Bill_Clinton"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Jet_engine", 
+            "China", 
+            "2001", 
+            "EP-3E_Aries_II", 
+            "Emergency_landing", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Fighter_aircraft"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Yankee", 
+            "Imperialism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Lock_(water_transport)", 
+            "Gun_barrel", 
+            "Republicanism", 
+            "Bench_press"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "YUP_(band)", 
+            "Puppy", 
+            "Model_(person)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Russian_language", 
+            "Guess_(clothing)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "People's_Liberation_Army_Navy", 
+            "United_States_Navy", 
+            "Chinese_Navy", 
+            "Chinese_language", 
+            "Associated_Press"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States_Naval_Ship"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Toilet_paper", 
+            "Toilet"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Kingdome", 
+            "Skipper", 
+            "Gunship_(video_game)", 
+            "Airway_(aviation)", 
+            "Wood"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Bank", 
+            "Energy", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Economy", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Orion_(constellation)", 
+            "Fighter_aircraft", 
+            "P-3_Orion", 
+            "P3"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_H._W._Bush", 
+            "Bank", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Jimmy_Carter", 
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Shoe", 
+            "President_of_the_United_States", 
+            "FYI", 
+            "Jimmy_Carter", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Messiah", 
+            "Messiah", 
+            "President_of_the_United_States", 
+            "News_(band)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Democratic_National_Committee"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "International_waters", 
+            "Aggression"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "China", 
+            "Bill_Clinton", 
+            "Presidency_of_Bill_Clinton"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Jet_engine", 
+            "China", 
+            "2001", 
+            "EP-3E_Aries_II", 
+            "Emergency_landing", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Fighter_aircraft"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Yankee", 
+            "Imperialism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Superpower", 
+            "Lock_(water_transport)", 
+            "Gun_barrel", 
+            "Republicanism", 
+            "Bench_press"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "YUP_(band)", 
+            "Puppy", 
+            "Model_(person)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Russian_language", 
+            "Guess_(clothing)"
+        ], 
+        "postID": 60
+    }
+]

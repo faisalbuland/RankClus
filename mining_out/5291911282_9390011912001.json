@@ -1,0 +1,738 @@
+[
+    {
+        "entity": [
+            "Yellow_card", 
+            "Beer_bottle", 
+            "Beer"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ale", 
+            "Jack_Daniels"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Experimental_cancer_treatment", 
+            "United_States", 
+            "Current_events", 
+            "Medication", 
+            "Cancer"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Bank_robbery", 
+            "45_(number)", 
+            "Gangsters_(TV_series)", 
+            "Blinders", 
+            "Mexico", 
+            "Bail", 
+            "Demographics_of_Mexico", 
+            "Political_correctness", 
+            "Bank_robbery"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Victory_Garden", 
+            "Privacy", 
+            "Shotgun", 
+            "Baseball", 
+            "Nose", 
+            "Fence", 
+            "Picket_fence", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fosters"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Soft_drink", 
+            "Siren", 
+            "Pop_music", 
+            "Neighbourhood", 
+            "Police", 
+            "Barbecue", 
+            "Soda"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barbecue", 
+            "Nice", 
+            "Police_station"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Slug"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Funeral", 
+            "Felony", 
+            "Oakland,_California", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Israel", 
+            "Islamic_terrorism", 
+            "Police", 
+            "Rape", 
+            "Police", 
+            "Islam", 
+            "Sheep_dog"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Police", 
+            "Norm_(mathematics)", 
+            "Mayor", 
+            "Police", 
+            "Felony", 
+            "Willie_Brown_(politician)", 
+            "San_Francisco,_California", 
+            "Bad_apples_excuse", 
+            "Black_people", 
+            "Soap", 
+            "Apple", 
+            "Illegal_drug_trade", 
+            "Dance", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Soft_drink", 
+            "Morgan_Motor_Company", 
+            "Cream_soda"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Cannonball_(comics)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "C\u1ee7_Chi_district,_H\u1ed3_Ch\u00ed_Minh_City"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Black_Russian", 
+            "Russian_language", 
+            "Irish_whiskey", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Whisky"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Highland_Hospital_(Oakland,_California)", 
+            "Highland_(council_area)", 
+            "Oakland,_California", 
+            "Oakland,_California", 
+            "Oakland,_California"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Yellow_card", 
+            "Beer_bottle", 
+            "Beer"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Ale", 
+            "Jack_Daniels"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Experimental_cancer_treatment", 
+            "United_States", 
+            "Current_events", 
+            "Medication", 
+            "Cancer"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Bank_robbery", 
+            "45_(number)", 
+            "Gangsters_(TV_series)", 
+            "Blinders", 
+            "Mexico", 
+            "Bail", 
+            "Demographics_of_Mexico", 
+            "Political_correctness", 
+            "Bank_robbery"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Victory_Garden", 
+            "Privacy", 
+            "Shotgun", 
+            "Baseball", 
+            "Nose", 
+            "Fence", 
+            "Picket_fence", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fosters"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Soft_drink", 
+            "Siren", 
+            "Pop_music", 
+            "Neighbourhood", 
+            "Police", 
+            "Barbecue", 
+            "Soda"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Barbecue", 
+            "Nice", 
+            "Police_station"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Slug"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Funeral", 
+            "Felony", 
+            "Oakland,_California", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Israel", 
+            "Islamic_terrorism", 
+            "Police", 
+            "Rape", 
+            "Police", 
+            "Islam", 
+            "Sheep_dog"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Police", 
+            "Norm_(mathematics)", 
+            "Mayor", 
+            "Police", 
+            "Felony", 
+            "Willie_Brown_(politician)", 
+            "San_Francisco,_California", 
+            "Bad_apples_excuse", 
+            "Black_people", 
+            "Soap", 
+            "Apple", 
+            "Illegal_drug_trade", 
+            "Dance", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Soft_drink", 
+            "Morgan_Motor_Company", 
+            "Cream_soda"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Cannonball_(comics)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "C\u1ee7_Chi_district,_H\u1ed3_Ch\u00ed_Minh_City"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Black_Russian", 
+            "Russian_language", 
+            "Irish_whiskey", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Whisky"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Highland_Hospital_(Oakland,_California)", 
+            "Highland_(council_area)", 
+            "Oakland,_California", 
+            "Oakland,_California", 
+            "Oakland,_California"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Yellow_card", 
+            "Beer_bottle", 
+            "Beer"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Ale", 
+            "Jack_Daniels"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Experimental_cancer_treatment", 
+            "United_States", 
+            "Current_events", 
+            "Medication", 
+            "Cancer"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Bank_robbery", 
+            "45_(number)", 
+            "Gangsters_(TV_series)", 
+            "Blinders", 
+            "Mexico", 
+            "Bail", 
+            "Demographics_of_Mexico", 
+            "Political_correctness", 
+            "Bank_robbery"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Victory_Garden", 
+            "Privacy", 
+            "Shotgun", 
+            "Baseball", 
+            "Nose", 
+            "Fence", 
+            "Picket_fence", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Fosters"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Soft_drink", 
+            "Siren", 
+            "Pop_music", 
+            "Neighbourhood", 
+            "Police", 
+            "Barbecue", 
+            "Soda"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Barbecue", 
+            "Nice", 
+            "Police_station"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Slug"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Funeral", 
+            "Felony", 
+            "Oakland,_California", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Israel", 
+            "Islamic_terrorism", 
+            "Police", 
+            "Rape", 
+            "Police", 
+            "Islam", 
+            "Sheep_dog"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Police", 
+            "Norm_(mathematics)", 
+            "Mayor", 
+            "Police", 
+            "Felony", 
+            "Willie_Brown_(politician)", 
+            "San_Francisco,_California", 
+            "Bad_apples_excuse", 
+            "Black_people", 
+            "Soap", 
+            "Apple", 
+            "Illegal_drug_trade", 
+            "Dance", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Soft_drink", 
+            "Morgan_Motor_Company", 
+            "Cream_soda"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Cannonball_(comics)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "C\u1ee7_Chi_district,_H\u1ed3_Ch\u00ed_Minh_City"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Black_Russian", 
+            "Russian_language", 
+            "Irish_whiskey", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Whisky"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Highland_Hospital_(Oakland,_California)", 
+            "Highland_(council_area)", 
+            "Oakland,_California", 
+            "Oakland,_California", 
+            "Oakland,_California"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Yellow_card", 
+            "Beer_bottle", 
+            "Beer"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Ale", 
+            "Jack_Daniels"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Experimental_cancer_treatment", 
+            "United_States", 
+            "Current_events", 
+            "Medication", 
+            "Cancer"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Bank_robbery", 
+            "45_(number)", 
+            "Gangsters_(TV_series)", 
+            "Blinders", 
+            "Mexico", 
+            "Bail", 
+            "Demographics_of_Mexico", 
+            "Political_correctness", 
+            "Bank_robbery"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Handgun", 
+            "Victory_Garden", 
+            "Privacy", 
+            "Shotgun", 
+            "Baseball", 
+            "Nose", 
+            "Fence", 
+            "Picket_fence", 
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Fosters"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Soft_drink", 
+            "Siren", 
+            "Pop_music", 
+            "Neighbourhood", 
+            "Police", 
+            "Barbecue", 
+            "Soda"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Barbecue", 
+            "Nice", 
+            "Police_station"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Slug"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Funeral", 
+            "Felony", 
+            "Oakland,_California", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Israel", 
+            "Islamic_terrorism", 
+            "Police", 
+            "Rape", 
+            "Police", 
+            "Islam", 
+            "Sheep_dog"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Police", 
+            "Norm_(mathematics)", 
+            "Mayor", 
+            "Police", 
+            "Felony", 
+            "Willie_Brown_(politician)", 
+            "San_Francisco,_California", 
+            "Bad_apples_excuse", 
+            "Black_people", 
+            "Soap", 
+            "Apple", 
+            "Illegal_drug_trade", 
+            "Dance", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Soft_drink", 
+            "Morgan_Motor_Company", 
+            "Cream_soda"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Cannonball_(comics)"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "C\u1ee7_Chi_district,_H\u1ed3_Ch\u00ed_Minh_City"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Black_Russian", 
+            "Russian_language", 
+            "Irish_whiskey", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Whisky"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Highland_Hospital_(Oakland,_California)", 
+            "Highland_(council_area)", 
+            "Oakland,_California", 
+            "Oakland,_California", 
+            "Oakland,_California"
+        ], 
+        "postID": 80
+    }
+]

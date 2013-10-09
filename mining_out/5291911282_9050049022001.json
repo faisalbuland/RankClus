@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "United_States_Postal_Service", 
+            "John_Knox", 
+            "United_States_Postal_Service", 
+            "Fort_Knox"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "JAG", 
+            "D._V._Gundappa", 
+            "Legal_institutions_of_Scotland_in_the_High_Middle_Ages", 
+            "Duck", 
+            "John_Knox", 
+            "Derelict", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Recruit_training", 
+            "Platoon", 
+            "Permanent_residency", 
+            "John_Knox"
+        ], 
+        "postID": 4
+    }
+]

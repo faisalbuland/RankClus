@@ -1,0 +1,738 @@
+[
+    {
+        "entity": [
+            "Anton_Seidl", 
+            "Frederick,_Maryland", 
+            "Emperor", 
+            "Warrior"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "United_States_Navy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "United_States_Army"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Australian_English_vocabulary", 
+            "England", 
+            "Mod_(lifestyle)", 
+            "Dude_(musical)", 
+            "Dude", 
+            "Vic", 
+            "2009"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Navy", 
+            "Jane_Fonda", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "United_States_Coast_Guard", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Poster", 
+            "Cap_badge", 
+            "National_Guard_of_the_United_States", 
+            "Cap_(sport)", 
+            "Peter_Fonda", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Yellow_badge", 
+            "Phallus", 
+            "Triangle", 
+            "One_Heart"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Names_of_large_numbers", 
+            "Vic", 
+            "Australian_English_vocabulary", 
+            "Knife", 
+            "One_Heart", 
+            "Pound_(mass)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Ear", 
+            "United_States_Marine_Corps", 
+            "Line_officer", 
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Navy", 
+            "Desert", 
+            "Coast_guard", 
+            "Military_time", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Chaplain", 
+            "Cavalry", 
+            "Civil_Air_Patrol", 
+            "United_States_Coast_Guard", 
+            "Navy", 
+            "United_States_Marine_Corps", 
+            "Paris", 
+            "Grammatical_person", 
+            "Charlie_Chaplin", 
+            "Chaplain", 
+            "Air_force", 
+            "United_States_Coast_Guard", 
+            "United_States_Navy", 
+            "Guard_(American_football)", 
+            "Chaplain", 
+            "Seminary", 
+            "World_War_II", 
+            "Navy", 
+            "Doctorate"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Wow_(recording)", 
+            "Beetle_Bailey", 
+            "England", 
+            "God", 
+            "Volkswagen_Beetle"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Yahoo!_Groups", 
+            "Brugada_syndrome", 
+            "Yahoo!", 
+            "Cardiac_arrhythmia", 
+            "Ejection_(sports)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Legit_(professional_wrestling)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Coast_Guard", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Anton_Seidl", 
+            "Frederick,_Maryland", 
+            "Emperor", 
+            "Warrior"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "United_States_Navy"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "United_States_Army"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Australian_English_vocabulary", 
+            "England", 
+            "Mod_(lifestyle)", 
+            "Dude_(musical)", 
+            "Dude", 
+            "Vic", 
+            "2009"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Navy", 
+            "Jane_Fonda", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "United_States_Coast_Guard", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Poster", 
+            "Cap_badge", 
+            "National_Guard_of_the_United_States", 
+            "Cap_(sport)", 
+            "Peter_Fonda", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Yellow_badge", 
+            "Phallus", 
+            "Triangle", 
+            "One_Heart"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Names_of_large_numbers", 
+            "Vic", 
+            "Australian_English_vocabulary", 
+            "Knife", 
+            "One_Heart", 
+            "Pound_(mass)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Ear", 
+            "United_States_Marine_Corps", 
+            "Line_officer", 
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Navy", 
+            "Desert", 
+            "Coast_guard", 
+            "Military_time", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Chaplain", 
+            "Cavalry", 
+            "Civil_Air_Patrol", 
+            "United_States_Coast_Guard", 
+            "Navy", 
+            "United_States_Marine_Corps", 
+            "Paris", 
+            "Grammatical_person", 
+            "Charlie_Chaplin", 
+            "Chaplain", 
+            "Air_force", 
+            "United_States_Coast_Guard", 
+            "United_States_Navy", 
+            "Guard_(American_football)", 
+            "Chaplain", 
+            "Seminary", 
+            "World_War_II", 
+            "Navy", 
+            "Doctorate"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Wow_(recording)", 
+            "Beetle_Bailey", 
+            "England", 
+            "God", 
+            "Volkswagen_Beetle"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Yahoo!_Groups", 
+            "Brugada_syndrome", 
+            "Yahoo!", 
+            "Cardiac_arrhythmia", 
+            "Ejection_(sports)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Legit_(professional_wrestling)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Coast_Guard", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Anton_Seidl", 
+            "Frederick,_Maryland", 
+            "Emperor", 
+            "Warrior"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "United_States_Navy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "United_States_Army"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Australian_English_vocabulary", 
+            "England", 
+            "Mod_(lifestyle)", 
+            "Dude_(musical)", 
+            "Dude", 
+            "Vic", 
+            "2009"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Navy", 
+            "Jane_Fonda", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "United_States_Coast_Guard", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Poster", 
+            "Cap_badge", 
+            "National_Guard_of_the_United_States", 
+            "Cap_(sport)", 
+            "Peter_Fonda", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Yellow_badge", 
+            "Phallus", 
+            "Triangle", 
+            "One_Heart"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Names_of_large_numbers", 
+            "Vic", 
+            "Australian_English_vocabulary", 
+            "Knife", 
+            "One_Heart", 
+            "Pound_(mass)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Ear", 
+            "United_States_Marine_Corps", 
+            "Line_officer", 
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Navy", 
+            "Desert", 
+            "Coast_guard", 
+            "Military_time", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Chaplain", 
+            "Cavalry", 
+            "Civil_Air_Patrol", 
+            "United_States_Coast_Guard", 
+            "Navy", 
+            "United_States_Marine_Corps", 
+            "Paris", 
+            "Grammatical_person", 
+            "Charlie_Chaplin", 
+            "Chaplain", 
+            "Air_force", 
+            "United_States_Coast_Guard", 
+            "United_States_Navy", 
+            "Guard_(American_football)", 
+            "Chaplain", 
+            "Seminary", 
+            "World_War_II", 
+            "Navy", 
+            "Doctorate"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Wow_(recording)", 
+            "Beetle_Bailey", 
+            "England", 
+            "God", 
+            "Volkswagen_Beetle"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Yahoo!_Groups", 
+            "Brugada_syndrome", 
+            "Yahoo!", 
+            "Cardiac_arrhythmia", 
+            "Ejection_(sports)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Legit_(professional_wrestling)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Coast_Guard", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Anton_Seidl", 
+            "Frederick,_Maryland", 
+            "Emperor", 
+            "Warrior"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "United_States_Navy"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "United_States_Army"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Australian_English_vocabulary", 
+            "England", 
+            "Mod_(lifestyle)", 
+            "Dude_(musical)", 
+            "Dude", 
+            "Vic", 
+            "2009"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Navy", 
+            "Jane_Fonda", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "United_States_Coast_Guard", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Poster", 
+            "Cap_badge", 
+            "National_Guard_of_the_United_States", 
+            "Cap_(sport)", 
+            "Peter_Fonda", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Yellow_badge", 
+            "Phallus", 
+            "Triangle", 
+            "One_Heart"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Names_of_large_numbers", 
+            "Vic", 
+            "Australian_English_vocabulary", 
+            "Knife", 
+            "One_Heart", 
+            "Pound_(mass)"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Ear", 
+            "United_States_Marine_Corps", 
+            "Line_officer", 
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Navy", 
+            "Desert", 
+            "Coast_guard", 
+            "Military_time", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Chaplain", 
+            "Cavalry", 
+            "Civil_Air_Patrol", 
+            "United_States_Coast_Guard", 
+            "Navy", 
+            "United_States_Marine_Corps", 
+            "Paris", 
+            "Grammatical_person", 
+            "Charlie_Chaplin", 
+            "Chaplain", 
+            "Air_force", 
+            "United_States_Coast_Guard", 
+            "United_States_Navy", 
+            "Guard_(American_football)", 
+            "Chaplain", 
+            "Seminary", 
+            "World_War_II", 
+            "Navy", 
+            "Doctorate"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Wow_(recording)", 
+            "Beetle_Bailey", 
+            "England", 
+            "God", 
+            "Volkswagen_Beetle"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Yahoo!_Groups", 
+            "Brugada_syndrome", 
+            "Yahoo!", 
+            "Cardiac_arrhythmia", 
+            "Ejection_(sports)"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Legit_(professional_wrestling)"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Coast_Guard", 
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 80
+    }
+]

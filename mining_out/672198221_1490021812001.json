@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "Judge", 
+            "United_States_federal_courts", 
+            "Judge", 
+            "Capsicum", 
+            "Pepper_spray", 
+            "Navy", 
+            "Capsicum", 
+            "Pepper_spray", 
+            "Pepper_spray", 
+            "Capsicum", 
+            "Chemical_warfare", 
+            "Pepper_spray", 
+            "Capsicum", 
+            "Chemical_warfare"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pepper", 
+            "Salt"
+        ], 
+        "postID": 2
+    }
+]

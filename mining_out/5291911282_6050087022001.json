@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "1947", 
+            "2001"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Snopes", 
+            "Snopes", 
+            "Idiot", 
+            "Internet"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

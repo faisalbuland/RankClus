@@ -1,0 +1,600 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Brinson,_Georgia", 
+            "Pardon", 
+            "Barack_Obama", 
+            "Treason", 
+            "Little_Johnny", 
+            "United_States_Marine_Corps", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "Hell"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Homeland_security"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Undercover", 
+            "Taliban", 
+            "Eric_Holder", 
+            "Blog", 
+            "United_States", 
+            "Battle_of_Qala-i-Jangi", 
+            "Espionage", 
+            "Spanner", 
+            "Jail", 
+            "Prison"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Treason", 
+            "Punk_rock", 
+            "Vietnam_War", 
+            "John", 
+            "Soviet_Union"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Post_Office_Protocol", 
+            "Capitol_Records", 
+            "California_State_Capitol", 
+            "Capital_punishment", 
+            "Treason", 
+            "Capital_punishment"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Point_of_sale", 
+            "Pay-per-view", 
+            "Capital_punishment", 
+            "Brinson,_Georgia", 
+            "Capital_punishment", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Point_of_sale"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Wehrmacht", 
+            "Prison", 
+            "Korea", 
+            "Afghanistan", 
+            "United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hand_grenade", 
+            "Stretcher"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Johnny_Micheal_Spann", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Johnny_Micheal_Spann", 
+            "Special_forces", 
+            "Ideology", 
+            "Taliban", 
+            "Central_Intelligence_Agency", 
+            "Bunker", 
+            "Central_Intelligence_Agency", 
+            "Law", 
+            "Citizenship", 
+            "Afghanistan", 
+            "List_of_political_ideologies", 
+            "England", 
+            "Religion", 
+            "Military_of_the_United_States", 
+            "Al-Qaeda", 
+            "United_States", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Iraq", 
+            "Citizenship", 
+            "United_States_nationality_law", 
+            "Prison", 
+            "Ireland", 
+            "Muslim", 
+            "United_States", 
+            "Terrorism", 
+            "Provisional_Irish_Republican_Army", 
+            "Pakistan", 
+            "Ally_McBeal"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Riot", 
+            "Prison_riot", 
+            "Basement", 
+            "Corrections_officer", 
+            "Afghanistan", 
+            "Prison", 
+            "Academy_Award"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Fortification", 
+            "Fortification", 
+            "Abdul_Rashid_Dostum", 
+            "Satellite", 
+            "Chemical_compound", 
+            "Johnny_Micheal_Spann", 
+            "Satellite_phone", 
+            "Fortification", 
+            "Mazari_Sharif", 
+            "Ammunition", 
+            "Special_forces", 
+            "Special_forces", 
+            "Tank", 
+            "Special_Operations_Command_(Australia)", 
+            "Ammunition_dump", 
+            "Spectre_(comics)", 
+            "Afghanistan", 
+            "Joint_Direct_Attack_Munition", 
+            "Fortification", 
+            "Tank", 
+            "Mike_Tyson", 
+            "Taliban", 
+            "Special_Boat_Service", 
+            "Water", 
+            "Lockheed_AC-130", 
+            "Lockheed_AC-130", 
+            "Lockheed_AC-130", 
+            "Command_and_control_(military)", 
+            "United_States", 
+            "Abdul_Rashid_Dostum", 
+            "Abdul_Rashid_Dostum", 
+            "10th_Mountain_Division_(United_States)", 
+            "Command_and_control_(military)", 
+            "Television", 
+            "Fortification", 
+            "Chechen_people", 
+            "Tank", 
+            "United_Kingdom", 
+            "Diplomatic_mission", 
+            "Hand_grenade", 
+            "Gunship", 
+            "Special_forces", 
+            "AK-47", 
+            "Close_air_support", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "ARD_(broadcaster)", 
+            "Mike_Tyson", 
+            "United_States_Army", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mortar_(weapon)", 
+            "Taliban", 
+            "Fortification", 
+            "Taliban", 
+            "Persian_language", 
+            "Afghanistan", 
+            "Taliban", 
+            "Germany", 
+            "Bomb", 
+            "Fire_support_base", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Rocket-propelled_grenade", 
+            "Special_forces", 
+            "Abdul_Rashid_Dostum", 
+            "Mortar_(weapon)", 
+            "957", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Pound_(mass)", 
+            "Uzbekistan", 
+            "United_States_Marine_Corps", 
+            "Taliban", 
+            "United_States", 
+            "Mike_Tyson", 
+            "Ammunition", 
+            "Ammunition_dump", 
+            "Uzbeks", 
+            "Abdul_Rashid_Dostum", 
+            "Taliban", 
+            "Special_Forces_(United_States_Army)", 
+            "Armory_(military)", 
+            "United_States", 
+            "Rocket", 
+            "Taliban", 
+            "Rocket-propelled_grenade", 
+            "55", 
+            "November_24", 
+            "55", 
+            "Armory_(military)", 
+            "Mike_Tyson", 
+            "Arab", 
+            "Abdul_Rashid_Dostum", 
+            "Central_Intelligence_Agency", 
+            "Taliban", 
+            "Taliban", 
+            "United_States", 
+            "Afghanistan", 
+            "Prison", 
+            "Pakistan", 
+            "Abdul_Rashid_Dostum", 
+            "Abdul_Rashid_Dostum", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Al-Qaeda", 
+            "Taliban", 
+            "Afghanistan", 
+            "Television"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Johnny_Micheal_Spann", 
+            "Safety_(American_football)", 
+            "Jihad"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hoo_St_Werburgh"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bomb", 
+            "United_States", 
+            "CARE_(relief)", 
+            "Shoe"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Brinson,_Georgia", 
+            "Pardon", 
+            "Barack_Obama", 
+            "Treason", 
+            "Little_Johnny", 
+            "United_States_Marine_Corps", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "Hell"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Homeland_security"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Central_Intelligence_Agency", 
+            "United_States", 
+            "Undercover", 
+            "Taliban", 
+            "Eric_Holder", 
+            "Blog", 
+            "United_States", 
+            "Battle_of_Qala-i-Jangi", 
+            "Espionage", 
+            "Spanner", 
+            "Jail", 
+            "Prison"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Treason", 
+            "Punk_rock", 
+            "Vietnam_War", 
+            "John", 
+            "Soviet_Union"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Post_Office_Protocol", 
+            "Capitol_Records", 
+            "California_State_Capitol", 
+            "Capital_punishment", 
+            "Treason", 
+            "Capital_punishment"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Point_of_sale", 
+            "Pay-per-view", 
+            "Capital_punishment", 
+            "Brinson,_Georgia", 
+            "Capital_punishment", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Point_of_sale"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Wehrmacht", 
+            "Prison", 
+            "Korea", 
+            "Afghanistan", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hand_grenade", 
+            "Stretcher"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Johnny_Micheal_Spann", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Johnny_Micheal_Spann", 
+            "Special_forces", 
+            "Ideology", 
+            "Taliban", 
+            "Central_Intelligence_Agency", 
+            "Bunker", 
+            "Central_Intelligence_Agency", 
+            "Law", 
+            "Citizenship", 
+            "Afghanistan", 
+            "List_of_political_ideologies", 
+            "England", 
+            "Religion", 
+            "Military_of_the_United_States", 
+            "Al-Qaeda", 
+            "United_States", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Iraq", 
+            "Citizenship", 
+            "United_States_nationality_law", 
+            "Prison", 
+            "Ireland", 
+            "Muslim", 
+            "United_States", 
+            "Terrorism", 
+            "Provisional_Irish_Republican_Army", 
+            "Pakistan", 
+            "Ally_McBeal"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Riot", 
+            "Prison_riot", 
+            "Basement", 
+            "Corrections_officer", 
+            "Afghanistan", 
+            "Prison", 
+            "Academy_Award"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Fortification", 
+            "Fortification", 
+            "Abdul_Rashid_Dostum", 
+            "Satellite", 
+            "Chemical_compound", 
+            "Johnny_Micheal_Spann", 
+            "Satellite_phone", 
+            "Fortification", 
+            "Mazari_Sharif", 
+            "Ammunition", 
+            "Special_forces", 
+            "Special_forces", 
+            "Tank", 
+            "Special_Operations_Command_(Australia)", 
+            "Ammunition_dump", 
+            "Spectre_(comics)", 
+            "Afghanistan", 
+            "Joint_Direct_Attack_Munition", 
+            "Fortification", 
+            "Tank", 
+            "Mike_Tyson", 
+            "Taliban", 
+            "Special_Boat_Service", 
+            "Water", 
+            "Lockheed_AC-130", 
+            "Lockheed_AC-130", 
+            "Lockheed_AC-130", 
+            "Command_and_control_(military)", 
+            "United_States", 
+            "Abdul_Rashid_Dostum", 
+            "Abdul_Rashid_Dostum", 
+            "10th_Mountain_Division_(United_States)", 
+            "Command_and_control_(military)", 
+            "Television", 
+            "Fortification", 
+            "Chechen_people", 
+            "Tank", 
+            "United_Kingdom", 
+            "Diplomatic_mission", 
+            "Hand_grenade", 
+            "Gunship", 
+            "Special_forces", 
+            "AK-47", 
+            "Close_air_support", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "ARD_(broadcaster)", 
+            "Mike_Tyson", 
+            "United_States_Army", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mortar_(weapon)", 
+            "Taliban", 
+            "Fortification", 
+            "Taliban", 
+            "Persian_language", 
+            "Afghanistan", 
+            "Taliban", 
+            "Germany", 
+            "Bomb", 
+            "Fire_support_base", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Rocket-propelled_grenade", 
+            "Special_forces", 
+            "Abdul_Rashid_Dostum", 
+            "Mortar_(weapon)", 
+            "957", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Pound_(mass)", 
+            "Uzbekistan", 
+            "United_States_Marine_Corps", 
+            "Taliban", 
+            "United_States", 
+            "Mike_Tyson", 
+            "Ammunition", 
+            "Ammunition_dump", 
+            "Uzbeks", 
+            "Abdul_Rashid_Dostum", 
+            "Taliban", 
+            "Special_Forces_(United_States_Army)", 
+            "Armory_(military)", 
+            "United_States", 
+            "Rocket", 
+            "Taliban", 
+            "Rocket-propelled_grenade", 
+            "55", 
+            "November_24", 
+            "55", 
+            "Armory_(military)", 
+            "Mike_Tyson", 
+            "Arab", 
+            "Abdul_Rashid_Dostum", 
+            "Central_Intelligence_Agency", 
+            "Taliban", 
+            "Taliban", 
+            "United_States", 
+            "Afghanistan", 
+            "Prison", 
+            "Pakistan", 
+            "Abdul_Rashid_Dostum", 
+            "Abdul_Rashid_Dostum", 
+            "United_Islamic_Front_for_the_Salvation_of_Afghanistan", 
+            "Al-Qaeda", 
+            "Taliban", 
+            "Afghanistan", 
+            "Television"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Johnny_Micheal_Spann", 
+            "Safety_(American_football)", 
+            "Jihad"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hoo_St_Werburgh"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bomb", 
+            "United_States", 
+            "CARE_(relief)", 
+            "Shoe"
+        ], 
+        "postID": 40
+    }
+]

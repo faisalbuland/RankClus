@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Middle_East", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Southern_United_States", 
+            "Middle_East", 
+            "Eastern_United_States", 
+            "Midwestern_United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

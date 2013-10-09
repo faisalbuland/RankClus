@@ -1,0 +1,215 @@
+[
+    {
+        "entity": [
+            "Sandwich", 
+            "Cheese", 
+            "Pizza", 
+            "Hammond_organ", 
+            "Hammond_organ", 
+            "Nostril", 
+            "Brian_Setzer", 
+            "Salami", 
+            "April_15", 
+            "Michael_Anthony_(musician)", 
+            "Allen_Francis_Doyle", 
+            "Cheese", 
+            "Nose", 
+            "Conover,_North_Carolina", 
+            "Taylorsville,_Utah", 
+            "Sandwich", 
+            "North_Carolina", 
+            "Sandwich", 
+            "Nose", 
+            "Bond_(finance)", 
+            "Statute", 
+            "2009", 
+            "Hammond_organ", 
+            "Lynn,_Massachusetts", 
+            "Dominoes", 
+            "Dominoes", 
+            "Prison", 
+            "Catawba_(tribe)", 
+            "Jail", 
+            "Brian_Setzer", 
+            "Catawba_County,_North_Carolina", 
+            "Hammond_organ", 
+            "Brian_Setzer", 
+            "Brian_Setzer", 
+            "Chief_executive_officer", 
+            "Lawsuit", 
+            "Conover,_North_Carolina", 
+            "Cheese", 
+            "Lynn,_Massachusetts", 
+            "Patrick_Doyle", 
+            "Halloween", 
+            "Sandwich", 
+            "Submarine_sandwich", 
+            "Hammond_organ", 
+            "YouTube", 
+            "Jail", 
+            "Brian_Setzer", 
+            "Italy", 
+            "Sandwich", 
+            "Candy", 
+            "Cheese"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Subway_(restaurant)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pizza", 
+            "Dominoes"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Pizza", 
+            "Dominoes"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "New_Orleans,_Louisiana", 
+            "Dominoes", 
+            "Pizza"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Fire_safety", 
+            "Safety", 
+            "Domino_(comics)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Restaurant", 
+            "Restaurant", 
+            "Adolescence"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Disneyland_Park_(Anaheim)", 
+            "Dominoes", 
+            "Two_Brothers", 
+            "Memphis,_Tennessee", 
+            "Antacid", 
+            "Italy", 
+            "California", 
+            "Pizza", 
+            "Pizza", 
+            "Pizza", 
+            "Pizza_delivery", 
+            "Dominoes"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Pizza", 
+            "Pizza", 
+            "Grammatical_tense", 
+            "Past_tense", 
+            "Germany"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Pizza", 
+            "Italy", 
+            "Germany"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "Italy", 
+            "IMHO", 
+            "Water", 
+            "Pizza"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Dough", 
+            "Drinking_water", 
+            "Drinking_water", 
+            "Pizza", 
+            "Bagel"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Dominoes", 
+            "Planet", 
+            "Isle", 
+            "Frozen_food", 
+            "Water", 
+            "Chicago", 
+            "Dog_food", 
+            "Dog", 
+            "Pizza", 
+            "Grocer", 
+            "Pizza"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Steak", 
+            "Sake", 
+            "God", 
+            "Domino_(comics)", 
+            "Kitchen"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Bingo"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Pie", 
+            "Sicily", 
+            "Pizza", 
+            "Beer", 
+            "Dominoes", 
+            "Boot", 
+            "Old_man"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Stomach", 
+            "Pizza"
+        ], 
+        "postID": 18
+    }
+]

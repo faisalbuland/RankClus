@@ -1,0 +1,43 @@
+[
+    {
+        "entity": [
+            "Coupon_(bond)", 
+            "May_25", 
+            "Lenovo_Group", 
+            "Point_of_sale", 
+            "Coupon_(bond)", 
+            "ThinkPad", 
+            "Laptop", 
+            "IdeaPad", 
+            "May_13", 
+            "2009", 
+            "Coupon_(bond)", 
+            "Atari_TOS", 
+            "Laptop", 
+            "May_19", 
+            "Chevrolet_S-10"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "May_13", 
+            "2009"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Forum_moderator", 
+            "Duck", 
+            "God", 
+            "God", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Thread_(computer_science)", 
+            "Soldier", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }
+]

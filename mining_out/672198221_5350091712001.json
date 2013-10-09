@@ -1,0 +1,85 @@
+[
+    {
+        "entity": [
+            "Internet_forum", 
+            "Military_of_France", 
+            "France"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "BUMP_(comics)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Washington,_D.C.", 
+            "NATO", 
+            "United_Kingdom", 
+            "Allies_of_World_War_II", 
+            "World_War_II", 
+            "Russians", 
+            "American_Colony_(Jerusalem)", 
+            "Frisco,_Texas", 
+            "NATO", 
+            "Washington", 
+            "NATO", 
+            "United_States", 
+            "NATO", 
+            "Sarcasm", 
+            "Lap_dog", 
+            "United_Kingdom"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Military_of_the_Netherlands", 
+            "Netherlands", 
+            "United_Kingdom", 
+            "NATO", 
+            "NATO", 
+            "Canada", 
+            "United_Kingdom", 
+            "Germany", 
+            "Italy", 
+            "California"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Royal_Air_Force", 
+            "Washington", 
+            "Washington,_D.C.", 
+            "Germany", 
+            "Union_(American_Civil_War)", 
+            "NATO", 
+            "Frisco,_Texas", 
+            "United_Kingdom", 
+            "Personal_property", 
+            "United_States", 
+            "Santiago_de_Cali", 
+            "Europe", 
+            "Santiago_de_Cali", 
+            "Economy", 
+            "NATO", 
+            "Russia", 
+            "France", 
+            "Santiago_de_Cali"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Frisco,_Texas"
+        ], 
+        "postID": 6
+    }
+]

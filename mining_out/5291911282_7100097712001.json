@@ -1,0 +1,107 @@
+[
+    {
+        "entity": [
+            "Acoustic_wave", 
+            "Economy", 
+            "Barack_Obama", 
+            "Biochemistry", 
+            "Medicine", 
+            "Jack_(device)", 
+            "Barack_Obama", 
+            "Technology", 
+            "Economy", 
+            "Communication", 
+            "World_war", 
+            "High_tech"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Slate", 
+            "Education", 
+            "United_States_Air_Force", 
+            "Intelligence_Specialist_(United_States_Navy_ratings)", 
+            "Intel_Corporation", 
+            "Classified_information", 
+            "Security_clearance", 
+            "Science", 
+            "High_school", 
+            "Communication", 
+            "Mathematics", 
+            "Grade_(education)", 
+            "Air_Force_Specialty_Code"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Service_record", 
+            "Education"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Prototype", 
+            "HAY", 
+            "Procurement", 
+            "Aircraft", 
+            "Intelligence_(information_gathering)", 
+            "Aircraft", 
+            "Technology", 
+            "LOOK"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)", 
+            "Peace_Corps", 
+            "Food_security", 
+            "Corps", 
+            "Peace_Corps", 
+            "Civil_engineering", 
+            "Corps", 
+            "Technology", 
+            "Diplomatic_service", 
+            "Geek", 
+            "Muck_(soil)", 
+            "Monsanto", 
+            "List_of_United_States_defense_contractors", 
+            "Intelligence_(information_gathering)", 
+            "Engineering", 
+            "Politics"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Energy", 
+            "Brookhaven_National_Laboratory", 
+            "Website", 
+            "Light", 
+            "Brookhaven_National_Laboratory", 
+            "Particle_physics", 
+            "United_States_Department_of_Energy_National_Laboratories", 
+            "Physics"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "DARPA", 
+            "Diploma", 
+            "High_school_diploma", 
+            "High_school"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bump"
+        ], 
+        "postID": 8
+    }
+]

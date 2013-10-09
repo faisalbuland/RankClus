@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [
+            "Project_manager", 
+            "Civil_service", 
+            "Barack_Obama", 
+            "Smoke"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Smoking", 
+            "Smoking", 
+            "Coffee_break"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "LOL"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster"
+        ], 
+        "postID": 6
+    }
+]

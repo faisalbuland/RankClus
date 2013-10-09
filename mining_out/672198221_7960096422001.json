@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [
+            "Poland", 
+            "Mon_people", 
+            "World_War_II", 
+            "2009", 
+            "Oregon"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Beef"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

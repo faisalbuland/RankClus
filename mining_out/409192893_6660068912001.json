@@ -1,0 +1,680 @@
+[
+    {
+        "entity": [
+            "Saint_Petersburg", 
+            "The_Business_(magazine)", 
+            "St._Petersburg_Times", 
+            "Crisis_on_Infinite_Earths", 
+            "Automotive_industry", 
+            "People's_Liberation_Army_Navy", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Mortgage", 
+            "Petersburg,_Virginia", 
+            "United_States", 
+            "Unemployment", 
+            "Newspaper", 
+            "!!!", 
+            "Mr._President_(film)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Mathematics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Bofors_40_mm_gun", 
+            "Inference", 
+            "One_Nation_(Australia)", 
+            "Bofors_40_mm_gun"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Thomas_Jefferson", 
+            "Disability", 
+            "Thomas_Jefferson", 
+            "Fault_(geology)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello", 
+            "Disability"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Tea_party", 
+            "Tea", 
+            "Tea_party", 
+            "Tea"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Literature"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Fatigue_(medical)", 
+            "Disabled_sports", 
+            "Syndrome", 
+            "Disabled_sports", 
+            "Lottery", 
+            "Golf", 
+            "Disability"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Disabled_sports", 
+            "Disabled_sports", 
+            "Wheelchair"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Active_duty"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Long_Island_Rail_Road", 
+            "Trade_union", 
+            "Confidence_trick", 
+            "Pension", 
+            "Disability", 
+            "Newspaper", 
+            "Disability_pension", 
+            "Disability"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Bell_(instrument)", 
+            "Taco_Bell", 
+            "Taco", 
+            "Disability", 
+            "Tulane_University", 
+            "Neurosurgery", 
+            "Law"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Drug", 
+            "Paintball", 
+            "Disability"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Cent_(music)", 
+            "Surgery", 
+            "Brain_damage", 
+            "Brain"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "One_Nation_(Australia)", 
+            "Coach_(sport)", 
+            "One_Heart", 
+            "Hell"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Saint_Petersburg", 
+            "The_Business_(magazine)", 
+            "St._Petersburg_Times", 
+            "Crisis_on_Infinite_Earths", 
+            "Automotive_industry", 
+            "People's_Liberation_Army_Navy", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Mortgage", 
+            "Petersburg,_Virginia", 
+            "United_States", 
+            "Unemployment", 
+            "Newspaper", 
+            "!!!", 
+            "Mr._President_(film)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Mathematics"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Bofors_40_mm_gun", 
+            "Inference", 
+            "One_Nation_(Australia)", 
+            "Bofors_40_mm_gun"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Thomas_Jefferson", 
+            "Disability", 
+            "Thomas_Jefferson", 
+            "Fault_(geology)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello", 
+            "Disability"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Tea_party", 
+            "Tea", 
+            "Tea_party", 
+            "Tea"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Literature"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Fatigue_(medical)", 
+            "Disabled_sports", 
+            "Syndrome", 
+            "Disabled_sports", 
+            "Lottery", 
+            "Golf", 
+            "Disability"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Disabled_sports", 
+            "Disabled_sports", 
+            "Wheelchair"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Active_duty"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Long_Island_Rail_Road", 
+            "Trade_union", 
+            "Confidence_trick", 
+            "Pension", 
+            "Disability", 
+            "Newspaper", 
+            "Disability_pension", 
+            "Disability"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Bell_(instrument)", 
+            "Taco_Bell", 
+            "Taco", 
+            "Disability", 
+            "Tulane_University", 
+            "Neurosurgery", 
+            "Law"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Drug", 
+            "Paintball", 
+            "Disability"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Cent_(music)", 
+            "Surgery", 
+            "Brain_damage", 
+            "Brain"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "One_Nation_(Australia)", 
+            "Coach_(sport)", 
+            "One_Heart", 
+            "Hell"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Saint_Petersburg", 
+            "The_Business_(magazine)", 
+            "St._Petersburg_Times", 
+            "Crisis_on_Infinite_Earths", 
+            "Automotive_industry", 
+            "People's_Liberation_Army_Navy", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Mortgage", 
+            "Petersburg,_Virginia", 
+            "United_States", 
+            "Unemployment", 
+            "Newspaper", 
+            "!!!", 
+            "Mr._President_(film)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Mathematics"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Bofors_40_mm_gun", 
+            "Inference", 
+            "One_Nation_(Australia)", 
+            "Bofors_40_mm_gun"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Thomas_Jefferson", 
+            "Disability", 
+            "Thomas_Jefferson", 
+            "Fault_(geology)"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello", 
+            "Disability"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Tea_party", 
+            "Tea", 
+            "Tea_party", 
+            "Tea"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Literature"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Fatigue_(medical)", 
+            "Disabled_sports", 
+            "Syndrome", 
+            "Disabled_sports", 
+            "Lottery", 
+            "Golf", 
+            "Disability"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Disabled_sports", 
+            "Disabled_sports", 
+            "Wheelchair"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "United_States"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Active_duty"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Long_Island_Rail_Road", 
+            "Trade_union", 
+            "Confidence_trick", 
+            "Pension", 
+            "Disability", 
+            "Newspaper", 
+            "Disability_pension", 
+            "Disability"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Bell_(instrument)", 
+            "Taco_Bell", 
+            "Taco", 
+            "Disability", 
+            "Tulane_University", 
+            "Neurosurgery", 
+            "Law"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Drug", 
+            "Paintball", 
+            "Disability"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Cent_(music)", 
+            "Surgery", 
+            "Brain_damage", 
+            "Brain"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "One_Nation_(Australia)", 
+            "Coach_(sport)", 
+            "One_Heart", 
+            "Hell"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [], 
+        "postID": 87
+    }
+]

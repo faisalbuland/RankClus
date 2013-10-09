@@ -1,0 +1,458 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Terrorism", 
+            "Clothing", 
+            "Muslim_world", 
+            "Radio_Liberty", 
+            "Martyr", 
+            "Europe", 
+            "Patreus", 
+            "Prison", 
+            "Prayer", 
+            "Health_care", 
+            "Country_club", 
+            "Laundry", 
+            "Bank", 
+            "Radio_Liberty", 
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Soldier", 
+            "Terrorism", 
+            "Muslim", 
+            "Chinese_food_therapy", 
+            "First-class_cricket"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Joseph_Stalin", 
+            "Wow", 
+            "Prison", 
+            "Politics", 
+            "Dungeon", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Picnic", 
+            "World_population", 
+            "Life_expectancy", 
+            "Terrorism", 
+            "Prison"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "LOL", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Patreus", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base", 
+            "Joseph_Stalin", 
+            "Torture", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States", 
+            "Torture", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Intelligence_(information_gathering)", 
+            "Thomas_Jefferson", 
+            "Torture", 
+            "Presidency_of_George_W._Bush", 
+            "Bank", 
+            "Martyr", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Presidency_of_George_W._Bush", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Gitmo_(documentary)", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Joseph_Stalin", 
+            "Partisan_(military)", 
+            "Gitmo_(documentary)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Delta,_British_Columbia", 
+            "Chemical_compound", 
+            "Camp_Delta"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thought", 
+            "Vermin", 
+            "Terrorism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Gitmo_(documentary)", 
+            "Gitmo_(documentary)", 
+            "Monkey", 
+            "Prison", 
+            "Gitmo_(documentary)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Yea,_Victoria"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Terrorism", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abu_Ghraib_torture_and_prisoner_abuse", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Mike_Moore", 
+            "Prison", 
+            "United_States", 
+            "Incarceration_in_the_United_States", 
+            "Prison", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Execution_by_firing_squad"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Flip-flop_(electronics)", 
+            "Flop"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Health_care", 
+            "Child_sexual_abuse", 
+            "United_States", 
+            "Terrorism", 
+            "Chinese_food_therapy", 
+            "Radio_Liberty", 
+            "Prison", 
+            "Thomas_Jefferson", 
+            "Radio_Liberty", 
+            "Patriotism", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "Rock_music", 
+            "Population", 
+            "United_States", 
+            "Prison", 
+            "Europe", 
+            "Bank", 
+            "Time_(magazine)", 
+            "Patreus", 
+            "Prayer", 
+            "Terrorism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Terrorism", 
+            "Clothing", 
+            "Muslim_world", 
+            "Radio_Liberty", 
+            "Martyr", 
+            "Europe", 
+            "Patreus", 
+            "Prison", 
+            "Prayer", 
+            "Health_care", 
+            "Country_club", 
+            "Laundry", 
+            "Bank", 
+            "Radio_Liberty", 
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Soldier", 
+            "Terrorism", 
+            "Muslim", 
+            "Chinese_food_therapy", 
+            "First-class_cricket"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Joseph_Stalin", 
+            "Wow", 
+            "Prison", 
+            "Politics", 
+            "Dungeon", 
+            "Stalinism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Picnic", 
+            "World_population", 
+            "Life_expectancy", 
+            "Terrorism", 
+            "Prison"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "LOL", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Patreus", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base", 
+            "Joseph_Stalin", 
+            "Torture", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States", 
+            "Torture", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Intelligence_(information_gathering)", 
+            "Thomas_Jefferson", 
+            "Torture", 
+            "Presidency_of_George_W._Bush", 
+            "Bank", 
+            "Martyr", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Presidency_of_George_W._Bush", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Gitmo_(documentary)", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Joseph_Stalin", 
+            "Partisan_(military)", 
+            "Gitmo_(documentary)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Delta,_British_Columbia", 
+            "Chemical_compound", 
+            "Camp_Delta"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Thought", 
+            "Vermin", 
+            "Terrorism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Gitmo_(documentary)", 
+            "Gitmo_(documentary)", 
+            "Monkey", 
+            "Prison", 
+            "Gitmo_(documentary)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Yea,_Victoria"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Terrorism", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abu_Ghraib_torture_and_prisoner_abuse", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Mike_Moore", 
+            "Prison", 
+            "United_States", 
+            "Incarceration_in_the_United_States", 
+            "Prison", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Execution_by_firing_squad"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Flip-flop_(electronics)", 
+            "Flop"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Health_care", 
+            "Child_sexual_abuse", 
+            "United_States", 
+            "Terrorism", 
+            "Chinese_food_therapy", 
+            "Radio_Liberty", 
+            "Prison", 
+            "Thomas_Jefferson", 
+            "Radio_Liberty", 
+            "Patriotism", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "Rock_music", 
+            "Population", 
+            "United_States", 
+            "Prison", 
+            "Europe", 
+            "Bank", 
+            "Time_(magazine)", 
+            "Patreus", 
+            "Prayer", 
+            "Terrorism"
+        ], 
+        "postID": 40
+    }
+]

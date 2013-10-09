@@ -1,0 +1,105 @@
+[
+    {
+        "entity": [
+            "Prank", 
+            "Hoax", 
+            "NASCAR", 
+            "Levity", 
+            "NASCAR", 
+            "Automobile", 
+            "Bail_(disambiguation)", 
+            "Barack_Obama", 
+            "France", 
+            "Chevrolet", 
+            "Horror_fiction", 
+            "Car_and_Driver", 
+            "Magazine", 
+            "Automotive_industry", 
+            "Japan", 
+            "Task_force", 
+            "NASCAR", 
+            "Blog", 
+            "April_Fools'_Day", 
+            "Car_and_Driver", 
+            "Barack_Obama", 
+            "NASCAR", 
+            "Internet", 
+            "Car_and_Driver", 
+            "Twitter", 
+            "Magazine", 
+            "Dodge"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Thread_(computer_science)", 
+            "Dollar"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Moderator", 
+            "Mod", 
+            "Hat", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Killed_in_action", 
+            "Jeff_Gordon"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "KERNAL", 
+            "NASCAR", 
+            "Chrysler"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "France", 
+            "NASCAR"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Toll_road"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "White_flag", 
+            "Decal", 
+            "Flag"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "White_flag", 
+            "Flag", 
+            "NASCAR"
+        ], 
+        "postID": 11
+    }
+]

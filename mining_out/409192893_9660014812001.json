@@ -1,0 +1,147 @@
+[
+    {
+        "entity": [
+            "Traction", 
+            "American_International_Group"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Blanket", 
+            "International_Maritime_Organization", 
+            "Penthouse_(magazine)", 
+            "Bribery", 
+            "Payroll", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Coffee"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Layoff"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "SOP_Rules"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Clutter", 
+            "Mental_confusion", 
+            "Bulldozer", 
+            "Broom"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Civil_service", 
+            "High_school"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chief_executive_officer", 
+            "Gimmick", 
+            "Gimmick", 
+            "Nomenclature", 
+            "Corporation", 
+            "Treasury"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Turkey", 
+            "Fat", 
+            "Cat", 
+            "Butter", 
+            "Bone", 
+            "Christmas"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Pink_slip"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Conditional"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Thread_(computer_science)", 
+            "Conscription", 
+            "Debt", 
+            "American_International_Group"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "Safety_(American_football)", 
+            "Public_safety", 
+            "Suicide", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "Profit"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Conscription", 
+            "Barack_Obama", 
+            "Cola_(disambiguation)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Catch_phrase", 
+            "Morality", 
+            "Bail", 
+            "American_International_Group", 
+            "Conscription", 
+            "Iron", 
+            "Conscription", 
+            "Secret_service", 
+            "Fault_(geology)", 
+            "International_Maritime_Organization", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 16
+    }
+]

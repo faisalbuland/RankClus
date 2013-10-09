@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "USS_Cole", 
+            "Terrorism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "USS_Cole_bombing", 
+            "Treason", 
+            "United_States"
+        ], 
+        "postID": 3
+    }
+]

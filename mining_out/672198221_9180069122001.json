@@ -1,0 +1,638 @@
+[
+    {
+        "entity": [
+            "Pig", 
+            "Israel", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Salas", 
+            "Ford_Motor_Company", 
+            "News_conference", 
+            "Influenza", 
+            "Pig", 
+            "Mexico", 
+            "Swine_flu", 
+            "Frederico", 
+            "Ambassador", 
+            "Mexico", 
+            "Pork", 
+            "Israel", 
+            "Virus", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Gerald_Ford", 
+            "Influenza", 
+            "Swine_flu", 
+            "Jerusalem", 
+            "Mexico", 
+            "Mexico", 
+            "Influenza", 
+            "Minister_of_Health_(Canada)", 
+            "Mexico", 
+            "Muslim", 
+            "Mexico", 
+            "Jew", 
+            "Influenza", 
+            "Israel", 
+            "Equine_influenza", 
+            "Israel", 
+            "Pig"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Spanish_flu", 
+            "Pig", 
+            "Swine_flu", 
+            "Muslim", 
+            "Minister_of_Health_(Canada)", 
+            "Gerald_Ford", 
+            "Israelis", 
+            "Influenza", 
+            "Israel", 
+            "Ford_Motor_Company", 
+            "Influenza", 
+            "Judaism", 
+            "Influenza", 
+            "Torah_Judaism", 
+            "Influenza", 
+            "Torah", 
+            "Pig", 
+            "Jew", 
+            "Swine_flu", 
+            "Mexico", 
+            "Pork", 
+            "Pandemic", 
+            "United_Torah_Judaism", 
+            "Taboo_food_and_drink", 
+            "Kashrut"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Mexico", 
+            "Nut_(hardware)", 
+            "Muslim", 
+            "4th_century", 
+            "NAW", 
+            "Nut_(fruit)", 
+            "Jew"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Virus"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Fundamentalism", 
+            "Disease"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Unclean_animals", 
+            "Animal"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Moron_(psychology)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Anbar"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Freedom_fries", 
+            "French_fries", 
+            "French_fries", 
+            "French_fries"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Ford_Motor_Company", 
+            "Mexico", 
+            "Israel", 
+            "Gerald_Ford"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Freedom_fries", 
+            "French_fries"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Gay"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "French_language", 
+            "Ketchup", 
+            "French_language", 
+            "French_language", 
+            "French_fries"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Ketchup"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Jerusalem", 
+            "Influenza", 
+            "Virus"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Cooking", 
+            "Religion", 
+            "Pork"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Israel", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Salas", 
+            "Ford_Motor_Company", 
+            "News_conference", 
+            "Influenza", 
+            "Pig", 
+            "Mexico", 
+            "Swine_flu", 
+            "Frederico", 
+            "Ambassador", 
+            "Mexico", 
+            "Pork", 
+            "Israel", 
+            "Virus", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Gerald_Ford", 
+            "Influenza", 
+            "Swine_flu", 
+            "Jerusalem", 
+            "Mexico", 
+            "Mexico", 
+            "Influenza", 
+            "Minister_of_Health_(Canada)", 
+            "Mexico", 
+            "Muslim", 
+            "Mexico", 
+            "Jew", 
+            "Influenza", 
+            "Israel", 
+            "Equine_influenza", 
+            "Israel", 
+            "Pig"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Spanish_flu", 
+            "Pig", 
+            "Swine_flu", 
+            "Muslim", 
+            "Minister_of_Health_(Canada)", 
+            "Gerald_Ford", 
+            "Israelis", 
+            "Influenza", 
+            "Israel", 
+            "Ford_Motor_Company", 
+            "Influenza", 
+            "Judaism", 
+            "Influenza", 
+            "Torah_Judaism", 
+            "Influenza", 
+            "Torah", 
+            "Pig", 
+            "Jew", 
+            "Swine_flu", 
+            "Mexico", 
+            "Pork", 
+            "Pandemic", 
+            "United_Torah_Judaism", 
+            "Taboo_food_and_drink", 
+            "Kashrut"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Mexico", 
+            "Nut_(hardware)", 
+            "Muslim", 
+            "4th_century", 
+            "NAW", 
+            "Nut_(fruit)", 
+            "Jew"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Virus"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Fundamentalism", 
+            "Disease"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Unclean_animals", 
+            "Animal"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Moron_(psychology)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Anbar"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Freedom_fries", 
+            "French_fries", 
+            "French_fries", 
+            "French_fries"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Ford_Motor_Company", 
+            "Mexico", 
+            "Israel", 
+            "Gerald_Ford"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Freedom_fries", 
+            "French_fries"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Gay"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "French_language", 
+            "Ketchup", 
+            "French_language", 
+            "French_language", 
+            "French_fries"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Ketchup"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Jerusalem", 
+            "Influenza", 
+            "Virus"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Cooking", 
+            "Religion", 
+            "Pork"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Israel", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Salas", 
+            "Ford_Motor_Company", 
+            "News_conference", 
+            "Influenza", 
+            "Pig", 
+            "Mexico", 
+            "Swine_flu", 
+            "Frederico", 
+            "Ambassador", 
+            "Mexico", 
+            "Pork", 
+            "Israel", 
+            "Virus", 
+            "Foreign_Affairs_Minister_of_Israel", 
+            "Gerald_Ford", 
+            "Influenza", 
+            "Swine_flu", 
+            "Jerusalem", 
+            "Mexico", 
+            "Mexico", 
+            "Influenza", 
+            "Minister_of_Health_(Canada)", 
+            "Mexico", 
+            "Muslim", 
+            "Mexico", 
+            "Jew", 
+            "Influenza", 
+            "Israel", 
+            "Equine_influenza", 
+            "Israel", 
+            "Pig"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Spanish_flu", 
+            "Pig", 
+            "Swine_flu", 
+            "Muslim", 
+            "Minister_of_Health_(Canada)", 
+            "Gerald_Ford", 
+            "Israelis", 
+            "Influenza", 
+            "Israel", 
+            "Ford_Motor_Company", 
+            "Influenza", 
+            "Judaism", 
+            "Influenza", 
+            "Torah_Judaism", 
+            "Influenza", 
+            "Torah", 
+            "Pig", 
+            "Jew", 
+            "Swine_flu", 
+            "Mexico", 
+            "Pork", 
+            "Pandemic", 
+            "United_Torah_Judaism", 
+            "Taboo_food_and_drink", 
+            "Kashrut"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Mexico", 
+            "Nut_(hardware)", 
+            "Muslim", 
+            "4th_century", 
+            "NAW", 
+            "Nut_(fruit)", 
+            "Jew"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Virus"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Fundamentalism", 
+            "Disease"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Unclean_animals", 
+            "Animal"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Moron_(psychology)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Anbar"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Freedom_fries", 
+            "French_fries", 
+            "French_fries", 
+            "French_fries"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Ford_Motor_Company", 
+            "Mexico", 
+            "Israel", 
+            "Gerald_Ford"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Freedom_fries", 
+            "French_fries"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Gay"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "French_language", 
+            "Ketchup", 
+            "French_language", 
+            "French_language", 
+            "French_fries"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Ketchup"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Jerusalem", 
+            "Influenza", 
+            "Virus"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Cooking", 
+            "Religion", 
+            "Pork"
+        ], 
+        "postID": 60
+    }
+]

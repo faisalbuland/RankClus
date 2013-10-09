@@ -1,0 +1,340 @@
+[
+    {
+        "entity": [
+            "Memoir"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Liberalism", 
+            "Governor", 
+            "Ice_hockey"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Liberalism_in_the_United_States", 
+            "Savage_(rapper)", 
+            "President_of_the_United_States", 
+            "John_McCain"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Aircraft_Data_Network"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "United_States_Marine_Corps", 
+            "Jingle_Bells", 
+            "Jingle", 
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "United_States_Republican_vice_presidential_candidates,_2008", 
+            "John_McCain", 
+            "President_of_the_United_States", 
+            "John_McCain"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Christmas", 
+            "Hack_(technology)", 
+            "Palin_Majere", 
+            "Barack_Obama"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Savage_(rapper)", 
+            "Palin_Majere", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Tide"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Independent_(voter)", 
+            "Liberalism", 
+            "Washington,_D.C.", 
+            "Republican_Party_(United_States)", 
+            "Palin_Majere", 
+            "Palin_Majere", 
+            "Politics", 
+            "Palin_Majere", 
+            "Military_service", 
+            "Political_agenda", 
+            "Fault_(geology)", 
+            "Liberalism", 
+            "Political_party", 
+            "Lease", 
+            "Politics", 
+            "Baseball", 
+            "George_W._Bush", 
+            "Cut-throat_Finch", 
+            "Politics", 
+            "Favorite_son", 
+            "Arena", 
+            "Centrism", 
+            "United_States_Senate", 
+            "Stump_(cricket)", 
+            "Republican_Party_(United_States)", 
+            "News_media", 
+            "Stump_speech_(politics)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Palin_Majere"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Flint,_Michigan", 
+            "Moron"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Profit", 
+            "Conservatism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Doc_(TV_series)", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Memoir"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Liberalism", 
+            "Governor", 
+            "Ice_hockey"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Liberalism_in_the_United_States", 
+            "Savage_(rapper)", 
+            "President_of_the_United_States", 
+            "John_McCain"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Aircraft_Data_Network"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "United_States_Marine_Corps", 
+            "Jingle_Bells", 
+            "Jingle", 
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "United_States_Republican_vice_presidential_candidates,_2008", 
+            "John_McCain", 
+            "President_of_the_United_States", 
+            "John_McCain"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Christmas", 
+            "Hack_(technology)", 
+            "Palin_Majere", 
+            "Barack_Obama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "Savage_(rapper)", 
+            "Palin_Majere", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Tide"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Independent_(voter)", 
+            "Liberalism", 
+            "Washington,_D.C.", 
+            "Republican_Party_(United_States)", 
+            "Palin_Majere", 
+            "Palin_Majere", 
+            "Politics", 
+            "Palin_Majere", 
+            "Military_service", 
+            "Political_agenda", 
+            "Fault_(geology)", 
+            "Liberalism", 
+            "Political_party", 
+            "Lease", 
+            "Politics", 
+            "Baseball", 
+            "George_W._Bush", 
+            "Cut-throat_Finch", 
+            "Politics", 
+            "Favorite_son", 
+            "Arena", 
+            "Centrism", 
+            "United_States_Senate", 
+            "Stump_(cricket)", 
+            "Republican_Party_(United_States)", 
+            "News_media", 
+            "Stump_speech_(politics)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Palin_Majere"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Flint,_Michigan", 
+            "Moron"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Profit", 
+            "Conservatism"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Doc_(TV_series)", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 40
+    }
+]

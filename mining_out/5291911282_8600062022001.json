@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [
+            "Castra", 
+            "Castra", 
+            "Sibling"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Fort_Jackson_(South_Carolina)", 
+            "Recruit_training", 
+            "Fort_Jackson_(South_Carolina)", 
+            "Missouri", 
+            "Jackson,_Mississippi", 
+            "AIT", 
+            "Jackson,_Mississippi", 
+            "Jackson,_Mississippi", 
+            "Fort_Jackson_(South_Carolina)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "John_Knox", 
+            "Jackson,_Mississippi", 
+            "Fort_Knox", 
+            "Bus", 
+            "Barracks", 
+            "Advanced_Intelligent_Tape"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Contact_(film)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fortune_(magazine)", 
+            "Hell", 
+            "Platoon", 
+            "Stories_from_the_City,_Stories_from_the_Sea", 
+            "Drill_instructor", 
+            "Drill", 
+            "Young-adult_fiction"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Military.com"
+        ], 
+        "postID": 6
+    }
+]

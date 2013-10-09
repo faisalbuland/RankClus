@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Colombia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Ronald_Reagan", 
+            "United_States", 
+            "Columbia_University", 
+            "Drug", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Columbia_University", 
+            "Cash_crop", 
+            "Drug", 
+            "Columbia_University"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Death_squad", 
+            "Tide", 
+            "Dude_(musical)", 
+            "United_States", 
+            "Alien_(law)", 
+            "Illegal_immigration"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Columbia,_South_Carolina", 
+            "Illegal_immigration", 
+            "Crime", 
+            "Petroleum", 
+            "Central_America", 
+            "Crime", 
+            "Vacuum", 
+            "State", 
+            "Benignity", 
+            "Columbia,_South_Carolina", 
+            "Drug_lord", 
+            "Hugo_Ch\u00e1vez", 
+            "Immigration", 
+            "Sovereignty", 
+            "Tourism", 
+            "Illegal_drug_trade", 
+            "Hugo_Award", 
+            "Organized_crime", 
+            "Argentina", 
+            "Columbia,_South_Carolina", 
+            "United_States", 
+            "United_States", 
+            "Helicopter", 
+            "Hugo_Ch\u00e1vez", 
+            "Benign_neglect"
+        ], 
+        "postID": 8
+    }
+]

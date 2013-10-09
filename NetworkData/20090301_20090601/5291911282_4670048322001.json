@@ -1,0 +1,68 @@
+[
+    {
+        "content": "I notice when posting ... in the last box on the right [LAST POST] it gives the date and the time. We have been posting one after another and it shows up two hours ahead of my local time. So ... is 'Post Time' on Mountain Standard Time? And if so ... Why?", 
+        "intTime": 20090521, 
+        "postID": 1, 
+        "quote": "", 
+        "reply": "I notice when posting ... in the last box on the right [LAST POST] it gives the date and the time. We have been posting one after another and it shows up two hours ahead of my local time. So ... is 'Post Time' on Mountain Standard Time? And if so ... Why?", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 06:31:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "majorjim"
+    }, 
+    {
+        "content": "The posting time is set for west coast time, because that's where the website server is.", 
+        "intTime": 20090521, 
+        "postID": 2, 
+        "quote": "", 
+        "reply": "The posting time is set for west coast time, because that's where the website server is.", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 06:50:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "gypsysnipe"
+    }, 
+    {
+        "content": "Thank You gypsysnipe. I appreciate your response.", 
+        "intTime": 20090521, 
+        "postID": 3, 
+        "quote": "", 
+        "reply": "Thank You gypsysnipe. I appreciate your response.", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 06:52:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "majorjim"
+    }, 
+    {
+        "content": "quote: Originally posted by majorjim: I notice when posting ... in the last box on the right [LAST POST] it gives the date and the time. We have been posting one after another and it shows up two hours ahead of my local time. So ... is 'Post Time' on Mountain Standard Time? And if so ... Why? majorjim, You can set the time you choose by going to your personal zone, then preferences, then My Time Display. Robert", 
+        "intTime": 20090521, 
+        "postID": 4, 
+        "quote": "Originally posted by majorjim: I notice when posting ... in the last box on the right [LAST POST] it gives the date and the time. We have been posting one after another and it shows up two hours ahead of my local time. So ... is 'Post Time' on Mountain Standard Time? And if so ... Why?", 
+        "reply": " majorjim, You can set the time you choose by going to your personal zone, then preferences, then My Time Display. Robert", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 08:29:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "VeteranDad78"
+    }, 
+    {
+        "content": "Can I change it so the time is by the 24 hour clock? For example, 1343? AM and PM is SO CIVILIAN! How about zulu time?", 
+        "intTime": 20090521, 
+        "postID": 5, 
+        "quote": "", 
+        "reply": "Can I change it so the time is by the 24 hour clock? For example, 1343? AM and PM is SO CIVILIAN! How about zulu time?", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 13:43:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "scooter_mech"
+    }, 
+    {
+        "content": "quote: Originally posted by gypsysnipe: The posting time is set for west coast time, because that's where the website server is. Yep - San Francisco, the new Capitol and Moral Axis of America - - Wandering and Wondering", 
+        "intTime": 20090521, 
+        "postID": 6, 
+        "quote": "Originally posted by gypsysnipe: The posting time is set for west coast time, because that's where the website server is.", 
+        "reply": " Yep - San Francisco, the new Capitol and Moral Axis of America - - Wandering and Wondering", 
+        "threadID": "5291911282_4670048322001", 
+        "time": "2009-05-21 13:56:00", 
+        "title": "Is \"Posting Time\" MST", 
+        "userID": "greywolfghost"
+    }
+]

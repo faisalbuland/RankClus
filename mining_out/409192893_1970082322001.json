@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Talking_point", 
+            "Thread_(computer_science)", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Partisan_(military)", 
+            "Politics"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Avatar", 
+            "Cylinder_(geometry)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Flatulence"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Internet_forum"
+        ], 
+        "postID": 10
+    }
+]

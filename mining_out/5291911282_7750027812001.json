@@ -1,0 +1,112 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "United_States_Marine_Corps", 
+            "Recruit_training", 
+            "Boot"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bank", 
+            "MasterCard", 
+            "Argentina", 
+            "Bank", 
+            "Debit_card", 
+            "Slovenia", 
+            "Online_banking", 
+            "Bank", 
+            "Kuwait", 
+            "Nepal", 
+            "Iowa", 
+            "Bank"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Vehicle_insurance", 
+            "USAA", 
+            "Insurance", 
+            "Federal_savings_association"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Town", 
+            "Bank"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Percy_the_Small_Engine"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Property_insurance", 
+            "Automated_teller_machine", 
+            "Insurance", 
+            "USAA", 
+            "Federal_savings_association"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "USAA", 
+            "Bank", 
+            "United_States", 
+            "BoA", 
+            "Bank_of_America"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "Duck", 
+            "D._V._Gundappa", 
+            "USAA", 
+            "Soldier", 
+            "God", 
+            "God", 
+            "Soldier"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "USAA", 
+            "Bank", 
+            "United_States_Department_of_Defense", 
+            "Mortgage", 
+            "Insurance", 
+            "Navy_Federal_Credit_Union", 
+            "Trade_union", 
+            "Credit_union", 
+            "Automated_teller_machine", 
+            "Mortgage", 
+            "United_States_Navy", 
+            "Union_(American_Civil_War)", 
+            "Credit_card", 
+            "San_Antonio,_Texas", 
+            "Credit_union", 
+            "National_bank", 
+            "United_States_Army"
+        ], 
+        "postID": 10
+    }
+]

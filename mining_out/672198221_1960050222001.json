@@ -1,0 +1,120 @@
+[
+    {
+        "entity": [
+            "SWAT", 
+            "Afghanistan", 
+            "Muslim", 
+            "Intersection_(road)", 
+            "Regions_of_France", 
+            "French_Foreign_Legion", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "Taliban", 
+            "NATO", 
+            "Legion", 
+            "Drug", 
+            "NATO", 
+            "NATO", 
+            "Drug_lord", 
+            "Valley", 
+            "Turkey", 
+            "Drug", 
+            "Taliban", 
+            "Opium", 
+            "Afghanistan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "NATO", 
+            "Intersection_(road)", 
+            "SWAT", 
+            "Illegal_drug_trade", 
+            "Muslim", 
+            "French_Foreign_Legion", 
+            "Afghanistan", 
+            "Valley", 
+            "Taliban", 
+            "NATO", 
+            "Afghanistan", 
+            "NATO", 
+            "Taliban", 
+            "Bribery", 
+            "Afghanistan", 
+            "United_States", 
+            "Regions_of_France", 
+            "Afghanistan", 
+            "Legion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Iraq", 
+            "Negligence", 
+            "Presidency_of_George_W._Bush", 
+            "Intelligence"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Foreign_policy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Nielsen_Broadcast_Data_Systems", 
+            "Qigong", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Breathing", 
+            "George_W._Bush", 
+            "LOL"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Counter-insurgency", 
+            "Pharmaceutical_company", 
+            "Bird", 
+            "Opium", 
+            "Opiate", 
+            "Medication", 
+            "Afghanistan"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nail_(fastener)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Asphalt", 
+            "Improvised_explosive_device"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hamid_Karzai", 
+            "Fundamentalism", 
+            "Quagmire", 
+            "Cannabis_(drug)", 
+            "Coalition", 
+            "Illegal_drug_trade"
+        ], 
+        "postID": 9
+    }
+]

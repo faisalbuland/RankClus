@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "Ambush", 
+            "Ammunition", 
+            "Police", 
+            "Militia", 
+            "Table-turning", 
+            "Village", 
+            "Telegraphy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Convoy", 
+            "Logistics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Demography_of_Afghanistan", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Police"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Guess_(clothing)", 
+            "KNEW_(AM)", 
+            "WING", 
+            "Thought"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Armory_(military)", 
+            "Taliban", 
+            "Vietnam_War", 
+            "Police_station", 
+            "National_Guard_of_the_United_States", 
+            "Taliban", 
+            "Convoy", 
+            "Police", 
+            "Drug", 
+            "Theatre", 
+            "Red_Army", 
+            "Soviet_Union", 
+            "United_States", 
+            "Ammunition"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "SR_Class_V", 
+            "Pakistan"
+        ], 
+        "postID": 8
+    }
+]

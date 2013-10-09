@@ -1,0 +1,217 @@
+[
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "Artist", 
+            "God", 
+            "Liberty", 
+            "March_24", 
+            "September_11,_2001_attacks", 
+            "Russia", 
+            "Terrorism", 
+            "2009", 
+            "Russians", 
+            "Terrorism", 
+            "Statue_of_Liberty", 
+            "Vietnam", 
+            "Vietnam_Veterans_Memorial", 
+            "Terrorism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Russia_men's_national_volleyball_team", 
+            "Terrorism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Jesup,_Georgia", 
+            "Muslim", 
+            "Gym", 
+            "National_Football_League_Training_Camp"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Snopes"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "Snopes", 
+            "God"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "Michael_Chertoff", 
+            "New_Jersey", 
+            "1993_World_Trade_Center_bombing", 
+            "Bob_Menendez", 
+            "United_States_Senate", 
+            "Terrorism", 
+            "Syllable_rime", 
+            "Manhattan", 
+            "Russian_language", 
+            "Grammy_Award", 
+            "1993", 
+            "Grammy_Award", 
+            "Frank_Lautenberg", 
+            "New_York_Harbor", 
+            "New_York", 
+            "Time_(magazine)", 
+            "September_11,_2001_attacks", 
+            "Staten_Island_Ferry", 
+            "Staten_Island", 
+            "United_States_Department_of_Homeland_Security", 
+            "Solidarity_(trade_union)", 
+            "September_11,_2001_attacks", 
+            "1993_World_Trade_Center_bombing", 
+            "Anthem", 
+            "Russia", 
+            "Foot_(length)", 
+            "Lower_Manhattan", 
+            "Zurab_Tsereteli", 
+            "New_Jersey", 
+            "World_Trade_Center", 
+            "Bill_Clinton", 
+            "Tsereteli", 
+            "LeAnn_Rimes", 
+            "Michael_Chertoff", 
+            "York_Harbor,_Maine", 
+            "Airport", 
+            "Bill_Clinton", 
+            "Terrorism", 
+            "Russians", 
+            "United_States_Senate", 
+            "Frank_Lautenberg", 
+            "President_of_the_United_States", 
+            "Russian_language", 
+            "United_States_Department_of_Homeland_Security", 
+            "National_anthem", 
+            "Jon_Corzine", 
+            "Fixed-wing_aircraft", 
+            "Newark,_New_Jersey", 
+            "Federal_government_of_the_United_States", 
+            "Jon_Corzine", 
+            "World_Trade_Center", 
+            "Governor_of_New_Jersey", 
+            "Newark_Liberty_International_Airport"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Monument", 
+            "Genius", 
+            "Angle"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "A6M_Zero", 
+            "A6M_Zero", 
+            "World_Trade_Center_site", 
+            "Monument", 
+            "World_Trade_Center_site"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Cent_(music)", 
+            "D._V._Gundappa", 
+            "Exoskeleton", 
+            "Derelict", 
+            "Sun", 
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Duck"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Rhetoric", 
+            "Russia", 
+            "Men_who_have_sex_with_men"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Government_of_Russia", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "Lion", 
+            "President_of_the_United_States", 
+            "Russia"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Liberty_State_Park", 
+            "State_park", 
+            "Liberty", 
+            "Liberty_City_(Grand_Theft_Auto)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Men_who_have_sex_with_men", 
+            "George_W._Bush"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "View_Park-Windsor_Hills,_California", 
+            "Harbour_View_F.C."
+        ], 
+        "postID": 18
+    }
+]

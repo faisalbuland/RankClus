@@ -1,0 +1,120 @@
+[
+    {
+        "entity": [
+            "Swine_flu", 
+            "Pig", 
+            "Swine_flu", 
+            "Mexico", 
+            "Pig", 
+            "Transmitter", 
+            "Respiratory_system", 
+            "Influenza", 
+            "Influenza"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Canada"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mystery_(fiction)", 
+            "Library", 
+            "Influenza", 
+            "Pandemic", 
+            "Virus", 
+            "Departments_of_France", 
+            "Swine_flu", 
+            "Pig", 
+            "Film_director", 
+            "Influenza", 
+            "California", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Sampling_(music)", 
+            "Health_department", 
+            "Pandemic", 
+            "Mexico", 
+            "Mexico", 
+            "Mexico", 
+            "Texas", 
+            "Influenza", 
+            "Pig", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Swine_flu", 
+            "Influenza", 
+            "Texas", 
+            "Mexico", 
+            "Mexico", 
+            "California", 
+            "Virus", 
+            "943", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Mexico", 
+            "Mexico_City", 
+            "Canada", 
+            "Gunny", 
+            "Canada", 
+            "Riviera", 
+            "Maya_civilization", 
+            "China", 
+            "Tourism", 
+            "Young-adult_fiction", 
+            "Truck", 
+            "Riviera_Maya", 
+            "Canada", 
+            "Mexico", 
+            "Maya_civilization", 
+            "United_States", 
+            "Mexico"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Sic"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Canada", 
+            "Yesterday_(song)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Spain", 
+            "Influenza", 
+            "Spanish_flu", 
+            "Pandemic", 
+            "1918", 
+            "Spanish_flu", 
+            "United_States", 
+            "Influenza_pandemic", 
+            "Hope,_Arkansas", 
+            "World_War_I"
+        ], 
+        "postID": 9
+    }
+]

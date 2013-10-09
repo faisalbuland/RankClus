@@ -1,0 +1,398 @@
+[
+    {
+        "entity": [
+            "TARP", 
+            "United_States", 
+            "Curb_(road)", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Capitalism", 
+            "United_States_Congress", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Administration_of_federal_assistance_in_the_United_States", 
+            "Legislation", 
+            "Lisp", 
+            "Financial_institution", 
+            "Barney_Frank", 
+            "Chair_(official)", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Curb_(road)", 
+            "Barney_Gumble", 
+            "Barney_Frank", 
+            "Mr._Jones", 
+            "Barney_Gumble", 
+            "United_States_House_Committee_on_Financial_Services"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Franks", 
+            "Public_opinion", 
+            "Hell", 
+            "Barny_Boatman"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Knee", 
+            "Capitalism", 
+            "Major_League_Baseball_Draft", 
+            "Capitalist_mode_of_production", 
+            "Minolta", 
+            "Alex_Rodriguez", 
+            "NFL_Draft", 
+            "Jerk"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Prostitution", 
+            "Franks", 
+            "Cap_(sport)", 
+            "Apartment"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Campaign_finance", 
+            "Politician", 
+            "Wind", 
+            "Wagon", 
+            "Populism", 
+            "Politician"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "State", 
+            "Common_land", 
+            "IMHO", 
+            "Socialism", 
+            "Economic_system"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bacon"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Democratic_Party_(United_States)", 
+            "MAE-East", 
+            "LOL", 
+            "Hypocrisy", 
+            "TARP", 
+            "Point_of_sale", 
+            "Language", 
+            "2009", 
+            "Freddie", 
+            "Fannie_Mae", 
+            "Mid-American_Conference", 
+            "Mae", 
+            "Profit", 
+            "Legislation", 
+            "Grayson_County,_Texas"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "Massachusetts", 
+            "Water", 
+            "John_F._Kennedy", 
+            "John_Kerry", 
+            "Barney_Gumble"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Masturbation", 
+            "Delusion", 
+            "Barney", 
+            "Barney", 
+            "Barney"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "TARP"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "TARP", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "TARP"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Highway", 
+            "Money_(magazine)", 
+            "Chief_executive_officer", 
+            "Barney_Frank", 
+            "Cement", 
+            "Federal_Deposit_Insurance_Corporation", 
+            "Barney_Gumble", 
+            "Doc_(TV_series)", 
+            "Barack_Obama", 
+            "Flag"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Official", 
+            "Capitalism", 
+            "Political_power", 
+            "United_States_Congress", 
+            "Official"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "TARP", 
+            "United_States", 
+            "Curb_(road)", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Capitalism", 
+            "United_States_Congress", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Administration_of_federal_assistance_in_the_United_States", 
+            "Legislation", 
+            "Lisp", 
+            "Financial_institution", 
+            "Barney_Frank", 
+            "Chair_(official)", 
+            "United_States_House_Committee_on_Financial_Services", 
+            "Curb_(road)", 
+            "Barney_Gumble", 
+            "Barney_Frank", 
+            "Mr._Jones", 
+            "Barney_Gumble", 
+            "United_States_House_Committee_on_Financial_Services"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Franks", 
+            "Public_opinion", 
+            "Hell", 
+            "Barny_Boatman"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Knee", 
+            "Capitalism", 
+            "Major_League_Baseball_Draft", 
+            "Capitalist_mode_of_production", 
+            "Minolta", 
+            "Alex_Rodriguez", 
+            "NFL_Draft", 
+            "Jerk"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Prostitution", 
+            "Franks", 
+            "Cap_(sport)", 
+            "Apartment"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Campaign_finance", 
+            "Politician", 
+            "Wind", 
+            "Wagon", 
+            "Populism", 
+            "Politician"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "State", 
+            "Common_land", 
+            "IMHO", 
+            "Socialism", 
+            "Economic_system"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Bacon"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Democratic_Party_(United_States)", 
+            "MAE-East", 
+            "LOL", 
+            "Hypocrisy", 
+            "TARP", 
+            "Point_of_sale", 
+            "Language", 
+            "2009", 
+            "Freddie", 
+            "Fannie_Mae", 
+            "Mid-American_Conference", 
+            "Mae", 
+            "Profit", 
+            "Legislation", 
+            "Grayson_County,_Texas"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "Massachusetts", 
+            "Water", 
+            "John_F._Kennedy", 
+            "John_Kerry", 
+            "Barney_Gumble"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Masturbation", 
+            "Delusion", 
+            "Barney", 
+            "Barney", 
+            "Barney"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "TARP"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "TARP", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "TARP"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Highway", 
+            "Money_(magazine)", 
+            "Chief_executive_officer", 
+            "Barney_Frank", 
+            "Cement", 
+            "Federal_Deposit_Insurance_Corporation", 
+            "Barney_Gumble", 
+            "Doc_(TV_series)", 
+            "Barack_Obama", 
+            "Flag"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Official", 
+            "Capitalism", 
+            "Political_power", 
+            "United_States_Congress", 
+            "Official"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 40
+    }
+]

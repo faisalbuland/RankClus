@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "Pew_Research_Center", 
+            "Illegal_immigration", 
+            "Deportation", 
+            "United_States", 
+            "Immigration", 
+            "2008", 
+            "Immigration", 
+            "Immigration", 
+            "Twelfth_grade", 
+            "Illegal_immigration", 
+            "March_2008", 
+            "Immigration", 
+            "Immigration", 
+            "Illegal_immigration_to_the_United_States", 
+            "Pew_Research_Center", 
+            "Pew_Research_Center", 
+            "Illegal_immigration", 
+            "Poverty", 
+            "Illegal_immigration", 
+            "Nonpartisan", 
+            "United_States", 
+            "Hispanic_and_Latino_Americans", 
+            "Economy", 
+            "Immigration", 
+            "United_States", 
+            "Illegal_immigration", 
+            "2003", 
+            "Immigration", 
+            "United_States", 
+            "Illegal_immigration", 
+            "Labor_force", 
+            "United_States", 
+            "Agriculture", 
+            "Poverty", 
+            "Kindergarten"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Los_Angeles_Unified_School_District", 
+            "Immigration_to_the_United_States", 
+            "Los_Angeles,_California", 
+            "Illegal_immigration", 
+            "Day_care", 
+            "Immigration", 
+            "Immigration"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

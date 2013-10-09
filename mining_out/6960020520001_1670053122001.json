@@ -1,0 +1,718 @@
+[
+    {
+        "entity": [
+            "Clown", 
+            "SERE", 
+            "Sleep_deprivation", 
+            "World_War_II", 
+            "Terrorism", 
+            "War_crime", 
+            "Hell", 
+            "On-base_plus_slugging", 
+            "Geneva", 
+            "USS_Cole_bombing", 
+            "Diplomatic_mission", 
+            "Clown", 
+            "Geneva_Conventions", 
+            "Military_tribunal", 
+            "September_11,_2001_attacks", 
+            "Military_of_the_United_States", 
+            "Liberalism", 
+            "Terrorism", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Public_domain", 
+            "Barack_Obama", 
+            "Law", 
+            "Domain_(mathematics)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hamdan", 
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Zealotry", 
+            "Torture", 
+            "Military_of_the_United_States", 
+            "Torture", 
+            "Napoleon_I_of_France", 
+            "Knife", 
+            "United_States", 
+            "United_States", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "World_Court", 
+            "Geneva_Conventions", 
+            "Vietnam", 
+            "Korean_War", 
+            "Terrorism", 
+            "Prisoner_of_war", 
+            "Geneva"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "George_W._Bush", 
+            "Donald_Rumsfeld", 
+            "President_of_the_United_States", 
+            "Torture", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hummer", 
+            "Suicide", 
+            "Suicide_attack", 
+            "Bomber"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Geneva", 
+            "Law", 
+            "Treaty", 
+            "Treaty", 
+            "Eland", 
+            "Right_to_a_fair_trial", 
+            "Geneva_Conventions", 
+            "Iran", 
+            "Reporter", 
+            "Unlawful_combatant", 
+            "Unlawful_combatant", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Shi_(poetry)", 
+            "John_Yoo", 
+            "United_States_Army", 
+            "Al-Qaeda", 
+            "Weapon_of_mass_destruction", 
+            "Iraq_War", 
+            "Cuba", 
+            "Iraq", 
+            "David_Addington", 
+            "Prosecutor", 
+            "Waterboarding", 
+            "Al-Qaeda", 
+            "Inspector_General", 
+            "United_States_Army", 
+            "Jack_(device)", 
+            "Jive_(dance)", 
+            "Al-Qaeda", 
+            "Eland", 
+            "Dick_Cheney", 
+            "United_States_Army", 
+            "Charles_Burney", 
+            "Counter-terrorism", 
+            "Chilean_Army", 
+            "December_2001", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "The_Pentagon", 
+            "David_Addington", 
+            "Bravo_(US_TV_channel)", 
+            "United_States_Army", 
+            "United_States", 
+            "Burney,_California", 
+            "United_States_Army", 
+            "Guantanamo_Bay_detention_camp", 
+            "2006", 
+            "Washington,_D.C.", 
+            "The_Washington_Post", 
+            "Guantanamo_Bay_detention_camp", 
+            "2001", 
+            "Psychiatrist", 
+            "Bravo_(US_TV_channel)", 
+            "Burney,_California", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Iraq", 
+            "Iraq", 
+            "2001", 
+            "Torture", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Waco_Siege", 
+            "Bill_Clinton", 
+            "Incineration", 
+            "Ruby_Ridge", 
+            "Presidency_of_Bill_Clinton", 
+            "Ruby_(programming_language)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Australian_Senate", 
+            "Standing_committee_(United_States_Congress)", 
+            "Separation_of_powers"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Duke", 
+            "Bennie_Cunningham"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Eland", 
+            "George_W._Bush", 
+            "John_Ehrlichman", 
+            "United_States_Constitution", 
+            "Dick_Cheney", 
+            "Unitary_executive_theory", 
+            "George_III_of_the_United_Kingdom", 
+            "Unitary_executive_theory", 
+            "George_III_of_the_United_Kingdom", 
+            "Richard_Nixon", 
+            "April_6", 
+            "Reston,_Virginia", 
+            "Forgery", 
+            "Burglary", 
+            "Reston,_Virginia", 
+            "Dick_Cheney", 
+            "Samuel_Alito", 
+            "2007", 
+            "Richard_Nixon", 
+            "January_1", 
+            "Richard_Nixon", 
+            "Reston,_Virginia", 
+            "Opposition_to_the_Vietnam_War", 
+            "Law", 
+            "1977", 
+            "Richard_Nixon", 
+            "Police", 
+            "Theres", 
+            "Frost", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush", 
+            "Richard_Nixon", 
+            "David_Frost", 
+            "George_III_of_the_United_Kingdom", 
+            "Richard_Nixon", 
+            "Frost", 
+            "James_Reston", 
+            "George_W._Bush", 
+            "Nation_state", 
+            "United_States_Constitution", 
+            "Murder", 
+            "Dick_Cheney", 
+            "Investigate_(New_Zealand)", 
+            "1975", 
+            "President_of_the_United_States", 
+            "Frost", 
+            "Jury", 
+            "Richard_Nixon", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Crime", 
+            "Time_(magazine)", 
+            "Ala_(Roman_military)", 
+            "Executive_(government)", 
+            "Hamdan", 
+            "Court", 
+            "Imperialism", 
+            "Murder", 
+            "Executive_(government)", 
+            "Judicial_review"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Japanese_language", 
+            "Nut_(fruit)", 
+            "Federal_Bureau_of_Investigation", 
+            "Efficacy", 
+            "Director_of_the_Federal_Bureau_of_Investigation", 
+            "Slavery", 
+            "Germany", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Intelligence_(information_gathering)", 
+            "World_War_II", 
+            "Popcorn", 
+            "Barack_Obama", 
+            "Staining", 
+            "Torture", 
+            "United_States", 
+            "Hammer", 
+            "Sanctuary", 
+            "George_W._Bush", 
+            "Neoconservatism", 
+            "Abraham_Lincoln", 
+            "Barack_Obama", 
+            "Abraham_Lincoln", 
+            "Neoconservatism", 
+            "Rope", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Reprisal", 
+            "Marque", 
+            "Privateer", 
+            "Capital_punishment", 
+            "Reprisal", 
+            "Japan", 
+            "Pearl", 
+            "Reprisal"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Geneva", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Pearl_Harbor", 
+            "Attack_on_Pearl_Harbor", 
+            "Pearl_Harbor", 
+            "Geneva_Conventions", 
+            "Supreme_Court_of_the_United_States", 
+            "Pearl", 
+            "Pearl", 
+            "Al-Qaeda", 
+            "United_States", 
+            "Neoconservatism", 
+            "Japan", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Union", 
+            "Union", 
+            "State", 
+            "Abraham_Lincoln", 
+            "Union"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "World_War_II", 
+            "Public_opinion", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "War_crime", 
+            "Prosecutor", 
+            "Nazism", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "Nuremberg_Defense", 
+            "United_States", 
+            "Law_of_the_United_States", 
+            "United_States", 
+            "Japan", 
+            "United_States", 
+            "Law"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Clown", 
+            "SERE", 
+            "Sleep_deprivation", 
+            "World_War_II", 
+            "Terrorism", 
+            "War_crime", 
+            "Hell", 
+            "On-base_plus_slugging", 
+            "Geneva", 
+            "USS_Cole_bombing", 
+            "Diplomatic_mission", 
+            "Clown", 
+            "Geneva_Conventions", 
+            "Military_tribunal", 
+            "September_11,_2001_attacks", 
+            "Military_of_the_United_States", 
+            "Liberalism", 
+            "Terrorism", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Public_domain", 
+            "Barack_Obama", 
+            "Law", 
+            "Domain_(mathematics)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Hamdan", 
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Zealotry", 
+            "Torture", 
+            "Military_of_the_United_States", 
+            "Torture", 
+            "Napoleon_I_of_France", 
+            "Knife", 
+            "United_States", 
+            "United_States", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "World_Court", 
+            "Geneva_Conventions", 
+            "Vietnam", 
+            "Korean_War", 
+            "Terrorism", 
+            "Prisoner_of_war", 
+            "Geneva"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "George_W._Bush", 
+            "Donald_Rumsfeld", 
+            "President_of_the_United_States", 
+            "Torture", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Hummer", 
+            "Suicide", 
+            "Suicide_attack", 
+            "Bomber"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Geneva", 
+            "Law", 
+            "Treaty", 
+            "Treaty", 
+            "Eland", 
+            "Right_to_a_fair_trial", 
+            "Geneva_Conventions", 
+            "Iran", 
+            "Reporter", 
+            "Unlawful_combatant", 
+            "Unlawful_combatant", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Shi_(poetry)", 
+            "John_Yoo", 
+            "United_States_Army", 
+            "Al-Qaeda", 
+            "Weapon_of_mass_destruction", 
+            "Iraq_War", 
+            "Cuba", 
+            "Iraq", 
+            "David_Addington", 
+            "Prosecutor", 
+            "Waterboarding", 
+            "Al-Qaeda", 
+            "Inspector_General", 
+            "United_States_Army", 
+            "Jack_(device)", 
+            "Jive_(dance)", 
+            "Al-Qaeda", 
+            "Eland", 
+            "Dick_Cheney", 
+            "United_States_Army", 
+            "Charles_Burney", 
+            "Counter-terrorism", 
+            "Chilean_Army", 
+            "December_2001", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "The_Pentagon", 
+            "David_Addington", 
+            "Bravo_(US_TV_channel)", 
+            "United_States_Army", 
+            "United_States", 
+            "Burney,_California", 
+            "United_States_Army", 
+            "Guantanamo_Bay_detention_camp", 
+            "2006", 
+            "Washington,_D.C.", 
+            "The_Washington_Post", 
+            "Guantanamo_Bay_detention_camp", 
+            "2001", 
+            "Psychiatrist", 
+            "Bravo_(US_TV_channel)", 
+            "Burney,_California", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Iraq", 
+            "Iraq", 
+            "2001", 
+            "Torture", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Waco_Siege", 
+            "Bill_Clinton", 
+            "Incineration", 
+            "Ruby_Ridge", 
+            "Presidency_of_Bill_Clinton", 
+            "Ruby_(programming_language)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Australian_Senate", 
+            "Standing_committee_(United_States_Congress)", 
+            "Separation_of_powers"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Duke", 
+            "Bennie_Cunningham"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Eland", 
+            "George_W._Bush", 
+            "John_Ehrlichman", 
+            "United_States_Constitution", 
+            "Dick_Cheney", 
+            "Unitary_executive_theory", 
+            "George_III_of_the_United_Kingdom", 
+            "Unitary_executive_theory", 
+            "George_III_of_the_United_Kingdom", 
+            "Richard_Nixon", 
+            "April_6", 
+            "Reston,_Virginia", 
+            "Forgery", 
+            "Burglary", 
+            "Reston,_Virginia", 
+            "Dick_Cheney", 
+            "Samuel_Alito", 
+            "2007", 
+            "Richard_Nixon", 
+            "January_1", 
+            "Richard_Nixon", 
+            "Reston,_Virginia", 
+            "Opposition_to_the_Vietnam_War", 
+            "Law", 
+            "1977", 
+            "Richard_Nixon", 
+            "Police", 
+            "Theres", 
+            "Frost", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush", 
+            "Richard_Nixon", 
+            "David_Frost", 
+            "George_III_of_the_United_Kingdom", 
+            "Richard_Nixon", 
+            "Frost", 
+            "James_Reston", 
+            "George_W._Bush", 
+            "Nation_state", 
+            "United_States_Constitution", 
+            "Murder", 
+            "Dick_Cheney", 
+            "Investigate_(New_Zealand)", 
+            "1975", 
+            "President_of_the_United_States", 
+            "Frost", 
+            "Jury", 
+            "Richard_Nixon", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Crime", 
+            "Time_(magazine)", 
+            "Ala_(Roman_military)", 
+            "Executive_(government)", 
+            "Hamdan", 
+            "Court", 
+            "Imperialism", 
+            "Murder", 
+            "Executive_(government)", 
+            "Judicial_review"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Japanese_language", 
+            "Nut_(fruit)", 
+            "Federal_Bureau_of_Investigation", 
+            "Efficacy", 
+            "Director_of_the_Federal_Bureau_of_Investigation", 
+            "Slavery", 
+            "Germany", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Intelligence_(information_gathering)", 
+            "World_War_II", 
+            "Popcorn", 
+            "Barack_Obama", 
+            "Staining", 
+            "Torture", 
+            "United_States", 
+            "Hammer", 
+            "Sanctuary", 
+            "George_W._Bush", 
+            "Neoconservatism", 
+            "Abraham_Lincoln", 
+            "Barack_Obama", 
+            "Abraham_Lincoln", 
+            "Neoconservatism", 
+            "Rope", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Reprisal", 
+            "Marque", 
+            "Privateer", 
+            "Capital_punishment", 
+            "Reprisal", 
+            "Japan", 
+            "Pearl", 
+            "Reprisal"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Geneva", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Pearl_Harbor", 
+            "Attack_on_Pearl_Harbor", 
+            "Pearl_Harbor", 
+            "Geneva_Conventions", 
+            "Supreme_Court_of_the_United_States", 
+            "Pearl", 
+            "Pearl", 
+            "Al-Qaeda", 
+            "United_States", 
+            "Neoconservatism", 
+            "Japan", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Union", 
+            "Union", 
+            "State", 
+            "Abraham_Lincoln", 
+            "Union"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "World_War_II", 
+            "Public_opinion", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "War_crime", 
+            "Prosecutor", 
+            "Nazism", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "Nuremberg_Defense", 
+            "United_States", 
+            "Law_of_the_United_States", 
+            "United_States", 
+            "Japan", 
+            "United_States", 
+            "Law"
+        ], 
+        "postID": 40
+    }
+]

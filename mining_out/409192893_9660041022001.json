@@ -1,0 +1,185 @@
+[
+    {
+        "entity": [
+            "Stapler", 
+            "Al_Gore", 
+            "United_States_Senate_elections,_2004", 
+            "Al_Franken", 
+            "Norm_Coleman", 
+            "Minneapolis,_Minnesota", 
+            "Loser_(song)", 
+            "Chicago_Tribune", 
+            "Star_Tribune", 
+            "Star_Tribune", 
+            "312", 
+            "Al_Franken", 
+            "Star_Tribune", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Senate", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate", 
+            "Coleman,_Texas", 
+            "Absentee_ballot", 
+            "Coleman,_Texas", 
+            "United_States", 
+            "United_States_Senate_elections,_2004", 
+            "Star_Tribune", 
+            "Coleman,_Texas", 
+            "Al_Franken", 
+            "Al_Franken", 
+            "Coleman,_Texas", 
+            "Minnesota", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Manitoba_general_election,_1915", 
+            "George_W._Bush", 
+            "Al_Gore", 
+            "George_W._Bush", 
+            "Minnesota"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Clown", 
+            "Moron", 
+            "U.S._state", 
+            "Minnesota", 
+            "Brihanmumbai_Electric_Supply_and_Transport"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Franken", 
+            "Fiasco"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Canvassing", 
+            "Time_(magazine)", 
+            "Judge", 
+            "United_States_Senate", 
+            "Bipartisanship", 
+            "Coleman_Company", 
+            "Current_events", 
+            "Fiasco"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "District_(China)", 
+            "District_(China)", 
+            "Coleman_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Iran"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Islamofascism", 
+            "1979", 
+            "Iran", 
+            "Turkey", 
+            "Islamofascism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia", 
+            "2010", 
+            "Election", 
+            "IMHO"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mohammad_Reza_Pahlavi", 
+            "AFC_Ajax", 
+            "Jimmy_Carter", 
+            "Prime_minister", 
+            "President_of_the_United_States", 
+            "1953_Iranian_coup_d'\u00e9tat"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fascism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Jimmy_Carter", 
+            "Jimmy_Carter", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Iran", 
+            "Carter"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "United_States", 
+            "World_Trade_Center"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Harvard_University", 
+            "Democracy", 
+            "Grad_(Slavic_settlement)", 
+            "Binary_File_Descriptor_library"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Ivy_League", 
+            "Yale_University", 
+            "Harvard_University", 
+            "Ivy_League", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "H._L._Mencken"
+        ], 
+        "postID": 18
+    }
+]

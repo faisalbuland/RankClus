@@ -1,0 +1,178 @@
+[
+    {
+        "entity": [
+            "Hybrid_vehicle", 
+            "Hybrid_electric_vehicle", 
+            "Hybrid_electric_vehicle", 
+            "Fuel_economy_in_automobiles", 
+            "Economy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Battery_(electricity)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Classic_car", 
+            "Quantum", 
+            "Hybrid_(biology)", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Testicle", 
+            "Hybrid_(producers)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thrash_metal", 
+            "Heavy_metal_subgenres"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hybrid_electric_vehicle", 
+            "Barack_Obama", 
+            "Toyota_Prius", 
+            "Hybrid_electric_vehicle", 
+            "Warranty", 
+            "Hybrid_vehicle", 
+            "Toyota", 
+            "Toyota_Prius", 
+            "Ford_Fusion_(Americas)", 
+            "Consumer_Reports", 
+            "Fuel_economy_in_automobiles", 
+            "Toyota_Prius", 
+            "Hybrid_electric_vehicle", 
+            "Law", 
+            "Fuel_efficiency", 
+            "Honda", 
+            "Battery_pack", 
+            "Customer_satisfaction", 
+            "Toyota", 
+            "Battery_(electricity)", 
+            "Highway", 
+            "Hybrid_electric_vehicle", 
+            "2010", 
+            "International_Maritime_Organization", 
+            "Toyota_Prius", 
+            "Ford_Motor_Company", 
+            "Toyota", 
+            "Toyota", 
+            "Gasoline_and_diesel_usage_and_pricing", 
+            "Toyota_Prius", 
+            "Ford_Fusion_(Americas)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Toyota_Prius"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Building_integrated_photovoltaics", 
+            "Horse", 
+            "Toyota_Prius", 
+            "Safety_(American_football)", 
+            "2010", 
+            "Horsepower"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chicago"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Truck_driver"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Brooks,_Alberta", 
+            "Marmot", 
+            "MAMA", 
+            "Garth_(comic_strip)", 
+            "Marmot", 
+            "Garth_Brooks", 
+            "Quantum", 
+            "BAPA"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England", 
+            "Miles_per_gallon"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Grille", 
+            "Radiator"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Isetta", 
+            "Sale,_Victoria", 
+            "English_language", 
+            "Dude", 
+            "For_Sale", 
+            "BMW", 
+            "Isetta", 
+            "Newspaper"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Mazda", 
+            "Mentorship", 
+            "Mazda", 
+            "Mazda_626", 
+            "Mazda_626", 
+            "Hybrid_(biology)", 
+            "1998", 
+            "Motorola_68000", 
+            "Mazda_Familia", 
+            "1983"
+        ], 
+        "postID": 18
+    }
+]

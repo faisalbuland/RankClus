@@ -1,0 +1,85 @@
+[
+    {
+        "entity": [
+            "Intelligence", 
+            "United_States_Senate", 
+            "Minnesota", 
+            "James_Tedisco", 
+            "United_States_presidential_election,_2000", 
+            "Coleman_Company", 
+            "Norm_Coleman", 
+            "Kirsten_Gillibrand", 
+            "Kentucky_Senate", 
+            "March_31", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "New_York", 
+            "By-election", 
+            "401", 
+            "U.S._state", 
+            "New_York", 
+            "Businessperson", 
+            "Congressional_district", 
+            "Upstate_New_York", 
+            "Two_Guys_from_Andromeda", 
+            "Democratic_Party_(United_States)", 
+            "Upstate_New_York", 
+            "Kirsten_Cohen", 
+            "New_York", 
+            "Minority_leader"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Coleman_Company", 
+            "Tedesco"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Congratulations_(Eurovision)", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Time_(magazine)", 
+            "Meghan_McCain", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "John_McCain"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "District"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "District", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "The_Republicans_(Germany)", 
+            "Republican_Party_(United_States)", 
+            "District", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "Haitian_general_election,_2006", 
+            "Meghan_McCain"
+        ], 
+        "postID": 6
+    }
+]

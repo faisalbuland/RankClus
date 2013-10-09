@@ -1,0 +1,736 @@
+[
+    {
+        "entity": [
+            "Capitalism", 
+            "Socialism", 
+            "Shoal", 
+            "United_States", 
+            "Sustainable_development", 
+            "Inflation", 
+            "Unemployment", 
+            "Class_conflict", 
+            "Unemployment", 
+            "Sustainability", 
+            "Recession", 
+            "Switzerland", 
+            "World_Brain", 
+            "Washington", 
+            "Mortgage", 
+            "Dysart_et_al,_Ontario", 
+            "Poverty", 
+            "Inflation", 
+            "United_States", 
+            "Capital_flight", 
+            "Thought", 
+            "Barack_Obama", 
+            "Brain", 
+            "Tax", 
+            "Brain_drain"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Union_(American_Civil_War)", 
+            "Visa_(document)", 
+            "Texas", 
+            "United_States", 
+            "United_States", 
+            "Equal_opportunity", 
+            "International_Maritime_Organization", 
+            "Liberal_Party_of_Canada", 
+            "ExxonMobil", 
+            "China", 
+            "United_States", 
+            "Opportunity_rover"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Grammatical_mood", 
+            "Profit", 
+            "Cap_(sport)", 
+            "Emissions_trading", 
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Soviet_Union", 
+            "Dubai", 
+            "Tax", 
+            "Barack_Obama", 
+            "Profit", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Calculator", 
+            "Accountancy", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "Pullman,_Washington"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Internet_caf\u00e9"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Strike_action", 
+            "Trade_union", 
+            "Trade_union", 
+            "Trade_union", 
+            "Trade_union", 
+            "Toyota", 
+            "1910", 
+            "Ford_Motor_Company", 
+            "Welfare_(financial_aid)", 
+            "United_Auto_Workers", 
+            "Unemployment", 
+            "Trade_union", 
+            "Propaganda", 
+            "Social_welfare_provision", 
+            "Assembly_language", 
+            "Trade_union", 
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "Pullman_train_(UK)", 
+            "Trade_union", 
+            "Chevrolet", 
+            "Chrysler", 
+            "United_States", 
+            "1910", 
+            "United_States", 
+            "Right-to-work_law", 
+            "Strike_action", 
+            "Trade_union", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tax_cut", 
+            "Tax", 
+            "Richard_Nixon", 
+            "Tax", 
+            "Tax", 
+            "Tax", 
+            "United_States", 
+            "Tax_cut", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Corporation", 
+            "Tax_rate", 
+            "Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003", 
+            "Barack_Obama", 
+            "Loophole", 
+            "Dwight_D._Eisenhower", 
+            "President_of_the_United_States", 
+            "Economy", 
+            "List_of_petroleum_companies", 
+            "George_W._Bush", 
+            "Dwight_Schrute", 
+            "Richard_Nixon", 
+            "Hedge_(finance)", 
+            "United_States", 
+            "Dwight_D._Eisenhower", 
+            "Barack_Obama", 
+            "Socialism", 
+            "Hedge_fund", 
+            "United_States", 
+            "Wealthiest_Americans_(1957)", 
+            "George_W._Bush", 
+            "Wealthiest_Americans_(1957)", 
+            "Petroleum"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Time_(magazine)", 
+            "Corporation", 
+            "A-side_and_B-side", 
+            "Coin", 
+            "Product_(chemistry)", 
+            "Capitalism", 
+            "Capitalism", 
+            "Foot_(length)", 
+            "Communism", 
+            "IMHO", 
+            "Patriot_(American_Revolution)", 
+            "Subsidiary", 
+            "Product_(chemistry)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Visa_(document)", 
+            "Boot", 
+            "Atmospheric_reentry", 
+            "Thomas_Paine", 
+            "Product_(chemistry)", 
+            "Citizenship"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dysart_et_al,_Ontario", 
+            "Stock_market", 
+            "Profit", 
+            "Fraud", 
+            "Currency", 
+            "Market_liquidity", 
+            "Barack_Obama"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_cut", 
+            "Ronald_Reagan", 
+            "McDonald's", 
+            "Tax", 
+            "Tax_cut", 
+            "United_Nations", 
+            "Tax_cut", 
+            "Tax", 
+            "Politician", 
+            "Stimulus_(physiology)", 
+            "Democracy", 
+            "Mortgage", 
+            "Gross_domestic_product", 
+            "Gross_domestic_product", 
+            "Ear", 
+            "Corporation", 
+            "State", 
+            "Stimulus_(physiology)", 
+            "Shame", 
+            "Coal", 
+            "Stimulus_(physiology)", 
+            "Carbon", 
+            "Natural_gas", 
+            "Queen_mother", 
+            "Sin_tax", 
+            "Sin", 
+            "Pork", 
+            "Happy_Meal", 
+            "Toxicity", 
+            "Jail", 
+            "Tax", 
+            "Doom_metal", 
+            "Washington", 
+            "Personal_income_in_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Fixed-wing_aircraft", 
+            "Kofi_Tavernier", 
+            "Nancy_Pelosi", 
+            "Pollution", 
+            "Saddam_Hussein", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Bribery", 
+            "Paranoid_(album)", 
+            "Gas", 
+            "George_W._Bush"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Individual_rights", 
+            "Income_tax", 
+            "United_States", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Poppy_(satellite)", 
+            "Republican_Party_(United_States)", 
+            "Post_Office_Protocol", 
+            "Republican_Party_(United_States)", 
+            "Switzerland", 
+            "Republican_Party_(United_States)", 
+            "Political_statement", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Stream", 
+            "Conservatism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Corps", 
+            "Market_economy", 
+            "Capitalism", 
+            "Oil", 
+            "Free_market", 
+            "Free_market", 
+            "Exon"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Corporation", 
+            "Chief_executive_officer", 
+            "Expense", 
+            "Working_class"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Thread_(computer_science)", 
+            "Charles_Ponzi", 
+            "Bond_(finance)", 
+            "Common_sense", 
+            "Capitalism", 
+            "World_Trade_Organization", 
+            "United_States", 
+            "Export", 
+            "Consumer_economy", 
+            "Marble_(toy)", 
+            "Socialism", 
+            "Export", 
+            "Economic_system", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "Greed", 
+            "Capitalism", 
+            "Barack_Obama", 
+            "Mortgage"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Cycle", 
+            "Chief_executive_officer", 
+            "Tax", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Property_tax", 
+            "Protectionism", 
+            "Windfall_profits_tax", 
+            "Tariff", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Income_tax", 
+            "Windfall_(television_series)", 
+            "Windfall_gain", 
+            "Windfall_(television_series)", 
+            "Tax", 
+            "Tax", 
+            "Law", 
+            "Profit_tax", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Pendulum", 
+            "Common_Agricultural_Policy", 
+            "Barack_Obama"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Economics", 
+            "Offshore_bank", 
+            "GI_(military)", 
+            "Economics"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Socialism", 
+            "Shoal", 
+            "United_States", 
+            "Sustainable_development", 
+            "Inflation", 
+            "Unemployment", 
+            "Class_conflict", 
+            "Unemployment", 
+            "Sustainability", 
+            "Recession", 
+            "Switzerland", 
+            "World_Brain", 
+            "Washington", 
+            "Mortgage", 
+            "Dysart_et_al,_Ontario", 
+            "Poverty", 
+            "Inflation", 
+            "United_States", 
+            "Capital_flight", 
+            "Thought", 
+            "Barack_Obama", 
+            "Brain", 
+            "Tax", 
+            "Brain_drain"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Union_(American_Civil_War)", 
+            "Visa_(document)", 
+            "Texas", 
+            "United_States", 
+            "United_States", 
+            "Equal_opportunity", 
+            "International_Maritime_Organization", 
+            "Liberal_Party_of_Canada", 
+            "ExxonMobil", 
+            "China", 
+            "United_States", 
+            "Opportunity_rover"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Grammatical_mood", 
+            "Profit", 
+            "Cap_(sport)", 
+            "Emissions_trading", 
+            "Chief_executive_officer", 
+            "Barack_Obama", 
+            "Soviet_Union", 
+            "Dubai", 
+            "Tax", 
+            "Barack_Obama", 
+            "Profit", 
+            "United_States"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Calculator", 
+            "Accountancy", 
+            "List_of_World_Tag_Team_Champions_(WWE)", 
+            "Pullman,_Washington"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Internet_caf\u00e9"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Strike_action", 
+            "Trade_union", 
+            "Trade_union", 
+            "Trade_union", 
+            "Trade_union", 
+            "Toyota", 
+            "1910", 
+            "Ford_Motor_Company", 
+            "Welfare_(financial_aid)", 
+            "United_Auto_Workers", 
+            "Unemployment", 
+            "Trade_union", 
+            "Propaganda", 
+            "Social_welfare_provision", 
+            "Assembly_language", 
+            "Trade_union", 
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "Pullman_train_(UK)", 
+            "Trade_union", 
+            "Chevrolet", 
+            "Chrysler", 
+            "United_States", 
+            "1910", 
+            "United_States", 
+            "Right-to-work_law", 
+            "Strike_action", 
+            "Trade_union", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Tax_cut", 
+            "Tax", 
+            "Richard_Nixon", 
+            "Tax", 
+            "Tax", 
+            "Tax", 
+            "United_States", 
+            "Tax_cut", 
+            "Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Corporation", 
+            "Tax_rate", 
+            "Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003", 
+            "Barack_Obama", 
+            "Loophole", 
+            "Dwight_D._Eisenhower", 
+            "President_of_the_United_States", 
+            "Economy", 
+            "List_of_petroleum_companies", 
+            "George_W._Bush", 
+            "Dwight_Schrute", 
+            "Richard_Nixon", 
+            "Hedge_(finance)", 
+            "United_States", 
+            "Dwight_D._Eisenhower", 
+            "Barack_Obama", 
+            "Socialism", 
+            "Hedge_fund", 
+            "United_States", 
+            "Wealthiest_Americans_(1957)", 
+            "George_W._Bush", 
+            "Wealthiest_Americans_(1957)", 
+            "Petroleum"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Time_(magazine)", 
+            "Corporation", 
+            "A-side_and_B-side", 
+            "Coin", 
+            "Product_(chemistry)", 
+            "Capitalism", 
+            "Capitalism", 
+            "Foot_(length)", 
+            "Communism", 
+            "IMHO", 
+            "Patriot_(American_Revolution)", 
+            "Subsidiary", 
+            "Product_(chemistry)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Visa_(document)", 
+            "Boot", 
+            "Atmospheric_reentry", 
+            "Thomas_Paine", 
+            "Product_(chemistry)", 
+            "Citizenship"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dysart_et_al,_Ontario", 
+            "Stock_market", 
+            "Profit", 
+            "Fraud", 
+            "Currency", 
+            "Market_liquidity", 
+            "Barack_Obama"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_cut", 
+            "Ronald_Reagan", 
+            "McDonald's", 
+            "Tax", 
+            "Tax_cut", 
+            "United_Nations", 
+            "Tax_cut", 
+            "Tax", 
+            "Politician", 
+            "Stimulus_(physiology)", 
+            "Democracy", 
+            "Mortgage", 
+            "Gross_domestic_product", 
+            "Gross_domestic_product", 
+            "Ear", 
+            "Corporation", 
+            "State", 
+            "Stimulus_(physiology)", 
+            "Shame", 
+            "Coal", 
+            "Stimulus_(physiology)", 
+            "Carbon", 
+            "Natural_gas", 
+            "Queen_mother", 
+            "Sin_tax", 
+            "Sin", 
+            "Pork", 
+            "Happy_Meal", 
+            "Toxicity", 
+            "Jail", 
+            "Tax", 
+            "Doom_metal", 
+            "Washington", 
+            "Personal_income_in_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Fixed-wing_aircraft", 
+            "Kofi_Tavernier", 
+            "Nancy_Pelosi", 
+            "Pollution", 
+            "Saddam_Hussein", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Bribery", 
+            "Paranoid_(album)", 
+            "Gas", 
+            "George_W._Bush"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Individual_rights", 
+            "Income_tax", 
+            "United_States", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Poppy_(satellite)", 
+            "Republican_Party_(United_States)", 
+            "Post_Office_Protocol", 
+            "Republican_Party_(United_States)", 
+            "Switzerland", 
+            "Republican_Party_(United_States)", 
+            "Political_statement", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Stream", 
+            "Conservatism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Corps", 
+            "Market_economy", 
+            "Capitalism", 
+            "Oil", 
+            "Free_market", 
+            "Free_market", 
+            "Exon"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Corporation", 
+            "Chief_executive_officer", 
+            "Expense", 
+            "Working_class"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Thread_(computer_science)", 
+            "Charles_Ponzi", 
+            "Bond_(finance)", 
+            "Common_sense", 
+            "Capitalism", 
+            "World_Trade_Organization", 
+            "United_States", 
+            "Export", 
+            "Consumer_economy", 
+            "Marble_(toy)", 
+            "Socialism", 
+            "Export", 
+            "Economic_system", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "Greed", 
+            "Capitalism", 
+            "Barack_Obama", 
+            "Mortgage"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Cycle", 
+            "Chief_executive_officer", 
+            "Tax", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Property_tax", 
+            "Protectionism", 
+            "Windfall_profits_tax", 
+            "Tariff", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Income_tax", 
+            "Windfall_(television_series)", 
+            "Windfall_gain", 
+            "Windfall_(television_series)", 
+            "Tax", 
+            "Tax", 
+            "Law", 
+            "Profit_tax", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Pendulum", 
+            "Common_Agricultural_Policy", 
+            "Barack_Obama"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Economics", 
+            "Offshore_bank", 
+            "GI_(military)", 
+            "Economics"
+        ], 
+        "postID": 40
+    }
+]

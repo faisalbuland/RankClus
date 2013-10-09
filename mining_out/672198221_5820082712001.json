@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "Jury_rig", 
+            "Agence_France-Presse", 
+            "Kim_Jong-il"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dissident", 
+            "Dissident", 
+            "Parliament", 
+            "Dear_Leader_(band)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stern", 
+            "States_and_territories_of_India", 
+            "Bow_(ship)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Communism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Porcelain"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Cloning"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Korean", 
+            "Republic_of_Korea_Army", 
+            "Bubble", 
+            "KIM-1"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 9
+    }
+]

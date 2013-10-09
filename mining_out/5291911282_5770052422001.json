@@ -1,0 +1,55 @@
+[
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Ear", 
+            "Hearing_test", 
+            "Texas", 
+            "All_India_Radio"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hearing_test", 
+            "United_States_Air_Force"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Ordre_des_Arts_et_des_Lettres", 
+            "Duck"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Huh", 
+            "Huh"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Infection", 
+            "Hearing_test", 
+            "Otitis", 
+            "Recruiter", 
+            "Pun", 
+            "Physician", 
+            "Ear"
+        ], 
+        "postID": 6
+    }
+]

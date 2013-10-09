@@ -1,0 +1,63 @@
+[
+    {
+        "entity": [
+            "Espionage", 
+            "World_Series", 
+            "Inter-Services_Intelligence", 
+            "Cricket", 
+            "Inter-Services_Intelligence", 
+            "Inter-Services_Intelligence", 
+            "Test_cricket", 
+            "Gunman", 
+            "Cricket", 
+            "Ambush", 
+            "Mumbai", 
+            "Islamism", 
+            "Semi-detached", 
+            "Pakistan", 
+            "Indian_subcontinent", 
+            "BBC", 
+            "Sport", 
+            "Baseball", 
+            "Islamabad", 
+            "Tire", 
+            "Pakistan", 
+            "Terrorism", 
+            "Bollocks", 
+            "F.C._Internazionale_Milano", 
+            "India", 
+            "Pakistan", 
+            "Bbc.co.uk"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Police", 
+            "Islamism", 
+            "England_cricket_team", 
+            "Referee", 
+            "Match_referee", 
+            "BBC_News_Online", 
+            "Collusion", 
+            "Inter-Services_Intelligence", 
+            "Chris_Broad"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Bombay_Presidency", 
+            "Nuclear_weapon", 
+            "Teh", 
+            "List_of_states_with_nuclear_weapons", 
+            "Pakistan", 
+            "Pakistan", 
+            "Islamism", 
+            "Pakistan"
+        ], 
+        "postID": 4
+    }
+]

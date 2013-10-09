@@ -1,0 +1,638 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Illegal_immigration", 
+            "Export", 
+            "Mexico", 
+            "Tariff", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Aviator", 
+            "Bogie"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Experiment", 
+            "!!!", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "!!!", 
+            "BALANCE_Act", 
+            "Fairness_and_Accuracy_in_Reporting", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "JOB_(rolling_papers)", 
+            "MAN_AG", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Aviator"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "Mexico_national_basketball_team"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Protectionism", 
+            "Republican_Party_(United_States)", 
+            "Bench_press"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Anglo", 
+            "Saxton,_Pennsylvania"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "Monkey_wrench", 
+            "Wrench", 
+            "Mexico", 
+            "Monkey", 
+            "Demographics_of_Mexico", 
+            "Mexico", 
+            "Boundary_(cricket)", 
+            "Petroleum", 
+            "Mexico", 
+            "United_States", 
+            "Petroleum", 
+            "Truck_driver"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Drug", 
+            "United_States", 
+            "War_on_Drugs", 
+            "Mexico"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Truck_driver", 
+            "Continental_United_States", 
+            "FairTax"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Kitten", 
+            "Mexico", 
+            "United_States", 
+            "Teamsters", 
+            "Population", 
+            "Mexico", 
+            "Trade_union", 
+            "Teamsters", 
+            "Truck", 
+            "Double_standard", 
+            "Canada", 
+            "North_American_Free_Trade_Agreement"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Social_security", 
+            "Big_Business", 
+            "Tax", 
+            "Tariff", 
+            "Trade_union", 
+            "Mexico", 
+            "Mexico", 
+            "Unemployment"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Illegal_immigration", 
+            "Export", 
+            "Mexico", 
+            "Tariff", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Aviator", 
+            "Bogie"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Experiment", 
+            "!!!", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "!!!", 
+            "BALANCE_Act", 
+            "Fairness_and_Accuracy_in_Reporting", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "JOB_(rolling_papers)", 
+            "MAN_AG", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Aviator"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "Mexico_national_basketball_team"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Protectionism", 
+            "Republican_Party_(United_States)", 
+            "Bench_press"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Anglo", 
+            "Saxton,_Pennsylvania"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "Monkey_wrench", 
+            "Wrench", 
+            "Mexico", 
+            "Monkey", 
+            "Demographics_of_Mexico", 
+            "Mexico", 
+            "Boundary_(cricket)", 
+            "Petroleum", 
+            "Mexico", 
+            "United_States", 
+            "Petroleum", 
+            "Truck_driver"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Drug", 
+            "United_States", 
+            "War_on_Drugs", 
+            "Mexico"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Truck_driver", 
+            "Continental_United_States", 
+            "FairTax"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Kitten", 
+            "Mexico", 
+            "United_States", 
+            "Teamsters", 
+            "Population", 
+            "Mexico", 
+            "Trade_union", 
+            "Teamsters", 
+            "Truck", 
+            "Double_standard", 
+            "Canada", 
+            "North_American_Free_Trade_Agreement"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Social_security", 
+            "Big_Business", 
+            "Tax", 
+            "Tariff", 
+            "Trade_union", 
+            "Mexico", 
+            "Mexico", 
+            "Unemployment"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Illegal_immigration", 
+            "Export", 
+            "Mexico", 
+            "Tariff", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Aviator", 
+            "Bogie"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Experiment", 
+            "!!!", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "!!!", 
+            "BALANCE_Act", 
+            "Fairness_and_Accuracy_in_Reporting", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "JOB_(rolling_papers)", 
+            "MAN_AG", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Aviator"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "Mexico_national_basketball_team"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Protectionism", 
+            "Republican_Party_(United_States)", 
+            "Bench_press"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Anglo", 
+            "Saxton,_Pennsylvania"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "Monkey_wrench", 
+            "Wrench", 
+            "Mexico", 
+            "Monkey", 
+            "Demographics_of_Mexico", 
+            "Mexico", 
+            "Boundary_(cricket)", 
+            "Petroleum", 
+            "Mexico", 
+            "United_States", 
+            "Petroleum", 
+            "Truck_driver"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Drug", 
+            "United_States", 
+            "War_on_Drugs", 
+            "Mexico"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Truck_driver", 
+            "Continental_United_States", 
+            "FairTax"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Kitten", 
+            "Mexico", 
+            "United_States", 
+            "Teamsters", 
+            "Population", 
+            "Mexico", 
+            "Trade_union", 
+            "Teamsters", 
+            "Truck", 
+            "Double_standard", 
+            "Canada", 
+            "North_American_Free_Trade_Agreement"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Social_security", 
+            "Big_Business", 
+            "Tax", 
+            "Tariff", 
+            "Trade_union", 
+            "Mexico", 
+            "Mexico", 
+            "Unemployment"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Illegal_immigration", 
+            "Export", 
+            "Mexico", 
+            "Tariff", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Aviator", 
+            "Bogie"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Experiment", 
+            "!!!", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States", 
+            "!!!", 
+            "BALANCE_Act", 
+            "Fairness_and_Accuracy_in_Reporting", 
+            "North_American_Free_Trade_Agreement", 
+            "United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "JOB_(rolling_papers)", 
+            "MAN_AG", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Aviator"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "Mexico_national_basketball_team"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Protectionism", 
+            "Republican_Party_(United_States)", 
+            "Bench_press"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Anglo", 
+            "Saxton,_Pennsylvania"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "Monkey_wrench", 
+            "Wrench", 
+            "Mexico", 
+            "Monkey", 
+            "Demographics_of_Mexico", 
+            "Mexico", 
+            "Boundary_(cricket)", 
+            "Petroleum", 
+            "Mexico", 
+            "United_States", 
+            "Petroleum", 
+            "Truck_driver"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Drug", 
+            "United_States", 
+            "War_on_Drugs", 
+            "Mexico"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Truck_driver", 
+            "Continental_United_States", 
+            "FairTax"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Kitten", 
+            "Mexico", 
+            "United_States", 
+            "Teamsters", 
+            "Population", 
+            "Mexico", 
+            "Trade_union", 
+            "Teamsters", 
+            "Truck", 
+            "Double_standard", 
+            "Canada", 
+            "North_American_Free_Trade_Agreement"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Social_security", 
+            "Big_Business", 
+            "Tax", 
+            "Tariff", 
+            "Trade_union", 
+            "Mexico", 
+            "Mexico", 
+            "Unemployment"
+        ], 
+        "postID": 80
+    }
+]

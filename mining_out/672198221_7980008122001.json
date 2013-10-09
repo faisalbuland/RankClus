@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Liberalism", 
+            "Piracy", 
+            "Somalia", 
+            "CNN", 
+            "Italy", 
+            "International_waters", 
+            "Newspaper", 
+            "Cruise_ship"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Israeli_security_forces", 
+            "Israel", 
+            "Israel_Defense_Forces", 
+            "Israel_Defense_Forces", 
+            "Piracy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Garden_hose", 
+            "Israeli_security_forces", 
+            "Dead_link", 
+            "Israel", 
+            "Water"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Firehose", 
+            "Hose_(tubing)", 
+            "Small_arms", 
+            "Italy", 
+            "Piracy", 
+            "Strait_of_Malacca", 
+            "Rocket-propelled_grenade"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Garden_hose", 
+            "Drinking_water", 
+            "Hell"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Jo_Cals", 
+            "Hole_(band)", 
+            "Sharks"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Blackwater_Worldwide"
+        ], 
+        "postID": 7
+    }
+]

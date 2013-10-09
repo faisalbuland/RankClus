@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "Oregon", 
+            "Portland,_Oregon", 
+            "Christianity", 
+            "Christianity", 
+            "Christianity", 
+            "Christianity"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Evangelicalism", 
+            "Jesus", 
+            "Evangelicalism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Christian"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Church", 
+            "Faith-based", 
+            "States_and_territories_of_India", 
+            "Creed", 
+            "DuBois,_Pennsylvania"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Constitution"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Cult", 
+            "Cult", 
+            "Sugar", 
+            "British_and_Irish_Lions", 
+            "Lions_Clubs_International", 
+            "Dandy", 
+            "Satanism", 
+            "Faith", 
+            "Candy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Civics", 
+            "Lions_Clubs_International", 
+            "Lions_Clubs_International", 
+            "Rotary_International", 
+            "Church"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Jesus_in_Islam", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church", 
+            "Jesus_in_Islam", 
+            "Constitution"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

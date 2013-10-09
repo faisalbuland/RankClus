@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "Family_history", 
+            "Medication", 
+            "Lipid", 
+            "Statin", 
+            "Cramp", 
+            "Oil", 
+            "Pravastatin", 
+            "Fish_oil", 
+            "Fish", 
+            "Simvastatin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "ASAP_(variety_show)", 
+            "Adverse_effect_(medicine)", 
+            "Statin", 
+            "Cramp", 
+            "Family_history", 
+            "Drug", 
+            "Adverse_effect_(medicine)", 
+            "Spasm", 
+            "Cramp", 
+            "Physician", 
+            "Muscle"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Middle_age", 
+            "Rosuvastatin", 
+            "Cramp", 
+            "Heartbeat", 
+            "Circulatory_system", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cramp", 
+            "Cramp", 
+            "Simvastatin", 
+            "Cramp", 
+            "Soap", 
+            "Internet", 
+            "Cramp", 
+            "Bar_association", 
+            "Bar_association", 
+            "Soap", 
+            "Soap", 
+            "Cramp", 
+            "Cramp", 
+            "Cramp"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Muscle", 
+            "Coenzyme_Q10", 
+            "Statin", 
+            "Cramp", 
+            "Foot_(length)", 
+            "Myalgia", 
+            "Cramp", 
+            "Nerve", 
+            "Statin", 
+            "Cramp", 
+            "Simvastatin", 
+            "Muscle", 
+            "Cramp", 
+            "Cramp", 
+            "Myalgia", 
+            "Incidence_(epidemiology)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Soap"
+        ], 
+        "postID": 6
+    }
+]

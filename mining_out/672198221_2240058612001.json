@@ -1,0 +1,32 @@
+[
+    {
+        "entity": [
+            "Mosque"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mosque"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nation_of_Islam", 
+            "Insurgency", 
+            "Islam", 
+            "Self-help", 
+            "Physical_fitness", 
+            "Federal_Bureau_of_Investigation", 
+            "Louis_Farrakhan", 
+            "Physical_fitness", 
+            "Louis_Farrakhan", 
+            "Ammunition", 
+            "Scout_(sport)", 
+            "Guru", 
+            "Patriotism"
+        ], 
+        "postID": 3
+    }
+]

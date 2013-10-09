@@ -1,0 +1,326 @@
+[
+    {
+        "entity": [
+            "College_basketball", 
+            "Season_(sports)", 
+            "National_Collegiate_Athletic_Association", 
+            "Basketball", 
+            "NCAA_Men's_Division_I_Basketball_Championship"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Brigham_Young_University"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Intimidation", 
+            "Sweet_sixteen_(birthday)", 
+            "William_Pitt,_1st_Earl_of_Chatham"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soap_opera", 
+            "CBS", 
+            "United_States_Navy", 
+            "Golf", 
+            "Soap_(TV_series)", 
+            "Survivor_(U.S._TV_series)", 
+            "Soap_opera", 
+            "ESPN", 
+            "Bubbles_(band)", 
+            "MAN_AG", 
+            "Tennis", 
+            "Opera", 
+            "God", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama", 
+            "North_Carolina", 
+            "Duke_Blue_Devils", 
+            "University_of_California,_Los_Angeles", 
+            "Mike_Krzyzewski", 
+            "Barack_Obama", 
+            "Basketball"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "March_Madness", 
+            "Soap_opera", 
+            "Plymouth_Duster", 
+            "Madness_(band)", 
+            "Soap_opera", 
+            "American_Broadcasting_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Utah", 
+            "Utah", 
+            "Utah_State_University"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Arizona", 
+            "Utah", 
+            "Texas"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Squeaker"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "House_of_Gonzaga"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "North_Carolina", 
+            "Barack_Obama", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pittsburgh,_Pennsylvania"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Tennessee_State_University", 
+            "Marches", 
+            "Tennessee"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Madness_(band)", 
+            "March_Madness", 
+            "American_International_Group"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Cider"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "University_of_North_Carolina_at_Chapel_Hill", 
+            "University_of_North_Carolina_at_Chapel_Hill", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Detroit_Tigers", 
+            "Genius", 
+            "University_of_Memphis", 
+            "University_of_Memphis"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "College_basketball", 
+            "Season_(sports)", 
+            "National_Collegiate_Athletic_Association", 
+            "Basketball", 
+            "NCAA_Men's_Division_I_Basketball_Championship"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Brigham_Young_University"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Intimidation", 
+            "Sweet_sixteen_(birthday)", 
+            "William_Pitt,_1st_Earl_of_Chatham"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soap_opera", 
+            "CBS", 
+            "United_States_Navy", 
+            "Golf", 
+            "Soap_(TV_series)", 
+            "Survivor_(U.S._TV_series)", 
+            "Soap_opera", 
+            "ESPN", 
+            "Bubbles_(band)", 
+            "MAN_AG", 
+            "Tennis", 
+            "Opera", 
+            "God", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama", 
+            "North_Carolina", 
+            "Duke_Blue_Devils", 
+            "University_of_California,_Los_Angeles", 
+            "Mike_Krzyzewski", 
+            "Barack_Obama", 
+            "Basketball"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "March_Madness", 
+            "Soap_opera", 
+            "Plymouth_Duster", 
+            "Madness_(band)", 
+            "Soap_opera", 
+            "American_Broadcasting_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Utah", 
+            "Utah", 
+            "Utah_State_University"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Arizona", 
+            "Utah", 
+            "Texas"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Squeaker"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "House_of_Gonzaga"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "North_Carolina", 
+            "Barack_Obama", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Pittsburgh,_Pennsylvania"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Tennessee_State_University", 
+            "Marches", 
+            "Tennessee"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Madness_(band)", 
+            "March_Madness", 
+            "American_International_Group"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Cider"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "University_of_North_Carolina_at_Chapel_Hill", 
+            "University_of_North_Carolina_at_Chapel_Hill", 
+            "University_of_Connecticut"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Detroit_Tigers", 
+            "Genius", 
+            "University_of_Memphis", 
+            "University_of_Memphis"
+        ], 
+        "postID": 40
+    }
+]

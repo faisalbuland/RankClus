@@ -1,0 +1,368 @@
+[
+    {
+        "entity": [
+            "Weapon", 
+            "Amnesty_International", 
+            "Taser_safety_issues", 
+            "Electroshock_weapon"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Lesser_of_two_evils_principle"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Weapon"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cardiomegaly", 
+            "Police_academy", 
+            "Police", 
+            "Drug", 
+            "Me", 
+            "Drug_abuse"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Club_(weapon)", 
+            "Ankle"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Gym", 
+            "Pound_(mass)", 
+            "Electroshock_weapon", 
+            "Taser"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "County_attorney", 
+            "Club_(weapon)", 
+            "Taser", 
+            "Club_(weapon)", 
+            "Irwin,_Pennsylvania", 
+            "Taser", 
+            "Taser", 
+            "Asp_(reptile)", 
+            "Burglary", 
+            "Taser", 
+            "Weapon", 
+            "Lawsuit", 
+            "Taser", 
+            "Fashion", 
+            "Police"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wrestling"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Low_Earth_orbit", 
+            "Law", 
+            "Taser", 
+            "Validity_(statistics)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Nancy_Pelosi", 
+            "Amnesty_International"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bullet", 
+            "Common_sense"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Irony", 
+            "Taser"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Knife", 
+            "Norm_(sociology)", 
+            "Robbery", 
+            "Donkey", 
+            "California", 
+            "Bullet"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Rio_(program)", 
+            "Palo", 
+            "SAN"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Taser", 
+            "Treason", 
+            "Salmon", 
+            "United_States_Constitution", 
+            "Deadly_force", 
+            "Salmon_P._Chase", 
+            "1867", 
+            "Bullet", 
+            "Resisting_arrest", 
+            "Less-lethal_weapon", 
+            "Ballistic_vest", 
+            "Jefferson_Davis", 
+            "Ballistic_vest", 
+            "Police_officer", 
+            "Taser", 
+            "Taser", 
+            "Chase,_British_Columbia", 
+            "Secession", 
+            "India_and_weapons_of_mass_destruction", 
+            "Taser", 
+            "Weapon", 
+            "Knife", 
+            "Nuclear_weapon", 
+            "Ballistic_vest", 
+            "Mace_(club)", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Low_Earth_orbit", 
+            "Law", 
+            "Taser", 
+            "Validity_(statistics)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Amnesty_International", 
+            "Taser_safety_issues", 
+            "Electroshock_weapon"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Lesser_of_two_evils_principle"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Weapon"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Cardiomegaly", 
+            "Police_academy", 
+            "Police", 
+            "Drug", 
+            "Me", 
+            "Drug_abuse"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Club_(weapon)", 
+            "Ankle"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Gym", 
+            "Pound_(mass)", 
+            "Electroshock_weapon", 
+            "Taser"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "County_attorney", 
+            "Club_(weapon)", 
+            "Taser", 
+            "Club_(weapon)", 
+            "Irwin,_Pennsylvania", 
+            "Taser", 
+            "Taser", 
+            "Asp_(reptile)", 
+            "Burglary", 
+            "Taser", 
+            "Weapon", 
+            "Lawsuit", 
+            "Taser", 
+            "Fashion", 
+            "Police"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Wrestling"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Low_Earth_orbit", 
+            "Law", 
+            "Taser", 
+            "Validity_(statistics)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Nancy", 
+            "Nancy_Pelosi", 
+            "Amnesty_International"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Bullet", 
+            "Common_sense"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Irony", 
+            "Taser"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Knife", 
+            "Norm_(sociology)", 
+            "Robbery", 
+            "Donkey", 
+            "California", 
+            "Bullet"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Rio_(program)", 
+            "Palo", 
+            "SAN"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Taser", 
+            "Treason", 
+            "Salmon", 
+            "United_States_Constitution", 
+            "Deadly_force", 
+            "Salmon_P._Chase", 
+            "1867", 
+            "Bullet", 
+            "Resisting_arrest", 
+            "Less-lethal_weapon", 
+            "Ballistic_vest", 
+            "Jefferson_Davis", 
+            "Ballistic_vest", 
+            "Police_officer", 
+            "Taser", 
+            "Taser", 
+            "Chase,_British_Columbia", 
+            "Secession", 
+            "India_and_weapons_of_mass_destruction", 
+            "Taser", 
+            "Weapon", 
+            "Knife", 
+            "Nuclear_weapon", 
+            "Ballistic_vest", 
+            "Mace_(club)", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Low_Earth_orbit", 
+            "Law", 
+            "Taser", 
+            "Validity_(statistics)"
+        ], 
+        "postID": 40
+    }
+]

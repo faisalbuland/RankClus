@@ -1,0 +1,624 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Court_appointment", 
+            "Bill_Ayers", 
+            "Harriet_Miers", 
+            "Supreme_Court_of_the_United_States", 
+            "Barack_Obama", 
+            "Harriet_Miers"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Law"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bill_Ayers", 
+            "Community_organizing", 
+            "Separation_of_powers", 
+            "Governor", 
+            "Jackson,_Michigan", 
+            "William_Howard_Taft", 
+            "David_Souter", 
+            "President_of_the_United_States", 
+            "Activism", 
+            "United_States_Constitution", 
+            "Modern_liberalism_in_the_United_States", 
+            "Electrical_generator", 
+            "United_States_Senate", 
+            "Supreme_Court_of_the_United_States", 
+            "William_Howard", 
+            "Barack_Obama", 
+            "William_Howard_Taft", 
+            "William_Howard_Taft", 
+            "William_Howard_Taft", 
+            "Hillary_Rodham_Clinton", 
+            "List_of_Justices_of_the_Supreme_Court_of_the_United_States", 
+            "Diesel_generator", 
+            "Bill_Clinton", 
+            "Jesse_Jackson", 
+            "Bill_Clinton", 
+            "Al_Sharpton", 
+            "Activism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Angela_Davis"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hayes,_Hillingdon", 
+            "Routing_Information_Protocol", 
+            "Woody_Hayes", 
+            "Sheriff_Woody"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Liberalism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Perversion", 
+            "Democracy", 
+            "Antonin_Scalia"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Dimension"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "Stephen_Breyer", 
+            "United_States_Congress", 
+            "Supreme_Court_of_the_United_States", 
+            "Harriet_Miers", 
+            "United_States_federal_courts", 
+            "Samuel_Alito", 
+            "Ruth_Bader_Ginsburg", 
+            "George_W._Bush", 
+            "Harriet_Miers", 
+            "Antonin_Scalia", 
+            "Confirmation", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "List_of_Justices_of_the_Supreme_Court_of_the_United_States", 
+            "Liberalism", 
+            "Party_line", 
+            "Supreme_Court_of_the_United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hispanic"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Ronald_Reagan", 
+            "Joseph_Stalin", 
+            "Vlad_Plasmius", 
+            "United_States_Marine_Corps", 
+            "1985", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Vladimir_Lenin"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Hispanic"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Dean_(education)", 
+            "Y'all", 
+            "Sullivan_County,_New_York", 
+            "Stanford_University", 
+            "Spinning_(textiles)", 
+            "Stanford_Law_School"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Electronic_Frontier_Foundation", 
+            "Welfare_(financial_aid)", 
+            "Bowers_v._Hardwick", 
+            "Gary_Anderson", 
+            "Sodomy_law", 
+            "Sodomy", 
+            "Hardwick,_Massachusetts", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Arlen_Specter", 
+            "Arlen_Specter", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Harold_Arlen"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Third_grade", 
+            "Canadian_federal_election,_1882", 
+            "United_States_Senate", 
+            "Edmonton_municipal_election,_December_1896", 
+            "Harriet_Miers", 
+            "Barack_Obama", 
+            "Hispanic", 
+            "Supreme_Court_of_the_United_States", 
+            "Heck", 
+            "Liberalism", 
+            "Education", 
+            "Homelessness", 
+            "Hispanic", 
+            "George_W._Bush", 
+            "United_States_Senate", 
+            "Good_faith"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Routing_Information_Protocol", 
+            "Christianity", 
+            "Islam", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes", 
+            "Sheriff_Woody", 
+            "Christianity", 
+            "Hispanic", 
+            "Christianity", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Miers"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Christianity", 
+            "Muslim", 
+            "Islam", 
+            "Muslim", 
+            "Barack_Obama", 
+            "Muslim", 
+            "2009", 
+            "Islam", 
+            "Carl_von_Clausewitz", 
+            "Islam", 
+            "President_of_the_United_States", 
+            "Muslim", 
+            "Carl_von_Clausewitz", 
+            "Sat_(Sanskrit)", 
+            "President_of_the_United_States", 
+            "Indonesia", 
+            "Muslim"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Mecca", 
+            "Islam", 
+            "Pork", 
+            "Islam", 
+            "President_of_the_United_States", 
+            "Burka", 
+            "Low-alcohol_beer", 
+            "Low-alcohol_beer"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Lunar_phase", 
+            "Muslim", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Moon", 
+            "NATO", 
+            "Crescent"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Jew", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Passover", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "!!!", 
+            "Nerve"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dracula"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Court_appointment", 
+            "Bill_Ayers", 
+            "Harriet_Miers", 
+            "Supreme_Court_of_the_United_States", 
+            "Barack_Obama", 
+            "Harriet_Miers"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Law"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bill_Ayers", 
+            "Community_organizing", 
+            "Separation_of_powers", 
+            "Governor", 
+            "Jackson,_Michigan", 
+            "William_Howard_Taft", 
+            "David_Souter", 
+            "President_of_the_United_States", 
+            "Activism", 
+            "United_States_Constitution", 
+            "Modern_liberalism_in_the_United_States", 
+            "Electrical_generator", 
+            "United_States_Senate", 
+            "Supreme_Court_of_the_United_States", 
+            "William_Howard", 
+            "Barack_Obama", 
+            "William_Howard_Taft", 
+            "William_Howard_Taft", 
+            "William_Howard_Taft", 
+            "Hillary_Rodham_Clinton", 
+            "List_of_Justices_of_the_Supreme_Court_of_the_United_States", 
+            "Diesel_generator", 
+            "Bill_Clinton", 
+            "Jesse_Jackson", 
+            "Bill_Clinton", 
+            "Al_Sharpton", 
+            "Activism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Angela_Davis"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hayes,_Hillingdon", 
+            "Routing_Information_Protocol", 
+            "Woody_Hayes", 
+            "Sheriff_Woody"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Liberalism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Perversion", 
+            "Democracy", 
+            "Antonin_Scalia"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Dimension"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "Stephen_Breyer", 
+            "United_States_Congress", 
+            "Supreme_Court_of_the_United_States", 
+            "Harriet_Miers", 
+            "United_States_federal_courts", 
+            "Samuel_Alito", 
+            "Ruth_Bader_Ginsburg", 
+            "George_W._Bush", 
+            "Harriet_Miers", 
+            "Antonin_Scalia", 
+            "Confirmation", 
+            "Barack_Obama"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "List_of_Justices_of_the_Supreme_Court_of_the_United_States", 
+            "Liberalism", 
+            "Party_line", 
+            "Supreme_Court_of_the_United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Hispanic"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Ronald_Reagan", 
+            "Joseph_Stalin", 
+            "Vlad_Plasmius", 
+            "United_States_Marine_Corps", 
+            "1985", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Vladimir_Lenin"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Hispanic"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Dean_(education)", 
+            "Y'all", 
+            "Sullivan_County,_New_York", 
+            "Stanford_University", 
+            "Spinning_(textiles)", 
+            "Stanford_Law_School"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Electronic_Frontier_Foundation", 
+            "Welfare_(financial_aid)", 
+            "Bowers_v._Hardwick", 
+            "Gary_Anderson", 
+            "Sodomy_law", 
+            "Sodomy", 
+            "Hardwick,_Massachusetts", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Arlen_Specter", 
+            "Arlen_Specter", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Harold_Arlen"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Third_grade", 
+            "Canadian_federal_election,_1882", 
+            "United_States_Senate", 
+            "Edmonton_municipal_election,_December_1896", 
+            "Harriet_Miers", 
+            "Barack_Obama", 
+            "Hispanic", 
+            "Supreme_Court_of_the_United_States", 
+            "Heck", 
+            "Liberalism", 
+            "Education", 
+            "Homelessness", 
+            "Hispanic", 
+            "George_W._Bush", 
+            "United_States_Senate", 
+            "Good_faith"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Routing_Information_Protocol", 
+            "Christianity", 
+            "Islam", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes", 
+            "Sheriff_Woody", 
+            "Christianity", 
+            "Hispanic", 
+            "Christianity", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Miers"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Christianity", 
+            "Muslim", 
+            "Islam", 
+            "Muslim", 
+            "Barack_Obama", 
+            "Muslim", 
+            "2009", 
+            "Islam", 
+            "Carl_von_Clausewitz", 
+            "Islam", 
+            "President_of_the_United_States", 
+            "Muslim", 
+            "Carl_von_Clausewitz", 
+            "Sat_(Sanskrit)", 
+            "President_of_the_United_States", 
+            "Indonesia", 
+            "Muslim"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Mecca", 
+            "Islam", 
+            "Pork", 
+            "Islam", 
+            "President_of_the_United_States", 
+            "Burka", 
+            "Low-alcohol_beer", 
+            "Low-alcohol_beer"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Lunar_phase", 
+            "Muslim", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Moon", 
+            "NATO", 
+            "Crescent"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Jew", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Passover", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "!!!", 
+            "Nerve"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Dracula"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }
+]

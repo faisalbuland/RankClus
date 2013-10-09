@@ -1,0 +1,47 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cell_(biology)", 
+            "Mobile_phone", 
+            "Military_base"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "State", 
+            "Population", 
+            "Prison"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tank"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Prosecutor", 
+            "Constitutional_right"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,265 @@
+[
+    {
+        "entity": [
+            "Agenda", 
+            "Terrorism", 
+            "United_States", 
+            "Hilary_Duff", 
+            "Administrative_divisions_of_Mexico", 
+            "Bcl-2-associated_death_promoter", 
+            "Terrorism", 
+            "Border_states_(Civil_War)", 
+            "Police", 
+            "KNOW-FM", 
+            "Mexico", 
+            "South_America", 
+            "Planet", 
+            "Mexico", 
+            "Fault_(geology)", 
+            "Hilary_Duff", 
+            "Terrorism", 
+            "Mexico", 
+            "Mexico", 
+            "Terrorism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "Illegal_drug_trade", 
+            "Hilary_Duff", 
+            "Mexico", 
+            "Tax", 
+            "Illegal_drug_trade"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Assault_weapon", 
+            "Assault_weapon", 
+            "Magazine", 
+            "Weapon", 
+            "Federal_Assault_Weapons_Ban", 
+            "Brady,_Texas"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Star", 
+            "Death_Star", 
+            "United_States", 
+            "North_America"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Firearm", 
+            "Hillary_Rodham_Clinton", 
+            "LOL"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fence"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Penalty_shootout_(association_football)", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Drug", 
+            "Suspect"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Reeducation_camp", 
+            "Hillary_Rodham_Clinton", 
+            "Fault_(geology)", 
+            "United_States", 
+            "Time_(magazine)", 
+            "Bill_Clinton"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Drug_use"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bandito_Records", 
+            "Broom", 
+            "Mexico"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Counterpoint_(news_music)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Self-defense", 
+            "Hunting", 
+            "Cartel", 
+            "Rifle", 
+            "Assault_weapon", 
+            "Firearm", 
+            "Serial_(radio_and_television)", 
+            "Gun_politics", 
+            "Firearm", 
+            "Automatic_firearm", 
+            "Machine_gun", 
+            "Cartel", 
+            "Handgun", 
+            "Police_brutality", 
+            "Psychology"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "United_States", 
+            "Economy", 
+            "Hillary_Rodham_Clinton", 
+            "Mexico", 
+            "Political_corruption", 
+            "United_States", 
+            "Police", 
+            "Mexico", 
+            "Mexico"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Addiction", 
+            "War_on_Drugs", 
+            "Language", 
+            "Drug", 
+            "Drug_addiction", 
+            "Smuggling", 
+            "Fault_(geology)", 
+            "Drug", 
+            "Addiction", 
+            "Drug", 
+            "Sanity", 
+            "Tax", 
+            "Prison", 
+            "Regulation"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Nonviolence", 
+            "Morality", 
+            "Cannabis_(drug)", 
+            "Alcoholic_beverage", 
+            "Hell", 
+            "Recreational_drug_use", 
+            "Cartel", 
+            "Crime"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Addiction", 
+            "Neighbourhood", 
+            "Medical_cannabis", 
+            "Bugaboo", 
+            "Hero", 
+            "Cannabis_(drug)", 
+            "Legality_of_cannabis", 
+            "Recreational_drug_use", 
+            "Distilled_beverage", 
+            "Crime", 
+            "Alcoholic_beverage", 
+            "Recreational_drug_use", 
+            "Bathtub", 
+            "Great_Britain", 
+            "Medical_cannabis", 
+            "Murder", 
+            "Aisle", 
+            "Grocery_store", 
+            "Recreational_drug_use", 
+            "Cocaine", 
+            "Cannabis"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Cartel", 
+            "Drug_cartel", 
+            "The_Rifles", 
+            "Automatic_firearm", 
+            "Loader_(equipment)", 
+            "Suspension_(vehicle)", 
+            "Hoax", 
+            "Farm", 
+            "Hillary_Rodham_Clinton", 
+            "Weapon", 
+            "M16_rifle", 
+            "Border_guard", 
+            "Mexico", 
+            "Shotgun", 
+            "Film", 
+            "Drug_cartel", 
+            "Shotgun", 
+            "Mex,_Vaud", 
+            "M16_rifle", 
+            "Model_(person)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Shotgun", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Congress", 
+            "Firearm", 
+            "Houston,_Texas"
+        ], 
+        "postID": 22
+    }
+]

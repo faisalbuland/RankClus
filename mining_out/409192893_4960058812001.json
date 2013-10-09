@@ -1,0 +1,127 @@
+[
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "FED_(camera)", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Card_check", 
+            "Google", 
+            "Hit_(baseball)", 
+            "Aircraft"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Boeing", 
+            "United_States", 
+            "FedEx", 
+            "Economy_of_the_United_States", 
+            "1926", 
+            "Boeing", 
+            "Boeing", 
+            "Trade_union", 
+            "Wall_Street", 
+            "The_Wall_Street_Journal", 
+            "United_Parcel_Service", 
+            "FedEx", 
+            "Reuters", 
+            "Graded_stakes_race", 
+            "Law", 
+            "FedEx", 
+            "Trade_union", 
+            "Boeing", 
+            "Jurisdiction", 
+            "Railway_Labor_Act", 
+            "FedEx", 
+            "FedEx", 
+            "Truck", 
+            "Truck_driver", 
+            "Reuters", 
+            "FedEx", 
+            "Boeing_777", 
+            "The_Wall_Street_Journal", 
+            "Boeing", 
+            "FedEx", 
+            "Australian_Labor_Party", 
+            "Boeing_777", 
+            "United_States_Congress", 
+            "Teamsters", 
+            "United_States_Congress", 
+            "Economy", 
+            "Teamsters"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Liberalism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Lumber"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Hurricane_Katrina", 
+            "Diplomacy", 
+            "Kyoto", 
+            "Diplomacy", 
+            "Soldier"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Big_Business", 
+            "United_States_Congress"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Trade_union", 
+            "United_States_Congress"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Labour_law", 
+            "Trade_union", 
+            "Trade_union"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Capitalism"
+        ], 
+        "postID": 13
+    }
+]

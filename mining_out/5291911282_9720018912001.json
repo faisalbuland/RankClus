@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [
+            "Rubber", 
+            "Mathematics", 
+            "Algebra", 
+            "Rubber_band", 
+            "Handgun"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Ear"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Coffee"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Derelict", 
+            "Stuart,_Florida", 
+            "House_of_Stuart", 
+            "September_11,_2001_attacks", 
+            "Sex", 
+            "Soldier", 
+            "Aviator", 
+            "Duck", 
+            "Watercraft_paddling", 
+            "God", 
+            "Blowing_up", 
+            "Watercraft_paddling", 
+            "Terrorism", 
+            "Wind", 
+            "Fart", 
+            "Bus", 
+            "Florida", 
+            "Florida", 
+            "School_bus", 
+            "Tropical_cyclone", 
+            "Florida", 
+            "Middle_school", 
+            "Lakeland,_Florida", 
+            "Police", 
+            "Paddle"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Blackboard", 
+            "Fifth_grade", 
+            "Town", 
+            "English_language", 
+            "Diarrhea", 
+            "Y'all", 
+            "Fart", 
+            "Teacher"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Plastic", 
+            "Slingshot", 
+            "Weapon_of_mass_destruction", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Spit_(landform)", 
+            "Natural_gas"
+        ], 
+        "postID": 6
+    }
+]

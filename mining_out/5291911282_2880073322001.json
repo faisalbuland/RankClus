@@ -1,0 +1,163 @@
+[
+    {
+        "entity": [
+            "Paper_towel", 
+            "Cat", 
+            "Towel", 
+            "Garage_(house)", 
+            "!!!", 
+            "Spaghetti", 
+            "Noodle", 
+            "Typha", 
+            "United_States_Marine_Corps", 
+            "Vegetation", 
+            "!!!", 
+            "Gun_(disambiguation)", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Crutch", 
+            "Toy", 
+            "Sandwich"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Garage_(house)", 
+            "Landscape", 
+            "Vehicle_inspection", 
+            "Wire", 
+            "First_Sergeant", 
+            "Windshield"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Honk", 
+            "Driveway"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Camouflage", 
+            "United_States_Marine_Corps", 
+            "High_school", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Junior_Reserve_Officers'_Training_Corps", 
+            "Fashion", 
+            "United_States_Marine_Corps", 
+            "High_school", 
+            "Junior_Reserve_Officers'_Training_Corps", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "M113_Armored_Personnel_Carrier", 
+            "Armoured_personnel_carrier"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Homestead,_Florida", 
+            "F-16_Fighting_Falcon", 
+            "United_States_Customs_Service", 
+            "United_States_Air_Force", 
+            "Customs", 
+            "United_States_Air_Force", 
+            "United_States_Marine_Corps", 
+            "Homestead_Joint_Air_Reserve_Base"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Brand", 
+            "Soldier", 
+            "Parking_lot", 
+            "Cart", 
+            "Commissary"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Spit_(landform)", 
+            "United_States_Army", 
+            "Wind", 
+            "Bathroom", 
+            "United_States_Air_Force", 
+            "Flap_(aircraft)", 
+            "Camping", 
+            "Tree", 
+            "Infantry", 
+            "Soldier", 
+            "Mirror", 
+            "Foot_(length)", 
+            "Tree", 
+            "God"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Cadet", 
+            "Reserve_Officers'_Training_Corps", 
+            "Surplus_store", 
+            "Military_surplus", 
+            "United_States_Army", 
+            "Surplus_store", 
+            "Ge'ez_language", 
+            "Camouflage", 
+            "Christmas"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Blouse", 
+            "User_(computing)", 
+            "Gray_Line", 
+            "Europe", 
+            "United_States_Army", 
+            "Class_A_television_service", 
+            "First_Sergeant", 
+            "E-8_Joint_STARS", 
+            "E-mail", 
+            "Beret", 
+            "Green_beret"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Marine_Corps", 
+            "Reserve_Officers'_Training_Corps", 
+            "2008", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 14
+    }
+]

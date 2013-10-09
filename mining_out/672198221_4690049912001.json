@@ -1,0 +1,142 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Cakewalk", 
+            "United_States", 
+            "Interference"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "AIDS", 
+            "Poverty", 
+            "Communism", 
+            "Communism", 
+            "Homelessness"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Iraq", 
+            "The_Iraqis", 
+            "Electricity", 
+            "Saddam_Hussein_(South_Park)", 
+            "Saddam_Hussein_(South_Park)", 
+            "SOB", 
+            "Dictator", 
+            "Iraq", 
+            "Hussein_of_Jordan", 
+            "Saddam_Hussein_(South_Park)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Saddam_Hussein", 
+            "Kurdish_people", 
+            "Saddam_Hussein", 
+            "Mass", 
+            "Haditha", 
+            "2009", 
+            "April_6", 
+            "Peshmerga", 
+            "Saddam_Hussein", 
+            "Mon_people", 
+            "Cell_(biology)", 
+            "Iraq"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Adolf_Hitler", 
+            "Nazi_Germany", 
+            "Nazi_Germany", 
+            "Nazi_Germany", 
+            "Godless_(novel)", 
+            "Federal_Aviation_Regulations", 
+            "Adolf_Hitler", 
+            "East_Germany", 
+            "Saddam_Hussein", 
+            "Adolf_Hitler", 
+            "World_War_II", 
+            "Soul", 
+            "Democracy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(Turkey,_current)", 
+            "John_Kerry"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "Wing", 
+            "Left-wing_politics"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Shia_Islam", 
+            "Dictator", 
+            "Germany", 
+            "Sunni_Islam", 
+            "Kurdish_people", 
+            "Iraq", 
+            "Iraq", 
+            "Saddam_Hussein", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Collectivism", 
+            "British_Empire", 
+            "Cold_War", 
+            "Socialism", 
+            "Ronald_Reagan", 
+            "Communism", 
+            "Pope_John_Paul_II", 
+            "Collectivism", 
+            "Nazism", 
+            "Mikhail_Gorbachev", 
+            "Margaret_Thatcher", 
+            "Ronald_Reagan", 
+            "Margaret_Thatcher", 
+            "Economy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }
+]

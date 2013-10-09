@@ -1,0 +1,302 @@
+[
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Manufacturing", 
+            "Barack_Obama", 
+            "Nancy", 
+            "Major_depressive_disorder", 
+            "Chrysler", 
+            "Barack_Obama", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Panama", 
+            "Toyota"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Bankruptcy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster", 
+            "United_States", 
+            "LOL", 
+            "Patriot_(American_Revolution)", 
+            "Conscience", 
+            "Sarcasm"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "Donkey", 
+            "Equal_opportunity", 
+            "United_States", 
+            "Teh", 
+            "Real_freedom", 
+            "Teleprompter"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barney_Frank", 
+            "Absentee_ballot", 
+            "Panama", 
+            "Barney_Gumble", 
+            "Panama", 
+            "CBS", 
+            "NBC", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Drum"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Union", 
+            "Union", 
+            "Stocks"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Truck", 
+            "Japan", 
+            "Automobile", 
+            "Russian_language", 
+            "Socialism", 
+            "FUG", 
+            "Logo"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Lobbying", 
+            "United_States", 
+            "Time_(magazine)", 
+            "Tar", 
+            "Drama", 
+            "Politics_of_the_United_States", 
+            "Election", 
+            "Democracy", 
+            "Trough_(meteorology)", 
+            "Politics"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "2003_invasion_of_Iraq", 
+            "Safety_(American_football)", 
+            "Oath"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Big_Three_automobile_manufacturers", 
+            "Barack_Obama", 
+            "Yahoo!", 
+            "Detroit,_Michigan", 
+            "Barack_Obama", 
+            "Buzz_Lightyear", 
+            "Collapse_(book)", 
+            "Automotive_industry", 
+            "Homework", 
+            "Automotive_industry", 
+            "Barack_Obama", 
+            "Big_Three_automobile_manufacturers", 
+            "Option_(music_magazine)", 
+            "Bankruptcy", 
+            "Big_Three", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Manufacturing"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Academy_Award", 
+            "List_of_peninsulas", 
+            "Coco", 
+            "Terrorism", 
+            "United_States_Marine_Corps", 
+            "Murder", 
+            "Guanacaste_Province", 
+            "Pacific_Ocean", 
+            "Brinson,_Georgia", 
+            "United_States", 
+            "Intelligence_(information_gathering)", 
+            "Guanacaste_Province", 
+            "Playa", 
+            "Diving", 
+            "Costa_Rica", 
+            "Patriotism", 
+            "Fishing", 
+            "Central_America", 
+            "Barack_Obama", 
+            "Province", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Panama", 
+            "Gardner,_Massachusetts", 
+            "Civil_service", 
+            "Income_tax", 
+            "Jungle", 
+            "Medical_prescription", 
+            "Panama", 
+            "Maid", 
+            "Boarding_school", 
+            "Clinic", 
+            "Panama", 
+            "Costa_Rica", 
+            "Star", 
+            "1981", 
+            "Yankee", 
+            "Yankee_Stadium", 
+            "Panama", 
+            "Hotel", 
+            "Pacific_Ocean", 
+            "Costa_Rica", 
+            "Veterans_Health_Administration", 
+            "Retirement"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Yankee_Stadium", 
+            "Plymouth_Duster", 
+            "Yankee"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "Plymouth_Duster", 
+            "Pacific_Ocean", 
+            "Yankee", 
+            "Clayton,_Missouri", 
+            "Yankee_Stadium", 
+            "Pacific_Ocean", 
+            "Fort_Clayton", 
+            "Infantry"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Polyethylene_terephthalate"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "River_Dee,_Wales", 
+            "Nancy_Pelosi", 
+            "Tweedle_Dee", 
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Terrorism", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "Murder"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Reality_warping", 
+            "Partisan_(military)", 
+            "Big_Three_automobile_manufacturers", 
+            "Economy", 
+            "Barack_Obama", 
+            "Bankruptcy", 
+            "The_One_(film)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Barry,_Vale_of_Glamorgan", 
+            "Progressive_education", 
+            "Progressivism", 
+            "Liberalism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Selective_memory_loss", 
+            "Honesty"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "Rush_(band)", 
+            "American_Forces_Network"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "2004", 
+            "American_Forces_Network", 
+            "1994", 
+            "Radio_programming", 
+            "American_Forces_Network", 
+            "Talk_radio"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "Rush_(band)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "Rush_Limbaugh", 
+            "Internet_forum", 
+            "Rush_(band)", 
+            "Liberalism", 
+            "Rush_Limbaugh"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "American_Forces_Network", 
+            "Europe", 
+            "Decoder", 
+            "Radio", 
+            "American_Forces_Network"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "American_Forces_Network", 
+            "Web_portal"
+        ], 
+        "postID": 7
+    }
+]

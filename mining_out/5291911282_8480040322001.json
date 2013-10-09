@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Delta_Force", 
+            "United_States_Navy_SEALs", 
+            "Delta_Air_Lines", 
+            "Amazon_River", 
+            "Dictator", 
+            "Pinniped", 
+            "The_Pentagon", 
+            "The_Pentagon", 
+            "Hugo_Ch\u00e1vez", 
+            "Intelligence_(information_gathering)", 
+            "Hugo_Award", 
+            "Special_Forces_(United_States_Army)", 
+            "Special_forces", 
+            "Ambush", 
+            "Holly", 
+            "Venezuela", 
+            "Military_intelligence", 
+            "Bamboo", 
+            "United_States_Navy", 
+            "Halo_(series)", 
+            "United_States_Navy_SEALs", 
+            "Hugo_Ch\u00e1vez", 
+            "Pinniped"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "George_Harrison", 
+            "Harrison_Ford", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stripes_(film)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Escape_(radio_program)", 
+            "Cuba", 
+            "Camp_(style)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "OPSEC", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 6
+    }
+]

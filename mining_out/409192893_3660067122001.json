@@ -1,0 +1,572 @@
+[
+    {
+        "entity": [
+            "UAW", 
+            "UAW"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Inventory", 
+            "Inventory"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gallon", 
+            "Tiny_Encryption_Algorithm", 
+            "Fuel_efficiency", 
+            "Gasoline", 
+            "United_States", 
+            "Gasoline"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "GM-1", 
+            "Bankruptcy", 
+            "Labor_unions_in_the_United_States", 
+            "Bankruptcy", 
+            "Globe", 
+            "Trade_union", 
+            "United_States", 
+            "United_States", 
+            "Labor_unions_in_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan", 
+            "Gas", 
+            "Drawing_board", 
+            "Drawing_board"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Liquidation", 
+            "United_States", 
+            "World_War_II", 
+            "Bankruptcy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Landfill", 
+            "Bus"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Emissions_trading", 
+            "North_American_Free_Trade_Agreement", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Unemployment"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Unemployment"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Sweetheart_deal"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "MFG", 
+            "United_Auto_Workers", 
+            "Italy", 
+            "Fiat", 
+            "Hell", 
+            "Plenty_(play)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Union_(American_Civil_War)", 
+            "Union_(American_Civil_War)", 
+            "Trade_union", 
+            "Debt"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "LOOK", 
+            "Saturn", 
+            "International_Maritime_Organization", 
+            "Saturn", 
+            "Market_value"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Shareholder", 
+            "Secured_creditor", 
+            "Federal_government_of_the_United_States", 
+            "Voting_share"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Parking_lot", 
+            "States_and_territories_of_India", 
+            "Saturn"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Profit", 
+            "Plant", 
+            "Myopia"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Rover_Metro", 
+            "Gasoline", 
+            "Internal_combustion_engine", 
+            "Gas_engine", 
+            "Ford_Motor_Company", 
+            "Benchmark_(computing)", 
+            "Hybrid_(biology)", 
+            "Geo_(automobile)", 
+            "Ford_Fiesta", 
+            "Gasoline", 
+            "Suzuki_Cultus", 
+            "Ford_Motor_Company", 
+            "Property_tax", 
+            "Ford_Fiesta", 
+            "Natural_gas", 
+            "Bunsen_burner", 
+            "Miles_per_hour"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Business_jet", 
+            "ZERO_bar", 
+            "United_Auto_Workers", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "Sweetheart_deal"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Automotive_industry", 
+            "Unemployment", 
+            "Insurance", 
+            "Factory"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Unemployment", 
+            "Diff", 
+            "New_York", 
+            "Unemployment", 
+            "U.S._state", 
+            "Insurance", 
+            "Unemployment_benefits", 
+            "Unemployment_benefits", 
+            "Unemployment", 
+            "United_States_Department_of_Labor", 
+            "Insurance", 
+            "Unemployment", 
+            "Insurance", 
+            "Unemployment_benefits", 
+            "Insurance", 
+            "Unemployment", 
+            "Unemployment_benefits", 
+            "Fault_(geology)", 
+            "Wage"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "Chrysler"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "British_and_Irish_Lions", 
+            "!!!"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Shareholder", 
+            "M72_LAW", 
+            "Voting_share"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Chevrolet_Blazer", 
+            "GMC_(automobile)", 
+            "Pontiac", 
+            "1978", 
+            "Pontiac", 
+            "Pontiac_Bonneville", 
+            "Sticker", 
+            "American_Car_Company", 
+            "Pontiac_Grand_Prix", 
+            "2005", 
+            "United_States", 
+            "Pontiac_Bonneville", 
+            "Guanosine_triphosphate", 
+            "Bumper_(Transformers)", 
+            "Pontiac_Grand_Prix", 
+            "2004", 
+            "Ford_Motor_Company", 
+            "2000"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "UAW", 
+            "UAW"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Inventory", 
+            "Inventory"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Gallon", 
+            "Tiny_Encryption_Algorithm", 
+            "Fuel_efficiency", 
+            "Gasoline", 
+            "United_States", 
+            "Gasoline"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "GM-1", 
+            "Bankruptcy", 
+            "Labor_unions_in_the_United_States", 
+            "Bankruptcy", 
+            "Globe", 
+            "Trade_union", 
+            "United_States", 
+            "United_States", 
+            "Labor_unions_in_the_United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan", 
+            "Gas", 
+            "Drawing_board", 
+            "Drawing_board"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Liquidation", 
+            "United_States", 
+            "World_War_II", 
+            "Bankruptcy"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Landfill", 
+            "Bus"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Emissions_trading", 
+            "North_American_Free_Trade_Agreement", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Unemployment"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Unemployment"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Sweetheart_deal"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "MFG", 
+            "United_Auto_Workers", 
+            "Italy", 
+            "Fiat", 
+            "Hell", 
+            "Plenty_(play)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Union_(American_Civil_War)", 
+            "Union_(American_Civil_War)", 
+            "Trade_union", 
+            "Debt"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "LOOK", 
+            "Saturn", 
+            "International_Maritime_Organization", 
+            "Saturn", 
+            "Market_value"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Shareholder", 
+            "Secured_creditor", 
+            "Federal_government_of_the_United_States", 
+            "Voting_share"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Parking_lot", 
+            "States_and_territories_of_India", 
+            "Saturn"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Profit", 
+            "Plant", 
+            "Myopia"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Rover_Metro", 
+            "Gasoline", 
+            "Internal_combustion_engine", 
+            "Gas_engine", 
+            "Ford_Motor_Company", 
+            "Benchmark_(computing)", 
+            "Hybrid_(biology)", 
+            "Geo_(automobile)", 
+            "Ford_Fiesta", 
+            "Gasoline", 
+            "Suzuki_Cultus", 
+            "Ford_Motor_Company", 
+            "Property_tax", 
+            "Ford_Fiesta", 
+            "Natural_gas", 
+            "Bunsen_burner", 
+            "Miles_per_hour"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Business_jet", 
+            "ZERO_bar", 
+            "United_Auto_Workers", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Unemployment", 
+            "Sweetheart_deal"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Automotive_industry", 
+            "Unemployment", 
+            "Insurance", 
+            "Factory"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Unemployment", 
+            "Diff", 
+            "New_York", 
+            "Unemployment", 
+            "U.S._state", 
+            "Insurance", 
+            "Unemployment_benefits", 
+            "Unemployment_benefits", 
+            "Unemployment", 
+            "United_States_Department_of_Labor", 
+            "Insurance", 
+            "Unemployment", 
+            "Insurance", 
+            "Unemployment_benefits", 
+            "Insurance", 
+            "Unemployment", 
+            "Unemployment_benefits", 
+            "Fault_(geology)", 
+            "Wage"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "Chrysler"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "British_and_Irish_Lions", 
+            "!!!"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Shareholder", 
+            "M72_LAW", 
+            "Voting_share"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Chevrolet_Blazer", 
+            "GMC_(automobile)", 
+            "Pontiac", 
+            "1978", 
+            "Pontiac", 
+            "Pontiac_Bonneville", 
+            "Sticker", 
+            "American_Car_Company", 
+            "Pontiac_Grand_Prix", 
+            "2005", 
+            "United_States", 
+            "Pontiac_Bonneville", 
+            "Guanosine_triphosphate", 
+            "Bumper_(Transformers)", 
+            "Pontiac_Grand_Prix", 
+            "2004", 
+            "Ford_Motor_Company", 
+            "2000"
+        ], 
+        "postID": 60
+    }
+]

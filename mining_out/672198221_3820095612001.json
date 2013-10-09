@@ -1,0 +1,102 @@
+[
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security", 
+            "Secretary_for_Security", 
+            "Cartel", 
+            "United_States", 
+            "Mexico", 
+            "United_States", 
+            "United_States", 
+            "CBS", 
+            "Violence", 
+            "Gary_Anderson", 
+            "Anderson_Cooper", 
+            "Cooper_Car_Company", 
+            "Drug_cartel", 
+            "Drug", 
+            "March_1", 
+            "60_Minutes", 
+            "Mexico", 
+            "Janet_Napolitano"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Journalism_ethics_and_standards", 
+            "Cooper_Car_Company"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Softball", 
+            "Copper"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Mexico", 
+            "Iraq", 
+            "Iraq"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jackson,_Mississippi", 
+            "Andy_Jackson", 
+            "Drug", 
+            "Automatic_firearm", 
+            "Mexico_City", 
+            "Mexico_City", 
+            "Patriotism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Drug"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Assault_weapon"
+        ], 
+        "postID": 13
+    }
+]

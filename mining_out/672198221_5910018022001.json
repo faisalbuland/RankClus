@@ -1,0 +1,508 @@
+[
+    {
+        "entity": [
+            "Organ_transplant", 
+            "Chlamydia_infection", 
+            "Radiohead", 
+            "Pipe_(material)", 
+            "Jamie_Foxx", 
+            "Waldorf,_Maryland", 
+            "Blair_Waldorf", 
+            "Cyrus", 
+            "Miley_Stewart", 
+            "Radio", 
+            "Tony_Blair", 
+            "Natural_gum", 
+            "Heroin", 
+            "Bicycle_seat", 
+            "Bicycle", 
+            "Comedian", 
+            "Foxx", 
+            "Foxx_(rapper)", 
+            "Montana", 
+            "Ripple", 
+            "Britney_Spears", 
+            "Lindsay_Lohan", 
+            "Britney_(album)", 
+            "Sirius", 
+            "Miley_Cyrus", 
+            "Celebrity_sex_tape", 
+            "Lesbian", 
+            "Sex", 
+            "Star", 
+            "Sirius_Satellite_Radio", 
+            "Lindsay_Lohan", 
+            "Cyrus", 
+            "Grammy_Award", 
+            "Lindsay_Lohan", 
+            "Hannah_Montana", 
+            "Miley_Cyrus"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Comedian", 
+            "Ford_Motor_Company", 
+            "Comedians_(play)", 
+            "White_people", 
+            "Black_people", 
+            "Black_people", 
+            "White_American"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Today_(NBC_program)", 
+            "Obscenity", 
+            "Drone_(music)", 
+            "Today_(NBC_program)", 
+            "Racism", 
+            "Adolescence", 
+            "Foxx_(rapper)", 
+            "Comedian"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Celebrity", 
+            "Billy_Ray_(screenwriter)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "The_National_Enquirer", 
+            "List_of_entertainment_industry_topics", 
+            "Gossip", 
+            "Cyrus", 
+            "Entertainment", 
+            "Apparent_magnitude", 
+            "Cyrus", 
+            "The_Cincinnati_Enquirer", 
+            "Public_figure", 
+            "The_National_Enquirer"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "African_American", 
+            "Gerald_Ford"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Academy_Award", 
+            "Michael_Richards"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Don_Imus", 
+            "Natural_afro-hair", 
+            "Actor", 
+            "United_States", 
+            "Jamie_Foxx", 
+            "Miley_Cyrus", 
+            "Miley_Stewart", 
+            "Actor", 
+            "Foxx", 
+            "Comedy", 
+            "Double_standard", 
+            "African_American", 
+            "The_Walt_Disney_Company", 
+            "Fox_Broadcasting_Company", 
+            "Africa", 
+            "Don_Imus", 
+            "Cyrus"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Comedian", 
+            "Ford_Motor_Company", 
+            "Don_Imus", 
+            "Gerald_Ford", 
+            "Imus,_Cavite"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Jew", 
+            "Hook_(music)", 
+            "Gibson_Guitar_Corporation", 
+            "Melanie_Bush", 
+            "Seth_Cohen", 
+            "Seth_Rogen", 
+            "Michael_Richards", 
+            "Mel_Gibson", 
+            "Comedian", 
+            "Jamie_Foxx", 
+            "Sugar", 
+            "Water"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Howard_Stern", 
+            "Jay_Leno", 
+            "Skin", 
+            "Adolescence", 
+            "Wow_(recording)", 
+            "Stern_(magazine)", 
+            "Stern_(magazine)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Satellite", 
+            "Foxx_(rapper)", 
+            "Howard_Stern", 
+            "Stern_(magazine)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stern_(magazine)", 
+            "Striptease", 
+            "Striptease"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Jay_Leno", 
+            "Pinhead", 
+            "Jamie_Foxx", 
+            "Jamie_Foxx", 
+            "Pinhead_(Hellraiser)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Tunnel", 
+            "Worm", 
+            "New_York_City", 
+            "Moby", 
+            "Imus,_Cavite", 
+            "Radio", 
+            "Jimmie_Foxx"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Michael_Richards", 
+            "Imus,_Cavite", 
+            "Don_Imus"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Comedy", 
+            "Happy_ending", 
+            "Drama"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Don_Imus", 
+            "Double_standard", 
+            "Diaper", 
+            "Imus", 
+            "Basketball"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Gossip", 
+            "Idiot", 
+            "Gossip", 
+            "International_Maritime_Organization", 
+            "Entertainment", 
+            "Foxx_(rapper)", 
+            "Imus,_Cavite", 
+            "Foxx_(rapper)", 
+            "The_National_Enquirer", 
+            "The_Cincinnati_Enquirer"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Organ_transplant", 
+            "Chlamydia_infection", 
+            "Radiohead", 
+            "Pipe_(material)", 
+            "Jamie_Foxx", 
+            "Waldorf,_Maryland", 
+            "Blair_Waldorf", 
+            "Cyrus", 
+            "Miley_Stewart", 
+            "Radio", 
+            "Tony_Blair", 
+            "Natural_gum", 
+            "Heroin", 
+            "Bicycle_seat", 
+            "Bicycle", 
+            "Comedian", 
+            "Foxx", 
+            "Foxx_(rapper)", 
+            "Montana", 
+            "Ripple", 
+            "Britney_Spears", 
+            "Lindsay_Lohan", 
+            "Britney_(album)", 
+            "Sirius", 
+            "Miley_Cyrus", 
+            "Celebrity_sex_tape", 
+            "Lesbian", 
+            "Sex", 
+            "Star", 
+            "Sirius_Satellite_Radio", 
+            "Lindsay_Lohan", 
+            "Cyrus", 
+            "Grammy_Award", 
+            "Lindsay_Lohan", 
+            "Hannah_Montana", 
+            "Miley_Cyrus"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Comedian", 
+            "Ford_Motor_Company", 
+            "Comedians_(play)", 
+            "White_people", 
+            "Black_people", 
+            "Black_people", 
+            "White_American"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Today_(NBC_program)", 
+            "Obscenity", 
+            "Drone_(music)", 
+            "Today_(NBC_program)", 
+            "Racism", 
+            "Adolescence", 
+            "Foxx_(rapper)", 
+            "Comedian"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Celebrity", 
+            "Billy_Ray_(screenwriter)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "The_National_Enquirer", 
+            "List_of_entertainment_industry_topics", 
+            "Gossip", 
+            "Cyrus", 
+            "Entertainment", 
+            "Apparent_magnitude", 
+            "Cyrus", 
+            "The_Cincinnati_Enquirer", 
+            "Public_figure", 
+            "The_National_Enquirer"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "African_American", 
+            "Gerald_Ford"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Academy_Award", 
+            "Michael_Richards"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Don_Imus", 
+            "Natural_afro-hair", 
+            "Actor", 
+            "United_States", 
+            "Jamie_Foxx", 
+            "Miley_Cyrus", 
+            "Miley_Stewart", 
+            "Actor", 
+            "Foxx", 
+            "Comedy", 
+            "Double_standard", 
+            "African_American", 
+            "The_Walt_Disney_Company", 
+            "Fox_Broadcasting_Company", 
+            "Africa", 
+            "Don_Imus", 
+            "Cyrus"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Comedian", 
+            "Ford_Motor_Company", 
+            "Don_Imus", 
+            "Gerald_Ford", 
+            "Imus,_Cavite"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Jew", 
+            "Hook_(music)", 
+            "Gibson_Guitar_Corporation", 
+            "Melanie_Bush", 
+            "Seth_Cohen", 
+            "Seth_Rogen", 
+            "Michael_Richards", 
+            "Mel_Gibson", 
+            "Comedian", 
+            "Jamie_Foxx", 
+            "Sugar", 
+            "Water"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Howard_Stern", 
+            "Jay_Leno", 
+            "Skin", 
+            "Adolescence", 
+            "Wow_(recording)", 
+            "Stern_(magazine)", 
+            "Stern_(magazine)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Satellite", 
+            "Foxx_(rapper)", 
+            "Howard_Stern", 
+            "Stern_(magazine)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Stern_(magazine)", 
+            "Striptease", 
+            "Striptease"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Jay_Leno", 
+            "Pinhead", 
+            "Jamie_Foxx", 
+            "Jamie_Foxx", 
+            "Pinhead_(Hellraiser)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Tunnel", 
+            "Worm", 
+            "New_York_City", 
+            "Moby", 
+            "Imus,_Cavite", 
+            "Radio", 
+            "Jimmie_Foxx"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Michael_Richards", 
+            "Imus,_Cavite", 
+            "Don_Imus"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Comedy", 
+            "Happy_ending", 
+            "Drama"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Don_Imus", 
+            "Double_standard", 
+            "Diaper", 
+            "Imus", 
+            "Basketball"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Gossip", 
+            "Idiot", 
+            "Gossip", 
+            "International_Maritime_Organization", 
+            "Entertainment", 
+            "Foxx_(rapper)", 
+            "Imus,_Cavite", 
+            "Foxx_(rapper)", 
+            "The_National_Enquirer", 
+            "The_Cincinnati_Enquirer"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "entity": [
+            "Military.com", 
+            "Glitch", 
+            "Military.com"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Military.com", 
+            "Software_bug"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

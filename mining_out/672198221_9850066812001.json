@@ -1,0 +1,754 @@
+[
+    {
+        "entity": [
+            "Afghanistan", 
+            "WAR_(wrestling_promotion)", 
+            "Fox_Broadcasting_Company", 
+            "Thread_(computer_science)", 
+            "List_of_NBC_slogans"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Hilt"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "Canada", 
+            "NATO"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "University_of_California,_Berkeley", 
+            "Feces", 
+            "Wing", 
+            "Greig,_New_York"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "United_States", 
+            "Gall"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Free_Press", 
+            "Canadian_House_of_Commons", 
+            "Canada"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Fair_and_balanced", 
+            "Fair_and_balanced", 
+            "Centaur", 
+            "Joker_(playing_card)", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Bar_association", 
+            "United_States", 
+            "Beer", 
+            "Clock"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Canuck", 
+            "IMHO", 
+            "Red_Eye_(film)", 
+            "Dude", 
+            "Point_of_sale", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Chat_show", 
+            "Conservatism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Liberal_Party_of_Canada", 
+            "Fox_News_Channel", 
+            "Liberal_Party_of_Canada", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Milquetoast", 
+            "Democracy", 
+            "Republicanism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Bozo", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Boot"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Politics_of_Canada", 
+            "Treason", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Terry_Gerin", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Adventure", 
+            "Iraq_War", 
+            "Advertising", 
+            "Conservative_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Propaganda", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Fox_Broadcasting_Company", 
+            "Coin", 
+            "Peace_movement", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Iraq_War", 
+            "Anti-war", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Canada"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Politics"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "WAR_(wrestling_promotion)", 
+            "Fox_Broadcasting_Company", 
+            "Thread_(computer_science)", 
+            "List_of_NBC_slogans"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Hilt"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "Canada", 
+            "NATO"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "University_of_California,_Berkeley", 
+            "Feces", 
+            "Wing", 
+            "Greig,_New_York"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "United_States", 
+            "Gall"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Free_Press", 
+            "Canadian_House_of_Commons", 
+            "Canada"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Fair_and_balanced", 
+            "Fair_and_balanced", 
+            "Centaur", 
+            "Joker_(playing_card)", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Bar_association", 
+            "United_States", 
+            "Beer", 
+            "Clock"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Canuck", 
+            "IMHO", 
+            "Red_Eye_(film)", 
+            "Dude", 
+            "Point_of_sale", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Chat_show", 
+            "Conservatism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Liberal_Party_of_Canada", 
+            "Fox_News_Channel", 
+            "Liberal_Party_of_Canada", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Milquetoast", 
+            "Democracy", 
+            "Republicanism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Bozo", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Boot"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Politics_of_Canada", 
+            "Treason", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Terry_Gerin", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Adventure", 
+            "Iraq_War", 
+            "Advertising", 
+            "Conservative_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Propaganda", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Fox_Broadcasting_Company", 
+            "Coin", 
+            "Peace_movement", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Iraq_War", 
+            "Anti-war", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Canada"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Politics"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "WAR_(wrestling_promotion)", 
+            "Fox_Broadcasting_Company", 
+            "Thread_(computer_science)", 
+            "List_of_NBC_slogans"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Hilt"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "Canada", 
+            "NATO"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "University_of_California,_Berkeley", 
+            "Feces", 
+            "Wing", 
+            "Greig,_New_York"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "United_States", 
+            "Gall"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Free_Press", 
+            "Canadian_House_of_Commons", 
+            "Canada"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Fair_and_balanced", 
+            "Fair_and_balanced", 
+            "Centaur", 
+            "Joker_(playing_card)", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Bar_association", 
+            "United_States", 
+            "Beer", 
+            "Clock"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Canuck", 
+            "IMHO", 
+            "Red_Eye_(film)", 
+            "Dude", 
+            "Point_of_sale", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Chat_show", 
+            "Conservatism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Liberal_Party_of_Canada", 
+            "Fox_News_Channel", 
+            "Liberal_Party_of_Canada", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Milquetoast", 
+            "Democracy", 
+            "Republicanism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Bozo", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Boot"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Politics_of_Canada", 
+            "Treason", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Terry_Gerin", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Adventure", 
+            "Iraq_War", 
+            "Advertising", 
+            "Conservative_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Propaganda", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Fox_Broadcasting_Company", 
+            "Coin", 
+            "Peace_movement", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Iraq_War", 
+            "Anti-war", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Canada"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Politics"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "WAR_(wrestling_promotion)", 
+            "Fox_Broadcasting_Company", 
+            "Thread_(computer_science)", 
+            "List_of_NBC_slogans"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Hilt"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Canada", 
+            "Canada", 
+            "Canada", 
+            "NATO"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Berkeley", 
+            "University_of_California,_Berkeley", 
+            "Feces", 
+            "Wing", 
+            "Greig,_New_York"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "United_States", 
+            "Gall"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Free_Press", 
+            "Canadian_House_of_Commons", 
+            "Canada"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Fair_and_balanced", 
+            "Fair_and_balanced", 
+            "Centaur", 
+            "Joker_(playing_card)", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Bar_association", 
+            "United_States", 
+            "Beer", 
+            "Clock"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Canuck", 
+            "IMHO", 
+            "Red_Eye_(film)", 
+            "Dude", 
+            "Point_of_sale", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Chat_show", 
+            "Conservatism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Liberal_Party_of_Canada", 
+            "Fox_News_Channel", 
+            "Liberal_Party_of_Canada", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Milquetoast", 
+            "Democracy", 
+            "Republicanism"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Bozo", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Boot"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Politics_of_Canada", 
+            "Treason", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Terry_Gerin", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Adventure", 
+            "Iraq_War", 
+            "Advertising", 
+            "Conservative_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Propaganda", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Fox_Broadcasting_Company", 
+            "Coin", 
+            "Peace_movement", 
+            "Fox_Broadcasting_Company", 
+            "Canada", 
+            "Liberal_Party_of_Canada", 
+            "Fox_Broadcasting_Company", 
+            "Iraq_War", 
+            "Anti-war", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Canada"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Politics"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 80
+    }
+]

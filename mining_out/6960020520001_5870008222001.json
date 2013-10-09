@@ -1,0 +1,275 @@
+[
+    {
+        "entity": [
+            "Al_Jazeera", 
+            "Demography_of_Afghanistan", 
+            "Anti-Americanism", 
+            "Author", 
+            "Christianity", 
+            "United_States", 
+            "Al_Jazeera", 
+            "Chaplain"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Christianity", 
+            "International_incident", 
+            "Bible", 
+            "Afghanistan"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sermon", 
+            "Chaplain", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Christian", 
+            "Sermon", 
+            "Chaplain", 
+            "Sermon", 
+            "Christian", 
+            "Bible", 
+            "United_States", 
+            "United_States_Army", 
+            "Chaplain", 
+            "Jew", 
+            "Christian", 
+            "Chaplain", 
+            "Jew", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Christianity", 
+            "Apostasy", 
+            "Spain", 
+            "Religious_persecution", 
+            "Ten_Commandments", 
+            "Persecution", 
+            "Jesus", 
+            "Doctrine", 
+            "Prophet", 
+            "Islam", 
+            "Islam", 
+            "Doctrine", 
+            "Moses", 
+            "Islam", 
+            "Chaplain", 
+            "Christianity", 
+            "Trinity", 
+            "Islam"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Chaplain", 
+            "Bible"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Liberal_Left", 
+            "Liberal_Party_of_Canada", 
+            "Author", 
+            "Islam", 
+            "Propaganda", 
+            "Hypocrisy", 
+            "Islam", 
+            "Islam", 
+            "Airman", 
+            "Christianity", 
+            "Al_Jazeera", 
+            "Sharia"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Fundamentalist_Christianity", 
+            "Islam", 
+            "Fundamentalism", 
+            "Christian", 
+            "Muslim"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Focus_(band)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Evangelicalism", 
+            "Militarism", 
+            "Jesus", 
+            "Jesus", 
+            "Jesus", 
+            "Counter-insurgency"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "God"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "MoveOn.org", 
+            "God", 
+            "United_States", 
+            "Liberalism", 
+            "Wing_(air_force_unit)", 
+            "God_Bless_America"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Muslim"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Firdos_Square", 
+            "Abu_Ghraib", 
+            "The_Pentagon", 
+            "Iraq", 
+            "Armour", 
+            "Digest", 
+            "George_W._Bush", 
+            "Iraq_War", 
+            "Military_intelligence", 
+            "Bible", 
+            "First_Epistle_of_Peter", 
+            "United_States", 
+            "First_Epistle_of_John", 
+            "Saddam_Hussein", 
+            "Soldier", 
+            "Baghdad", 
+            "GQ_(magazine)", 
+            "Stress_(biological)", 
+            "April_10", 
+            "Desert", 
+            "Brandon,_Manitoba", 
+            "Film_director", 
+            "The_Pentagon", 
+            "Donald_Rumsfeld", 
+            "Eye", 
+            "Epistle_to_the_Ephesians", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "The_Pentagon", 
+            "Saddam_Hussein", 
+            "Joint_Chiefs_of_Staff", 
+            "Intelligence_(information_gathering)", 
+            "Donald_Rumsfeld", 
+            "Tank", 
+            "Muslim", 
+            "Major", 
+            "Magazine", 
+            "Intelligence_(information_gathering)", 
+            "White_House", 
+            "Major_General", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States", 
+            "The_Pentagon", 
+            "Richard_Myers", 
+            "Christian", 
+            "God", 
+            "Prayer_circle", 
+            "Prayer", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bible", 
+            "March_31", 
+            "Pentagon", 
+            "Soul_music", 
+            "George_W._Bush", 
+            "Epistle", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Islam", 
+            "Psalms", 
+            "Bible", 
+            "Muslim_world", 
+            "April_7", 
+            "Dictatorship", 
+            "Audio_mixing", 
+            "2003", 
+            "The_Pentagon", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Demography_of_Afghanistan", 
+            "Soldier", 
+            "Due_process", 
+            "General_order", 
+            "Bible", 
+            "Education", 
+            "Demography_of_Afghanistan", 
+            "Missionary", 
+            "Seizure", 
+            "Bible", 
+            "Literature", 
+            "England", 
+            "Muslim", 
+            "Chaplain", 
+            "Constitutional_right", 
+            "Afghanistan", 
+            "Pashto_language", 
+            "Missionary", 
+            "Dari_(Persian)", 
+            "Christian", 
+            "Christian", 
+            "Soldier", 
+            "Personal_property", 
+            "Christian", 
+            "Afghanistan", 
+            "Missionary", 
+            "Uniform_Code_of_Military_Justice", 
+            "Corps", 
+            "Christ"
+        ], 
+        "postID": 18
+    }
+]

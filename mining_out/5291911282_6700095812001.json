@@ -1,0 +1,101 @@
+[
+    {
+        "entity": [
+            "Emoticon", 
+            "One_Heart", 
+            "Inland_Revenue", 
+            "Tax", 
+            "One_Nation_(Australia)", 
+            "Inland_Revenue", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Treason", 
+            "Uncle_Sam", 
+            "Secession", 
+            "Chief_Justice_of_the_United_States", 
+            "Couch", 
+            "Postage_stamp", 
+            "1867", 
+            "United_States_Constitution", 
+            "Jefferson_Davis", 
+            "Salmon", 
+            "Salmon_P._Chase", 
+            "Salmon_P._Chase"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "God", 
+            "Yea,_Victoria"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "British_one_penny_coin_(pre-decimal)", 
+            "Barbecue", 
+            "Brain_(comics)", 
+            "British_one_penny_coin_(pre-decimal)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hawaii"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Foreign_Language_Proficiency_Pay", 
+            "Internal_Revenue_Service", 
+            "Iraq", 
+            "2007", 
+            "2008"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Taxable_income", 
+            "Transactional_account", 
+            "Adolescence", 
+            "Zilch_(band)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "Poverty", 
+            "Handout"
+        ], 
+        "postID": 12
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "entity": [
+            "Territorial_dispute", 
+            "Associated_Press", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thai_language", 
+            "Thailand", 
+            "Cambodian", 
+            "Cambodian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Barbecue", 
+            "Domestic_buffalo", 
+            "Buffalo"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

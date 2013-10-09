@@ -1,0 +1,51 @@
+[
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Environmentalism", 
+            "Gray_Wolf", 
+            "Fixed-wing_aircraft", 
+            "Law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Joseph_Stalin", 
+            "LOL", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Alaska"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "LOL"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Sport"
+        ], 
+        "postID": 6
+    }
+]

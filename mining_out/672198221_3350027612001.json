@@ -1,0 +1,614 @@
+[
+    {
+        "entity": [
+            "DONT", 
+            "Republican_Party_(United_States)", 
+            "Wood"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Lion", 
+            "LOL", 
+            "Lion", 
+            "Fox_Broadcasting_Company", 
+            "Demographics", 
+            "Republican_Party_(United_States)", 
+            "Fox_News_Channel", 
+            "Time_(magazine)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "CPAC"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Irony", 
+            "Cartoon", 
+            "Antireligion"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bigotry", 
+            "Bigotry", 
+            "Cartoon", 
+            "Bigotry", 
+            "Irony", 
+            "Cartoon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Kettle"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States_Senate", 
+            "Democratic_Party_(United_States)", 
+            "Count"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "\u00c9mile_Zola", 
+            "LOL", 
+            "Crystal_ball", 
+            "Crystal"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Republican_Party_(United_States)", 
+            "Michael_Moore"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Liberalism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Barry_Goldwater"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Credit_limit", 
+            "Conservative_Party_(UK)", 
+            "Zealotry", 
+            "Republican_Party_(United_States)", 
+            "Sailor"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Crystal_ball", 
+            "Crystal", 
+            "Crystal", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Crystal_ball", 
+            "Election"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Rush_(band)", 
+            "Conservatism", 
+            "Liberalism", 
+            "Conservative_Democrat", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Conservatism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Conservatism_in_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Radicalism_(historical)", 
+            "Rush_(band)", 
+            "Independent_(politician)", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Bank", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Conservatism_in_the_United_States", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Barry_Goldwater", 
+            "Rush_(band)", 
+            "Barry_Goldwater", 
+            "Barry_railway_station", 
+            "Barry_Goldwater", 
+            "Barry_Goldwater", 
+            "Republican_Party_(United_States)", 
+            "Barry_railway_station"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Puppy", 
+            "Bank", 
+            "Rush_(band)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "DONT", 
+            "Republican_Party_(United_States)", 
+            "Wood"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Lion", 
+            "LOL", 
+            "Lion", 
+            "Fox_Broadcasting_Company", 
+            "Demographics", 
+            "Republican_Party_(United_States)", 
+            "Fox_News_Channel", 
+            "Time_(magazine)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "CPAC"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Irony", 
+            "Cartoon", 
+            "Antireligion"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Bigotry", 
+            "Bigotry", 
+            "Cartoon", 
+            "Bigotry", 
+            "Irony", 
+            "Cartoon"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Kettle"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States_Senate", 
+            "Democratic_Party_(United_States)", 
+            "Count"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "\u00c9mile_Zola", 
+            "LOL", 
+            "Crystal_ball", 
+            "Crystal"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Republican_Party_(United_States)", 
+            "Michael_Moore"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Liberalism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Barry_Goldwater"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Credit_limit", 
+            "Conservative_Party_(UK)", 
+            "Zealotry", 
+            "Republican_Party_(United_States)", 
+            "Sailor"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Crystal_ball", 
+            "Crystal", 
+            "Crystal", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Crystal_ball", 
+            "Election"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Rush_(band)", 
+            "Conservatism", 
+            "Liberalism", 
+            "Conservative_Democrat", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Conservatism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Conservatism_in_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Radicalism_(historical)", 
+            "Rush_(band)", 
+            "Independent_(politician)", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Bank", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Conservatism_in_the_United_States", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Barry_Goldwater", 
+            "Rush_(band)", 
+            "Barry_Goldwater", 
+            "Barry_railway_station", 
+            "Barry_Goldwater", 
+            "Barry_Goldwater", 
+            "Republican_Party_(United_States)", 
+            "Barry_railway_station"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Puppy", 
+            "Bank", 
+            "Rush_(band)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "DONT", 
+            "Republican_Party_(United_States)", 
+            "Wood"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Lion", 
+            "LOL", 
+            "Lion", 
+            "Fox_Broadcasting_Company", 
+            "Demographics", 
+            "Republican_Party_(United_States)", 
+            "Fox_News_Channel", 
+            "Time_(magazine)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "CPAC"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Irony", 
+            "Cartoon", 
+            "Antireligion"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Bigotry", 
+            "Bigotry", 
+            "Cartoon", 
+            "Bigotry", 
+            "Irony", 
+            "Cartoon"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Kettle"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States_Senate", 
+            "Democratic_Party_(United_States)", 
+            "Count"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "\u00c9mile_Zola", 
+            "LOL", 
+            "Crystal_ball", 
+            "Crystal"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Republican_Party_(United_States)", 
+            "Michael_Moore"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Liberalism"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Barry_Goldwater"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Credit_limit", 
+            "Conservative_Party_(UK)", 
+            "Zealotry", 
+            "Republican_Party_(United_States)", 
+            "Sailor"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Crystal_ball", 
+            "Crystal", 
+            "Crystal", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Crystal_ball", 
+            "Election"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Rush_(band)", 
+            "Conservatism", 
+            "Liberalism", 
+            "Conservative_Democrat", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Conservatism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Conservatism_in_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Radicalism_(historical)", 
+            "Rush_(band)", 
+            "Independent_(politician)", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Bank", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Conservatism_in_the_United_States", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Barry_Goldwater", 
+            "Rush_(band)", 
+            "Barry_Goldwater", 
+            "Barry_railway_station", 
+            "Barry_Goldwater", 
+            "Barry_Goldwater", 
+            "Republican_Party_(United_States)", 
+            "Barry_railway_station"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Puppy", 
+            "Bank", 
+            "Rush_(band)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Republican_Party_(United_States)", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 60
+    }
+]

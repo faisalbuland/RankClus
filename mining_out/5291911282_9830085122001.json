@@ -1,0 +1,418 @@
+[
+    {
+        "entity": [
+            "Legal_advice", 
+            "Property"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Internet", 
+            "Law", 
+            "Law_library", 
+            "April_23", 
+            "Lee_Marvin", 
+            "State", 
+            "Google", 
+            "Library", 
+            "Euromissile_HOT", 
+            "Property"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Atari_TOS"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Racket", 
+            "Lawyer", 
+            "Kitchen", 
+            "Dead_End_(disambiguation)", 
+            "Legal_recourse"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Animal", 
+            "Statute", 
+            "Dog", 
+            "Animal", 
+            "Animal_control_officer", 
+            "Dog", 
+            "Ordinance_(Latter_Day_Saints)", 
+            "Pet", 
+            "Pet", 
+            "Dog", 
+            "Police", 
+            "Animal", 
+            "Animal", 
+            "Noise", 
+            "Animal_control_officer", 
+            "Dog", 
+            "Animal_control_officer", 
+            "Warden", 
+            "Summons", 
+            "Pet", 
+            "Dog", 
+            "Animal", 
+            "Animal", 
+            "Animal"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "White_noise_machine", 
+            "Noise", 
+            "England", 
+            "Noise", 
+            "White_noise", 
+            "Dude", 
+            "Noise_pollution", 
+            "Electrical_generator"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Frequency", 
+            "Dog", 
+            "Toleration", 
+            "Dog", 
+            "Bark_(dog)", 
+            "Dog"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Collar"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "White_noise", 
+            "Noise_pollution", 
+            "Electrical_generator", 
+            "White_noise_machine", 
+            "White_noise"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Merle_Haggard", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright", 
+            "Honey"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Merle_Haggard", 
+            "Dog", 
+            "Hoss_(band)", 
+            "Chainsaw", 
+            "Milk", 
+            "Garden", 
+            "Dog", 
+            "Dog", 
+            "Fence", 
+            "Firecracker", 
+            "Dog", 
+            "Dog", 
+            "Honey", 
+            "Baker", 
+            "Vegetarianism", 
+            "Dog", 
+            "Cake", 
+            "Merle_Haggard", 
+            "Target_practice", 
+            "Target_Corporation"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Animal_rights", 
+            "Animal_rights"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "City_council", 
+            "Paper_trail", 
+            "Mayor", 
+            "Police"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Injunction", 
+            "Dog", 
+            "Sheriff", 
+            "Lawyer", 
+            "Animal", 
+            "Animal_control_officer", 
+            "Court_order"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard", 
+            "Milk"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Legal_advice", 
+            "Property"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Internet", 
+            "Law", 
+            "Law_library", 
+            "April_23", 
+            "Lee_Marvin", 
+            "State", 
+            "Google", 
+            "Library", 
+            "Euromissile_HOT", 
+            "Property"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Atari_TOS"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Racket", 
+            "Lawyer", 
+            "Kitchen", 
+            "Dead_End_(disambiguation)", 
+            "Legal_recourse"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Animal", 
+            "Statute", 
+            "Dog", 
+            "Animal", 
+            "Animal_control_officer", 
+            "Dog", 
+            "Ordinance_(Latter_Day_Saints)", 
+            "Pet", 
+            "Pet", 
+            "Dog", 
+            "Police", 
+            "Animal", 
+            "Animal", 
+            "Noise", 
+            "Animal_control_officer", 
+            "Dog", 
+            "Animal_control_officer", 
+            "Warden", 
+            "Summons", 
+            "Pet", 
+            "Dog", 
+            "Animal", 
+            "Animal", 
+            "Animal"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "White_noise_machine", 
+            "Noise", 
+            "England", 
+            "Noise", 
+            "White_noise", 
+            "Dude", 
+            "Noise_pollution", 
+            "Electrical_generator"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Frequency", 
+            "Dog", 
+            "Toleration", 
+            "Dog", 
+            "Bark_(dog)", 
+            "Dog"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Collar"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "White_noise", 
+            "Noise_pollution", 
+            "Electrical_generator", 
+            "White_noise_machine", 
+            "White_noise"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Merle_Haggard", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright", 
+            "Honey"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Merle_Haggard", 
+            "Dog", 
+            "Hoss_(band)", 
+            "Chainsaw", 
+            "Milk", 
+            "Garden", 
+            "Dog", 
+            "Dog", 
+            "Fence", 
+            "Firecracker", 
+            "Dog", 
+            "Dog", 
+            "Honey", 
+            "Baker", 
+            "Vegetarianism", 
+            "Dog", 
+            "Cake", 
+            "Merle_Haggard", 
+            "Target_practice", 
+            "Target_Corporation"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Animal_rights", 
+            "Animal_rights"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "City_council", 
+            "Paper_trail", 
+            "Mayor", 
+            "Police"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Injunction", 
+            "Dog", 
+            "Sheriff", 
+            "Lawyer", 
+            "Animal", 
+            "Animal_control_officer", 
+            "Court_order"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard", 
+            "Milk"
+        ], 
+        "postID": 40
+    }
+]

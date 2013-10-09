@@ -1,0 +1,114 @@
+[
+    {
+        "entity": [
+            "Hearsay", 
+            "Coercion", 
+            "May_2", 
+            "Prison", 
+            "Law", 
+            "George_W._Bush", 
+            "Military_Commissions_Act_of_2006", 
+            "New_York", 
+            "Guantanamo_military_commission", 
+            "Cross-examination", 
+            "Legal_systems_of_the_world", 
+            "Hearsay", 
+            "Eric_Holder", 
+            "Guantanamo_military_commission", 
+            "George_W._Bush", 
+            "Due_process", 
+            "George_W._Bush", 
+            "News_conference", 
+            "Barack_Obama", 
+            "Guantanamo_military_commission", 
+            "Hearsay", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "Federal_Rules_of_Criminal_Procedure", 
+            "United_States", 
+            "Law_of_the_United_States", 
+            "Presidency_of_George_W._Bush", 
+            "Black_site", 
+            "Military_tribunal", 
+            "United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Due_process", 
+            "2009", 
+            "Intelligence_(information_gathering)", 
+            "Attorney_General", 
+            "United_States_federal_courts", 
+            "Presidency_of_George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Heat", 
+            "Barack_Obama", 
+            "Kangaroo_court", 
+            "Flip-flop_(politics)", 
+            "Kangaroo", 
+            "President_of_the_United_States", 
+            "2006", 
+            "Guantanamo_military_commission", 
+            "United_States_Senate", 
+            "Far_left", 
+            "George_W._Bush", 
+            "Guantanamo_military_commission", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Far_right", 
+            "Guantanamo_military_commission", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Politician"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States_Republican_Party", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Bridge", 
+            "Propeller"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "National_Health_Service", 
+            "Publicly-funded_health_care"
+        ], 
+        "postID": 9
+    }
+]

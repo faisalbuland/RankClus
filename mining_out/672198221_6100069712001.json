@@ -1,0 +1,157 @@
+[
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Great_Depression", 
+            "Commercial_paper", 
+            "State_of_emergency"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "The_Fed_(Columbia_newspaper)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "President_of_the_United_States", 
+            "God", 
+            "God", 
+            "1913"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Standing_army", 
+            "Thomas_Jefferson", 
+            "Deflation", 
+            "United_States", 
+            "Bank", 
+            "Homelessness", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Continent", 
+            "Inflation", 
+            "1743", 
+            "Standing_army", 
+            "Corporation", 
+            "Currency", 
+            "Bank", 
+            "1826"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "American_Civil_War", 
+            "1207", 
+            "1913", 
+            "H.R.", 
+            "American_Revolution", 
+            "Bismark", 
+            "United_States_Congress", 
+            "Europe", 
+            "Franklin,_Tennessee", 
+            "Federal_Reserve_Act", 
+            "George_III_of_the_United_Kingdom", 
+            "Federal_Reserve_Act", 
+            "American_Revolutionary_War", 
+            "Federal_Reserve_System", 
+            "United_States_House_of_Representatives", 
+            "Benjamin_Franklin", 
+            "Otto_of_Bavaria"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Audit", 
+            "Conscience", 
+            "Prime_time"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Somaliland_presidential_election,_2009", 
+            "Colony", 
+            "March_15", 
+            "2009", 
+            "Tax", 
+            "Sun", 
+            "1207"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dictatorship", 
+            "Money"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "New_York_Yankees", 
+            "Shelby,_North_Carolina", 
+            "Ford_Mustang", 
+            "Economy", 
+            "Yankee_Stadium", 
+            "Fenway_Park", 
+            "Fenway_Park"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "Deflation", 
+            "Economy"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Federal_Reserve_Act", 
+            "Federal_Reserve_System", 
+            "Law"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Federal_agency"
+        ], 
+        "postID": 18
+    }
+]

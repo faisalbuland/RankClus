@@ -1,0 +1,111 @@
+[
+    {
+        "entity": [
+            "E-mail", 
+            "Cipher", 
+            "March_24", 
+            "Our_Worlds_at_War", 
+            "Doctors_(2000_TV_series)", 
+            "Posttraumatic_stress_disorder", 
+            "Doctors_(2000_TV_series)", 
+            "2009", 
+            "Chaos", 
+            "Interference", 
+            "Posttraumatic_stress_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Politician"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Posttraumatic_stress_disorder", 
+            "March_24", 
+            "Medical_history", 
+            "E-mail", 
+            "Mental_retardation", 
+            "Posttraumatic_stress_disorder", 
+            "Stress_(biological)", 
+            "Politician", 
+            "Crusades", 
+            "E-mail_address", 
+            "Posttraumatic_stress_disorder", 
+            "2009", 
+            "Stress_(biological)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Internet_forum", 
+            "Threaded_discussion", 
+            "Derelict", 
+            "Duck", 
+            "God", 
+            "Soldier", 
+            "Disability"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Racism", 
+            "Product_(chemistry)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Stamps,_Arkansas", 
+            "United_States", 
+            "2009", 
+            "Literacy", 
+            "Black_people", 
+            "March_24", 
+            "Politician", 
+            "Military_brat_(U.S._subculture)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Soil", 
+            "The_Blacks_(play)", 
+            "White_people", 
+            "Ethnic_group"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Gentleman", 
+            "Duck", 
+            "Derelict", 
+            "Soldier", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Mental_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Mail", 
+            "Posttraumatic_stress_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Ankle", 
+            "Posttraumatic_stress_disorder", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 8
+    }
+]

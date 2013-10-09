@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Guard_(American_football)", 
+            "President_of_the_United_States", 
+            "Protocol_(computing)", 
+            "Barack_Obama", 
+            "Prez_(DC_Comics)", 
+            "Hugo_Award", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Event_planning", 
+            "Protocol_(computing)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Community_organizing", 
+            "Chavez_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }
+]

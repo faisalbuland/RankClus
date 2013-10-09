@@ -1,0 +1,83 @@
+[
+    {
+        "entity": [
+            "Caucus", 
+            "African_American", 
+            "Barack_Obama", 
+            "Abraham_Lincoln", 
+            "Abraham_Lincoln", 
+            "President_of_the_United_States", 
+            "Congressional_Black_Caucus", 
+            "Abraham_Lincoln", 
+            "Black_Caucus", 
+            "Portrait", 
+            "State_Dining_Room", 
+            "Lincoln,_Nebraska"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine", 
+            "Saw_(film)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Crackerjack_(disambiguation)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bladensburg,_Maryland"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "The_One_(film)", 
+            "Last_Supper"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States_Marine_Corps", 
+            "Lahaina,_Hawaii", 
+            "Caucus"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Crackerjack_(film)", 
+            "One_Nation_(Australia)", 
+            "Thread_(computer_science)", 
+            "One_Heart"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Halo_(religious_iconography)", 
+            "Barack_Obama"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 11
+    }
+]

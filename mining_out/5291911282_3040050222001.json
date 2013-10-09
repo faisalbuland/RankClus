@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Social_security"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Website", 
+            "Bank", 
+            "Beer", 
+            "Beer", 
+            "Jack_(device)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Toplessness", 
+            "Cigarette_machine", 
+            "Bar_(establishment)", 
+            "Cigarette_machine", 
+            "Cigarette", 
+            "Cigarette", 
+            "Bartender"
+        ], 
+        "postID": 4
+    }
+]

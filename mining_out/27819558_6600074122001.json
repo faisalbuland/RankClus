@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chances", 
+            "Hilton_Hotels", 
+            "Yardstick", 
+            "Hilton_Hotels", 
+            "Mogul", 
+            "Gay_community", 
+            "Cookie", 
+            "Gay", 
+            "Gay", 
+            "Perez_Hilton", 
+            "Spreader", 
+            "LGBT_social_movements", 
+            "Gossip"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Gay", 
+            "California", 
+            "Miss_California"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Beauty_contest", 
+            "Social_commentary", 
+            "Gown", 
+            "California", 
+            "Hell", 
+            "Straight_man", 
+            "Bikini", 
+            "Hilton_Hotels", 
+            "Swimsuit", 
+            "Paris", 
+            "Hilton_Hotels", 
+            "Miss_California", 
+            "Paris_Hilton", 
+            "Law", 
+            "Scholarship", 
+            "Sarah_Palin", 
+            "Gay", 
+            "Miss_California", 
+            "Perez_Hilton", 
+            "Evening_gown", 
+            "Slinky", 
+            "California", 
+            "Palin_Majere", 
+            "Miss_California", 
+            "California", 
+            "Queen_(chess)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Hilton_Hotels", 
+            "Miss_California", 
+            "Palin_Majere", 
+            "Hilton_Hotels", 
+            "Judge", 
+            "Judge", 
+            "Heartburn", 
+            "Sarah_Palin", 
+            "Judge"
+        ], 
+        "postID": 6
+    }
+]

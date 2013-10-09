@@ -1,0 +1,840 @@
+[
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Professional_military_education_in_the_United_States_Air_Force", 
+            "World_War_II", 
+            "World_War_I", 
+            "Sacrifice", 
+            "Spade", 
+            "Hospital_Corpsman", 
+            "Bureaucrat", 
+            "Guadalcanal_Campaign", 
+            "World_War_II", 
+            "Jima_of_Silla", 
+            "Soap_(TV_series)", 
+            "Common_sense", 
+            "Iwo_Jima", 
+            "Korean_War", 
+            "Spade", 
+            "Vietnam", 
+            "Military_service", 
+            "Bureaucrat", 
+            "Object-relational_mapping", 
+            "Civil_service", 
+            "United_States_Marine_Corps", 
+            "Iwo_Jima"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Volunteer", 
+            "Volunteer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mercenary", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sake", 
+            "United_States", 
+            "Common_sense", 
+            "Ethos", 
+            "Warrior", 
+            "Citizenship", 
+            "Sparta"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Patriotism", 
+            "Job_security", 
+            "Citizenship", 
+            "Patriotism", 
+            "Patriotism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "Veterans_of_Foreign_Wars", 
+            "Ankle", 
+            "Common_sense", 
+            "First_Lieutenant", 
+            "Sprained_ankle", 
+            "Free_education", 
+            "United_States", 
+            "College", 
+            "United_States_Marine_Corps", 
+            "Chit_(board_wargames)", 
+            "Military_service", 
+            "Soft_drink", 
+            "Education", 
+            "Nursing", 
+            "Nursing_home", 
+            "Terminator_(Warhammer_40,000)", 
+            "Pound_(mass)", 
+            "G.I._Bill"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "War_of_1812", 
+            "United_States", 
+            "American_Indian_Wars", 
+            "Native_Americans_in_the_United_States", 
+            "Conscription_in_the_United_States", 
+            "Military_reserve_force", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "Washington,_D.C.", 
+            "United_States_Army", 
+            "Military_service", 
+            "Canada", 
+            "American_Revolutionary_War", 
+            "United_States", 
+            "United_States_Army", 
+            "Militia", 
+            "Winfield_Scott", 
+            "Winfield,_Kansas", 
+            "Conscription_in_the_United_States", 
+            "Law"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Obesity", 
+            "Adipose_tissue", 
+            "Pain", 
+            "Patriotism", 
+            "Patriotism", 
+            "Radio", 
+            "Conditionality", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Silk", 
+            "Butter", 
+            "Petroleum", 
+            "Sacrifice", 
+            "Cable_television", 
+            "Beef", 
+            "Sacrifice", 
+            "Entitlement", 
+            "Common_sense", 
+            "Cell_(biology)", 
+            "Mobile_phone", 
+            "World_War_II"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Volunteer", 
+            "Officer_(armed_forces)", 
+            "Pay_grade", 
+            "Conscription", 
+            "Conscription"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Conscription", 
+            "National_security"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Horror_fiction", 
+            "Horror_film", 
+            "World_War_II", 
+            "September_11,_2001_attacks", 
+            "Platoon", 
+            "Iraq", 
+            "Paris_Saint-Germain_FC", 
+            "United_States_Army", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Army_Rangers"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Accountability", 
+            "Organizational_culture", 
+            "Safety_(American_football)", 
+            "Extra-vehicular_activity", 
+            "Rubber", 
+            "Newbie", 
+            "Individualism", 
+            "Culture", 
+            "Liberty", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Combat_support", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Boot", 
+            "1775", 
+            "Infantry", 
+            "Grunt", 
+            "Common_sense", 
+            "Postal_worker", 
+            "1776", 
+            "United_States_Marine_Corps", 
+            "Artillery", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "South_Korea", 
+            "World_War_I", 
+            "Mobile_phone", 
+            "Film_trailer", 
+            "Table_tennis", 
+            "Carton", 
+            "Ping", 
+            "Doughnut", 
+            "World_War_II", 
+            "Video_game", 
+            "Alot", 
+            "South_Korea", 
+            "Telephone", 
+            "Pizza_Hut", 
+            "World_War_II", 
+            "Mountaineering", 
+            "Pizza", 
+            "Military_Affiliate_Radio_System", 
+            "Pong", 
+            "Rotation", 
+            "Cell_(biology)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "1940", 
+            "IMHO", 
+            "Pearl_Harbor", 
+            "Pearl", 
+            "Heel_(professional_wrestling)", 
+            "World_War_II", 
+            "College", 
+            "Non-commissioned_officer", 
+            "Propaganda", 
+            "Great_Depression", 
+            "Great_Depression", 
+            "Conscription", 
+            "Non-commissioned_officer", 
+            "Isolationism", 
+            "Great_Depression", 
+            "Lament"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Conscription", 
+            "Conscription", 
+            "Pearl", 
+            "Pearl_Harbor", 
+            "World_War_I", 
+            "Conscription", 
+            "Morality"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "MWR", 
+            "2003_invasion_of_Iraq"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Non-commissioned_officer", 
+            "United_States_Army", 
+            "May_11", 
+            "United_States_Marine_Corps", 
+            "Deep_South", 
+            "1995", 
+            "Ohio", 
+            "Non-commissioned_officer", 
+            "1975", 
+            "2009", 
+            "United_States", 
+            "Protestantism", 
+            "Rust", 
+            "United_States_Army", 
+            "1969", 
+            "1975", 
+            "1969", 
+            "United_States_Army", 
+            "Jew", 
+            "Conscription_in_the_United_States", 
+            "Conscription_in_the_United_States", 
+            "Rust_Belt", 
+            "Mon_people", 
+            "Anti-Catholicism", 
+            "First_Sergeant", 
+            "Protestantism", 
+            "United_States_Army", 
+            "1969", 
+            "Military_reserve_force", 
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Indiana", 
+            "Jew", 
+            "Conscription_in_the_United_States", 
+            "Battalion", 
+            "Temple", 
+            "1995", 
+            "Antisemitism", 
+            "Fundamentalism", 
+            "Racism", 
+            "White_people", 
+            "Conscription_in_the_United_States", 
+            "Roman_Catholic_Church", 
+            "Fundamentalism", 
+            "Prayer", 
+            "Fundamentalist_Christianity", 
+            "Conscription_in_the_United_States", 
+            "United_States_Army", 
+            "Fundamentalism", 
+            "Protestantism", 
+            "Guard_(American_football)", 
+            "United_States_Marine_Corps", 
+            "U.S._Army_Combat_Arms_Regimental_System", 
+            "Fundamentalist_Christianity"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Common_sense"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Latrine", 
+            "Laundry"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Recruit_training", 
+            "Starship", 
+            "Straw", 
+            "1996", 
+            "Infantry", 
+            "Deer", 
+            "Drill", 
+            "1969", 
+            "United_States_Army", 
+            "Whistle", 
+            "Drill", 
+            "Drill", 
+            "Headlamp", 
+            "Baggy_pants", 
+            "Drill"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Flashback"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "Blank_(cartridge)", 
+            "United_States_Army", 
+            "Platoon", 
+            "Press_up", 
+            "Profit", 
+            "Confidence_trick", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Fat"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Happy_Anniversary_(film)", 
+            "Extra_time"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Professional_military_education_in_the_United_States_Air_Force", 
+            "World_War_II", 
+            "World_War_I", 
+            "Sacrifice", 
+            "Spade", 
+            "Hospital_Corpsman", 
+            "Bureaucrat", 
+            "Guadalcanal_Campaign", 
+            "World_War_II", 
+            "Jima_of_Silla", 
+            "Soap_(TV_series)", 
+            "Common_sense", 
+            "Iwo_Jima", 
+            "Korean_War", 
+            "Spade", 
+            "Vietnam", 
+            "Military_service", 
+            "Bureaucrat", 
+            "Object-relational_mapping", 
+            "Civil_service", 
+            "United_States_Marine_Corps", 
+            "Iwo_Jima"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Volunteer", 
+            "Volunteer"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mercenary", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Sake", 
+            "United_States", 
+            "Common_sense", 
+            "Ethos", 
+            "Warrior", 
+            "Citizenship", 
+            "Sparta"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Patriotism", 
+            "Job_security", 
+            "Citizenship", 
+            "Patriotism", 
+            "Patriotism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "Veterans_of_Foreign_Wars", 
+            "Ankle", 
+            "Common_sense", 
+            "First_Lieutenant", 
+            "Sprained_ankle", 
+            "Free_education", 
+            "United_States", 
+            "College", 
+            "United_States_Marine_Corps", 
+            "Chit_(board_wargames)", 
+            "Military_service", 
+            "Soft_drink", 
+            "Education", 
+            "Nursing", 
+            "Nursing_home", 
+            "Terminator_(Warhammer_40,000)", 
+            "Pound_(mass)", 
+            "G.I._Bill"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "War_of_1812", 
+            "United_States", 
+            "American_Indian_Wars", 
+            "Native_Americans_in_the_United_States", 
+            "Conscription_in_the_United_States", 
+            "Military_reserve_force", 
+            "World_War_II", 
+            "American_Civil_War", 
+            "Washington,_D.C.", 
+            "United_States_Army", 
+            "Military_service", 
+            "Canada", 
+            "American_Revolutionary_War", 
+            "United_States", 
+            "United_States_Army", 
+            "Militia", 
+            "Winfield_Scott", 
+            "Winfield,_Kansas", 
+            "Conscription_in_the_United_States", 
+            "Law"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Obesity", 
+            "Adipose_tissue", 
+            "Pain", 
+            "Patriotism", 
+            "Patriotism", 
+            "Radio", 
+            "Conditionality", 
+            "United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Silk", 
+            "Butter", 
+            "Petroleum", 
+            "Sacrifice", 
+            "Cable_television", 
+            "Beef", 
+            "Sacrifice", 
+            "Entitlement", 
+            "Common_sense", 
+            "Cell_(biology)", 
+            "Mobile_phone", 
+            "World_War_II"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Volunteer", 
+            "Officer_(armed_forces)", 
+            "Pay_grade", 
+            "Conscription", 
+            "Conscription"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Conscription", 
+            "National_security"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Horror_fiction", 
+            "Horror_film", 
+            "World_War_II", 
+            "September_11,_2001_attacks", 
+            "Platoon", 
+            "Iraq", 
+            "Paris_Saint-Germain_FC", 
+            "United_States_Army", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "United_States_Army_Rangers"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Accountability", 
+            "Organizational_culture", 
+            "Safety_(American_football)", 
+            "Extra-vehicular_activity", 
+            "Rubber", 
+            "Newbie", 
+            "Individualism", 
+            "Culture", 
+            "Liberty", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Combat_support", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Boot", 
+            "1775", 
+            "Infantry", 
+            "Grunt", 
+            "Common_sense", 
+            "Postal_worker", 
+            "1776", 
+            "United_States_Marine_Corps", 
+            "Artillery", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "South_Korea", 
+            "World_War_I", 
+            "Mobile_phone", 
+            "Film_trailer", 
+            "Table_tennis", 
+            "Carton", 
+            "Ping", 
+            "Doughnut", 
+            "World_War_II", 
+            "Video_game", 
+            "Alot", 
+            "South_Korea", 
+            "Telephone", 
+            "Pizza_Hut", 
+            "World_War_II", 
+            "Mountaineering", 
+            "Pizza", 
+            "Military_Affiliate_Radio_System", 
+            "Pong", 
+            "Rotation", 
+            "Cell_(biology)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "1940", 
+            "IMHO", 
+            "Pearl_Harbor", 
+            "Pearl", 
+            "Heel_(professional_wrestling)", 
+            "World_War_II", 
+            "College", 
+            "Non-commissioned_officer", 
+            "Propaganda", 
+            "Great_Depression", 
+            "Great_Depression", 
+            "Conscription", 
+            "Non-commissioned_officer", 
+            "Isolationism", 
+            "Great_Depression", 
+            "Lament"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Conscription", 
+            "Conscription", 
+            "Pearl", 
+            "Pearl_Harbor", 
+            "World_War_I", 
+            "Conscription", 
+            "Morality"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "MWR", 
+            "2003_invasion_of_Iraq"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Non-commissioned_officer", 
+            "United_States_Army", 
+            "May_11", 
+            "United_States_Marine_Corps", 
+            "Deep_South", 
+            "1995", 
+            "Ohio", 
+            "Non-commissioned_officer", 
+            "1975", 
+            "2009", 
+            "United_States", 
+            "Protestantism", 
+            "Rust", 
+            "United_States_Army", 
+            "1969", 
+            "1975", 
+            "1969", 
+            "United_States_Army", 
+            "Jew", 
+            "Conscription_in_the_United_States", 
+            "Conscription_in_the_United_States", 
+            "Rust_Belt", 
+            "Mon_people", 
+            "Anti-Catholicism", 
+            "First_Sergeant", 
+            "Protestantism", 
+            "United_States_Army", 
+            "1969", 
+            "Military_reserve_force", 
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Indiana", 
+            "Jew", 
+            "Conscription_in_the_United_States", 
+            "Battalion", 
+            "Temple", 
+            "1995", 
+            "Antisemitism", 
+            "Fundamentalism", 
+            "Racism", 
+            "White_people", 
+            "Conscription_in_the_United_States", 
+            "Roman_Catholic_Church", 
+            "Fundamentalism", 
+            "Prayer", 
+            "Fundamentalist_Christianity", 
+            "Conscription_in_the_United_States", 
+            "United_States_Army", 
+            "Fundamentalism", 
+            "Protestantism", 
+            "Guard_(American_football)", 
+            "United_States_Marine_Corps", 
+            "U.S._Army_Combat_Arms_Regimental_System", 
+            "Fundamentalist_Christianity"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Common_sense"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Latrine", 
+            "Laundry"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Recruit_training", 
+            "Starship", 
+            "Straw", 
+            "1996", 
+            "Infantry", 
+            "Deer", 
+            "Drill", 
+            "1969", 
+            "United_States_Army", 
+            "Whistle", 
+            "Drill", 
+            "Drill", 
+            "Headlamp", 
+            "Baggy_pants", 
+            "Drill"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Flashback"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "Blank_(cartridge)", 
+            "United_States_Army", 
+            "Platoon", 
+            "Press_up", 
+            "Profit", 
+            "Confidence_trick", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Fat"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Happy_Anniversary_(film)", 
+            "Extra_time"
+        ], 
+        "postID": 58
+    }
+]

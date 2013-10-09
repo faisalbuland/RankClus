@@ -1,0 +1,113 @@
+[
+    {
+        "entity": [
+            "Gallon", 
+            "Water", 
+            "Deuterium", 
+            "Scientist", 
+            "Seawater", 
+            "United_States_Department_of_Defense", 
+            "Gasoline", 
+            "60_Minutes", 
+            "Scientist", 
+            "Gallon", 
+            "Energy", 
+            "Scientist", 
+            "United_States_Department_of_Defense", 
+            "Energy", 
+            "Science", 
+            "Richard_Garwin", 
+            "Garwin,_Iowa", 
+            "Heat", 
+            "Garwin,_Iowa"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Oil_reserves", 
+            "Human_reliability", 
+            "Folk_music", 
+            "Petroleum", 
+            "United_States", 
+            "Science"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "DeLorean_time_machine", 
+            "Jazz_fusion"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "21st_century", 
+            "Religion", 
+            "Conspiracy_theory", 
+            "Politics", 
+            "Patten,_Maine", 
+            "Human", 
+            "Conspiracy_theory", 
+            "Relationship_between_religion_and_science", 
+            "Science", 
+            "Petroleum", 
+            "Science", 
+            "Petroleum_industry"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bust_(sculpture)", 
+            "Snake_oil", 
+            "Crop_Circles", 
+            "Nuclear_fusion", 
+            "Piltdown_Man", 
+            "Temperature", 
+            "Plasma_(physics)", 
+            "Bubble", 
+            "Snake", 
+            "Substitute_(The_Who_song)", 
+            "Roswell_(TV_series)", 
+            "Piltdown_Man", 
+            "Plasma_(physics)", 
+            "Physics", 
+            "Metallurgy", 
+            "Cadaver", 
+            "Bigfoot", 
+            "Petroleum", 
+            "Fusion_power", 
+            "Munich", 
+            "Cold_fusion", 
+            "Extraterrestrial_life", 
+            "1978", 
+            "Nuclear_fusion", 
+            "Nuclear_fusion", 
+            "Magnetic_field"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hurdling", 
+            "Superconductivity"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Cold_fusion", 
+            "Nuclear_fusion", 
+            "Philosophy_of_science", 
+            "Philosophy_of_science"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

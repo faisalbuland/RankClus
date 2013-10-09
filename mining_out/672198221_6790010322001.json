@@ -1,0 +1,596 @@
+[
+    {
+        "entity": [
+            "Soldier", 
+            "Baghdad", 
+            "United_States", 
+            "NBC", 
+            "NBC_News", 
+            "Liberty_(pressure_group)", 
+            "United_States", 
+            "NBC"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tragedy", 
+            "Iraq"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Unreal"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Rifle", 
+            "Suicide_attack"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Paris_Saint-Germain_FC", 
+            "Negligence", 
+            "United_States", 
+            "Court-martial", 
+            "Criminal_negligence", 
+            "Captain", 
+            "Culpability", 
+            "Murder", 
+            "Moron", 
+            "First_Sergeant", 
+            "Hell", 
+            "Captain_America"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Clinic", 
+            "Wisdom", 
+            "Combat_stress_reaction", 
+            "News_agency", 
+            "Stress_(biological)", 
+            "Stress_(biological)", 
+            "Combat_stress_reaction"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stress_(biological)", 
+            "Clinic"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Akbar_the_Great", 
+            "United_States", 
+            "Hassan", 
+            "Martinez,_California", 
+            "Captain_America", 
+            "Hasan_Akbar_case", 
+            "7", 
+            "Stress_(biological)", 
+            "Doctor_(Doctor_Who)", 
+            "Captain", 
+            "Alberto_Martinez", 
+            "Iraq", 
+            "Mental_distress"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "1974\u201375_NBA_season", 
+            "Sorry_(Madonna_song)", 
+            "Vietnam_War", 
+            "Ford_Motor_Company", 
+            "State", 
+            "Iraq_War", 
+            "Barack_Obama", 
+            "Police_state", 
+            "Vietnam_War", 
+            "Iraq_War", 
+            "Tax", 
+            "United_States_Capitol", 
+            "United_States_Capitol", 
+            "Iraq", 
+            "Gerald_Ford", 
+            "Circus"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Hat", 
+            "Shooting_range", 
+            "Rifle", 
+            "Helmet", 
+            "Muzzle_(firearm)", 
+            "Drill"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Suicide_prevention", 
+            "Suicide", 
+            "Hell", 
+            "Mental_health"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Politics", 
+            "NBC", 
+            "Joseph_Stalin", 
+            "NBC", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Irwin,_Pennsylvania", 
+            "Fault_(geology)", 
+            "Mental_health", 
+            "Uniform_Code_of_Military_Justice", 
+            "Logic", 
+            "Sorry_(Madonna_song)", 
+            "Moron"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "NBC"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Paris_Saint-Germain_FC", 
+            "First_Sergeant", 
+            "Welfare_(financial_aid)", 
+            "States_and_territories_of_India", 
+            "Battalion"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Baghdad", 
+            "United_States", 
+            "NBC", 
+            "NBC_News", 
+            "Liberty_(pressure_group)", 
+            "United_States", 
+            "NBC"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Tragedy", 
+            "Iraq"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Unreal"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Rifle", 
+            "Suicide_attack"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Paris_Saint-Germain_FC", 
+            "Negligence", 
+            "United_States", 
+            "Court-martial", 
+            "Criminal_negligence", 
+            "Captain", 
+            "Culpability", 
+            "Murder", 
+            "Moron", 
+            "First_Sergeant", 
+            "Hell", 
+            "Captain_America"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Clinic", 
+            "Wisdom", 
+            "Combat_stress_reaction", 
+            "News_agency", 
+            "Stress_(biological)", 
+            "Stress_(biological)", 
+            "Combat_stress_reaction"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Stress_(biological)", 
+            "Clinic"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Akbar_the_Great", 
+            "United_States", 
+            "Hassan", 
+            "Martinez,_California", 
+            "Captain_America", 
+            "Hasan_Akbar_case", 
+            "7", 
+            "Stress_(biological)", 
+            "Doctor_(Doctor_Who)", 
+            "Captain", 
+            "Alberto_Martinez", 
+            "Iraq", 
+            "Mental_distress"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "1974\u201375_NBA_season", 
+            "Sorry_(Madonna_song)", 
+            "Vietnam_War", 
+            "Ford_Motor_Company", 
+            "State", 
+            "Iraq_War", 
+            "Barack_Obama", 
+            "Police_state", 
+            "Vietnam_War", 
+            "Iraq_War", 
+            "Tax", 
+            "United_States_Capitol", 
+            "United_States_Capitol", 
+            "Iraq", 
+            "Gerald_Ford", 
+            "Circus"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Hat", 
+            "Shooting_range", 
+            "Rifle", 
+            "Helmet", 
+            "Muzzle_(firearm)", 
+            "Drill"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Suicide_prevention", 
+            "Suicide", 
+            "Hell", 
+            "Mental_health"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Politics", 
+            "NBC", 
+            "Joseph_Stalin", 
+            "NBC", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Irwin,_Pennsylvania", 
+            "Fault_(geology)", 
+            "Mental_health", 
+            "Uniform_Code_of_Military_Justice", 
+            "Logic", 
+            "Sorry_(Madonna_song)", 
+            "Moron"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "NBC"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Paris_Saint-Germain_FC", 
+            "First_Sergeant", 
+            "Welfare_(financial_aid)", 
+            "States_and_territories_of_India", 
+            "Battalion"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Baghdad", 
+            "United_States", 
+            "NBC", 
+            "NBC_News", 
+            "Liberty_(pressure_group)", 
+            "United_States", 
+            "NBC"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Tragedy", 
+            "Iraq"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Unreal"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Rifle", 
+            "Suicide_attack"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Paris_Saint-Germain_FC", 
+            "Negligence", 
+            "United_States", 
+            "Court-martial", 
+            "Criminal_negligence", 
+            "Captain", 
+            "Culpability", 
+            "Murder", 
+            "Moron", 
+            "First_Sergeant", 
+            "Hell", 
+            "Captain_America"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Clinic", 
+            "Wisdom", 
+            "Combat_stress_reaction", 
+            "News_agency", 
+            "Stress_(biological)", 
+            "Stress_(biological)", 
+            "Combat_stress_reaction"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Stress_(biological)", 
+            "Clinic"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Akbar_the_Great", 
+            "United_States", 
+            "Hassan", 
+            "Martinez,_California", 
+            "Captain_America", 
+            "Hasan_Akbar_case", 
+            "7", 
+            "Stress_(biological)", 
+            "Doctor_(Doctor_Who)", 
+            "Captain", 
+            "Alberto_Martinez", 
+            "Iraq", 
+            "Mental_distress"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "1974\u201375_NBA_season", 
+            "Sorry_(Madonna_song)", 
+            "Vietnam_War", 
+            "Ford_Motor_Company", 
+            "State", 
+            "Iraq_War", 
+            "Barack_Obama", 
+            "Police_state", 
+            "Vietnam_War", 
+            "Iraq_War", 
+            "Tax", 
+            "United_States_Capitol", 
+            "United_States_Capitol", 
+            "Iraq", 
+            "Gerald_Ford", 
+            "Circus"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Hat", 
+            "Shooting_range", 
+            "Rifle", 
+            "Helmet", 
+            "Muzzle_(firearm)", 
+            "Drill"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Suicide_prevention", 
+            "Suicide", 
+            "Hell", 
+            "Mental_health"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Politics", 
+            "NBC", 
+            "Joseph_Stalin", 
+            "NBC", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Irwin,_Pennsylvania", 
+            "Fault_(geology)", 
+            "Mental_health", 
+            "Uniform_Code_of_Military_Justice", 
+            "Logic", 
+            "Sorry_(Madonna_song)", 
+            "Moron"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "NBC"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Paris_Saint-Germain_FC", 
+            "First_Sergeant", 
+            "Welfare_(financial_aid)", 
+            "States_and_territories_of_India", 
+            "Battalion"
+        ], 
+        "postID": 60
+    }
+]

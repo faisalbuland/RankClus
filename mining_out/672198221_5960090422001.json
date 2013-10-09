@@ -1,0 +1,18 @@
+[
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Salute"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

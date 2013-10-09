@@ -1,0 +1,614 @@
+[
+    {
+        "entity": [
+            "American_International_Group", 
+            "Fat", 
+            "Cat", 
+            "United_States", 
+            "USA_Today", 
+            "Bam", 
+            "American_International_Group"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Exec_(operating_system)", 
+            "American_International_Group"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Tiger", 
+            "Amen"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Peter_Finch", 
+            "Mad_(magazine)", 
+            "Howard_Beale", 
+            "Hell", 
+            "Finch"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Dick_Cheney"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Class_conflict"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Bail_(disambiguation)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Congress", 
+            "Bail", 
+            "United_States_Congress", 
+            "Long_shot", 
+            "September_11,_2001_attacks", 
+            "Cartel", 
+            "Liberalism", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Petroleum", 
+            "United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "President_of_the_United_States", 
+            "Ringo_Starr", 
+            "United_States", 
+            "Bust_(sculpture)", 
+            "United_States_Congress"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Birth_certificate", 
+            "Barack_Obama", 
+            "Misery_index_(economics)", 
+            "Dick_Cheney", 
+            "Ala_(Roman_military)", 
+            "KBR_(company)", 
+            "Republican_Party_(United_States)", 
+            "Jimmy_Carter", 
+            "Puppet", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Class_Warfare", 
+            "Economics", 
+            "Class_Warfare", 
+            "Wobbly_lingo", 
+            "Class_Warfare", 
+            "Guerrilla_warfare"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Memorial_Day", 
+            "Local_Area_Signaling_Services", 
+            "Cain_and_Abel", 
+            "Boston,_Massachusetts", 
+            "WANT", 
+            "Lung", 
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Boston_Tea_Party", 
+            "Tea", 
+            "Mass", 
+            "Tea_bag"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Leslie_Dodds", 
+            "Barney_Gumble", 
+            "Franks", 
+            "Ringo_Starr"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Mantra", 
+            "Communism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bullet", 
+            "Capital_punishment", 
+            "Clown", 
+            "Necktie", 
+            "Hanging"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Rope", 
+            "Tree"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Libby,_Montana"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "CNN", 
+            "American_International_Group", 
+            "Chief_executive_officer", 
+            "Ethics", 
+            "American_International_Group"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Veterinarian", 
+            "Shotgun", 
+            "Sturmabteilung", 
+            "Cat", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Proletariat"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Twentieth_Century_(TV_series)", 
+            "Idiot", 
+            "God", 
+            "!!!", 
+            "Progressivism", 
+            "Useful_idiot", 
+            "Earth", 
+            "Ideology", 
+            "Communism", 
+            "Slime", 
+            "20th_century", 
+            "Utopia", 
+            "Dynamic_memory_allocation"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Summary_execution", 
+            "Progressivism", 
+            "Eighth_Amendment_to_the_United_States_Constitution", 
+            "Liberalism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Cold_War", 
+            "Nightmare", 
+            "Golden_parachute", 
+            "Parachutes"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Cat", 
+            "Democratic_Party_(United_States)", 
+            "Irish_republicanism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Playground", 
+            "Chevrolet_S-10", 
+            "Fat", 
+            "General_Motors", 
+            "Professional_sports", 
+            "Horn_(instrument)", 
+            "Cat", 
+            "Knee", 
+            "Product_(chemistry)", 
+            "Product_(chemistry)", 
+            "Automotive_industry", 
+            "Mass", 
+            "Product_(chemistry)", 
+            "Ether", 
+            "MFL", 
+            "Automotive_industry", 
+            "Major_League_Baseball", 
+            "General_Motors", 
+            "Product_(chemistry)", 
+            "Conglomerate_(company)", 
+            "Ringo_Starr", 
+            "Product_(chemistry)", 
+            "Chevrolet_S-10", 
+            "Chevrolet", 
+            "Gas", 
+            "Slag", 
+            "Snow", 
+            "Population", 
+            "Wind"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Fat", 
+            "Cat", 
+            "United_States", 
+            "USA_Today", 
+            "Bam", 
+            "American_International_Group"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Exec_(operating_system)", 
+            "American_International_Group"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Tiger", 
+            "Amen"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Peter_Finch", 
+            "Mad_(magazine)", 
+            "Howard_Beale", 
+            "Hell", 
+            "Finch"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Dick_Cheney"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Class_conflict"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Bail_(disambiguation)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Congress", 
+            "Bail", 
+            "United_States_Congress", 
+            "Long_shot", 
+            "September_11,_2001_attacks", 
+            "Cartel", 
+            "Liberalism", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Petroleum", 
+            "United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "President_of_the_United_States", 
+            "Ringo_Starr", 
+            "United_States", 
+            "Bust_(sculpture)", 
+            "United_States_Congress"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Birth_certificate", 
+            "Barack_Obama", 
+            "Misery_index_(economics)", 
+            "Dick_Cheney", 
+            "Ala_(Roman_military)", 
+            "KBR_(company)", 
+            "Republican_Party_(United_States)", 
+            "Jimmy_Carter", 
+            "Puppet", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Class_Warfare", 
+            "Economics", 
+            "Class_Warfare", 
+            "Wobbly_lingo", 
+            "Class_Warfare", 
+            "Guerrilla_warfare"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Memorial_Day", 
+            "Local_Area_Signaling_Services", 
+            "Cain_and_Abel", 
+            "Boston,_Massachusetts", 
+            "WANT", 
+            "Lung", 
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Boston_Tea_Party", 
+            "Tea", 
+            "Mass", 
+            "Tea_bag"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Leslie_Dodds", 
+            "Barney_Gumble", 
+            "Franks", 
+            "Ringo_Starr"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Conservatism_in_the_United_States", 
+            "Mantra", 
+            "Communism"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Bullet", 
+            "Capital_punishment", 
+            "Clown", 
+            "Necktie", 
+            "Hanging"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Rope", 
+            "Tree"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Libby,_Montana"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "CNN", 
+            "American_International_Group", 
+            "Chief_executive_officer", 
+            "Ethics", 
+            "American_International_Group"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Veterinarian", 
+            "Shotgun", 
+            "Sturmabteilung", 
+            "Cat", 
+            "Barack_Obama"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Proletariat"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Twentieth_Century_(TV_series)", 
+            "Idiot", 
+            "God", 
+            "!!!", 
+            "Progressivism", 
+            "Useful_idiot", 
+            "Earth", 
+            "Ideology", 
+            "Communism", 
+            "Slime", 
+            "20th_century", 
+            "Utopia", 
+            "Dynamic_memory_allocation"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Summary_execution", 
+            "Progressivism", 
+            "Eighth_Amendment_to_the_United_States_Constitution", 
+            "Liberalism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Cold_War", 
+            "Nightmare", 
+            "Golden_parachute", 
+            "Parachutes"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Fat", 
+            "Cat", 
+            "Democratic_Party_(United_States)", 
+            "Irish_republicanism"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Playground", 
+            "Chevrolet_S-10", 
+            "Fat", 
+            "General_Motors", 
+            "Professional_sports", 
+            "Horn_(instrument)", 
+            "Cat", 
+            "Knee", 
+            "Product_(chemistry)", 
+            "Product_(chemistry)", 
+            "Automotive_industry", 
+            "Mass", 
+            "Product_(chemistry)", 
+            "Ether", 
+            "MFL", 
+            "Automotive_industry", 
+            "Major_League_Baseball", 
+            "General_Motors", 
+            "Product_(chemistry)", 
+            "Conglomerate_(company)", 
+            "Ringo_Starr", 
+            "Product_(chemistry)", 
+            "Chevrolet_S-10", 
+            "Chevrolet", 
+            "Gas", 
+            "Slag", 
+            "Snow", 
+            "Population", 
+            "Wind"
+        ], 
+        "postID": 60
+    }
+]

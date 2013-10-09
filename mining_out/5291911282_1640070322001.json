@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Soldier", 
+            "Hat", 
+            "Duck", 
+            "Brooklyn-Manhattan_Transit_Corporation", 
+            "Moderator", 
+            "Soldier", 
+            "Memorial_Day", 
+            "Warrant_Officer_(United_States)", 
+            "God", 
+            "Very_Important_Person", 
+            "Rodney_Trotter", 
+            "Very_Important_Person", 
+            "God", 
+            "D._V._Gundappa", 
+            "Hat", 
+            "Dangerfield_(TV_series)", 
+            "Rodney_Dangerfield", 
+            "Derelict"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Relish"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Very_Important_Person", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Duck", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Soldier", 
+            "God"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Congratulations_(Eurovision)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

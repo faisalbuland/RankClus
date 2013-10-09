@@ -1,0 +1,121 @@
+[
+    {
+        "entity": [
+            "Flammability", 
+            "Spectrum", 
+            "Christian", 
+            "Survivalism", 
+            "Google", 
+            "Wingnut_(plant)", 
+            "Google_Video", 
+            "E-mail", 
+            "Muslim", 
+            "Christian", 
+            "Muslim", 
+            "Spectrum", 
+            "Terrorism", 
+            "United_States", 
+            "Terror_camp", 
+            "Political_spectrum", 
+            "Terrorism", 
+            "Military.com"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Sean_Hannity"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Extremism", 
+            "Taliban", 
+            "Extremism", 
+            "Christian", 
+            "Extremism", 
+            "Spectrum", 
+            "Al-Qaeda", 
+            "Christian"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Summer_camp", 
+            "Discourse", 
+            "Liberalism", 
+            "Intelligence", 
+            "Culture", 
+            "Adolf_Hitler", 
+            "Christian", 
+            "Ku_Klux_Klan", 
+            "Atheism", 
+            "Christianity", 
+            "Atheism", 
+            "Sean_Hannity"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ku_Klux_Klan", 
+            "Ku_Klux_Klan", 
+            "Christian", 
+            "Christian"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Atheism", 
+            "Atheism", 
+            "Atheism", 
+            "Philosophy", 
+            "Thread_(computer_science)", 
+            "Rhetoric", 
+            "Political_philosophy", 
+            "Pol", 
+            "Atheism", 
+            "Atheism", 
+            "Pol_Pot", 
+            "Atheism", 
+            "Church", 
+            "Adolf_Hitler", 
+            "Religion", 
+            "Roman_Catholic_Church", 
+            "Mao_Zedong", 
+            "Greenhouse", 
+            "Atheism", 
+            "Glass", 
+            "Philosophy", 
+            "Alabama", 
+            "Supernatural", 
+            "Fanaticism", 
+            "Moderate_Party"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Silent_film", 
+            "Self_(programming_language)", 
+            "Mass_(liturgy)", 
+            "Bill_Bright", 
+            "Television", 
+            "Pain"
+        ], 
+        "postID": 9
+    }
+]

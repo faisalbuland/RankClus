@@ -1,0 +1,590 @@
+[
+    {
+        "entity": [
+            "Delaware", 
+            "Vice_President_of_the_United_States", 
+            "The_National_Enquirer", 
+            "Cocaine", 
+            "The_National_Enquirer", 
+            "Tabloid", 
+            "Joe_Biden", 
+            "New_York", 
+            "Joe_Biden", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "Cocaine", 
+            "Ford_Motor_Company", 
+            "The_National_Enquirer", 
+            "Joe_Biden", 
+            "Ashley_Massaro", 
+            "New_York_Post"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Joe_Biden", 
+            "Clock", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Clock"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Feces", 
+            "Manure", 
+            "Dynamic_memory_allocation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Jeb_Bush", 
+            "Jeb_Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fraud"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Coke_(fuel)", 
+            "Lawyer", 
+            "Ford_Motor_Company", 
+            "New_York_Post", 
+            "Drug", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "New_York_City"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Cannabis_(drug)", 
+            "Prison", 
+            "Ford_Motor_Company", 
+            "President_of_the_United_States", 
+            "Joe_Biden", 
+            "Vice_President_of_the_United_States", 
+            "Joe_Biden", 
+            "1999", 
+            "New_Orleans,_Louisiana", 
+            "Ashley_Massaro", 
+            "Freshman", 
+            "Gerald_Ford", 
+            "Tulane_University", 
+            "Ashley_Massaro", 
+            "Nat_Wolff", 
+            "Orl\u00e9ans", 
+            "Tulane_University", 
+            "Cocaine"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Donkey", 
+            "Donkey"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Celebrity"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Anbar"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Cell_(biology)", 
+            "Gerald_Ford", 
+            "Video_camera", 
+            "Ford_Motor_Company", 
+            "Common_sense"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Cereal", 
+            "Salt"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Public_space", 
+            "Joseph_Stalin", 
+            "Zoom_lens", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Bidens", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Drug_Czar", 
+            "Joe_Biden", 
+            "Hell", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Minor_league_baseball", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Tsar"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "United_States", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Delaware", 
+            "Vice_President_of_the_United_States", 
+            "The_National_Enquirer", 
+            "Cocaine", 
+            "The_National_Enquirer", 
+            "Tabloid", 
+            "Joe_Biden", 
+            "New_York", 
+            "Joe_Biden", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "Cocaine", 
+            "Ford_Motor_Company", 
+            "The_National_Enquirer", 
+            "Joe_Biden", 
+            "Ashley_Massaro", 
+            "New_York_Post"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Joe_Biden", 
+            "Clock", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Clock"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Feces", 
+            "Manure", 
+            "Dynamic_memory_allocation"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Jeb_Bush", 
+            "Jeb_Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fraud"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Coke_(fuel)", 
+            "Lawyer", 
+            "Ford_Motor_Company", 
+            "New_York_Post", 
+            "Drug", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "New_York_City"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Cannabis_(drug)", 
+            "Prison", 
+            "Ford_Motor_Company", 
+            "President_of_the_United_States", 
+            "Joe_Biden", 
+            "Vice_President_of_the_United_States", 
+            "Joe_Biden", 
+            "1999", 
+            "New_Orleans,_Louisiana", 
+            "Ashley_Massaro", 
+            "Freshman", 
+            "Gerald_Ford", 
+            "Tulane_University", 
+            "Ashley_Massaro", 
+            "Nat_Wolff", 
+            "Orl\u00e9ans", 
+            "Tulane_University", 
+            "Cocaine"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Donkey", 
+            "Donkey"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Celebrity"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Anbar"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Cell_(biology)", 
+            "Gerald_Ford", 
+            "Video_camera", 
+            "Ford_Motor_Company", 
+            "Common_sense"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Cereal", 
+            "Salt"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Public_space", 
+            "Joseph_Stalin", 
+            "Zoom_lens", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Bidens", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Drug_Czar", 
+            "Joe_Biden", 
+            "Hell", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Minor_league_baseball", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Tsar"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "United_States", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Delaware", 
+            "Vice_President_of_the_United_States", 
+            "The_National_Enquirer", 
+            "Cocaine", 
+            "The_National_Enquirer", 
+            "Tabloid", 
+            "Joe_Biden", 
+            "New_York", 
+            "Joe_Biden", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "Cocaine", 
+            "Ford_Motor_Company", 
+            "The_National_Enquirer", 
+            "Joe_Biden", 
+            "Ashley_Massaro", 
+            "New_York_Post"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Joe_Biden", 
+            "Clock", 
+            "George_W._Bush", 
+            "Palin_Majere", 
+            "Clock"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Feces", 
+            "Manure", 
+            "Dynamic_memory_allocation"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Jeb_Bush", 
+            "Jeb_Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Fraud"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Coke_(fuel)", 
+            "Lawyer", 
+            "Ford_Motor_Company", 
+            "New_York_Post", 
+            "Drug", 
+            "Gerald_Ford", 
+            "New_York_Post", 
+            "New_York_City"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Cannabis_(drug)", 
+            "Prison", 
+            "Ford_Motor_Company", 
+            "President_of_the_United_States", 
+            "Joe_Biden", 
+            "Vice_President_of_the_United_States", 
+            "Joe_Biden", 
+            "1999", 
+            "New_Orleans,_Louisiana", 
+            "Ashley_Massaro", 
+            "Freshman", 
+            "Gerald_Ford", 
+            "Tulane_University", 
+            "Ashley_Massaro", 
+            "Nat_Wolff", 
+            "Orl\u00e9ans", 
+            "Tulane_University", 
+            "Cocaine"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Donkey", 
+            "Donkey"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Celebrity"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Anbar"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Mobile_phone", 
+            "Cell_(biology)", 
+            "Gerald_Ford", 
+            "Video_camera", 
+            "Ford_Motor_Company", 
+            "Common_sense"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Cereal", 
+            "Salt"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Public_space", 
+            "Joseph_Stalin", 
+            "Zoom_lens", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Bidens", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Drug_Czar", 
+            "Joe_Biden", 
+            "Hell", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Minor_league_baseball", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Tsar"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "United_States", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

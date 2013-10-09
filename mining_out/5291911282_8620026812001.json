@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Homesickness", 
+            "Rock_music", 
+            "Dolly_(sheep)", 
+            "Hope,_Arkansas", 
+            "Rock_and_roll", 
+            "Boondocks", 
+            "Doughnut"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Jeep"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Korea", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "1962", 
+            "Ballistic_missile", 
+            "Doughnut", 
+            "Steel", 
+            "United_States", 
+            "Missile", 
+            "Coffee", 
+            "Doughnut", 
+            "Korean_Demilitarized_Zone", 
+            "Morale"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Steel"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Kool-Aid", 
+            "Celebrity", 
+            "Reunion", 
+            "Richard_I_of_England", 
+            "Dolly_(sheep)", 
+            "Watering_hole", 
+            "Cookie", 
+            "C\u1ee7_Chi_district,_H\u1ed3_Ch\u00ed_Minh_City", 
+            "Dolly_(sheep)", 
+            "Chopper_(motorcycle)", 
+            "Fess_Parker", 
+            "Fire_support_base", 
+            "Doughnut", 
+            "Fess", 
+            "Doughnut", 
+            "Bar_association"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Mountaineering", 
+            "An_Khe", 
+            "United_Service_Organizations", 
+            "Dolly_(sheep)", 
+            "An_Khe", 
+            "Doughnut"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Rosie_O'Donnell", 
+            "Que_Son_Valley", 
+            "Containerization", 
+            "Steel", 
+            "Hell", 
+            "Conex", 
+            "Rosie_Miller"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Penny", 
+            "Pinball", 
+            "One_Heart", 
+            "Doughnut", 
+            "Cardboard"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cookie"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Baton_Rouge,_Louisiana", 
+            "1970", 
+            "Garden", 
+            "Rouge", 
+            "West_Baton_Rouge_Parish,_Louisiana", 
+            "Christmas", 
+            "Soldier", 
+            "Soldier"
+        ], 
+        "postID": 12
+    }
+]

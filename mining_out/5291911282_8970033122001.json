@@ -1,0 +1,356 @@
+[
+    {
+        "entity": [
+            "Navy", 
+            "Officer_Candidates_School_(U.S._Marine_Corps)", 
+            "Marine_(military)", 
+            "Guard_(American_football)", 
+            "Ocean", 
+            "Officer_Candidates_School_(U.S._Marine_Corps)", 
+            "Guard_(American_football)", 
+            "Marine_(military)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Wannabe", 
+            "Internet_forum", 
+            "United_States_Marine_Corps", 
+            "United_States_Navy", 
+            "United_States_Marine_Corps", 
+            "Navy", 
+            "Marine_(military)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Corps_area", 
+            "Marine_(military)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Marine_Corps", 
+            "University", 
+            "United_States_Marine_Corps", 
+            "College", 
+            "The_Marine"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Skull", 
+            "Officer_Candidate_School_(U.S._Army)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Navy", 
+            "Sniper", 
+            "Air_force", 
+            "Dude", 
+            "PlayStation_2", 
+            "Marine_(military)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "LOL"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)", 
+            "Marine_(military)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Google"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Abyss_(religion)", 
+            "Idiot", 
+            "Amiga_Original_chipset", 
+            "Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Friedrich_Nietzsche"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Ayr", 
+            "Marine_(military)", 
+            "LOL", 
+            "Knot_(speed)", 
+            "Gard", 
+            "Marine_(military)", 
+            "Witchcraft", 
+            "Remington_Arms", 
+            "Ayr", 
+            "Marine_(military)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Baker", 
+            "LCPL"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "LCPL", 
+            "Baker"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Leather", 
+            "United_States_Marine_Corps", 
+            "Good_Luck", 
+            "Directed_acyclic_graph"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Cadaver", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Apple_Inc."
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Navy", 
+            "Officer_Candidates_School_(U.S._Marine_Corps)", 
+            "Marine_(military)", 
+            "Guard_(American_football)", 
+            "Ocean", 
+            "Officer_Candidates_School_(U.S._Marine_Corps)", 
+            "Guard_(American_football)", 
+            "Marine_(military)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Wannabe", 
+            "Internet_forum", 
+            "United_States_Marine_Corps", 
+            "United_States_Navy", 
+            "United_States_Marine_Corps", 
+            "Navy", 
+            "Marine_(military)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Corps_area", 
+            "Marine_(military)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Reserve_Officers'_Training_Corps", 
+            "United_States_Marine_Corps", 
+            "University", 
+            "United_States_Marine_Corps", 
+            "College", 
+            "The_Marine"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Skull", 
+            "Officer_Candidate_School_(U.S._Army)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Navy", 
+            "Sniper", 
+            "Air_force", 
+            "Dude", 
+            "PlayStation_2", 
+            "Marine_(military)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "LOL"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)", 
+            "Marine_(military)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Google"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Abyss_(religion)", 
+            "Idiot", 
+            "Amiga_Original_chipset", 
+            "Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Friedrich_Nietzsche"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Ayr", 
+            "Marine_(military)", 
+            "LOL", 
+            "Knot_(speed)", 
+            "Gard", 
+            "Marine_(military)", 
+            "Witchcraft", 
+            "Remington_Arms", 
+            "Ayr", 
+            "Marine_(military)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Baker", 
+            "LCPL"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "LCPL", 
+            "Baker"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Leather", 
+            "United_States_Marine_Corps", 
+            "Good_Luck", 
+            "Directed_acyclic_graph"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Cadaver", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Apple_Inc."
+        ], 
+        "postID": 40
+    }
+]

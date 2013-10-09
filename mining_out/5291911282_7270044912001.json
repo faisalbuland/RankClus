@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Fatal_hilarity", 
+            "Glasses", 
+            "Stupidity", 
+            "Glasses"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Waterbed", 
+            "Boss_(video_games)", 
+            "Eye", 
+            "Eye", 
+            "H.R.", 
+            "Black_eye", 
+            "Black_eye", 
+            "Eye", 
+            "Water"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law", 
+            "Judge", 
+            "Photocopier", 
+            "Jewish_humour", 
+            "Jew", 
+            "Bench_trial", 
+            "Kippah", 
+            "Defendant", 
+            "Shorthand", 
+            "Attorney_at_law", 
+            "Judge"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Redstone_(rocket)", 
+            "LOL", 
+            "April_1", 
+            "2009"
+        ], 
+        "postID": 6
+    }
+]

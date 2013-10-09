@@ -1,0 +1,947 @@
+[
+    {
+        "entity": [
+            "Screw", 
+            "Tire", 
+            "Pickup_truck", 
+            "Rail_gauge", 
+            "Ford_Motor_Company", 
+            "Goodyear_Tire_and_Rubber_Company", 
+            "Trunk_(automobile)", 
+            "Tire", 
+            "Truck", 
+            "The_General_(1927_film)", 
+            "Truck", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Pain", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Chevrolet", 
+            "Tire", 
+            "Tire", 
+            "Pickup_truck", 
+            "Inch", 
+            "Eagles", 
+            "Wheel", 
+            "Lease", 
+            "Steel", 
+            "Doughnut", 
+            "Tire", 
+            "Spare_tire", 
+            "Y'all", 
+            "Spare_tire", 
+            "Pound_(mass)", 
+            "Tire", 
+            "Tire", 
+            "General_manager", 
+            "Inch"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tire"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pickup_truck", 
+            "Chevrolet"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Rice", 
+            "Toyota"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Radial_engine", 
+            "Chevrolet_Silverado", 
+            "Inch"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Welding", 
+            "Bullfeathers", 
+            "Textile", 
+            "Tire", 
+            "Tire", 
+            "Yarn", 
+            "LOOK"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tea_bag", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Tire", 
+            "The_Tea_Party", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Tire", 
+            "Cardboard"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Manager_(baseball)", 
+            "District", 
+            "Ford_Motor_Company", 
+            "Internal_combustion_engine", 
+            "Motor_oil", 
+            "St._Louis_Rams", 
+            "Artist", 
+            "Petroleum", 
+            "Tire", 
+            "Confidence_trick", 
+            "Toyota_Tundra", 
+            "Confidence_trick", 
+            "Toyota", 
+            "Tacoma,_Washington", 
+            "Tire_rotation", 
+            "Toyota_Tundra", 
+            "Litre", 
+            "Commerce", 
+            "Miles_per_gallon", 
+            "Chamber_of_commerce", 
+            "Four-wheel_drive", 
+            "Miles_per_gallon", 
+            "Rotation"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tea_bag", 
+            "Tire", 
+            "Tea", 
+            "Honesty", 
+            "Statism", 
+            "Tire"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ford_F-Series", 
+            "1989", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "STX", 
+            "Tire", 
+            "Ford_Motor_Company", 
+            "Ford_Fairlane_(Australia)", 
+            "Michelin", 
+            "1971", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series", 
+            "Ford_Fairlane"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Toyota", 
+            "United_States", 
+            "Truck", 
+            "Hell"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Invoice", 
+            "Tire", 
+            "Tire_code", 
+            "Truck"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Tire", 
+            "Truck", 
+            "Tire", 
+            "Poster", 
+            "Tire_code", 
+            "Tire", 
+            "Invoice"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Invoice", 
+            "Doughnut", 
+            "Tire_code", 
+            "Poster", 
+            "Tire", 
+            "Doughnut", 
+            "Model_(person)", 
+            "Tire", 
+            "Truck"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nissan_Motors", 
+            "Nissan_Pathfinder", 
+            "Original_equipment_manufacturer", 
+            "Nissan_Pathfinder", 
+            "The_Frontier_(Hong_Kong)", 
+            "Nissan_Pathfinder"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Corporation"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Mammy_archetype", 
+            "Wheel", 
+            "Spare_tire", 
+            "Al_Capp"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Chevrolet", 
+            "Ford_Motor_Company", 
+            "Chevrolet", 
+            "Research_and_development", 
+            "Pickup_truck", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Chevrolet"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "1969", 
+            "Aluminium"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "Chevrolet_Silverado", 
+            "Ton", 
+            "Wheel", 
+            "Push-button", 
+            "Manual_transmission", 
+            "Chevrolet_Silverado", 
+            "2000", 
+            "Four-wheel_drive", 
+            "Four-wheel_drive", 
+            "Transmission_(mechanics)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Inch", 
+            "Pothole", 
+            "Main_Street_(disambiguation)", 
+            "Chrome_plating", 
+            "Hummer"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Automobile_salesperson", 
+            "General_Motors", 
+            "Weasel", 
+            "Suzuki", 
+            "Doughnut", 
+            "Lincoln_(automobile)", 
+            "Guy_I_of_Spoleto", 
+            "Dime_(United_States_coin)", 
+            "United_States_Congress", 
+            "Mercury_(automobile)", 
+            "Ford_Motor_Company", 
+            "United_States_House_of_Representatives", 
+            "United_States_Congress"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "Tire", 
+            "Pickup_truck", 
+            "Rail_gauge", 
+            "Ford_Motor_Company", 
+            "Goodyear_Tire_and_Rubber_Company", 
+            "Trunk_(automobile)", 
+            "Tire", 
+            "Truck", 
+            "The_General_(1927_film)", 
+            "Truck", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Pain", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Chevrolet", 
+            "Tire", 
+            "Tire", 
+            "Pickup_truck", 
+            "Inch", 
+            "Eagles", 
+            "Wheel", 
+            "Lease", 
+            "Steel", 
+            "Doughnut", 
+            "Tire", 
+            "Spare_tire", 
+            "Y'all", 
+            "Spare_tire", 
+            "Pound_(mass)", 
+            "Tire", 
+            "Tire", 
+            "General_manager", 
+            "Inch"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Tire"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Pickup_truck", 
+            "Chevrolet"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Rice", 
+            "Toyota"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Radial_engine", 
+            "Chevrolet_Silverado", 
+            "Inch"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Welding", 
+            "Bullfeathers", 
+            "Textile", 
+            "Tire", 
+            "Tire", 
+            "Yarn", 
+            "LOOK"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tea_bag", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Tire", 
+            "The_Tea_Party", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Tire", 
+            "Cardboard"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Manager_(baseball)", 
+            "District", 
+            "Ford_Motor_Company", 
+            "Internal_combustion_engine", 
+            "Motor_oil", 
+            "St._Louis_Rams", 
+            "Artist", 
+            "Petroleum", 
+            "Tire", 
+            "Confidence_trick", 
+            "Toyota_Tundra", 
+            "Confidence_trick", 
+            "Toyota", 
+            "Tacoma,_Washington", 
+            "Tire_rotation", 
+            "Toyota_Tundra", 
+            "Litre", 
+            "Commerce", 
+            "Miles_per_gallon", 
+            "Chamber_of_commerce", 
+            "Four-wheel_drive", 
+            "Miles_per_gallon", 
+            "Rotation"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tea_bag", 
+            "Tire", 
+            "Tea", 
+            "Honesty", 
+            "Statism", 
+            "Tire"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Ford_F-Series", 
+            "1989", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "STX", 
+            "Tire", 
+            "Ford_Motor_Company", 
+            "Ford_Fairlane_(Australia)", 
+            "Michelin", 
+            "1971", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series", 
+            "Ford_Fairlane"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Toyota", 
+            "United_States", 
+            "Truck", 
+            "Hell"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Invoice", 
+            "Tire", 
+            "Tire_code", 
+            "Truck"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Tire", 
+            "Truck", 
+            "Tire", 
+            "Poster", 
+            "Tire_code", 
+            "Tire", 
+            "Invoice"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Invoice", 
+            "Doughnut", 
+            "Tire_code", 
+            "Poster", 
+            "Tire", 
+            "Doughnut", 
+            "Model_(person)", 
+            "Tire", 
+            "Truck"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Nissan_Motors", 
+            "Nissan_Pathfinder", 
+            "Original_equipment_manufacturer", 
+            "Nissan_Pathfinder", 
+            "The_Frontier_(Hong_Kong)", 
+            "Nissan_Pathfinder"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Corporation"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Mammy_archetype", 
+            "Wheel", 
+            "Spare_tire", 
+            "Al_Capp"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Chevrolet", 
+            "Ford_Motor_Company", 
+            "Chevrolet", 
+            "Research_and_development", 
+            "Pickup_truck", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Chevrolet"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "1969", 
+            "Aluminium"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "Chevrolet_Silverado", 
+            "Ton", 
+            "Wheel", 
+            "Push-button", 
+            "Manual_transmission", 
+            "Chevrolet_Silverado", 
+            "2000", 
+            "Four-wheel_drive", 
+            "Four-wheel_drive", 
+            "Transmission_(mechanics)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Inch", 
+            "Pothole", 
+            "Main_Street_(disambiguation)", 
+            "Chrome_plating", 
+            "Hummer"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Automobile_salesperson", 
+            "General_Motors", 
+            "Weasel", 
+            "Suzuki", 
+            "Doughnut", 
+            "Lincoln_(automobile)", 
+            "Guy_I_of_Spoleto", 
+            "Dime_(United_States_coin)", 
+            "United_States_Congress", 
+            "Mercury_(automobile)", 
+            "Ford_Motor_Company", 
+            "United_States_House_of_Representatives", 
+            "United_States_Congress"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "Tire", 
+            "Pickup_truck", 
+            "Rail_gauge", 
+            "Ford_Motor_Company", 
+            "Goodyear_Tire_and_Rubber_Company", 
+            "Trunk_(automobile)", 
+            "Tire", 
+            "Truck", 
+            "The_General_(1927_film)", 
+            "Truck", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Pain", 
+            "Tire", 
+            "Chevrolet_Silverado", 
+            "Chevrolet", 
+            "Tire", 
+            "Tire", 
+            "Pickup_truck", 
+            "Inch", 
+            "Eagles", 
+            "Wheel", 
+            "Lease", 
+            "Steel", 
+            "Doughnut", 
+            "Tire", 
+            "Spare_tire", 
+            "Y'all", 
+            "Spare_tire", 
+            "Pound_(mass)", 
+            "Tire", 
+            "Tire", 
+            "General_manager", 
+            "Inch"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Tire"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Bankruptcy"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Pickup_truck", 
+            "Chevrolet"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Rice", 
+            "Toyota"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Radial_engine", 
+            "Chevrolet_Silverado", 
+            "Inch"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Welding", 
+            "Bullfeathers", 
+            "Textile", 
+            "Tire", 
+            "Tire", 
+            "Yarn", 
+            "LOOK"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tea_bag", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Tire", 
+            "The_Tea_Party", 
+            "Bail_(disambiguation)", 
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Tire", 
+            "Cardboard"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Manager_(baseball)", 
+            "District", 
+            "Ford_Motor_Company", 
+            "Internal_combustion_engine", 
+            "Motor_oil", 
+            "St._Louis_Rams", 
+            "Artist", 
+            "Petroleum", 
+            "Tire", 
+            "Confidence_trick", 
+            "Toyota_Tundra", 
+            "Confidence_trick", 
+            "Toyota", 
+            "Tacoma,_Washington", 
+            "Tire_rotation", 
+            "Toyota_Tundra", 
+            "Litre", 
+            "Commerce", 
+            "Miles_per_gallon", 
+            "Chamber_of_commerce", 
+            "Four-wheel_drive", 
+            "Miles_per_gallon", 
+            "Rotation"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Tea_bag", 
+            "Tire", 
+            "Tea", 
+            "Honesty", 
+            "Statism", 
+            "Tire"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Ford_F-Series", 
+            "1989", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "STX", 
+            "Tire", 
+            "Ford_Motor_Company", 
+            "Ford_Fairlane_(Australia)", 
+            "Michelin", 
+            "1971", 
+            "Ford_Motor_Company", 
+            "Ford_F-Series", 
+            "Ford_Fairlane"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Toyota", 
+            "United_States", 
+            "Truck", 
+            "Hell"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Invoice", 
+            "Tire", 
+            "Tire_code", 
+            "Truck"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Tire", 
+            "Truck", 
+            "Tire", 
+            "Poster", 
+            "Tire_code", 
+            "Tire", 
+            "Invoice"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Invoice", 
+            "Doughnut", 
+            "Tire_code", 
+            "Poster", 
+            "Tire", 
+            "Doughnut", 
+            "Model_(person)", 
+            "Tire", 
+            "Truck"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Nissan_Motors", 
+            "Nissan_Pathfinder", 
+            "Original_equipment_manufacturer", 
+            "Nissan_Pathfinder", 
+            "The_Frontier_(Hong_Kong)", 
+            "Nissan_Pathfinder"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Tea", 
+            "Boston_Tea_Party", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Corporation"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Mammy_archetype", 
+            "Wheel", 
+            "Spare_tire", 
+            "Al_Capp"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Chevrolet", 
+            "Ford_Motor_Company", 
+            "Chevrolet", 
+            "Research_and_development", 
+            "Pickup_truck", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Chevrolet"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "1969", 
+            "Aluminium"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "Chevrolet_Silverado", 
+            "Ton", 
+            "Wheel", 
+            "Push-button", 
+            "Manual_transmission", 
+            "Chevrolet_Silverado", 
+            "2000", 
+            "Four-wheel_drive", 
+            "Four-wheel_drive", 
+            "Transmission_(mechanics)"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Inch", 
+            "Pothole", 
+            "Main_Street_(disambiguation)", 
+            "Chrome_plating", 
+            "Hummer"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Automobile_salesperson", 
+            "General_Motors", 
+            "Weasel", 
+            "Suzuki", 
+            "Doughnut", 
+            "Lincoln_(automobile)", 
+            "Guy_I_of_Spoleto", 
+            "Dime_(United_States_coin)", 
+            "United_States_Congress", 
+            "Mercury_(automobile)", 
+            "Ford_Motor_Company", 
+            "United_States_House_of_Representatives", 
+            "United_States_Congress"
+        ], 
+        "postID": 78
+    }
+]

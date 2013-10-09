@@ -1,0 +1,21 @@
+[
+    {
+        "entity": [
+            "Threaded_discussion", 
+            "Internet_forum", 
+            "NATO", 
+            "China", 
+            "Afghanistan", 
+            "Threaded_discussion", 
+            "News_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 2
+    }
+]

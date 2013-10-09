@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "Air_force", 
+            "Recruit_training"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Recruiter"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Kansas", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "God", 
+            "Recruiter", 
+            "1300", 
+            "Topeka,_Kansas", 
+            "Recruiter", 
+            "Soldier", 
+            "Soldier", 
+            "Internet_forum", 
+            "Data_Execution_Prevention", 
+            "MEPS", 
+            "God", 
+            "May_22", 
+            "Kansas_City,_Missouri", 
+            "Duck"
+        ], 
+        "postID": 4
+    }
+]

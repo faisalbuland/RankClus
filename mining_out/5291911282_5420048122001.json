@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "General_Educational_Development", 
+            "United_States_Army", 
+            "Education", 
+            "Recruiter", 
+            "Preparatory_school_(UK)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Soldier", 
+            "Derelict", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "High_school_diploma", 
+            "Recruiter", 
+            "Diploma", 
+            "High_school", 
+            "Diploma"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "General_Educational_Development", 
+            "Armed_Services_Vocational_Aptitude_Battery", 
+            "Community_college", 
+            "Armed_Services_Vocational_Aptitude_Battery", 
+            "God", 
+            "Diploma", 
+            "United_States_Army", 
+            "General_Educational_Development", 
+            "Military_Occupational_Specialty", 
+            "General_Educational_Development", 
+            "College", 
+            "Google", 
+            "Quincy_College"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Army", 
+            "Russia", 
+            "Army"
+        ], 
+        "postID": 5
+    }
+]

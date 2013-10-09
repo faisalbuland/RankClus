@@ -1,0 +1,532 @@
+[
+    {
+        "entity": [
+            "Marriage", 
+            "Weapon", 
+            "Valor_device", 
+            "Purple_Heart", 
+            "Carson,_California", 
+            "Iraq", 
+            "Lar_Gand", 
+            "Police", 
+            "Hospital", 
+            "Platoon", 
+            "Nephew_(band)", 
+            "Fort_Carson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Harley"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Rib", 
+            "Breathing", 
+            ".38", 
+            "Multiple-vehicle_collision", 
+            "Police", 
+            "Bank_robbery", 
+            "U.S._state", 
+            "Tragedy", 
+            "Bank", 
+            "United_States", 
+            "Finger", 
+            "Hat", 
+            "Highway_patrol", 
+            "Psychologist", 
+            "Suicide", 
+            "Gray_Wolf", 
+            "Finger", 
+            "Jackal", 
+            "Finger_(gesture)", 
+            "Robbery"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Suspension_(vehicle)", 
+            "Heart_Ache_(EP)", 
+            "Heart_Ache_(EP)", 
+            "Suicide", 
+            "Nag", 
+            "1954", 
+            "Poker", 
+            "Dual_in-line_package", 
+            "1996", 
+            "Dover_Air_Force_Base", 
+            "Murder", 
+            "Dover", 
+            "Counselor", 
+            "1963", 
+            "Sun", 
+            "1959", 
+            "Suicide", 
+            "March_8", 
+            "2009", 
+            "Ear"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nice_guy", 
+            "Nice", 
+            "Platoon", 
+            "Bunker"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Ear"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Mad_(magazine)", 
+            "Irrational_number"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Martian", 
+            "Human_brain", 
+            "Dude", 
+            "England", 
+            "Thermometer"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Psychiatrist", 
+            "Sorry_(Madonna_song)", 
+            "Gastrointestinal_tract", 
+            "Company_(military_unit)", 
+            "Posttraumatic_stress_disorder", 
+            "United_States_Army", 
+            "Psychologist", 
+            "Non-commissioned_officer", 
+            "Seventh_United_States_Army", 
+            "Psychotherapy", 
+            "Suicide", 
+            "Crystal_ball", 
+            "Crystal", 
+            "Robert_Harley,_1st_Earl_of_Oxford_and_Earl_Mortimer", 
+            "Mental_health", 
+            "General_officer", 
+            "Psychotherapy", 
+            "Swaddling", 
+            "Cattle", 
+            "Safety_(American_football)", 
+            "Hospital"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Tragedy", 
+            "Jet_aircraft", 
+            "Funeral", 
+            "High_school", 
+            "Catholic"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Period_(geology)", 
+            "Kitchen_stove", 
+            "National_Guard_of_the_United_States", 
+            "Soldier", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Training", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Tank", 
+            "Period_(geology)", 
+            "Gynoecium", 
+            "Pressure_cooking", 
+            "Germany", 
+            "Soldier", 
+            "Commander", 
+            "Teacher", 
+            "Safety_(American_football)", 
+            "Unemployment", 
+            "Welding", 
+            "Vietnam", 
+            "Period_(geology)", 
+            "Elementary_school", 
+            "Machinist", 
+            "Social_safety_net", 
+            "Drill"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Suicide_prevention", 
+            "Suicide", 
+            "United_States_Army"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Occupation_of_Japan", 
+            "Training", 
+            "Major_depressive_disorder", 
+            "G.I._Bill", 
+            "United_States_Army", 
+            "Maniac", 
+            "Mathematics", 
+            "Suicide", 
+            "Training", 
+            "Book_of_Job", 
+            "Fifth_grade", 
+            "Non-commissioned_officer", 
+            "Pain"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "2009", 
+            "Sergeant_Major", 
+            "Mental_health", 
+            "Sergeant", 
+            "Sergeant_Major", 
+            "Sergeant", 
+            "The_Chain", 
+            "Major", 
+            "Mental_health", 
+            "Peerage", 
+            "Mon_people", 
+            "Suicide", 
+            "Iraq", 
+            "God", 
+            "Kirkuk", 
+            "Sorry_(Madonna_song)", 
+            "Suicide_prevention", 
+            "Chaplain", 
+            "Chaplain", 
+            "Major"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Western_Athletic_Conference", 
+            "Religion", 
+            "Suicide"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Selfishness", 
+            "Grief", 
+            "Suicide", 
+            "Guilt"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Weapon", 
+            "Valor_device", 
+            "Purple_Heart", 
+            "Carson,_California", 
+            "Iraq", 
+            "Lar_Gand", 
+            "Police", 
+            "Hospital", 
+            "Platoon", 
+            "Nephew_(band)", 
+            "Fort_Carson"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Harley"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Rib", 
+            "Breathing", 
+            ".38", 
+            "Multiple-vehicle_collision", 
+            "Police", 
+            "Bank_robbery", 
+            "U.S._state", 
+            "Tragedy", 
+            "Bank", 
+            "United_States", 
+            "Finger", 
+            "Hat", 
+            "Highway_patrol", 
+            "Psychologist", 
+            "Suicide", 
+            "Gray_Wolf", 
+            "Finger", 
+            "Jackal", 
+            "Finger_(gesture)", 
+            "Robbery"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Suspension_(vehicle)", 
+            "Heart_Ache_(EP)", 
+            "Heart_Ache_(EP)", 
+            "Suicide", 
+            "Nag", 
+            "1954", 
+            "Poker", 
+            "Dual_in-line_package", 
+            "1996", 
+            "Dover_Air_Force_Base", 
+            "Murder", 
+            "Dover", 
+            "Counselor", 
+            "1963", 
+            "Sun", 
+            "1959", 
+            "Suicide", 
+            "March_8", 
+            "2009", 
+            "Ear"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Nice_guy", 
+            "Nice", 
+            "Platoon", 
+            "Bunker"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Ear"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Mad_(magazine)", 
+            "Irrational_number"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Martian", 
+            "Human_brain", 
+            "Dude", 
+            "England", 
+            "Thermometer"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Psychiatrist", 
+            "Sorry_(Madonna_song)", 
+            "Gastrointestinal_tract", 
+            "Company_(military_unit)", 
+            "Posttraumatic_stress_disorder", 
+            "United_States_Army", 
+            "Psychologist", 
+            "Non-commissioned_officer", 
+            "Seventh_United_States_Army", 
+            "Psychotherapy", 
+            "Suicide", 
+            "Crystal_ball", 
+            "Crystal", 
+            "Robert_Harley,_1st_Earl_of_Oxford_and_Earl_Mortimer", 
+            "Mental_health", 
+            "General_officer", 
+            "Psychotherapy", 
+            "Swaddling", 
+            "Cattle", 
+            "Safety_(American_football)", 
+            "Hospital"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Tragedy", 
+            "Jet_aircraft", 
+            "Funeral", 
+            "High_school", 
+            "Catholic"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Period_(geology)", 
+            "Kitchen_stove", 
+            "National_Guard_of_the_United_States", 
+            "Soldier", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Training", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Tank", 
+            "Period_(geology)", 
+            "Gynoecium", 
+            "Pressure_cooking", 
+            "Germany", 
+            "Soldier", 
+            "Commander", 
+            "Teacher", 
+            "Safety_(American_football)", 
+            "Unemployment", 
+            "Welding", 
+            "Vietnam", 
+            "Period_(geology)", 
+            "Elementary_school", 
+            "Machinist", 
+            "Social_safety_net", 
+            "Drill"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Suicide_prevention", 
+            "Suicide", 
+            "United_States_Army"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Occupation_of_Japan", 
+            "Training", 
+            "Major_depressive_disorder", 
+            "G.I._Bill", 
+            "United_States_Army", 
+            "Maniac", 
+            "Mathematics", 
+            "Suicide", 
+            "Training", 
+            "Book_of_Job", 
+            "Fifth_grade", 
+            "Non-commissioned_officer", 
+            "Pain"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "2009", 
+            "Sergeant_Major", 
+            "Mental_health", 
+            "Sergeant", 
+            "Sergeant_Major", 
+            "Sergeant", 
+            "The_Chain", 
+            "Major", 
+            "Mental_health", 
+            "Peerage", 
+            "Mon_people", 
+            "Suicide", 
+            "Iraq", 
+            "God", 
+            "Kirkuk", 
+            "Sorry_(Madonna_song)", 
+            "Suicide_prevention", 
+            "Chaplain", 
+            "Chaplain", 
+            "Major"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Western_Athletic_Conference", 
+            "Religion", 
+            "Suicide"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Selfishness", 
+            "Grief", 
+            "Suicide", 
+            "Guilt"
+        ], 
+        "postID": 40
+    }
+]

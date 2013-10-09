@@ -1,0 +1,581 @@
+[
+    {
+        "entity": [
+            "Police_dog", 
+            "Dog", 
+            "Police", 
+            "Search_and_rescue_dog", 
+            "Search_and_rescue", 
+            "Guard_dog", 
+            "German_Shepherd_Dog", 
+            "Fixed-wing_aircraft", 
+            "Guard_dog", 
+            "Germany", 
+            "Parachuting", 
+            "Intelligence", 
+            "Herding_dog", 
+            "Germany", 
+            "Parachute", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Oakland_Raiders"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Toe", 
+            "Breed", 
+            "Breed", 
+            "Selective_breeding", 
+            "Selective_breeding", 
+            "Toe"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Herding_dog", 
+            "United_States", 
+            "Germany", 
+            "Farm", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "Herding_dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Cult", 
+            "1914", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "United_States", 
+            "Fur", 
+            "Dog_breed", 
+            "Germany", 
+            "1899", 
+            "Dog_breed", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Shepherd", 
+            "Puppy", 
+            "Humour"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ireland", 
+            "Irish_Setter", 
+            "Dog_breed", 
+            "Setter", 
+            "Rain"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Mule", 
+            "Shear", 
+            "Canidae", 
+            "Bird", 
+            "Pheasant", 
+            "Canidae", 
+            "Truck"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stump_(cricket)", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Paratrooper"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Border_Collie", 
+            "Border_Collie", 
+            "Poodle", 
+            "Rough_Collie", 
+            "Poodle", 
+            "Collie", 
+            "Welsh_Corgi", 
+            "Dog_breed"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Xbox_360", 
+            "Xbox"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Germany", 
+            "Jew", 
+            "German_Shepherd_Dog", 
+            "Australia", 
+            "Germany"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Dude", 
+            "Dog"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog.", 
+            "Computer_desk"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "English_language", 
+            "Fixed-wing_aircraft", 
+            "Dude"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Puppy"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Dog", 
+            "England"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Police_dog", 
+            "Dog", 
+            "Police", 
+            "Search_and_rescue_dog", 
+            "Search_and_rescue", 
+            "Guard_dog", 
+            "German_Shepherd_Dog", 
+            "Fixed-wing_aircraft", 
+            "Guard_dog", 
+            "Germany", 
+            "Parachuting", 
+            "Intelligence", 
+            "Herding_dog", 
+            "Germany", 
+            "Parachute", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Oakland_Raiders"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Toe", 
+            "Breed", 
+            "Breed", 
+            "Selective_breeding", 
+            "Selective_breeding", 
+            "Toe"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Herding_dog", 
+            "United_States", 
+            "Germany", 
+            "Farm", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "Herding_dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Cult", 
+            "1914", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "United_States", 
+            "Fur", 
+            "Dog_breed", 
+            "Germany", 
+            "1899", 
+            "Dog_breed", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Shepherd", 
+            "Puppy", 
+            "Humour"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Ireland", 
+            "Irish_Setter", 
+            "Dog_breed", 
+            "Setter", 
+            "Rain"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Mule", 
+            "Shear", 
+            "Canidae", 
+            "Bird", 
+            "Pheasant", 
+            "Canidae", 
+            "Truck"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Stump_(cricket)", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Paratrooper"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Border_Collie", 
+            "Border_Collie", 
+            "Poodle", 
+            "Rough_Collie", 
+            "Poodle", 
+            "Collie", 
+            "Welsh_Corgi", 
+            "Dog_breed"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Xbox_360", 
+            "Xbox"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Germany", 
+            "Jew", 
+            "German_Shepherd_Dog", 
+            "Australia", 
+            "Germany"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Dude", 
+            "Dog"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog.", 
+            "Computer_desk"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "English_language", 
+            "Fixed-wing_aircraft", 
+            "Dude"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Puppy"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Dog", 
+            "England"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Police_dog", 
+            "Dog", 
+            "Police", 
+            "Search_and_rescue_dog", 
+            "Search_and_rescue", 
+            "Guard_dog", 
+            "German_Shepherd_Dog", 
+            "Fixed-wing_aircraft", 
+            "Guard_dog", 
+            "Germany", 
+            "Parachuting", 
+            "Intelligence", 
+            "Herding_dog", 
+            "Germany", 
+            "Parachute", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Oakland_Raiders"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Toe", 
+            "Breed", 
+            "Breed", 
+            "Selective_breeding", 
+            "Selective_breeding", 
+            "Toe"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Herding_dog", 
+            "United_States", 
+            "Germany", 
+            "Farm", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "Herding_dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Germany", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "Cult", 
+            "1914", 
+            "German_Shepherd_Dog", 
+            "German_Shepherd_Dog", 
+            "United_States", 
+            "Fur", 
+            "Dog_breed", 
+            "Germany", 
+            "1899", 
+            "Dog_breed", 
+            "German_Shepherd_Dog"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Shepherd", 
+            "Puppy", 
+            "Humour"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Ireland", 
+            "Irish_Setter", 
+            "Dog_breed", 
+            "Setter", 
+            "Rain"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Mule", 
+            "Shear", 
+            "Canidae", 
+            "Bird", 
+            "Pheasant", 
+            "Canidae", 
+            "Truck"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Stump_(cricket)", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Paratrooper"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Border_Collie", 
+            "Border_Collie", 
+            "Poodle", 
+            "Rough_Collie", 
+            "Poodle", 
+            "Collie", 
+            "Welsh_Corgi", 
+            "Dog_breed"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Xbox_360", 
+            "Xbox"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Germany", 
+            "Jew", 
+            "German_Shepherd_Dog", 
+            "Australia", 
+            "Germany"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Dude", 
+            "Dog"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog.", 
+            "Computer_desk"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "English_language", 
+            "Fixed-wing_aircraft", 
+            "Dude"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Puppy"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Dog", 
+            "England"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

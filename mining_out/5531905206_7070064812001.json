@@ -1,0 +1,340 @@
+[
+    {
+        "entity": [
+            "Donkey", 
+            "!!!", 
+            "Shame", 
+            "Huh_(god)", 
+            "Olympic_Games", 
+            "Jack_(device)", 
+            "Point_of_sale", 
+            "Semper_fidelis", 
+            "The_Bill"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "Hunting", 
+            "Firearm", 
+            "Gun_safety", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Law", 
+            "Thread_(computer_science)", 
+            "Firearm", 
+            "Constitutionality", 
+            "Barack_Obama", 
+            "New_York", 
+            "Hunting_license", 
+            "Law", 
+            "New_York"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "New_York", 
+            "York,_Pennsylvania", 
+            "New_York_City", 
+            "Scots_law", 
+            "Sullivan_County,_New_York", 
+            "Law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rifle", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Monopoly", 
+            "Sullivan_Act", 
+            "Handgun", 
+            "Sullivan_County,_New_York", 
+            "Handgun", 
+            "Sullivan_County,_New_York", 
+            "Law", 
+            "Politician", 
+            "Sullivan_County,_New_York", 
+            "Sullivan_Act", 
+            "Law", 
+            "New_York", 
+            "New_York_City", 
+            "York_City_F.C."
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Individual_rights", 
+            "Playing_field", 
+            "United_States_Constitution", 
+            "Individual_rights", 
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "SEN_1116", 
+            "Law", 
+            "Member_of_Congress"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Five-year_plans_of_India", 
+            "Fuck", 
+            "Socialism", 
+            "Russians"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Warren_E._Burger", 
+            "Supreme_Court_of_the_United_States", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Earl_Warren", 
+            "Warren_E._Burger", 
+            "Fraud", 
+            "United_States", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Presidency_of_George_W._Bush", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "George_W._Bush", 
+            "Scholarship", 
+            "Conservative_Party_(UK)", 
+            "Left-wing_politics", 
+            "Left-wing_politics", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Gun_politics", 
+            "Liberalism", 
+            "United_States_Constitution", 
+            "Majoritarianism", 
+            "Liberal_Party_of_Canada", 
+            "United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Liberalism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Deadly_force", 
+            "Constitution", 
+            "Florida", 
+            "Barack_Obama", 
+            "God"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Amend_(motion)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Donkey", 
+            "!!!", 
+            "Shame", 
+            "Huh_(god)", 
+            "Olympic_Games", 
+            "Jack_(device)", 
+            "Point_of_sale", 
+            "Semper_fidelis", 
+            "The_Bill"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "Hunting", 
+            "Firearm", 
+            "Gun_safety", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Law", 
+            "Thread_(computer_science)", 
+            "Firearm", 
+            "Constitutionality", 
+            "Barack_Obama", 
+            "New_York", 
+            "Hunting_license", 
+            "Law", 
+            "New_York"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "New_York", 
+            "York,_Pennsylvania", 
+            "New_York_City", 
+            "Scots_law", 
+            "Sullivan_County,_New_York", 
+            "Law"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Rifle", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Monopoly", 
+            "Sullivan_Act", 
+            "Handgun", 
+            "Sullivan_County,_New_York", 
+            "Handgun", 
+            "Sullivan_County,_New_York", 
+            "Law", 
+            "Politician", 
+            "Sullivan_County,_New_York", 
+            "Sullivan_Act", 
+            "Law", 
+            "New_York", 
+            "New_York_City", 
+            "York_City_F.C."
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Individual_rights", 
+            "Playing_field", 
+            "United_States_Constitution", 
+            "Individual_rights", 
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "SEN_1116", 
+            "Law", 
+            "Member_of_Congress"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Five-year_plans_of_India", 
+            "Fuck", 
+            "Socialism", 
+            "Russians"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Warren_E._Burger", 
+            "Supreme_Court_of_the_United_States", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Earl_Warren", 
+            "Warren_E._Burger", 
+            "Fraud", 
+            "United_States", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Presidency_of_George_W._Bush", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "George_W._Bush", 
+            "Scholarship", 
+            "Conservative_Party_(UK)", 
+            "Left-wing_politics", 
+            "Left-wing_politics", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Gun_politics", 
+            "Liberalism", 
+            "United_States_Constitution", 
+            "Majoritarianism", 
+            "Liberal_Party_of_Canada", 
+            "United_States_Constitution", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Liberalism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Deadly_force", 
+            "Constitution", 
+            "Florida", 
+            "Barack_Obama", 
+            "God"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Amend_(motion)", 
+            "United_States_Constitution"
+        ], 
+        "postID": 37
+    }
+]

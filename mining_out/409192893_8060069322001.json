@@ -1,0 +1,959 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Franklin_D._Roosevelt", 
+            "Thirst", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "Thread_(computer_science)", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Get-rich-quick_scheme", 
+            "Hunger", 
+            "Torture"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Phencyclidine", 
+            "United_States_Constitution", 
+            "Prison", 
+            "Constitutional_right", 
+            "Prison", 
+            "United_States", 
+            "Hell", 
+            "Stupidity", 
+            "Leaf", 
+            "Suspect", 
+            "Police", 
+            "Suspect", 
+            "United_States", 
+            "Myopia", 
+            "Rape", 
+            "Torture", 
+            "Egyptians", 
+            "Suspect", 
+            "Royal_Commission", 
+            "Interrogation", 
+            "United_States_Constitution", 
+            "Police"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Lewis"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Honey", 
+            "Pakistan", 
+            "Sorry_(Madonna_song)", 
+            "Water", 
+            "WTC", 
+            "Water_board_(The_Netherlands)", 
+            "Water", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Nose", 
+            "Soundness"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Franklin_D._Roosevelt", 
+            "Get-rich-quick_scheme", 
+            "Safety_(American_football)", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gang"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Get-rich-quick_scheme", 
+            "Franklin_D._Roosevelt", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Emotion"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dragon", 
+            "Suspect", 
+            "Hiroshima", 
+            "Memoir", 
+            "William_Shakespeare", 
+            "King_Lear", 
+            "Burma", 
+            "George_MacDonald", 
+            "George_MacDonald_Fraser", 
+            "Burma_Campaign", 
+            "Bomb", 
+            "Japan", 
+            "United_Kingdom", 
+            "Fraser_River", 
+            "Veterinarian", 
+            "Torture", 
+            "King_Lear"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "World_record", 
+            "May_22", 
+            "2009", 
+            "Jail"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Capital_punishment_in_the_United_States", 
+            "Capital_punishment_in_the_United_States", 
+            "Convict"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Yugoslav_Moslem_Organization", 
+            "Interrogation"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "List_of_terrorist_incidents", 
+            "Terrorism", 
+            "Cold-blooded", 
+            "Little_finger", 
+            "Finger"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Foot_whipping", 
+            "SLIME", 
+            "Foot_whipping"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Dirtbag", 
+            "Hypothesis"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Police"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Hypothesis", 
+            "Interrogation"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Law", 
+            "Monopoly", 
+            "Torture"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Hypothesis", 
+            "American_Civil_Liberties_Union"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Torture", 
+            "Interrogation", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Sanity", 
+            "Torture", 
+            "Cong,_County_Mayo", 
+            "East_Germany", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Poland", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "Pardon", 
+            "Germany", 
+            "Viet_Cong", 
+            "Interrogation", 
+            "Russian_language", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Rational_number", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "North_Vietnam", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Vietnam", 
+            "Interrogation", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Military_intelligence", 
+            "KGB", 
+            "Enhanced_interrogation_techniques", 
+            "Bulgarian_language"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage", 
+            "Law", 
+            "Police", 
+            "Dick_Cheney", 
+            "Hostage", 
+            "Hostage", 
+            "Police", 
+            "Law", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Law", 
+            "Dick_Cheney"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "SERE"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Pure_BS"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Pop_music"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Franklin_D._Roosevelt", 
+            "Thirst", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "Thread_(computer_science)", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Get-rich-quick_scheme", 
+            "Hunger", 
+            "Torture"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Phencyclidine", 
+            "United_States_Constitution", 
+            "Prison", 
+            "Constitutional_right", 
+            "Prison", 
+            "United_States", 
+            "Hell", 
+            "Stupidity", 
+            "Leaf", 
+            "Suspect", 
+            "Police", 
+            "Suspect", 
+            "United_States", 
+            "Myopia", 
+            "Rape", 
+            "Torture", 
+            "Egyptians", 
+            "Suspect", 
+            "Royal_Commission", 
+            "Interrogation", 
+            "United_States_Constitution", 
+            "Police"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Lewis"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Honey", 
+            "Pakistan", 
+            "Sorry_(Madonna_song)", 
+            "Water", 
+            "WTC", 
+            "Water_board_(The_Netherlands)", 
+            "Water", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Nose", 
+            "Soundness"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Franklin_D._Roosevelt", 
+            "Get-rich-quick_scheme", 
+            "Safety_(American_football)", 
+            "United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gang"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Get-rich-quick_scheme", 
+            "Franklin_D._Roosevelt", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Emotion"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Dragon", 
+            "Suspect", 
+            "Hiroshima", 
+            "Memoir", 
+            "William_Shakespeare", 
+            "King_Lear", 
+            "Burma", 
+            "George_MacDonald", 
+            "George_MacDonald_Fraser", 
+            "Burma_Campaign", 
+            "Bomb", 
+            "Japan", 
+            "United_Kingdom", 
+            "Fraser_River", 
+            "Veterinarian", 
+            "Torture", 
+            "King_Lear"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "World_record", 
+            "May_22", 
+            "2009", 
+            "Jail"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Capital_punishment_in_the_United_States", 
+            "Capital_punishment_in_the_United_States", 
+            "Convict"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Yugoslav_Moslem_Organization", 
+            "Interrogation"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "List_of_terrorist_incidents", 
+            "Terrorism", 
+            "Cold-blooded", 
+            "Little_finger", 
+            "Finger"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Foot_whipping", 
+            "SLIME", 
+            "Foot_whipping"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Dirtbag", 
+            "Hypothesis"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Police"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Hypothesis", 
+            "Interrogation"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Law", 
+            "Monopoly", 
+            "Torture"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Hypothesis", 
+            "American_Civil_Liberties_Union"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Torture", 
+            "Interrogation", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Sanity", 
+            "Torture", 
+            "Cong,_County_Mayo", 
+            "East_Germany", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Poland", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "Pardon", 
+            "Germany", 
+            "Viet_Cong", 
+            "Interrogation", 
+            "Russian_language", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Rational_number", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "North_Vietnam", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Vietnam", 
+            "Interrogation", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Military_intelligence", 
+            "KGB", 
+            "Enhanced_interrogation_techniques", 
+            "Bulgarian_language"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage", 
+            "Law", 
+            "Police", 
+            "Dick_Cheney", 
+            "Hostage", 
+            "Hostage", 
+            "Police", 
+            "Law", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Law", 
+            "Dick_Cheney"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "SERE"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Pure_BS"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Pop_music"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Franklin_D._Roosevelt", 
+            "Thirst", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "Thread_(computer_science)", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Get-rich-quick_scheme", 
+            "Hunger", 
+            "Torture"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Phencyclidine", 
+            "United_States_Constitution", 
+            "Prison", 
+            "Constitutional_right", 
+            "Prison", 
+            "United_States", 
+            "Hell", 
+            "Stupidity", 
+            "Leaf", 
+            "Suspect", 
+            "Police", 
+            "Suspect", 
+            "United_States", 
+            "Myopia", 
+            "Rape", 
+            "Torture", 
+            "Egyptians", 
+            "Suspect", 
+            "Royal_Commission", 
+            "Interrogation", 
+            "United_States_Constitution", 
+            "Police"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Lewis"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Honey", 
+            "Pakistan", 
+            "Sorry_(Madonna_song)", 
+            "Water", 
+            "WTC", 
+            "Water_board_(The_Netherlands)", 
+            "Water", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Nose", 
+            "Soundness"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Theodore_Roosevelt", 
+            "Franklin_D._Roosevelt", 
+            "Get-rich-quick_scheme", 
+            "Safety_(American_football)", 
+            "United_States"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Gang"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Get-rich-quick_scheme", 
+            "Franklin_D._Roosevelt", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "United_States"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Emotion"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Dragon", 
+            "Suspect", 
+            "Hiroshima", 
+            "Memoir", 
+            "William_Shakespeare", 
+            "King_Lear", 
+            "Burma", 
+            "George_MacDonald", 
+            "George_MacDonald_Fraser", 
+            "Burma_Campaign", 
+            "Bomb", 
+            "Japan", 
+            "United_Kingdom", 
+            "Fraser_River", 
+            "Veterinarian", 
+            "Torture", 
+            "King_Lear"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "World_record", 
+            "May_22", 
+            "2009", 
+            "Jail"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Capital_punishment_in_the_United_States", 
+            "Capital_punishment_in_the_United_States", 
+            "Convict"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Yugoslav_Moslem_Organization", 
+            "Interrogation"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "List_of_terrorist_incidents", 
+            "Terrorism", 
+            "Cold-blooded", 
+            "Little_finger", 
+            "Finger"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Foot_whipping", 
+            "SLIME", 
+            "Foot_whipping"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Dirtbag", 
+            "Hypothesis"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Police"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Hypothesis", 
+            "Interrogation"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Law", 
+            "Monopoly", 
+            "Torture"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Hypothesis", 
+            "American_Civil_Liberties_Union"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Torture", 
+            "Interrogation", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Sanity", 
+            "Torture", 
+            "Cong,_County_Mayo", 
+            "East_Germany", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Poland", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "Pardon", 
+            "Germany", 
+            "Viet_Cong", 
+            "Interrogation", 
+            "Russian_language", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Rational_number", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "North_Vietnam", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Vietnamese_language", 
+            "Vietnam", 
+            "Interrogation", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Military_intelligence", 
+            "KGB", 
+            "Enhanced_interrogation_techniques", 
+            "Bulgarian_language"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Hostage_crisis", 
+            "Hostage", 
+            "Law", 
+            "Police", 
+            "Dick_Cheney", 
+            "Hostage", 
+            "Hostage", 
+            "Police", 
+            "Law", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Law", 
+            "Dick_Cheney"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "SERE"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Pure_BS"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Pop_music"
+        ], 
+        "postID": 90
+    }
+]

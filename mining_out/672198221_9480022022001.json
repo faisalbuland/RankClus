@@ -1,0 +1,282 @@
+[
+    {
+        "entity": [
+            "Colorado_Springs,_Colorado", 
+            "Fixation", 
+            "United_States_Air_Force_Academy", 
+            "United_States_Air_Force", 
+            "Colorado"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Drawbridge"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Death_row"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "2009"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Vermont", 
+            "Marriage"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gay"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "United_States_Constitution"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Crazy_(Gnarls_Barkley_song)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Platonic_love", 
+            "Platonic", 
+            "Pickup_truck", 
+            "Truck", 
+            "Pickup_truck"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Pipe_(material)", 
+            "Brain", 
+            "Gerald_Ford", 
+            "Exhaust_system", 
+            "Chemical_substance"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Goat", 
+            "Pipe_(material)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Goat", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Staff_Sergeant"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nut_(fruit)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Rivet"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Spar"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Buck", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Colorado_Springs,_Colorado", 
+            "Fixation", 
+            "United_States_Air_Force_Academy", 
+            "United_States_Air_Force", 
+            "Colorado"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Drawbridge"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Death_row"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "2009"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Vermont", 
+            "Marriage"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Gay"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "United_States_Constitution"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Crazy_(Gnarls_Barkley_song)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Platonic_love", 
+            "Platonic", 
+            "Pickup_truck", 
+            "Truck", 
+            "Pickup_truck"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Pipe_(material)", 
+            "Brain", 
+            "Gerald_Ford", 
+            "Exhaust_system", 
+            "Chemical_substance"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Goat", 
+            "Pipe_(material)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Goat", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Staff_Sergeant"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Nut_(fruit)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rivet"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Spar"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Buck", 
+            "Barack_Obama"
+        ], 
+        "postID": 40
+    }
+]

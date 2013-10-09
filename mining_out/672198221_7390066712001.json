@@ -1,0 +1,374 @@
+[
+    {
+        "entity": [
+            "Citigroup", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Eric_Shinseki", 
+            "Barack_Obama", 
+            "Eric_Shinseki", 
+            "2010", 
+            "Eric_Shinseki", 
+            "Preemptive_war", 
+            "The_One_(film)", 
+            "Eric_Shinseki", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Barack_Obama", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Eric_Shinseki", 
+            "International_Data_Encryption_Algorithm", 
+            "President_of_the_United_States", 
+            "Screw", 
+            "Eric_Shinseki", 
+            "American_International_Group", 
+            "Insurance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Drudge_Report"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Threaded_discussion", 
+            "Internet_forum"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Medicare_(Canada)", 
+            "Thomas_Jefferson", 
+            "Health_insurance", 
+            "Bank"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Disability", 
+            "TRICARE", 
+            "Insurance"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Medicare_Part_D", 
+            "AARP", 
+            "Medicare_(United_States)", 
+            "Retirement", 
+            "Aetna", 
+            "Copayment", 
+            "UnitedHealth_Group"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Coffee"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Rope", 
+            "Stillbirth"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Medicaid", 
+            "Medicare_(United_States)", 
+            "Health_insurance"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Retirement", 
+            "Disability_insurance", 
+            "Disability_insurance", 
+            "Sorta", 
+            "Insurance", 
+            "Insurance"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nielsen_Broadcast_Data_Systems", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Absolution", 
+            "Gratis_versus_Libre", 
+            "2009", 
+            "Hope,_British_Columbia", 
+            "Father_Mulcahy", 
+            "Posttraumatic_stress_disorder", 
+            "March_13", 
+            "Confession", 
+            "Soul_music"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Judd_(engine)", 
+            "2006", 
+            "Veterans'_benefits", 
+            "United_States_Senate", 
+            "Chair_(official)", 
+            "Judd_Gregg", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "United_States_Senate", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Frist", 
+            "United_States_Senate"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Citigroup", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Eric_Shinseki", 
+            "Barack_Obama", 
+            "Eric_Shinseki", 
+            "2010", 
+            "Eric_Shinseki", 
+            "Preemptive_war", 
+            "The_One_(film)", 
+            "Eric_Shinseki", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Barack_Obama", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Eric_Shinseki", 
+            "International_Data_Encryption_Algorithm", 
+            "President_of_the_United_States", 
+            "Screw", 
+            "Eric_Shinseki", 
+            "American_International_Group", 
+            "Insurance"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Drudge_Report"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Threaded_discussion", 
+            "Internet_forum"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Medicare_(Canada)", 
+            "Thomas_Jefferson", 
+            "Health_insurance", 
+            "Bank"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Disability", 
+            "TRICARE", 
+            "Insurance"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Medicare_Part_D", 
+            "AARP", 
+            "Medicare_(United_States)", 
+            "Retirement", 
+            "Aetna", 
+            "Copayment", 
+            "UnitedHealth_Group"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Coffee"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Rope", 
+            "Stillbirth"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Medicaid", 
+            "Medicare_(United_States)", 
+            "Health_insurance"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Retirement", 
+            "Disability_insurance", 
+            "Disability_insurance", 
+            "Sorta", 
+            "Insurance", 
+            "Insurance"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Nielsen_Broadcast_Data_Systems", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Absolution", 
+            "Gratis_versus_Libre", 
+            "2009", 
+            "Hope,_British_Columbia", 
+            "Father_Mulcahy", 
+            "Posttraumatic_stress_disorder", 
+            "March_13", 
+            "Confession", 
+            "Soul_music"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Judd_(engine)", 
+            "2006", 
+            "Veterans'_benefits", 
+            "United_States_Senate", 
+            "Chair_(official)", 
+            "Judd_Gregg", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "United_States_Senate", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "United_States_Senate_Committee_on_the_Budget", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Frist", 
+            "United_States_Senate"
+        ], 
+        "postID": 40
+    }
+]

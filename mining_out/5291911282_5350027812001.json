@@ -1,0 +1,108 @@
+[
+    {
+        "entity": [
+            "World_War_II", 
+            "Japanese_American_internment", 
+            "Veterans_of_Foreign_Wars", 
+            "Japanese_American_internment", 
+            "Magazine", 
+            "Japanese_American_internment", 
+            "Tule_Lake_War_Relocation_Center", 
+            "Japanese_American", 
+            "Japanese_American_internment", 
+            "Tule"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Internment", 
+            "Lava", 
+            "Tule", 
+            "Modoc", 
+            "Volcano", 
+            "Tule_Lake", 
+            "Modoc_War", 
+            "Canfield,_Ohio", 
+            "Lava_plain", 
+            "Internment"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Prayer_circle", 
+            "Captain", 
+            "Canby,_California", 
+            "Quantum_Corp.", 
+            "Jacks", 
+            "Captain", 
+            "Modoc", 
+            "Jacks", 
+            "Cave", 
+            "Modoc", 
+            "Marmot", 
+            "Modoc", 
+            "Cave", 
+            "Lava", 
+            "Hieroglyph", 
+            "Prayer", 
+            "Marmot", 
+            "Monolith", 
+            "Hieroglyph"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rock_(geology)", 
+            "Quantum_Corp.", 
+            "United_States_Army", 
+            "Marmot", 
+            "Potato", 
+            "Lake", 
+            "Marmot", 
+            "Rock_(geology)", 
+            "Onion", 
+            "United_States_Army", 
+            "Monolith", 
+            "Modoc", 
+            "Cave", 
+            "Siege", 
+            "Lake", 
+            "Igneous_rock", 
+            "Lava", 
+            "Modoc_War", 
+            "Canoe", 
+            "Rock_(geology)", 
+            "Lava", 
+            "Modoc"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Relish", 
+            "Canby,_Oregon"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Rock_(geology)", 
+            "Rock_(geology)", 
+            "Lava", 
+            "Lava_plain", 
+            "Quantum_Corp.", 
+            "Water", 
+            "Hawaii_(island)", 
+            "Egyptian_hieroglyphs", 
+            "Lake", 
+            "Lava", 
+            "Lava_plain", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 6
+    }
+]

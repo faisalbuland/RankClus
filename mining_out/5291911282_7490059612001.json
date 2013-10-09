@@ -1,0 +1,644 @@
+[
+    {
+        "entity": [
+            "Animal", 
+            "Banana", 
+            "Dog", 
+            "Wildlife", 
+            "Pet"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Chimpanzee", 
+            "Bear_(disambiguation)", 
+            "Hell", 
+            "Pound_(mass)", 
+            "Teh"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Endangered_species", 
+            "Reptile", 
+            "Everglades", 
+            "FWC", 
+            "Snake", 
+            "Wildlife", 
+            "Everglades", 
+            "Snake", 
+            "Chimpanzee", 
+            "Miami,_Florida", 
+            "Population", 
+            "Species"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Traumatic_brain_injury", 
+            "Brain"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Primate"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Beach", 
+            "County_(United_States)", 
+            "Aviator", 
+            "Arecaceae", 
+            "Sheriff"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "FWC", 
+            "Aviator", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Alligator", 
+            "Wildlife", 
+            "Egg_(biology)", 
+            "Florida", 
+            "Airboat"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Great_house", 
+            "Pet"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Chin", 
+            "Pop_music", 
+            "Obituary", 
+            "Wow_(recording)", 
+            "Bubble"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Flashback"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Florida", 
+            "Eye", 
+            "World_War_II", 
+            "1999", 
+            "Florida_Keys", 
+            "PT_boat", 
+            "Gray_Wolf", 
+            "Absolutely_(TV_series)", 
+            "Hybrid_(biology)", 
+            "Wolf-dog_hybrid"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Seafood", 
+            "Shark", 
+            "Bait_(luring_substance)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Siegfried", 
+            "Siegfried_&amp;_Roy", 
+            "Idiot", 
+            "Animal_control_officer", 
+            "Florida", 
+            "Pythonidae", 
+            "Tiger", 
+            "Police", 
+            "Dog", 
+            "Exotic_pet", 
+            "Pythonidae", 
+            "Brain", 
+            "Snake", 
+            "Stilts", 
+            "Association_football", 
+            "Critter", 
+            "Crank_(mechanism)", 
+            "Pet", 
+            "Witness_(1985_film)", 
+            "Animal_shelter", 
+            "Pet", 
+            "Pet", 
+            "Alligator", 
+            "Police", 
+            "Animal"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Animal", 
+            "Animal", 
+            "Clown", 
+            "Animal_control_officer", 
+            "Ohio", 
+            "Lion", 
+            "Chemical_substance", 
+            "Primate"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Id,_ego,_and_super-ego", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Snake", 
+            "Snake", 
+            "Pet", 
+            "Neighbourhood", 
+            "Stroke", 
+            "Animal_Planet", 
+            "Animal", 
+            "Miami,_Florida", 
+            "Venom", 
+            "Lakeland,_Florida", 
+            "Mamba", 
+            "Black_mamba", 
+            "Black_mamba", 
+            "Mamba", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cobra"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Ebola", 
+            "Virus", 
+            "Monkey"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Banana", 
+            "Dog", 
+            "Wildlife", 
+            "Pet"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Chimpanzee", 
+            "Bear_(disambiguation)", 
+            "Hell", 
+            "Pound_(mass)", 
+            "Teh"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Endangered_species", 
+            "Reptile", 
+            "Everglades", 
+            "FWC", 
+            "Snake", 
+            "Wildlife", 
+            "Everglades", 
+            "Snake", 
+            "Chimpanzee", 
+            "Miami,_Florida", 
+            "Population", 
+            "Species"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Traumatic_brain_injury", 
+            "Brain"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Primate"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Beach", 
+            "County_(United_States)", 
+            "Aviator", 
+            "Arecaceae", 
+            "Sheriff"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "FWC", 
+            "Aviator", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Alligator", 
+            "Wildlife", 
+            "Egg_(biology)", 
+            "Florida", 
+            "Airboat"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Great_house", 
+            "Pet"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Chin", 
+            "Pop_music", 
+            "Obituary", 
+            "Wow_(recording)", 
+            "Bubble"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Flashback"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Florida", 
+            "Eye", 
+            "World_War_II", 
+            "1999", 
+            "Florida_Keys", 
+            "PT_boat", 
+            "Gray_Wolf", 
+            "Absolutely_(TV_series)", 
+            "Hybrid_(biology)", 
+            "Wolf-dog_hybrid"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Seafood", 
+            "Shark", 
+            "Bait_(luring_substance)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Siegfried", 
+            "Siegfried_&amp;_Roy", 
+            "Idiot", 
+            "Animal_control_officer", 
+            "Florida", 
+            "Pythonidae", 
+            "Tiger", 
+            "Police", 
+            "Dog", 
+            "Exotic_pet", 
+            "Pythonidae", 
+            "Brain", 
+            "Snake", 
+            "Stilts", 
+            "Association_football", 
+            "Critter", 
+            "Crank_(mechanism)", 
+            "Pet", 
+            "Witness_(1985_film)", 
+            "Animal_shelter", 
+            "Pet", 
+            "Pet", 
+            "Alligator", 
+            "Police", 
+            "Animal"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Animal", 
+            "Animal", 
+            "Clown", 
+            "Animal_control_officer", 
+            "Ohio", 
+            "Lion", 
+            "Chemical_substance", 
+            "Primate"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Id,_ego,_and_super-ego", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Snake", 
+            "Snake", 
+            "Pet", 
+            "Neighbourhood", 
+            "Stroke", 
+            "Animal_Planet", 
+            "Animal", 
+            "Miami,_Florida", 
+            "Venom", 
+            "Lakeland,_Florida", 
+            "Mamba", 
+            "Black_mamba", 
+            "Black_mamba", 
+            "Mamba", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cobra"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Ebola", 
+            "Virus", 
+            "Monkey"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Banana", 
+            "Dog", 
+            "Wildlife", 
+            "Pet"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Chimpanzee", 
+            "Bear_(disambiguation)", 
+            "Hell", 
+            "Pound_(mass)", 
+            "Teh"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Endangered_species", 
+            "Reptile", 
+            "Everglades", 
+            "FWC", 
+            "Snake", 
+            "Wildlife", 
+            "Everglades", 
+            "Snake", 
+            "Chimpanzee", 
+            "Miami,_Florida", 
+            "Population", 
+            "Species"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Traumatic_brain_injury", 
+            "Brain"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Primate"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Beach", 
+            "County_(United_States)", 
+            "Aviator", 
+            "Arecaceae", 
+            "Sheriff"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "FWC", 
+            "Aviator", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Alligator", 
+            "Wildlife", 
+            "Egg_(biology)", 
+            "Florida", 
+            "Airboat"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Great_house", 
+            "Pet"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Chin", 
+            "Pop_music", 
+            "Obituary", 
+            "Wow_(recording)", 
+            "Bubble"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Flashback"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Florida", 
+            "Eye", 
+            "World_War_II", 
+            "1999", 
+            "Florida_Keys", 
+            "PT_boat", 
+            "Gray_Wolf", 
+            "Absolutely_(TV_series)", 
+            "Hybrid_(biology)", 
+            "Wolf-dog_hybrid"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Seafood", 
+            "Shark", 
+            "Bait_(luring_substance)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Siegfried", 
+            "Siegfried_&amp;_Roy", 
+            "Idiot", 
+            "Animal_control_officer", 
+            "Florida", 
+            "Pythonidae", 
+            "Tiger", 
+            "Police", 
+            "Dog", 
+            "Exotic_pet", 
+            "Pythonidae", 
+            "Brain", 
+            "Snake", 
+            "Stilts", 
+            "Association_football", 
+            "Critter", 
+            "Crank_(mechanism)", 
+            "Pet", 
+            "Witness_(1985_film)", 
+            "Animal_shelter", 
+            "Pet", 
+            "Pet", 
+            "Alligator", 
+            "Police", 
+            "Animal"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Animal", 
+            "Animal", 
+            "Clown", 
+            "Animal_control_officer", 
+            "Ohio", 
+            "Lion", 
+            "Chemical_substance", 
+            "Primate"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Id,_ego,_and_super-ego", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Snake", 
+            "Snake", 
+            "Pet", 
+            "Neighbourhood", 
+            "Stroke", 
+            "Animal_Planet", 
+            "Animal", 
+            "Miami,_Florida", 
+            "Venom", 
+            "Lakeland,_Florida", 
+            "Mamba", 
+            "Black_mamba", 
+            "Black_mamba", 
+            "Mamba", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cobra"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Ebola", 
+            "Virus", 
+            "Monkey"
+        ], 
+        "postID": 60
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Police", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Emergency_medical_technician", 
+            "Lora,_NWFP", 
+            "Emergency_medical_technician", 
+            "Lora,_NWFP", 
+            "Emergency_medical_technician", 
+            "Firefighter", 
+            "Sheriff", 
+            "Firefighter", 
+            "Parking_lot", 
+            "Police"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Undergarment"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "SWAT"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "BUMP_(comics)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Radar", 
+            "Trooper", 
+            "Chevrolet_Camaro", 
+            "Ford_Mustang", 
+            "State_police"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cumberland_County,_North_Carolina", 
+            "Hell", 
+            "State_housing", 
+            "Radar", 
+            "State", 
+            "Dude", 
+            "Cumberland_County,_North_Carolina", 
+            "State", 
+            "Alcohol", 
+            "State_legislature_(United_States)", 
+            "Fayetteville,_North_Carolina", 
+            "Law", 
+            "Fart", 
+            "Breathing", 
+            "England", 
+            "Alcohol", 
+            "Law"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Firefighter", 
+            "Dean_(education)", 
+            "Nurse", 
+            "Emergency_medical_technician", 
+            "Day_care"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Lora,_NWFP", 
+            "Lora,_NWFP", 
+            "Police_officer", 
+            "Lora,_NWFP"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Amen", 
+            "Emergency_medical_technician", 
+            "Nephew_(band)", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Toleration", 
+            "Quantum", 
+            "Zero_tolerance"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Nurses_(TV_series)", 
+            "THX", 
+            "Nurses_(TV_series)", 
+            "Google_Docs"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Providence,_Rhode_Island", 
+            "Columbia_Records", 
+            "Bachelor_of_Science_in_Nursing", 
+            "Master_of_Science_in_Nursing", 
+            "Providence_Hospital", 
+            "Nurse", 
+            "Flight_nurse", 
+            "Flight_nurse", 
+            "Paramedic", 
+            "Chopper"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Flight_nurse", 
+            "Nurse", 
+            "Dangerous_goods", 
+            "Paramedic", 
+            "Emergency_medical_technician", 
+            "Osteoporosis", 
+            "Physical_trauma"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Police", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Emergency_medical_technician", 
+            "Lora,_NWFP", 
+            "Emergency_medical_technician", 
+            "Lora,_NWFP", 
+            "Emergency_medical_technician", 
+            "Firefighter", 
+            "Sheriff", 
+            "Firefighter", 
+            "Parking_lot", 
+            "Police"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Undergarment"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "SWAT"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "BUMP_(comics)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Radar", 
+            "Trooper", 
+            "Chevrolet_Camaro", 
+            "Ford_Mustang", 
+            "State_police"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Cumberland_County,_North_Carolina", 
+            "Hell", 
+            "State_housing", 
+            "Radar", 
+            "State", 
+            "Dude", 
+            "Cumberland_County,_North_Carolina", 
+            "State", 
+            "Alcohol", 
+            "State_legislature_(United_States)", 
+            "Fayetteville,_North_Carolina", 
+            "Law", 
+            "Fart", 
+            "Breathing", 
+            "England", 
+            "Alcohol", 
+            "Law"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Firefighter", 
+            "Dean_(education)", 
+            "Nurse", 
+            "Emergency_medical_technician", 
+            "Day_care"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Lora,_NWFP", 
+            "Lora,_NWFP", 
+            "Police_officer", 
+            "Lora,_NWFP"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Amen", 
+            "Emergency_medical_technician", 
+            "Nephew_(band)", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Toleration", 
+            "Quantum", 
+            "Zero_tolerance"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Nurses_(TV_series)", 
+            "THX", 
+            "Nurses_(TV_series)", 
+            "Google_Docs"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Providence,_Rhode_Island", 
+            "Columbia_Records", 
+            "Bachelor_of_Science_in_Nursing", 
+            "Master_of_Science_in_Nursing", 
+            "Providence_Hospital", 
+            "Nurse", 
+            "Flight_nurse", 
+            "Flight_nurse", 
+            "Paramedic", 
+            "Chopper"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Flight_nurse", 
+            "Nurse", 
+            "Dangerous_goods", 
+            "Paramedic", 
+            "Emergency_medical_technician", 
+            "Osteoporosis", 
+            "Physical_trauma"
+        ], 
+        "postID": 40
+    }
+]

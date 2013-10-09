@@ -1,0 +1,66 @@
+[
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Primer", 
+            "Democratic_and_Social_Centre"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "Smoke_screen", 
+            "Smoke"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Object_Management_Group", 
+            "Socialism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chances", 
+            "2009", 
+            "Supply_and_demand", 
+            "Mortgage", 
+            "March_12", 
+            "Conduit", 
+            "Investment_banking"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }
+]

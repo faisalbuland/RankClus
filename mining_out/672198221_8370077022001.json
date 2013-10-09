@@ -1,0 +1,98 @@
+[
+    {
+        "entity": [
+            "Author"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Jack_Bauer", 
+            "Bauer", 
+            "Bauer", 
+            "Bauer", 
+            "Jack_Bauer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "T-shirt", 
+            "Soap"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bauer", 
+            "Liberalism", 
+            "Tree", 
+            "Tree", 
+            "George_W._Bush", 
+            "Jack_Bauer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Teacher"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fiction", 
+            "State", 
+            "Barack_Obama", 
+            "Terrorism", 
+            "Jack_Bauer", 
+            "Liberalism", 
+            "Fictional_character", 
+            "United_States", 
+            "Bauer"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "John_Kerry"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bauer", 
+            "Jack_Bauer", 
+            "Admiral"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "United_States_Central_Command", 
+            "NATO", 
+            "Afghanistan", 
+            "Supreme_Headquarters_Allied_Powers_Europe", 
+            "Iraq", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "Admiral", 
+            "David_Petraeus"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hunk", 
+            "Demography_of_Afghanistan", 
+            "Demography_of_Afghanistan", 
+            "Reefer", 
+            "Hashish", 
+            "Kiefer,_Oklahoma"
+        ], 
+        "postID": 10
+    }
+]

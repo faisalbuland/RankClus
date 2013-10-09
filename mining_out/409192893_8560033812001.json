@@ -1,0 +1,17 @@
+[
+    {
+        "entity": [
+            "Internet", 
+            "Intel_Corporation", 
+            "Thread_(computer_science)", 
+            "Internet_access"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Library"
+        ], 
+        "postID": 2
+    }
+]

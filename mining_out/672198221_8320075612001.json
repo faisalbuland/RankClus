@@ -1,0 +1,202 @@
+[
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Far_right", 
+            "Human", 
+            "Right-wing_politics", 
+            "Crime", 
+            "United_States", 
+            "Wing", 
+            "Fox_News_Channel", 
+            "United_States", 
+            "Shep_Pettibone", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Shep_Pettibone", 
+            "United_States", 
+            "Liberalism", 
+            "Terrorism", 
+            "United_States_Army"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "Liberalism", 
+            "Capital_punishment", 
+            "2009", 
+            "Capital_punishment", 
+            "Conservatism", 
+            "Terrorism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Christian_democracy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bruce_Fein", 
+            "Craig_Roberts", 
+            "Conservatism", 
+            "Conservatism", 
+            "Paul_Craig", 
+            "Fein", 
+            "Culture_of_the_United_States", 
+            "United_States_Constitution", 
+            "Conservatism", 
+            "Liberal_Party_(UK)", 
+            "United_States", 
+            "United_States_Constitution", 
+            "Paul_Craig_Roberts", 
+            "Liberal_Party_(UK)", 
+            "Liberal_Party_(UK)", 
+            "Ron_Paul"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Philippines", 
+            "Alien_and_Sedition_Acts", 
+            "Sedition", 
+            "Franklin_D._Roosevelt", 
+            "New_York_City", 
+            "Arrest_warrant", 
+            "Panama", 
+            "World_War_II", 
+            "Hawaii", 
+            "Japan", 
+            "Alien_(film)", 
+            "Germany", 
+            "York_City_F.C.", 
+            "Panama_Canal", 
+            "Germany", 
+            "Shep_Pettibone", 
+            "Harry_S._Truman", 
+            "Commentator", 
+            "Geneva", 
+            "Canal", 
+            "Japanese_language", 
+            "1946", 
+            "Southpaw_(boxing)", 
+            "Warrant_(law)", 
+            "Law", 
+            "Philippines", 
+            "Espionage", 
+            "President_of_the_United_States", 
+            "John_Adams", 
+            "Philippines", 
+            "Abraham_Lincoln", 
+            "John_Adams", 
+            "Americas"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "News_broadcasting"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Hell"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Germany"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Gestapo", 
+            "Liberalism", 
+            "Liberalism", 
+            "American_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "Liberalism", 
+            "NBC", 
+            "CBS", 
+            "Freedom_of_speech", 
+            "MSNBC", 
+            "CNN", 
+            "Adolf_Hitler"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Outlaw", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Al_Franken", 
+            "Liars_(band)", 
+            "Al_Franken", 
+            "Voter_registration", 
+            "2003", 
+            "Republican_Party_(United_States)", 
+            "Bill_O'Reilly_(commentator)"
+        ], 
+        "postID": 19
+    }
+]

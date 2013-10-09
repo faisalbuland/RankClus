@@ -1,0 +1,251 @@
+[
+    {
+        "entity": [
+            "Ebony_(magazine)", 
+            "The_New_York_Times", 
+            "The_Washington_Times", 
+            "News_agency", 
+            "France", 
+            "The_Politico", 
+            "Associated_Press", 
+            "News_agency", 
+            "Newspaper", 
+            "The_Wall_Street_Journal", 
+            "Ford_Motor_Company", 
+            "Newspaper", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Wall_Street", 
+            "The_Washington_Post", 
+            "Stripes_(film)", 
+            "Stars_and_Stripes_(newspaper)", 
+            "Azteca_Am\u00e9rica", 
+            "Television", 
+            "Washington,_D.C.", 
+            "USA_Today", 
+            "Agence_France-Presse", 
+            "Stars_and_Stripes_(newspaper)", 
+            "United_States", 
+            "Spanish_language", 
+            "Bash", 
+            "The_Washington_Times", 
+            "Gerald_Ford", 
+            "The_New_York_Times", 
+            "George_W._Bush", 
+            "American_Broadcasting_Company", 
+            "ABC_Radio", 
+            "Univision", 
+            "Associated_Press", 
+            "Barack_Obama", 
+            "Magazine", 
+            "United_States", 
+            "New_York", 
+            "Ebony_(magazine)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "News_conference", 
+            "George_W._Bush"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Hooker", 
+            "Communism", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Washington_Times", 
+            "George_W._Bush", 
+            "White_House", 
+            "Horror_fiction", 
+            "The_Washington_Times", 
+            "Gay"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Politico", 
+            "Magazine", 
+            "Ebony_(magazine)", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Ebony_(magazine)", 
+            "Univision"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "White_House_Press_Corps", 
+            "Reporter", 
+            "Siberia", 
+            "Stars_and_Stripes_(newspaper)", 
+            "President_of_the_United_States", 
+            "Presidency_of_George_W._Bush", 
+            "Barack_Obama", 
+            "Stripes_(film)", 
+            "George_W._Bush", 
+            "Stream", 
+            "President_of_the_United_States", 
+            "Corps", 
+            "News_agency", 
+            "News_conference"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "President_of_the_United_States", 
+            "U.S._state", 
+            "Legislation", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Newspaper"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Craigslist", 
+            "Craigslist", 
+            "Advertising"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Ebony_(magazine)", 
+            "Lourdes", 
+            "White_House_Press_Corps", 
+            "Ebony_(magazine)", 
+            "The_Washington_Times", 
+            "Agence_France-Presse", 
+            "The_Politico", 
+            "Faux", 
+            "Stars_and_Stripes_(newspaper)", 
+            "Washington,_D.C.", 
+            "Stream", 
+            "CBS", 
+            "CNN", 
+            "Stripes_(film)", 
+            "Reuters", 
+            "Mike_Allen_(Canadian_politician)", 
+            "President_of_the_United_States", 
+            "Corps", 
+            "Ann_Compton", 
+            "Presidency_of_George_W._Bush", 
+            "Siberia", 
+            "Stripes_(film)", 
+            "Compton,_California", 
+            "Chip_Reid", 
+            "Associated_Press", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Caren", 
+            "Barack_Obama", 
+            "News_agency", 
+            "Univision", 
+            "The_Washington_Times", 
+            "Reporter", 
+            "Teleprompter", 
+            "News_conference", 
+            "Chuck_Todd", 
+            "NBC", 
+            "Chappell,_Nebraska", 
+            "American_Broadcasting_Company", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "News_conference"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Fox_Broadcasting_Company", 
+            "High-definition_television", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Internet", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "Al_Gore", 
+            "Barack_Obama", 
+            "Internet", 
+            "Internet", 
+            "Al_Gore"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Al_Gore_presidential_campaign,_2000", 
+            "Al_Gore", 
+            "Al_Gore_presidential_campaign,_2000", 
+            "Fault_(geology)", 
+            "Al_Gore", 
+            "Internet", 
+            "Critical_thinking"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Newspaper", 
+            "Stock_broker", 
+            "2009", 
+            "March_25", 
+            "International_Maritime_Organization", 
+            "LOT_Polish_Airlines", 
+            "Debt"
+        ], 
+        "postID": 17
+    }
+]

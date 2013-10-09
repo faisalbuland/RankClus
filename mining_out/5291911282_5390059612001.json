@@ -1,0 +1,19 @@
+[
+    {
+        "entity": [
+            "Multiple_birth", 
+            "911", 
+            "Bun", 
+            "Oven"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Police", 
+            "Dog"
+        ], 
+        "postID": 2
+    }
+]

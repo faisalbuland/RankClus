@@ -1,0 +1,524 @@
+[
+    {
+        "entity": [
+            "Medication", 
+            "Suicide", 
+            "Life_support", 
+            "Surgery", 
+            "Suicide", 
+            "Suicide", 
+            "Assisted_suicide", 
+            "Pain", 
+            "Neurosurgery", 
+            "Brain", 
+            "Christianity", 
+            "Disease", 
+            "Terminal_illness", 
+            "Suicide", 
+            "Medication", 
+            "Documentary_film"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Civilization", 
+            "Lion", 
+            "Science", 
+            "Christ", 
+            "Monkey", 
+            "Logic", 
+            "Deer", 
+            "Monkey_wrench", 
+            "Wrench"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Life_support", 
+            "Life_support"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soul"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Lung", 
+            "Thanksgiving", 
+            "Thread_(computer_science)", 
+            "Sun", 
+            "Algernon_Charles_Swinburne", 
+            "Greed_and_fear", 
+            "Star", 
+            "Diurnality", 
+            "Deity", 
+            "God", 
+            "Ernest_Hemingway", 
+            "Time_(magazine)", 
+            "Leaf", 
+            "River"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Compassion"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nursing_home", 
+            "Oregon", 
+            "Horses_in_warfare", 
+            "States_and_territories_of_India", 
+            "Nursing", 
+            "Secularism", 
+            "Palliative_care", 
+            "81st_United_States_Congress", 
+            "Fashion", 
+            "Cake", 
+            "World_War_II", 
+            "Compassion_&amp;_Choices", 
+            "Oregon", 
+            "Tsuga", 
+            "Washington", 
+            "Judge", 
+            "Cat", 
+            "Bible_story", 
+            "Horse", 
+            "Cardboard_box", 
+            "Cardboard", 
+            "Bible", 
+            "Bible", 
+            "Suicide", 
+            "Assisted_suicide", 
+            "Shell_(projectile)", 
+            "Jesus", 
+            "Bible", 
+            "Nut_(fruit)", 
+            "Suicide"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Brain", 
+            "Pain", 
+            "Anencephaly", 
+            "Suicide", 
+            "Electroencephalography", 
+            "Cardiopulmonary_resuscitation", 
+            "Brain", 
+            "Assisted_suicide", 
+            "Electroencephalography", 
+            "Brain", 
+            "Anencephaly", 
+            "Electroencephalography"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Suicide", 
+            "God"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cat"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Suicide_note", 
+            "Suicide", 
+            "Cherub", 
+            "Assisted_suicide", 
+            "Hedge_(barrier)", 
+            "Latin", 
+            "Baroque", 
+            "Maze", 
+            "Suicide", 
+            "Humour"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Nursing_home", 
+            "Nursing", 
+            "Sorry_(Madonna_song)", 
+            "Medication", 
+            "Sorry_(Madonna_song)", 
+            "Terminal_illness", 
+            "Hospital", 
+            "Artificial_pacemaker", 
+            "Attorney_at_law", 
+            "Blood_pressure", 
+            "Living_(channel)", 
+            "Roller_coaster", 
+            "Blood", 
+            "Divine_grace", 
+            "Medication", 
+            "Kitchen_sink", 
+            "Kitchen", 
+            "Hell", 
+            "FATE_(role-playing_game_system)", 
+            "Hell", 
+            "Stomach", 
+            "Heart_rate", 
+            "Intensive_care_unit", 
+            "A-side_and_B-side"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Infantry", 
+            "God", 
+            "States_and_territories_of_India", 
+            "Assisted_suicide", 
+            "Ice_age", 
+            "Free_will", 
+            "God", 
+            "Cat", 
+            "Pain", 
+            "Angel", 
+            "God", 
+            "God", 
+            "God", 
+            "Cancer", 
+            "Palliative_care", 
+            "God", 
+            "DVD_player", 
+            "Heaven", 
+            "DVD", 
+            "Freedom_(philosophy)", 
+            "Christianity", 
+            "Angel", 
+            "Suicide", 
+            "Unconscious_mind", 
+            "God", 
+            "Free_will", 
+            "Pain", 
+            "Pain", 
+            "God", 
+            "Adage", 
+            "Free_will", 
+            "God", 
+            "DNR_(House)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Free_will", 
+            "Suicide", 
+            "God", 
+            "God", 
+            "Christianity", 
+            "Individual_rights"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Dude"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Moral_obligation", 
+            "Skeleton", 
+            "Cancer", 
+            "Breakfast", 
+            "Breathing", 
+            "Compassion", 
+            "Brain", 
+            "Trump_(card_games)", 
+            "Pain", 
+            "Pain"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Medication", 
+            "Suicide", 
+            "Life_support", 
+            "Surgery", 
+            "Suicide", 
+            "Suicide", 
+            "Assisted_suicide", 
+            "Pain", 
+            "Neurosurgery", 
+            "Brain", 
+            "Christianity", 
+            "Disease", 
+            "Terminal_illness", 
+            "Suicide", 
+            "Medication", 
+            "Documentary_film"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Civilization", 
+            "Lion", 
+            "Science", 
+            "Christ", 
+            "Monkey", 
+            "Logic", 
+            "Deer", 
+            "Monkey_wrench", 
+            "Wrench"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Life_support", 
+            "Life_support"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soul"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Lung", 
+            "Thanksgiving", 
+            "Thread_(computer_science)", 
+            "Sun", 
+            "Algernon_Charles_Swinburne", 
+            "Greed_and_fear", 
+            "Star", 
+            "Diurnality", 
+            "Deity", 
+            "God", 
+            "Ernest_Hemingway", 
+            "Time_(magazine)", 
+            "Leaf", 
+            "River"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Compassion"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Nursing_home", 
+            "Oregon", 
+            "Horses_in_warfare", 
+            "States_and_territories_of_India", 
+            "Nursing", 
+            "Secularism", 
+            "Palliative_care", 
+            "81st_United_States_Congress", 
+            "Fashion", 
+            "Cake", 
+            "World_War_II", 
+            "Compassion_&amp;_Choices", 
+            "Oregon", 
+            "Tsuga", 
+            "Washington", 
+            "Judge", 
+            "Cat", 
+            "Bible_story", 
+            "Horse", 
+            "Cardboard_box", 
+            "Cardboard", 
+            "Bible", 
+            "Bible", 
+            "Suicide", 
+            "Assisted_suicide", 
+            "Shell_(projectile)", 
+            "Jesus", 
+            "Bible", 
+            "Nut_(fruit)", 
+            "Suicide"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Brain", 
+            "Pain", 
+            "Anencephaly", 
+            "Suicide", 
+            "Electroencephalography", 
+            "Cardiopulmonary_resuscitation", 
+            "Brain", 
+            "Assisted_suicide", 
+            "Electroencephalography", 
+            "Brain", 
+            "Anencephaly", 
+            "Electroencephalography"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Suicide", 
+            "God"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cat"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Suicide_note", 
+            "Suicide", 
+            "Cherub", 
+            "Assisted_suicide", 
+            "Hedge_(barrier)", 
+            "Latin", 
+            "Baroque", 
+            "Maze", 
+            "Suicide", 
+            "Humour"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Nursing_home", 
+            "Nursing", 
+            "Sorry_(Madonna_song)", 
+            "Medication", 
+            "Sorry_(Madonna_song)", 
+            "Terminal_illness", 
+            "Hospital", 
+            "Artificial_pacemaker", 
+            "Attorney_at_law", 
+            "Blood_pressure", 
+            "Living_(channel)", 
+            "Roller_coaster", 
+            "Blood", 
+            "Divine_grace", 
+            "Medication", 
+            "Kitchen_sink", 
+            "Kitchen", 
+            "Hell", 
+            "FATE_(role-playing_game_system)", 
+            "Hell", 
+            "Stomach", 
+            "Heart_rate", 
+            "Intensive_care_unit", 
+            "A-side_and_B-side"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Infantry", 
+            "God", 
+            "States_and_territories_of_India", 
+            "Assisted_suicide", 
+            "Ice_age", 
+            "Free_will", 
+            "God", 
+            "Cat", 
+            "Pain", 
+            "Angel", 
+            "God", 
+            "God", 
+            "God", 
+            "Cancer", 
+            "Palliative_care", 
+            "God", 
+            "DVD_player", 
+            "Heaven", 
+            "DVD", 
+            "Freedom_(philosophy)", 
+            "Christianity", 
+            "Angel", 
+            "Suicide", 
+            "Unconscious_mind", 
+            "God", 
+            "Free_will", 
+            "Pain", 
+            "Pain", 
+            "God", 
+            "Adage", 
+            "Free_will", 
+            "God", 
+            "DNR_(House)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Free_will", 
+            "Suicide", 
+            "God", 
+            "God", 
+            "Christianity", 
+            "Individual_rights"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Dude"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Moral_obligation", 
+            "Skeleton", 
+            "Cancer", 
+            "Breakfast", 
+            "Breathing", 
+            "Compassion", 
+            "Brain", 
+            "Trump_(card_games)", 
+            "Pain", 
+            "Pain"
+        ], 
+        "postID": 40
+    }
+]

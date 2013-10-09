@@ -1,0 +1,390 @@
+[
+    {
+        "entity": [
+            "Cigarette", 
+            "Soft_drink", 
+            "Whisky", 
+            "2009", 
+            "Wine", 
+            "Beer", 
+            "Common_year_starting_on_Thursday", 
+            "May_23"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wine", 
+            "Distilled_beverage", 
+            "Alcoholic_beverage", 
+            "Beer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Delerium", 
+            "Tax", 
+            "Beer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Toilet_paper", 
+            "Tax", 
+            "Beer", 
+            "Toilet"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Regulation", 
+            "Functionally_classified_barn", 
+            "Barn", 
+            "Barn", 
+            "Functionally_classified_barn", 
+            "ATV", 
+            "Income_tax", 
+            "French_Revolution", 
+            "Farm", 
+            "Tax", 
+            "Metal", 
+            "Landscaping", 
+            "Metal"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Tobacco", 
+            "Beer"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Golf_(card_game)", 
+            "Tax", 
+            "God", 
+            "State", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Drug", 
+            "Tax", 
+            "United_States_Congress", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Out-of-pocket_expenses", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Tax_deduction", 
+            "Health_care_reform", 
+            "Medicare_(United_States)", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Income_tax", 
+            "Charles_B._Rangel", 
+            "Tax_deduction", 
+            "Health_care"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Prohibition"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Alcohol", 
+            "Cent_(currency)", 
+            "Health_care", 
+            "Beer", 
+            "United_States_dollar", 
+            "Alcohol"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hippie", 
+            "Latte", 
+            "Flower_child", 
+            "Liberal", 
+            "Flower", 
+            "Tree", 
+            "Beer", 
+            "Tax_and_spend", 
+            "Tax", 
+            "Cattle", 
+            "Liberal"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Consumption_(economics)", 
+            "Beer"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Applejack_(beverage)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Lawn"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Beer"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Nana_(echos)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Tar", 
+            "United_States", 
+            "Politics", 
+            "Al-Qaeda", 
+            "Terrorism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Liberalism_in_the_United_States", 
+            "Rainbow", 
+            "Utopia", 
+            "Paradise", 
+            "Cliff", 
+            "September_11,_2001_attacks", 
+            "Safety_(American_football)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "Soft_drink", 
+            "Whisky", 
+            "2009", 
+            "Wine", 
+            "Beer", 
+            "Common_year_starting_on_Thursday", 
+            "May_23"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Wine", 
+            "Distilled_beverage", 
+            "Alcoholic_beverage", 
+            "Beer"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Delerium", 
+            "Tax", 
+            "Beer"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Toilet_paper", 
+            "Tax", 
+            "Beer", 
+            "Toilet"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Regulation", 
+            "Functionally_classified_barn", 
+            "Barn", 
+            "Barn", 
+            "Functionally_classified_barn", 
+            "ATV", 
+            "Income_tax", 
+            "French_Revolution", 
+            "Farm", 
+            "Tax", 
+            "Metal", 
+            "Landscaping", 
+            "Metal"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Tobacco", 
+            "Beer"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Golf_(card_game)", 
+            "Tax", 
+            "God", 
+            "State", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Drug", 
+            "Tax", 
+            "United_States_Congress", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Out-of-pocket_expenses", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Tax_deduction", 
+            "Health_care_reform", 
+            "Medicare_(United_States)", 
+            "United_States_House_Committee_on_Ways_and_Means", 
+            "Income_tax", 
+            "Charles_B._Rangel", 
+            "Tax_deduction", 
+            "Health_care"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Prohibition"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Alcohol", 
+            "Cent_(currency)", 
+            "Health_care", 
+            "Beer", 
+            "United_States_dollar", 
+            "Alcohol"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hippie", 
+            "Latte", 
+            "Flower_child", 
+            "Liberal", 
+            "Flower", 
+            "Tree", 
+            "Beer", 
+            "Tax_and_spend", 
+            "Tax", 
+            "Cattle", 
+            "Liberal"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Consumption_(economics)", 
+            "Beer"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Applejack_(beverage)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Lawn"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Beer"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Nana_(echos)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Tar", 
+            "United_States", 
+            "Politics", 
+            "Al-Qaeda", 
+            "Terrorism"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Liberalism_in_the_United_States", 
+            "Rainbow", 
+            "Utopia", 
+            "Paradise", 
+            "Cliff", 
+            "September_11,_2001_attacks", 
+            "Safety_(American_football)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 40
+    }
+]

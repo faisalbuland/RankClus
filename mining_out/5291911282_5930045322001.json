@@ -1,0 +1,91 @@
+[
+    {
+        "entity": [
+            "Classified_information", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Joe_Biden", 
+            "Joe_Biden", 
+            "Bunker", 
+            "Dick_Cheney", 
+            "September_11,_2001_attacks", 
+            "Bunker", 
+            "Vice_President_of_the_United_States", 
+            "United_States_Naval_Observatory", 
+            "Dick_Cheney", 
+            "Vice_President_of_the_United_States", 
+            "United_States_Naval_Observatory", 
+            "Vice_President_of_the_United_States", 
+            "Gridiron_Club", 
+            "Joe_Biden", 
+            "Gridiron", 
+            "President_of_the_United_States", 
+            "Vice_President_of_the_United_States", 
+            "Dick_Cheney", 
+            "United_States", 
+            "Observatory"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sheriff", 
+            "Maricopa_County,_Arizona", 
+            "Maricopa_County,_Arizona"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Population"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Sheriff", 
+            "Undergarment", 
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Sheriff", 
+            "1993", 
+            "Michigan"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Maricopa_County,_Arizona", 
+            "County_(United_States)", 
+            "Sheriff"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fan_club", 
+            "Sheriff", 
+            "Phoenix,_Arizona"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Scots_law", 
+            "Sheriff"
+        ], 
+        "postID": 9
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "entity": [
+            "Mootness", 
+            "Barack_Obama", 
+            "Diplomacy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "United_States_Navy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "Poetry_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bill_Ayers", 
+            "Barack_Obama", 
+            "Placeholder_name", 
+            "Dope_(band)", 
+            "Placeholder_name", 
+            "Blah", 
+            "Blah", 
+            "Coke_(fuel)", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Blah", 
+            "Syndrome", 
+            "Blah"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "!!!"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Roman_legion", 
+            "Surface", 
+            "Naval_warfare", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "United_States", 
+            "Instrument_landing_system", 
+            "United_States_Navy", 
+            "Storage_area_network", 
+            "Gliding", 
+            "Surface", 
+            "GWB", 
+            "International_Maritime_Organization", 
+            "Chaps", 
+            "Navy", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "Landing_Craft_Support"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Amphibious_transport_dock", 
+            "Elmo_R._Zumwalt,_Jr.", 
+            "Admiral", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Anti-ship_missile", 
+            "Amphibious_warfare", 
+            "Littoral_combat_ship", 
+            "Arleigh_Burke_class_destroyer", 
+            "United_States_Navy", 
+            "San_Antonio,_Texas", 
+            "Civic_Democratic_Party", 
+            "Arleigh_Burke_class_destroyer", 
+            "Landing_Craft_Support", 
+            "Littoral_zone", 
+            "Gary_Roughead", 
+            "Destroyer", 
+            "San_Antonio,_Texas"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "USS_Arleigh_Burke_(DDG-51)", 
+            "Landing_Craft_Support", 
+            "Los_Angeles_class_submarine", 
+            "USS_Virginia_(CGN-38)", 
+            "Landing_Craft_Support", 
+            "Virginia", 
+            "Frigate", 
+            "Scrap"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Navy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Political_party"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "The_Right_Stuff_(film)", 
+            "Rogers_Communications", 
+            "Stuff_(magazine)", 
+            "Buck_Rogers", 
+            "Right_Stuff"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Economy", 
+            "Hell", 
+            "Long_shot", 
+            "United_States_Navy"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Navy", 
+            "Navy", 
+            "Navy"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Instrument_landing_system", 
+            "Naval_warfare", 
+            "Semivowel", 
+            "Herd", 
+            "Instrument_landing_system", 
+            "Semivowel", 
+            "United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Infantry", 
+            "Navy", 
+            "Infantry_fighting_vehicle", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "Ike_Turner"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Mootness", 
+            "Barack_Obama", 
+            "Diplomacy"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "United_States_Navy"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "Poetry_of_the_United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Bill_Ayers", 
+            "Barack_Obama", 
+            "Placeholder_name", 
+            "Dope_(band)", 
+            "Placeholder_name", 
+            "Blah", 
+            "Blah", 
+            "Coke_(fuel)", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Blah", 
+            "Syndrome", 
+            "Blah"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "!!!"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Roman_legion", 
+            "Surface", 
+            "Naval_warfare", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "United_States", 
+            "Instrument_landing_system", 
+            "United_States_Navy", 
+            "Storage_area_network", 
+            "Gliding", 
+            "Surface", 
+            "GWB", 
+            "International_Maritime_Organization", 
+            "Chaps", 
+            "Navy", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "Landing_Craft_Support"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Amphibious_transport_dock", 
+            "Elmo_R._Zumwalt,_Jr.", 
+            "Admiral", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Anti-ship_missile", 
+            "Amphibious_warfare", 
+            "Littoral_combat_ship", 
+            "Arleigh_Burke_class_destroyer", 
+            "United_States_Navy", 
+            "San_Antonio,_Texas", 
+            "Civic_Democratic_Party", 
+            "Arleigh_Burke_class_destroyer", 
+            "Landing_Craft_Support", 
+            "Littoral_zone", 
+            "Gary_Roughead", 
+            "Destroyer", 
+            "San_Antonio,_Texas"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "USS_Arleigh_Burke_(DDG-51)", 
+            "Landing_Craft_Support", 
+            "Los_Angeles_class_submarine", 
+            "USS_Virginia_(CGN-38)", 
+            "Landing_Craft_Support", 
+            "Virginia", 
+            "Frigate", 
+            "Scrap"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Navy"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Political_party"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "The_Right_Stuff_(film)", 
+            "Rogers_Communications", 
+            "Stuff_(magazine)", 
+            "Buck_Rogers", 
+            "Right_Stuff"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Economy", 
+            "Hell", 
+            "Long_shot", 
+            "United_States_Navy"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Navy", 
+            "Navy", 
+            "Navy"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Instrument_landing_system", 
+            "Naval_warfare", 
+            "Semivowel", 
+            "Herd", 
+            "Instrument_landing_system", 
+            "Semivowel", 
+            "United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Infantry", 
+            "Navy", 
+            "Infantry_fighting_vehicle", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "Ike_Turner"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Mootness", 
+            "Barack_Obama", 
+            "Diplomacy"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "United_States_Navy"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "North_America", 
+            "Poetry_of_the_United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Bill_Ayers", 
+            "Barack_Obama", 
+            "Placeholder_name", 
+            "Dope_(band)", 
+            "Placeholder_name", 
+            "Blah", 
+            "Blah", 
+            "Coke_(fuel)", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Blah", 
+            "Syndrome", 
+            "Blah"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "!!!"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Roman_legion", 
+            "Surface", 
+            "Naval_warfare", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "United_States", 
+            "Instrument_landing_system", 
+            "United_States_Navy", 
+            "Storage_area_network", 
+            "Gliding", 
+            "Surface", 
+            "GWB", 
+            "International_Maritime_Organization", 
+            "Chaps", 
+            "Navy", 
+            "United_States_Navy", 
+            "George_H._W._Bush", 
+            "Landing_Craft_Support"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Amphibious_transport_dock", 
+            "Elmo_R._Zumwalt,_Jr.", 
+            "Admiral", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "United_States_Navy", 
+            "United_States_Navy", 
+            "Anti-ship_missile", 
+            "Amphibious_warfare", 
+            "Littoral_combat_ship", 
+            "Arleigh_Burke_class_destroyer", 
+            "United_States_Navy", 
+            "San_Antonio,_Texas", 
+            "Civic_Democratic_Party", 
+            "Arleigh_Burke_class_destroyer", 
+            "Landing_Craft_Support", 
+            "Littoral_zone", 
+            "Gary_Roughead", 
+            "Destroyer", 
+            "San_Antonio,_Texas"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "USS_Arleigh_Burke_(DDG-51)", 
+            "Landing_Craft_Support", 
+            "Los_Angeles_class_submarine", 
+            "USS_Virginia_(CGN-38)", 
+            "Landing_Craft_Support", 
+            "Virginia", 
+            "Frigate", 
+            "Scrap"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States_Navy"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Political_party"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "The_Right_Stuff_(film)", 
+            "Rogers_Communications", 
+            "Stuff_(magazine)", 
+            "Buck_Rogers", 
+            "Right_Stuff"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Economy", 
+            "Hell", 
+            "Long_shot", 
+            "United_States_Navy"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Navy", 
+            "Navy", 
+            "Navy"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Instrument_landing_system", 
+            "Naval_warfare", 
+            "Semivowel", 
+            "Herd", 
+            "Instrument_landing_system", 
+            "Semivowel", 
+            "United_States"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Infantry", 
+            "Navy", 
+            "Infantry_fighting_vehicle", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "M3_Bradley_Fighting_Vehicle", 
+            "Thomas_Paine", 
+            "Ike_Turner"
+        ], 
+        "postID": 60
+    }
+]

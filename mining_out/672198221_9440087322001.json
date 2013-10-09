@@ -1,0 +1,704 @@
+[
+    {
+        "entity": [
+            "The_General_(1927_film)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Arthur_William_Baden_Powell", 
+            "Ford_Motor_Company", 
+            "Arthur_William_Baden_Powell", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Connex", 
+            "Citizenship", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Moral_rights", 
+            "United_States", 
+            "Political_party", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Political_party", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Cave", 
+            "Finger", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Republicanism", 
+            "John_McCain", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Fossil", 
+            "Dick_Cheney", 
+            "Meghan_McCain", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Riot", 
+            "Public_opinion", 
+            "George_Washington", 
+            "Political_corruption", 
+            "False_alarm", 
+            "George_Washington", 
+            "Liberty", 
+            "Indulgence", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Despotism", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Patriotism", 
+            "States_and_territories_of_India", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Monarchy", 
+            "Human_brain", 
+            "Insurgency", 
+            "Despotism", 
+            "George_Washington's_Farewell_Address", 
+            "Root", 
+            "Public_administration", 
+            "Liberty", 
+            "Partisan_(political)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Political_party", 
+            "Flag_of_Europe", 
+            "International_Maritime_Organization", 
+            "Nut_(fruit)", 
+            "Republican_Party_(United_States)", 
+            "Flag", 
+            "Conservatism", 
+            "2004", 
+            "Nonpartisan", 
+            "International_Maritime_Organization", 
+            "Jail", 
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Independent_(politician)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Black_people", 
+            "Uncle_Tom", 
+            "Republican_Party_(United_States)", 
+            "Treason", 
+            "Barack_Obama", 
+            "United_States", 
+            "Dick_Cheney", 
+            "Colin_Powell", 
+            "Neoconservatism", 
+            "Colin_Powell", 
+            "Saddam_Hussein", 
+            "John_McCain", 
+            "Weapon_of_mass_destruction", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Uncle_Tom"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Uncle_Tom", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein", 
+            "United_States", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Rush_Limbaugh", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Iraq"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Colin_Powell", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Tony_Robbins", 
+            "Colin_Powell", 
+            "United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "The_General_(1927_film)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Arthur_William_Baden_Powell", 
+            "Ford_Motor_Company", 
+            "Arthur_William_Baden_Powell", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Connex", 
+            "Citizenship", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Moral_rights", 
+            "United_States", 
+            "Political_party", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Political_party", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Cave", 
+            "Finger", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Republicanism", 
+            "John_McCain", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Fossil", 
+            "Dick_Cheney", 
+            "Meghan_McCain", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Riot", 
+            "Public_opinion", 
+            "George_Washington", 
+            "Political_corruption", 
+            "False_alarm", 
+            "George_Washington", 
+            "Liberty", 
+            "Indulgence", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Despotism", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Patriotism", 
+            "States_and_territories_of_India", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Monarchy", 
+            "Human_brain", 
+            "Insurgency", 
+            "Despotism", 
+            "George_Washington's_Farewell_Address", 
+            "Root", 
+            "Public_administration", 
+            "Liberty", 
+            "Partisan_(political)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Political_party", 
+            "Flag_of_Europe", 
+            "International_Maritime_Organization", 
+            "Nut_(fruit)", 
+            "Republican_Party_(United_States)", 
+            "Flag", 
+            "Conservatism", 
+            "2004", 
+            "Nonpartisan", 
+            "International_Maritime_Organization", 
+            "Jail", 
+            "United_States"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Independent_(politician)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Black_people", 
+            "Uncle_Tom", 
+            "Republican_Party_(United_States)", 
+            "Treason", 
+            "Barack_Obama", 
+            "United_States", 
+            "Dick_Cheney", 
+            "Colin_Powell", 
+            "Neoconservatism", 
+            "Colin_Powell", 
+            "Saddam_Hussein", 
+            "John_McCain", 
+            "Weapon_of_mass_destruction", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Uncle_Tom"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Uncle_Tom", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein", 
+            "United_States", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Rush_Limbaugh", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Iraq"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Colin_Powell", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Tony_Robbins", 
+            "Colin_Powell", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "The_General_(1927_film)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Arthur_William_Baden_Powell", 
+            "Ford_Motor_Company", 
+            "Arthur_William_Baden_Powell", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Connex", 
+            "Citizenship", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Moral_rights", 
+            "United_States", 
+            "Political_party", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Political_party", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Cave", 
+            "Finger", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Election", 
+            "Republicanism", 
+            "John_McCain", 
+            "Rush_(band)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Fossil", 
+            "Dick_Cheney", 
+            "Meghan_McCain", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Riot", 
+            "Public_opinion", 
+            "George_Washington", 
+            "Political_corruption", 
+            "False_alarm", 
+            "George_Washington", 
+            "Liberty", 
+            "Indulgence", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Despotism", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Patriotism", 
+            "States_and_territories_of_India", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Monarchy", 
+            "Human_brain", 
+            "Insurgency", 
+            "Despotism", 
+            "George_Washington's_Farewell_Address", 
+            "Root", 
+            "Public_administration", 
+            "Liberty", 
+            "Partisan_(political)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Political_party", 
+            "Flag_of_Europe", 
+            "International_Maritime_Organization", 
+            "Nut_(fruit)", 
+            "Republican_Party_(United_States)", 
+            "Flag", 
+            "Conservatism", 
+            "2004", 
+            "Nonpartisan", 
+            "International_Maritime_Organization", 
+            "Jail", 
+            "United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Independent_(politician)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Black_people", 
+            "Uncle_Tom", 
+            "Republican_Party_(United_States)", 
+            "Treason", 
+            "Barack_Obama", 
+            "United_States", 
+            "Dick_Cheney", 
+            "Colin_Powell", 
+            "Neoconservatism", 
+            "Colin_Powell", 
+            "Saddam_Hussein", 
+            "John_McCain", 
+            "Weapon_of_mass_destruction", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Uncle_Tom"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Uncle_Tom", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Colin_Powell", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein", 
+            "United_States", 
+            "Weapon_of_mass_destruction", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Rush_Limbaugh", 
+            "Rush_(band)", 
+            "Dick_Cheney", 
+            "Iraq"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Colin_Powell", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Tony_Robbins", 
+            "Colin_Powell", 
+            "United_States"
+        ], 
+        "postID": 57
+    }
+]

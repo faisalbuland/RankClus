@@ -1,0 +1,606 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Movie_Star_(song)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Plymouth_Duster", 
+            "Ice_cream", 
+            "Cream", 
+            "One_Heart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Heaven", 
+            "Prez_(DC_Comics)", 
+            "Sake"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jordan", 
+            "George_W._Bush", 
+            "United_States", 
+            "News_media", 
+            "Susan_Smith", 
+            "Ramsey,_New_Jersey", 
+            "Madonna_(entertainer)", 
+            "United_States", 
+            "Michael_Jackson", 
+            "American_Idol", 
+            "Michael_Jordan", 
+            "Idol_series", 
+            "Jackson,_Mississippi", 
+            "Texas"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Reflex", 
+            "Barack_Obama", 
+            "Sanity", 
+            "2005", 
+            "Reflex", 
+            "George_W._Bush", 
+            "Reflex", 
+            "Reflex", 
+            "President_of_the_United_States", 
+            "Reflex", 
+            "Mug", 
+            "Reflex"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tsar", 
+            "Prime_minister"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "Goldenberg_scandal", 
+            "President_of_the_United_States", 
+            "Puppet", 
+            "Public_speaking", 
+            "IMHO", 
+            "Intelligence_quotient", 
+            "United_States", 
+            "Fraud", 
+            "The_Oval", 
+            "United_States", 
+            "Oval_Office"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "I_Promise"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Gold"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Media_bias", 
+            "Liberalism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Revelation", 
+            "Dumper"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Movie_Star_(song)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Plymouth_Duster", 
+            "Ice_cream", 
+            "Cream", 
+            "One_Heart"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Heaven", 
+            "Prez_(DC_Comics)", 
+            "Sake"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Jordan", 
+            "George_W._Bush", 
+            "United_States", 
+            "News_media", 
+            "Susan_Smith", 
+            "Ramsey,_New_Jersey", 
+            "Madonna_(entertainer)", 
+            "United_States", 
+            "Michael_Jackson", 
+            "American_Idol", 
+            "Michael_Jordan", 
+            "Idol_series", 
+            "Jackson,_Mississippi", 
+            "Texas"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Reflex", 
+            "Barack_Obama", 
+            "Sanity", 
+            "2005", 
+            "Reflex", 
+            "George_W._Bush", 
+            "Reflex", 
+            "Reflex", 
+            "President_of_the_United_States", 
+            "Reflex", 
+            "Mug", 
+            "Reflex"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tsar", 
+            "Prime_minister"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "Goldenberg_scandal", 
+            "President_of_the_United_States", 
+            "Puppet", 
+            "Public_speaking", 
+            "IMHO", 
+            "Intelligence_quotient", 
+            "United_States", 
+            "Fraud", 
+            "The_Oval", 
+            "United_States", 
+            "Oval_Office"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "I_Promise"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Gold"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Media_bias", 
+            "Liberalism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Revelation", 
+            "Dumper"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Movie_Star_(song)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Plymouth_Duster", 
+            "Ice_cream", 
+            "Cream", 
+            "One_Heart"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Heaven", 
+            "Prez_(DC_Comics)", 
+            "Sake"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Jordan", 
+            "George_W._Bush", 
+            "United_States", 
+            "News_media", 
+            "Susan_Smith", 
+            "Ramsey,_New_Jersey", 
+            "Madonna_(entertainer)", 
+            "United_States", 
+            "Michael_Jackson", 
+            "American_Idol", 
+            "Michael_Jordan", 
+            "Idol_series", 
+            "Jackson,_Mississippi", 
+            "Texas"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Reflex", 
+            "Barack_Obama", 
+            "Sanity", 
+            "2005", 
+            "Reflex", 
+            "George_W._Bush", 
+            "Reflex", 
+            "Reflex", 
+            "President_of_the_United_States", 
+            "Reflex", 
+            "Mug", 
+            "Reflex"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Tsar", 
+            "Prime_minister"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "Goldenberg_scandal", 
+            "President_of_the_United_States", 
+            "Puppet", 
+            "Public_speaking", 
+            "IMHO", 
+            "Intelligence_quotient", 
+            "United_States", 
+            "Fraud", 
+            "The_Oval", 
+            "United_States", 
+            "Oval_Office"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "I_Promise"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Gold"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Media_bias", 
+            "Liberalism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Revelation", 
+            "Dumper"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Movie_Star_(song)"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Plymouth_Duster", 
+            "Ice_cream", 
+            "Cream", 
+            "One_Heart"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Heaven", 
+            "Prez_(DC_Comics)", 
+            "Sake"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Jordan", 
+            "George_W._Bush", 
+            "United_States", 
+            "News_media", 
+            "Susan_Smith", 
+            "Ramsey,_New_Jersey", 
+            "Madonna_(entertainer)", 
+            "United_States", 
+            "Michael_Jackson", 
+            "American_Idol", 
+            "Michael_Jordan", 
+            "Idol_series", 
+            "Jackson,_Mississippi", 
+            "Texas"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Reflex", 
+            "Barack_Obama", 
+            "Sanity", 
+            "2005", 
+            "Reflex", 
+            "George_W._Bush", 
+            "Reflex", 
+            "Reflex", 
+            "President_of_the_United_States", 
+            "Reflex", 
+            "Mug", 
+            "Reflex"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Tsar", 
+            "Prime_minister"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "Goldenberg_scandal", 
+            "President_of_the_United_States", 
+            "Puppet", 
+            "Public_speaking", 
+            "IMHO", 
+            "Intelligence_quotient", 
+            "United_States", 
+            "Fraud", 
+            "The_Oval", 
+            "United_States", 
+            "Oval_Office"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "I_Promise"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Gold"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Media_bias", 
+            "Liberalism"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Revelation", 
+            "Dumper"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [], 
+        "postID": 80
+    }
+]

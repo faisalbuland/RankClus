@@ -1,0 +1,52 @@
+[
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Kuwait", 
+            "Carlisle", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Real_estate", 
+            "Subsidiary", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "Iraq", 
+            "Real-estate_developer", 
+            "Dubai", 
+            "George_H._W._Bush", 
+            "Linchpin", 
+            "United_States", 
+            "United_Arab_Emirates", 
+            "Carlisle", 
+            "Real_estate", 
+            "Kuwait"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Alexandria", 
+            "Language", 
+            "Islamic_Saudi_Academy", 
+            "Saudi_Arabia", 
+            "2004", 
+            "Extremism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Rat", 
+            "Terrorism"
+        ], 
+        "postID": 4
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "Military_recruitment", 
+            "American_International_Group", 
+            "Code_Pink", 
+            "Pink_(singer)", 
+            "March_19", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Woof"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Groucho_Marx", 
+            "Furry_fandom", 
+            "You_Bet_Your_Life", 
+            "Karl_Marx"
+        ], 
+        "postID": 4
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "entity": [
+            "Intensive_care_medicine", 
+            "Diet_(nutrition)", 
+            "Dog", 
+            "Wal-Mart", 
+            "Winston_(cigarette)", 
+            "Maximus", 
+            "Yesterday_(song)", 
+            "Intensive_care_medicine", 
+            "Ward_(division)", 
+            "Impulse", 
+            "Gus_(film)", 
+            "Hospital", 
+            "Dog", 
+            "Nestl\u00e9_Purina_PetCare", 
+            "Diet_of_Japan", 
+            "Nestl\u00e9_Purina_PetCare", 
+            "Parking_lot", 
+            "Nestl\u00e9_Purina_PetCare", 
+            "Pound_(mass)", 
+            "Dog_food", 
+            "Dog", 
+            "Elephant", 
+            "Diet_of_Japan", 
+            "Myocardial_infarction", 
+            "Dog", 
+            "Nancy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Middle_Ages", 
+            "Intelligence", 
+            "Forgiveness", 
+            "Garage_(house)", 
+            "Stupidity", 
+            "Christianity", 
+            "Artificial_intelligence", 
+            "Church", 
+            "Time_(magazine)", 
+            "House_work", 
+            "Shred_guitar", 
+            "Conscience", 
+            "Mail", 
+            "Passport"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Life_insurance", 
+            "Pitch_(music)", 
+            "Induction", 
+            "Airman", 
+            "GI_(military)", 
+            "Captain", 
+            "Airman", 
+            "Captain", 
+            "Vehicle_insurance", 
+            "Vehicle_insurance", 
+            "Insurance", 
+            "Insurance", 
+            "Insurance", 
+            "Edward_Smith"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England", 
+            "Teamwork"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Cattle", 
+            "Waiting_staff", 
+            "Spain", 
+            "Waiting_staff", 
+            "Tourism", 
+            "Spanish_language", 
+            "Restaurant", 
+            "Restaurant", 
+            "Spanish_language", 
+            "United_States", 
+            "Sauce", 
+            "Tourism", 
+            "Cattle"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cream_(band)", 
+            "Safeway_Inc.", 
+            "Tram", 
+            "Budweiser_(Anheuser-Busch)", 
+            "Tram", 
+            "Cream", 
+            "Cream", 
+            "Lotion", 
+            "Lotion"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Barbie", 
+            "Dude"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 8
+    }
+]

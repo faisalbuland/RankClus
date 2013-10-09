@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [
+            "Sacrifice", 
+            "United_States", 
+            "Democracy", 
+            "Barack_Obama", 
+            "United_States", 
+            "Iraq"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Vow"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Kinda_(Doctor_Who)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Onion", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Military_of_the_United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Military_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nickle", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }
+]

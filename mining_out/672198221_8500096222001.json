@@ -1,0 +1,137 @@
+[
+    {
+        "entity": [
+            "Drug_liberalization", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Tax", 
+            "Cannabis_(drug)", 
+            "Cocaine", 
+            "Tax_revenue", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "United_States", 
+            "Recreational_drug_use", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Arnold_Schwarzenegger", 
+            "California", 
+            "Illegal_drug_trade", 
+            "Prison", 
+            "Illegal_drug_trade", 
+            "Drug_abuse", 
+            "Heroin", 
+            "Governor_of_California", 
+            "California", 
+            "Arnold_Schwarzenegger", 
+            "Illegal_drug_trade", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Psychiatric_hospital", 
+            "Farm", 
+            "Methamphetamine"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Psychoactive_drug", 
+            "Angel", 
+            "Dust", 
+            "California", 
+            "Heroin", 
+            "Phencyclidine", 
+            "Methamphetamine", 
+            "Cannabis_(drug)", 
+            "Phencyclidine", 
+            "Recreational_drug_use", 
+            "Adverse_effect_(medicine)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Sherlock_Holmes", 
+            "Illegal_drug_trade", 
+            "Romanticism", 
+            "Prohibition_(drugs)", 
+            "Reflection_(physics)", 
+            "Cocaine", 
+            "United_Kingdom", 
+            "Laudanum", 
+            "Fictional_character", 
+            "Illegal_drug_trade", 
+            "Sherlock_Holmes", 
+            "Romantic_poetry", 
+            "Heroin"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Big_Game", 
+            "Population_control", 
+            "Bam", 
+            "Population"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Delerium", 
+            "Alcoholism", 
+            "Addiction", 
+            "Prison", 
+            "Beer", 
+            "Addiction", 
+            "Drug", 
+            "Turkey", 
+            "Ethanol", 
+            "Disease", 
+            "Cold_turkey", 
+            "Delirium_tremens", 
+            "Drug", 
+            "Delirium", 
+            "Alcohol", 
+            "Death", 
+            "Drug", 
+            "Alcoholism", 
+            "Population", 
+            "Opiate", 
+            "Alcohol", 
+            "Delirium", 
+            "Syndrome", 
+            "Crime", 
+            "Addiction", 
+            "Delirium_tremens", 
+            "Illegal_drug_trade", 
+            "Withdrawal", 
+            "Drug"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Stateline", 
+            "Sacramento,_California"
+        ], 
+        "postID": 9
+    }
+]

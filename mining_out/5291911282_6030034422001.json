@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "Chicken", 
+            "Howard_Hawks"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chicken_Hawks", 
+            "Chicken"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Keg"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "War_Zone", 
+            "Suicide"
+        ], 
+        "postID": 6
+    }
+]

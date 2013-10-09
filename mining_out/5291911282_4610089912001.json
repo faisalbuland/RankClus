@@ -1,0 +1,55 @@
+[
+    {
+        "entity": [
+            "Staff_Sergeant", 
+            "Dog", 
+            "Dog_tag_(identifier)", 
+            "Blood_type", 
+            "Blood", 
+            "E-mail", 
+            "Fox", 
+            "Religion"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stupidity"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rhetorical_question"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "MySpace", 
+            "Object_Management_Group", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "MySpace"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Killed_in_action"
+        ], 
+        "postID": 8
+    }
+]

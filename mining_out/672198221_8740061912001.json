@@ -1,0 +1,972 @@
+[
+    {
+        "entity": [
+            "Drug_addiction", 
+            "Hemp_(disambiguation)", 
+            "Hemp", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Surgeon", 
+            "Cannabis_(drug)", 
+            "Barack_Obama", 
+            "Referendum", 
+            "Feds", 
+            "Bill_Clinton", 
+            "Gastrointestinal_tract", 
+            "Disease", 
+            "Surgeon_General", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Mexico_City", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico_City"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Noxious_weed", 
+            "Noxious_weed", 
+            "Federal_government_of_the_United_States", 
+            "Candy", 
+            "Mexico", 
+            "Noxious_weed", 
+            "United_States", 
+            "Fault_(geology)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Drug_cartel"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Cartel", 
+            "Al-Qaeda", 
+            "Cannabis_(drug)", 
+            "Google"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Stoning", 
+            "River", 
+            "Object_Management_Group", 
+            "Weed"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Tobacco_smoking", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Tobacco", 
+            "Peel_(fruit)", 
+            "Tobacco_smoking", 
+            "Banana", 
+            "Departments_of_France"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Wheel", 
+            "Tobacco_smoking", 
+            "Cannabis_(drug)", 
+            "Cannabis", 
+            "Heroin", 
+            "Tobacco_smoking", 
+            "Drug_addiction"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Slippery_slope", 
+            "Fallacy"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Inch"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Proxy_server", 
+            "Drug", 
+            "Bleach", 
+            "Morality", 
+            "United_States", 
+            "Alcohol"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel", 
+            "State", 
+            "Plant", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Drug", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Decriminalization", 
+            "Tobacco", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Medicine", 
+            "Alcohol", 
+            "Drug_cartel", 
+            "Drug_cartel", 
+            "Drug"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Crimp", 
+            "Cartel", 
+            "Tax"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Drug_addiction", 
+            "Hemp_(disambiguation)", 
+            "Hemp", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Surgeon", 
+            "Cannabis_(drug)", 
+            "Barack_Obama", 
+            "Referendum", 
+            "Feds", 
+            "Bill_Clinton", 
+            "Gastrointestinal_tract", 
+            "Disease", 
+            "Surgeon_General", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Mexico_City", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico_City"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Noxious_weed", 
+            "Noxious_weed", 
+            "Federal_government_of_the_United_States", 
+            "Candy", 
+            "Mexico", 
+            "Noxious_weed", 
+            "United_States", 
+            "Fault_(geology)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Drug_cartel"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Cartel", 
+            "Al-Qaeda", 
+            "Cannabis_(drug)", 
+            "Google"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Stoning", 
+            "River", 
+            "Object_Management_Group", 
+            "Weed"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Tobacco_smoking", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Tobacco", 
+            "Peel_(fruit)", 
+            "Tobacco_smoking", 
+            "Banana", 
+            "Departments_of_France"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Wheel", 
+            "Tobacco_smoking", 
+            "Cannabis_(drug)", 
+            "Cannabis", 
+            "Heroin", 
+            "Tobacco_smoking", 
+            "Drug_addiction"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Slippery_slope", 
+            "Fallacy"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Inch"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Proxy_server", 
+            "Drug", 
+            "Bleach", 
+            "Morality", 
+            "United_States", 
+            "Alcohol"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel", 
+            "State", 
+            "Plant", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Drug", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Decriminalization", 
+            "Tobacco", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Medicine", 
+            "Alcohol", 
+            "Drug_cartel", 
+            "Drug_cartel", 
+            "Drug"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Crimp", 
+            "Cartel", 
+            "Tax"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Drug_addiction", 
+            "Hemp_(disambiguation)", 
+            "Hemp", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Surgeon", 
+            "Cannabis_(drug)", 
+            "Barack_Obama", 
+            "Referendum", 
+            "Feds", 
+            "Bill_Clinton", 
+            "Gastrointestinal_tract", 
+            "Disease", 
+            "Surgeon_General", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Mexico_City", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico_City"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Noxious_weed", 
+            "Noxious_weed", 
+            "Federal_government_of_the_United_States", 
+            "Candy", 
+            "Mexico", 
+            "Noxious_weed", 
+            "United_States", 
+            "Fault_(geology)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Drug_cartel"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Cartel", 
+            "Al-Qaeda", 
+            "Cannabis_(drug)", 
+            "Google"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Stoning", 
+            "River", 
+            "Object_Management_Group", 
+            "Weed"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Tobacco_smoking", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Tobacco", 
+            "Peel_(fruit)", 
+            "Tobacco_smoking", 
+            "Banana", 
+            "Departments_of_France"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Wheel", 
+            "Tobacco_smoking", 
+            "Cannabis_(drug)", 
+            "Cannabis", 
+            "Heroin", 
+            "Tobacco_smoking", 
+            "Drug_addiction"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Slippery_slope", 
+            "Fallacy"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Inch"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Proxy_server", 
+            "Drug", 
+            "Bleach", 
+            "Morality", 
+            "United_States", 
+            "Alcohol"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel", 
+            "State", 
+            "Plant", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Drug", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Decriminalization", 
+            "Tobacco", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Medicine", 
+            "Alcohol", 
+            "Drug_cartel", 
+            "Drug_cartel", 
+            "Drug"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Crimp", 
+            "Cartel", 
+            "Tax"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Drug_addiction", 
+            "Hemp_(disambiguation)", 
+            "Hemp", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Surgeon", 
+            "Cannabis_(drug)", 
+            "Barack_Obama", 
+            "Referendum", 
+            "Feds", 
+            "Bill_Clinton", 
+            "Gastrointestinal_tract", 
+            "Disease", 
+            "Surgeon_General", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Mexico_City", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico_City"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Noxious_weed", 
+            "Noxious_weed", 
+            "Federal_government_of_the_United_States", 
+            "Candy", 
+            "Mexico", 
+            "Noxious_weed", 
+            "United_States", 
+            "Fault_(geology)"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Drug_cartel"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Cartel", 
+            "Al-Qaeda", 
+            "Cannabis_(drug)", 
+            "Google"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Stoning", 
+            "River", 
+            "Object_Management_Group", 
+            "Weed"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Tobacco_smoking", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Tobacco", 
+            "Peel_(fruit)", 
+            "Tobacco_smoking", 
+            "Banana", 
+            "Departments_of_France"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Wheel", 
+            "Tobacco_smoking", 
+            "Cannabis_(drug)", 
+            "Cannabis", 
+            "Heroin", 
+            "Tobacco_smoking", 
+            "Drug_addiction"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Slippery_slope", 
+            "Fallacy"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Inch"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Proxy_server", 
+            "Drug", 
+            "Bleach", 
+            "Morality", 
+            "United_States", 
+            "Alcohol"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel", 
+            "State", 
+            "Plant", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Drug", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Decriminalization", 
+            "Tobacco", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Medicine", 
+            "Alcohol", 
+            "Drug_cartel", 
+            "Drug_cartel", 
+            "Drug"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Crimp", 
+            "Cartel", 
+            "Tax"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Drug_addiction", 
+            "Hemp_(disambiguation)", 
+            "Hemp", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Surgeon", 
+            "Cannabis_(drug)", 
+            "Barack_Obama", 
+            "Referendum", 
+            "Feds", 
+            "Bill_Clinton", 
+            "Gastrointestinal_tract", 
+            "Disease", 
+            "Surgeon_General", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Mexico_City", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Nice", 
+            "Mexico_City"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Noxious_weed", 
+            "Noxious_weed", 
+            "Federal_government_of_the_United_States", 
+            "Candy", 
+            "Mexico", 
+            "Noxious_weed", 
+            "United_States", 
+            "Fault_(geology)"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Drug_cartel", 
+            "Mexico", 
+            "Drug_cartel"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Cartel", 
+            "Al-Qaeda", 
+            "Cannabis_(drug)", 
+            "Google"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Stoning", 
+            "River", 
+            "Object_Management_Group", 
+            "Weed"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Tobacco_smoking", 
+            "Tobacco_smoking", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Tobacco", 
+            "Cannabis_(drug)", 
+            "Cannabis_(drug)", 
+            "Tobacco", 
+            "Peel_(fruit)", 
+            "Tobacco_smoking", 
+            "Banana", 
+            "Departments_of_France"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Wheel", 
+            "Tobacco_smoking", 
+            "Cannabis_(drug)", 
+            "Cannabis", 
+            "Heroin", 
+            "Tobacco_smoking", 
+            "Drug_addiction"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Slippery_slope", 
+            "Fallacy"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "Cartel", 
+            "Cartel"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Inch"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Proxy_server", 
+            "Drug", 
+            "Bleach", 
+            "Morality", 
+            "United_States", 
+            "Alcohol"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cartel", 
+            "State", 
+            "Plant", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Drug", 
+            "Cannabis_(drug)", 
+            "Cartel", 
+            "Decriminalization", 
+            "Tobacco", 
+            "Illegal_drug_trade", 
+            "Cannabis_(drug)", 
+            "Medicine", 
+            "Alcohol", 
+            "Drug_cartel", 
+            "Drug_cartel", 
+            "Drug"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Cannabis_(drug)", 
+            "Crimp", 
+            "Cartel", 
+            "Tax"
+        ], 
+        "postID": 100
+    }
+]

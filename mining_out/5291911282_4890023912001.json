@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Psychotherapy", 
+            "Marine_(military)", 
+            "Marine_(military)", 
+            "Hospital", 
+            "Fault_(geology)", 
+            "Corps", 
+            "Marine_(military)", 
+            "Fault_(geology)", 
+            "Police", 
+            "High_school", 
+            "Family_therapy", 
+            "Physician", 
+            "Delayed_Entry_Program", 
+            "Police", 
+            "Hospital", 
+            "Physician"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Moderator", 
+            "Thread_(Pern)"
+        ], 
+        "postID": 2
+    }
+]

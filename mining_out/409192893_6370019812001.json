@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [
+            "Fraud", 
+            "American_International_Group", 
+            "Stock_market", 
+            "Recycling", 
+            "Genius", 
+            "Aluminium", 
+            "Printing", 
+            "Chief_financial_officer", 
+            "Beverage_can", 
+            "Printing_press", 
+            "Idiot", 
+            "Beer", 
+            "Lawyer", 
+            "Investor", 
+            "Archaism", 
+            "Sucker", 
+            "Yahoo!", 
+            "Sucker", 
+            "Sex", 
+            "Jewellery", 
+            "BEAR_and_LION_Cipher", 
+            "Financial_planner", 
+            "Delta_Air_Lines", 
+            "Embezzlement", 
+            "Beer", 
+            "Psychiatric_hospital", 
+            "Investor", 
+            "Chief_executive_officer", 
+            "Yahoo!", 
+            "Lehman_Brothers", 
+            "Delta_Air_Lines", 
+            "Flow_(band)", 
+            "Toilet", 
+            "Stock"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Alcoholic_beverage", 
+            "Tax", 
+            "!!!"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "John_F._Kennedy", 
+            "Tax", 
+            "United_States_Senate", 
+            "Excise", 
+            "Ted_Kennedy", 
+            "Distilled_beverage"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "John_F._Kennedy", 
+            "Retirement_plan", 
+            "Canning", 
+            "Thirst", 
+            "!!!", 
+            "Life_Support_(film)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Record_producer", 
+            "Stress_(biological)", 
+            "Tax"
+        ], 
+        "postID": 6
+    }
+]

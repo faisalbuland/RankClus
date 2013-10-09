@@ -1,0 +1,71 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Planned_economy", 
+            "Barack_Obama", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "ACORN_(demographics)", 
+            "Census"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Military_service"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_House_of_Representatives", 
+            "Health_care", 
+            "Community_service", 
+            "Ohio", 
+            "Generations_(TV_series)", 
+            "Legislation", 
+            "Volunteer", 
+            "Learn_and_Serve_America", 
+            "United_States_Senate", 
+            "Legislation", 
+            "Learn_and_Serve_America", 
+            "Legislation", 
+            "AmeriCorps", 
+            "Energy", 
+            "Community_service", 
+            "National_service", 
+            "United_States", 
+            "Legislation", 
+            "Community_service", 
+            "United_States", 
+            "United_States", 
+            "Volunteerism", 
+            "United_States_Senate"
+        ], 
+        "postID": 8
+    }
+]

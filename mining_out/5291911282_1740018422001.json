@@ -1,0 +1,59 @@
+[
+    {
+        "entity": [
+            "Ladies_and_Gentlemen", 
+            "Credit_card", 
+            "Operation_CHASE", 
+            "Operation_CHASE", 
+            "USAA", 
+            "Credit_card"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "USAA", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Brand"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chase,_British_Columbia"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Check_card", 
+            "Bank", 
+            "Fireplace", 
+            "England", 
+            "Dude", 
+            "Plastic"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fraternity", 
+            "Annual_percentage_rate"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Debit_card", 
+            "Credit_card", 
+            "Debit_card"
+        ], 
+        "postID": 7
+    }
+]

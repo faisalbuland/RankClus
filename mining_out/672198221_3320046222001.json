@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Pork_barrel", 
+            "United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Legislation", 
+            "Democratic_Party_(United_States)", 
+            "Earmark_(politics)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gas", 
+            "Mortgage"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

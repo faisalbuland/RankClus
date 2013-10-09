@@ -1,0 +1,822 @@
+[
+    {
+        "entity": [
+            "LOL", 
+            "Bankruptcy", 
+            "Stupidity", 
+            "2009", 
+            "Boot", 
+            "Mon_people", 
+            "April_13"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Fraud"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Informed_consent"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Humour", 
+            "Public_morality"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Gay", 
+            "Israelis", 
+            "Don't_ask,_don't_tell", 
+            "Cohesion", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Cohesion_(computer_science)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Grey_matter", 
+            "Military_academy", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Cadet"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Human_sexual_behavior", 
+            "Sexual_intercourse", 
+            "Homosexuality", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Goat", 
+            "Pun", 
+            "Sex"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Don't_ask,_don't_tell", 
+            "Israel", 
+            "Sexual_orientation", 
+            "Don't_ask,_don't_tell", 
+            "Volunteer", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Logic"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Aloysius_Snuffleupagus", 
+            "Uniform_Code_of_Military_Justice", 
+            "Sodomy", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Bankruptcy", 
+            "Stupidity", 
+            "2009", 
+            "Boot", 
+            "Mon_people", 
+            "April_13"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Fraud"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Informed_consent"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Humour", 
+            "Public_morality"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Gay", 
+            "Israelis", 
+            "Don't_ask,_don't_tell", 
+            "Cohesion", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Cohesion_(computer_science)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Grey_matter", 
+            "Military_academy", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Cadet"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Human_sexual_behavior", 
+            "Sexual_intercourse", 
+            "Homosexuality", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Goat", 
+            "Pun", 
+            "Sex"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Don't_ask,_don't_tell", 
+            "Israel", 
+            "Sexual_orientation", 
+            "Don't_ask,_don't_tell", 
+            "Volunteer", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Logic"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Aloysius_Snuffleupagus", 
+            "Uniform_Code_of_Military_Justice", 
+            "Sodomy", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Bankruptcy", 
+            "Stupidity", 
+            "2009", 
+            "Boot", 
+            "Mon_people", 
+            "April_13"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Fraud"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Informed_consent"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Humour", 
+            "Public_morality"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Gay", 
+            "Israelis", 
+            "Don't_ask,_don't_tell", 
+            "Cohesion", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Cohesion_(computer_science)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Grey_matter", 
+            "Military_academy", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Cadet"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Human_sexual_behavior", 
+            "Sexual_intercourse", 
+            "Homosexuality", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Goat", 
+            "Pun", 
+            "Sex"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Don't_ask,_don't_tell", 
+            "Israel", 
+            "Sexual_orientation", 
+            "Don't_ask,_don't_tell", 
+            "Volunteer", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Logic"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Aloysius_Snuffleupagus", 
+            "Uniform_Code_of_Military_Justice", 
+            "Sodomy", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Bankruptcy", 
+            "Stupidity", 
+            "2009", 
+            "Boot", 
+            "Mon_people", 
+            "April_13"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Fraud"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Informed_consent"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Humour", 
+            "Public_morality"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Gay", 
+            "Israelis", 
+            "Don't_ask,_don't_tell", 
+            "Cohesion", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Cohesion_(computer_science)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Grey_matter", 
+            "Military_academy", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Cadet"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Human_sexual_behavior", 
+            "Sexual_intercourse", 
+            "Homosexuality", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Goat", 
+            "Pun", 
+            "Sex"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Don't_ask,_don't_tell", 
+            "Israel", 
+            "Sexual_orientation", 
+            "Don't_ask,_don't_tell", 
+            "Volunteer", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Logic"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Aloysius_Snuffleupagus", 
+            "Uniform_Code_of_Military_Justice", 
+            "Sodomy", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Bankruptcy", 
+            "Stupidity", 
+            "2009", 
+            "Boot", 
+            "Mon_people", 
+            "April_13"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Fraud"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Informed_consent"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Humour", 
+            "Public_morality"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Coming_out", 
+            "Gay", 
+            "Israelis", 
+            "Don't_ask,_don't_tell", 
+            "Cohesion", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Cohesion_(computer_science)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Grey_matter", 
+            "Military_academy", 
+            "Human_sexual_behavior"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Cadet"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [], 
+        "postID": 93
+    }, 
+    {
+        "entity": [], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Human_sexual_behavior", 
+            "Sexual_intercourse", 
+            "Homosexuality", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Goat", 
+            "Pun", 
+            "Sex"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Don't_ask,_don't_tell", 
+            "Israel", 
+            "Sexual_orientation", 
+            "Don't_ask,_don't_tell", 
+            "Volunteer", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Iraq", 
+            "Iraqi_Army", 
+            "Logic"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Aloysius_Snuffleupagus", 
+            "Uniform_Code_of_Military_Justice", 
+            "Sodomy", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 100
+    }
+]

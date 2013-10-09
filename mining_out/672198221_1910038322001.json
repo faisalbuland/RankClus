@@ -1,0 +1,378 @@
+[
+    {
+        "entity": [
+            "Immigration", 
+            "Islam", 
+            "Religious_conversion", 
+            "Haiti", 
+            "Newburgh_(city),_New_York"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Military_academy", 
+            "Military_aircraft", 
+            "New_York_City", 
+            "Clandestine_cell_system", 
+            "Terrorism", 
+            "Aircraft", 
+            "Clandestine_cell_system", 
+            "Newburgh_(city),_New_York"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Rape", 
+            "Islam"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tin_foil"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Pointy_hat", 
+            "Hat"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Coffee", 
+            "Spit_(landform)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Feds", 
+            "Mosque", 
+            "Newburg,_North_Dakota", 
+            "Muslim"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "Florida", 
+            "Lock_(water_transport)", 
+            "Stinger", 
+            "Florida", 
+            "Police", 
+            "Bravo", 
+            "Temple", 
+            "Judiciary", 
+            "Terrorism", 
+            "Sierra_Entertainment"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Water"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Undercover", 
+            "Playing_field", 
+            "Departments_of_France", 
+            "Violence", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Law", 
+            "Undercover", 
+            "Undercover"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Turtle", 
+            "Terrorism", 
+            "Punk_subculture", 
+            "Clown", 
+            "Ninja", 
+            "Stinger", 
+            "Terrorism", 
+            "Teenage_Mutant_Ninja_Turtles", 
+            "Florida", 
+            "Terrorism", 
+            "Missile"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "The_Pentagon", 
+            "George_W._Bush", 
+            "Alien_(film)", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Terrorism", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Winger_(ice_hockey)", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "The_Pentagon", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Jury", 
+            "Florida", 
+            "Ninja", 
+            "Bravo_(US_TV_channel)", 
+            "Florida", 
+            "Ku_Klux_Klan", 
+            "Mothers_Against_Drunk_Driving", 
+            "Federal_Bureau_of_Investigation", 
+            "Drunk_driving_(United_States)", 
+            "Terrorism", 
+            "September_11,_2001_attacks", 
+            "Sierra_Entertainment", 
+            "Screw"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Underground_economy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Big_Time_(song)", 
+            "Saturday_Night_(magazine)", 
+            "Underground_economy", 
+            "Time_(magazine)", 
+            "Gunpowder", 
+            "FIM-92_Stinger", 
+            "Basket", 
+            "Fruit", 
+            "Underground_economy"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Islam", 
+            "Religious_conversion", 
+            "Haiti", 
+            "Newburgh_(city),_New_York"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Military_academy", 
+            "Military_aircraft", 
+            "New_York_City", 
+            "Clandestine_cell_system", 
+            "Terrorism", 
+            "Aircraft", 
+            "Clandestine_cell_system", 
+            "Newburgh_(city),_New_York"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Rape", 
+            "Islam"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Tin_foil"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Pointy_hat", 
+            "Hat"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Coffee", 
+            "Spit_(landform)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Feds", 
+            "Mosque", 
+            "Newburg,_North_Dakota", 
+            "Muslim"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "Florida", 
+            "Lock_(water_transport)", 
+            "Stinger", 
+            "Florida", 
+            "Police", 
+            "Bravo", 
+            "Temple", 
+            "Judiciary", 
+            "Terrorism", 
+            "Sierra_Entertainment"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Water"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Undercover", 
+            "Playing_field", 
+            "Departments_of_France", 
+            "Violence", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Law", 
+            "Undercover", 
+            "Undercover"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Turtle", 
+            "Terrorism", 
+            "Punk_subculture", 
+            "Clown", 
+            "Ninja", 
+            "Stinger", 
+            "Terrorism", 
+            "Teenage_Mutant_Ninja_Turtles", 
+            "Florida", 
+            "Terrorism", 
+            "Missile"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "The_Pentagon", 
+            "George_W._Bush", 
+            "Alien_(film)", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Terrorism", 
+            "Terrorism", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Winger_(ice_hockey)", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "The_Pentagon", 
+            "Federal_Bureau_of_Investigation"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Jury", 
+            "Florida", 
+            "Ninja", 
+            "Bravo_(US_TV_channel)", 
+            "Florida", 
+            "Ku_Klux_Klan", 
+            "Mothers_Against_Drunk_Driving", 
+            "Federal_Bureau_of_Investigation", 
+            "Drunk_driving_(United_States)", 
+            "Terrorism", 
+            "September_11,_2001_attacks", 
+            "Sierra_Entertainment", 
+            "Screw"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Underground_economy"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Big_Time_(song)", 
+            "Saturday_Night_(magazine)", 
+            "Underground_economy", 
+            "Time_(magazine)", 
+            "Gunpowder", 
+            "FIM-92_Stinger", 
+            "Basket", 
+            "Fruit", 
+            "Underground_economy"
+        ], 
+        "postID": 40
+    }
+]

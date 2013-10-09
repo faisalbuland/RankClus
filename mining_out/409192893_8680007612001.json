@@ -1,0 +1,41 @@
+[
+    {
+        "entity": [
+            "Inflation", 
+            "Condom", 
+            "National_symbol"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Serbian_presidential_election,_2004", 
+            "Republican_Party_(United_States)", 
+            "United_States_presidential_election,_2004"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Disagree_(band)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

@@ -1,0 +1,744 @@
+[
+    {
+        "entity": [
+            "India", 
+            "TARP", 
+            "Tax", 
+            "China", 
+            "Dubai"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "BoA", 
+            "Credit_card", 
+            "Citigroup"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Member_of_Congress", 
+            "Mortgage", 
+            "China", 
+            "China", 
+            "Junk_(ship)", 
+            "Creep_(deformation)", 
+            "Profiteering", 
+            "Treason"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sildenafil", 
+            "Hooker", 
+            "Government_debt", 
+            "Credit_card", 
+            "God", 
+            "Debt"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Probability", 
+            "Sildenafil", 
+            "Government_debt", 
+            "Default_(finance)", 
+            "Hooker", 
+            "God", 
+            "Credit_card", 
+            "Debt", 
+            "C-SPAN"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bail"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dubai", 
+            "TARP", 
+            "The_People", 
+            "United_States_Department_of_the_Treasury", 
+            "Dennis_Kucinich", 
+            "United_States_Department_of_the_Treasury", 
+            "Dennis_Kucinich_presidential_campaign,_2008", 
+            "Micromanagement", 
+            "TARP", 
+            "United_States_Department_of_the_Treasury", 
+            "Bank", 
+            "Bank", 
+            "TARP"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Citigroup", 
+            "Corporation", 
+            "Dennis_Kucinich", 
+            "Protectionism", 
+            "United_States", 
+            "Citigroup", 
+            "Internet_forum", 
+            "TARP", 
+            "Citigroup", 
+            "United_States", 
+            "Hypocrisy", 
+            "Citigroup", 
+            "Shareholder", 
+            "Isolationism", 
+            "Liability", 
+            "Earmark", 
+            "United_States_Department_of_the_Treasury", 
+            "Bank", 
+            "United_States", 
+            "Hell"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Foreclosure", 
+            "Detroit,_Michigan", 
+            "Real_estate", 
+            "Cleveland,_Ohio", 
+            "Credit_card"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Infrastructure", 
+            "Welfare_(financial_aid)", 
+            "Entitlement", 
+            "United_States", 
+            "Minimum_wage", 
+            "Occupational_Safety_and_Health_Administration", 
+            "Democracy", 
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_House_of_Representatives", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Congress", 
+            "United_States_House_of_Representatives", 
+            "Republican_Party_(United_States)", 
+            "Fiat_currency", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "World_currency", 
+            "Currency", 
+            "Cereal", 
+            "Fiat_currency", 
+            "Constitution", 
+            "Currency", 
+            "World_order", 
+            "New_world_order", 
+            "Manufacturing", 
+            "United_States", 
+            "Woo_Hoo", 
+            "Debt"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Code_of_Federal_Regulations", 
+            "Demos", 
+            "Newshour"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Gold_standard", 
+            "Currency", 
+            "Exchange_rate", 
+            "Floating_exchange_rate", 
+            "Barter", 
+            "Chicken", 
+            "Fiat_currency", 
+            "Currency", 
+            "Gold_standard", 
+            "Goat", 
+            "Exchange_rate", 
+            "Metal", 
+            "Gold_standard", 
+            "Fixed_exchange_rate", 
+            "Currency", 
+            "Gold_standard", 
+            "Fiat_currency", 
+            "China", 
+            "Currency", 
+            "Money"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Deficit_spending", 
+            "Welfare_(financial_aid)", 
+            "Fiat_currency", 
+            "Gold", 
+            "Coffin", 
+            "Uniform_Resource_Locator", 
+            "Alan_Greenspan", 
+            "Newshour", 
+            "Franklin_D._Roosevelt", 
+            "Debt", 
+            "Franklin_D._Roosevelt", 
+            "Currency", 
+            "Gold", 
+            "Gold_standard", 
+            "Property", 
+            "Gold_standard", 
+            "Representative_money", 
+            "Fiat_currency", 
+            "Richard_Nixon", 
+            "Statism", 
+            "Nail_(fastener)", 
+            "Gold", 
+            "Gold_standard", 
+            "Statism", 
+            "Price_fixing", 
+            "Deficit", 
+            "Gold_standard"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gold", 
+            "Metal", 
+            "Property", 
+            "Gold", 
+            "Currency", 
+            "Gold", 
+            "Debt", 
+            "Debt", 
+            "Australian_Labor_Party", 
+            "Debt", 
+            "Fiat_currency", 
+            "Money", 
+            "March_12", 
+            "2009", 
+            "Currency"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Credit_card"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Rothschild_family", 
+            "Bank", 
+            "United_States_dollar", 
+            "Gold"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Serfdom", 
+            "Slavery"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Happiness", 
+            "Bank", 
+            "Shackle", 
+            "United_States", 
+            "Bank", 
+            "Liberty", 
+            "Mortgage", 
+            "United_States_dollar", 
+            "Tyrant", 
+            "Education", 
+            "Serfdom", 
+            "Liberty", 
+            "Debt"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Fiat_currency", 
+            "Currency", 
+            "Tyrant", 
+            "Gold_standard", 
+            "Fiat_currency", 
+            "Fiat_currency", 
+            "Coffee", 
+            "Fiat_currency"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Stock_market", 
+            "Inflation", 
+            "Money", 
+            "Deflation", 
+            "Gold_standard", 
+            "Economy", 
+            "Stock_market", 
+            "Money", 
+            "Recession"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Gold_standard", 
+            "Government_debt", 
+            "Iron", 
+            "Lion", 
+            "Germany", 
+            "Illusion", 
+            "Fiat_currency", 
+            "Fiat_currency", 
+            "Iron", 
+            "Lion", 
+            "Gold_standard", 
+            "Lion", 
+            "Lion", 
+            "United_States", 
+            "Fiat_currency", 
+            "Mouse"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Spawn_(biology)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Iron"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "India", 
+            "TARP", 
+            "Tax", 
+            "China", 
+            "Dubai"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "BoA", 
+            "Credit_card", 
+            "Citigroup"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Member_of_Congress", 
+            "Mortgage", 
+            "China", 
+            "China", 
+            "Junk_(ship)", 
+            "Creep_(deformation)", 
+            "Profiteering", 
+            "Treason"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Sildenafil", 
+            "Hooker", 
+            "Government_debt", 
+            "Credit_card", 
+            "God", 
+            "Debt"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Probability", 
+            "Sildenafil", 
+            "Government_debt", 
+            "Default_(finance)", 
+            "Hooker", 
+            "God", 
+            "Credit_card", 
+            "Debt", 
+            "C-SPAN"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Bail"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Dubai", 
+            "TARP", 
+            "The_People", 
+            "United_States_Department_of_the_Treasury", 
+            "Dennis_Kucinich", 
+            "United_States_Department_of_the_Treasury", 
+            "Dennis_Kucinich_presidential_campaign,_2008", 
+            "Micromanagement", 
+            "TARP", 
+            "United_States_Department_of_the_Treasury", 
+            "Bank", 
+            "Bank", 
+            "TARP"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Citigroup", 
+            "Corporation", 
+            "Dennis_Kucinich", 
+            "Protectionism", 
+            "United_States", 
+            "Citigroup", 
+            "Internet_forum", 
+            "TARP", 
+            "Citigroup", 
+            "United_States", 
+            "Hypocrisy", 
+            "Citigroup", 
+            "Shareholder", 
+            "Isolationism", 
+            "Liability", 
+            "Earmark", 
+            "United_States_Department_of_the_Treasury", 
+            "Bank", 
+            "United_States", 
+            "Hell"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Foreclosure", 
+            "Detroit,_Michigan", 
+            "Real_estate", 
+            "Cleveland,_Ohio", 
+            "Credit_card"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Infrastructure", 
+            "Welfare_(financial_aid)", 
+            "Entitlement", 
+            "United_States", 
+            "Minimum_wage", 
+            "Occupational_Safety_and_Health_Administration", 
+            "Democracy", 
+            "United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States_House_of_Representatives", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Congress", 
+            "United_States_House_of_Representatives", 
+            "Republican_Party_(United_States)", 
+            "Fiat_currency", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "World_currency", 
+            "Currency", 
+            "Cereal", 
+            "Fiat_currency", 
+            "Constitution", 
+            "Currency", 
+            "World_order", 
+            "New_world_order", 
+            "Manufacturing", 
+            "United_States", 
+            "Woo_Hoo", 
+            "Debt"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Code_of_Federal_Regulations", 
+            "Demos", 
+            "Newshour"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Gold_standard", 
+            "Currency", 
+            "Exchange_rate", 
+            "Floating_exchange_rate", 
+            "Barter", 
+            "Chicken", 
+            "Fiat_currency", 
+            "Currency", 
+            "Gold_standard", 
+            "Goat", 
+            "Exchange_rate", 
+            "Metal", 
+            "Gold_standard", 
+            "Fixed_exchange_rate", 
+            "Currency", 
+            "Gold_standard", 
+            "Fiat_currency", 
+            "China", 
+            "Currency", 
+            "Money"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Deficit_spending", 
+            "Welfare_(financial_aid)", 
+            "Fiat_currency", 
+            "Gold", 
+            "Coffin", 
+            "Uniform_Resource_Locator", 
+            "Alan_Greenspan", 
+            "Newshour", 
+            "Franklin_D._Roosevelt", 
+            "Debt", 
+            "Franklin_D._Roosevelt", 
+            "Currency", 
+            "Gold", 
+            "Gold_standard", 
+            "Property", 
+            "Gold_standard", 
+            "Representative_money", 
+            "Fiat_currency", 
+            "Richard_Nixon", 
+            "Statism", 
+            "Nail_(fastener)", 
+            "Gold", 
+            "Gold_standard", 
+            "Statism", 
+            "Price_fixing", 
+            "Deficit", 
+            "Gold_standard"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Gold", 
+            "Metal", 
+            "Property", 
+            "Gold", 
+            "Currency", 
+            "Gold", 
+            "Debt", 
+            "Debt", 
+            "Australian_Labor_Party", 
+            "Debt", 
+            "Fiat_currency", 
+            "Money", 
+            "March_12", 
+            "2009", 
+            "Currency"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Debt", 
+            "Credit_card"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Rothschild_family", 
+            "Bank", 
+            "United_States_dollar", 
+            "Gold"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Serfdom", 
+            "Slavery"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Happiness", 
+            "Bank", 
+            "Shackle", 
+            "United_States", 
+            "Bank", 
+            "Liberty", 
+            "Mortgage", 
+            "United_States_dollar", 
+            "Tyrant", 
+            "Education", 
+            "Serfdom", 
+            "Liberty", 
+            "Debt"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "Fiat_currency", 
+            "Currency", 
+            "Tyrant", 
+            "Gold_standard", 
+            "Fiat_currency", 
+            "Fiat_currency", 
+            "Coffee", 
+            "Fiat_currency"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Stock_market", 
+            "Inflation", 
+            "Money", 
+            "Deflation", 
+            "Gold_standard", 
+            "Economy", 
+            "Stock_market", 
+            "Money", 
+            "Recession"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Gold_standard", 
+            "Government_debt", 
+            "Iron", 
+            "Lion", 
+            "Germany", 
+            "Illusion", 
+            "Fiat_currency", 
+            "Fiat_currency", 
+            "Iron", 
+            "Lion", 
+            "Gold_standard", 
+            "Lion", 
+            "Lion", 
+            "United_States", 
+            "Fiat_currency", 
+            "Mouse"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Spawn_(biology)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Iron"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "entity": [
+            "Islamic_terrorism", 
+            "Missile", 
+            "The_World_Factbook", 
+            "Islamic_terrorism", 
+            "Pakistan", 
+            "The_World_Factbook"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Afghanistan", 
+            "Unmanned_aerial_vehicle"
+        ], 
+        "postID": 2
+    }
+]

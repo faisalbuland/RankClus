@@ -1,0 +1,213 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "2009", 
+            "Michelle_Obama", 
+            "Chile", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Barack_Obama", 
+            "Michelle_Bachelet", 
+            "Johann_Wolfgang_von_Goethe", 
+            "President_of_the_United_States", 
+            "Americas", 
+            "Americas", 
+            "Summit,_New_Jersey", 
+            "Johann_Wolfgang_von_Goethe", 
+            "President_of_the_United_States", 
+            "Union_of_South_American_Nations"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Political_corruption", 
+            "Illegal_immigration", 
+            "Immigration", 
+            "One-way_traffic"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "One-way_traffic", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Barack_Obama", 
+            "Dictator", 
+            "Communism", 
+            "Cuba", 
+            "Dictator"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Social_alienation", 
+            "Merchant", 
+            "United_States", 
+            "Bullying", 
+            "United_States", 
+            "Captain", 
+            "Bomb", 
+            "Piracy", 
+            "Pushover"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Eduardo_Galeano", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Europe", 
+            "Uruguay", 
+            "Americas", 
+            "Hugo_Ch\u00e1vez", 
+            "Barack_Obama", 
+            "United_States", 
+            "Venezuela", 
+            "Hugo_Ch\u00e1vez", 
+            "President_of_the_United_States", 
+            "1971", 
+            "Hugo_Ch\u00e1vez", 
+            "Colonisation", 
+            "Americas", 
+            "Hugo_Ch\u00e1vez", 
+            "Latin_America", 
+            "Photograph", 
+            "Looting", 
+            "Latin_America", 
+            "Latin_America", 
+            "Hugo_Award", 
+            "Latin_America", 
+            "List_of_Presidents_of_Venezuela", 
+            "Hugo_Ch\u00e1vez", 
+            "Americas", 
+            "Latin_America", 
+            "Latin_America", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "South_America", 
+            "Spanish_language", 
+            "Author"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Blog", 
+            "United_States", 
+            "Spin_(public_relations)", 
+            "Blog", 
+            "Internet"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Marxism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fidel_Castro", 
+            "Aircraft", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "Tropical_cyclone", 
+            "Pizzicato", 
+            "President_of_the_United_States", 
+            "Political_prisoner", 
+            "Cuba", 
+            "Bill_Clinton", 
+            "Cuba", 
+            "Cuba", 
+            "United_States", 
+            "Subsidy", 
+            "Bill_Clinton"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Jack_(device)", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Hoss_Cartwright", 
+            "Barack_Obama", 
+            "Honey", 
+            "Piracy", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Merle_Haggard"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Piracy", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Captain", 
+            "Piracy", 
+            "News_media"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "People's_Republic_of_China", 
+            "Bill_Clinton", 
+            "Iran"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Honey", 
+            "Merle_Haggard", 
+            "Milk", 
+            "George_W._Bush", 
+            "Merle_Haggard", 
+            "President_of_the_United_States", 
+            "Hoss_Cartwright"
+        ], 
+        "postID": 17
+    }
+]

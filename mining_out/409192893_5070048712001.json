@@ -1,0 +1,992 @@
+[
+    {
+        "entity": [
+            "Ammunition", 
+            "Logistics", 
+            "DLA", 
+            "Venture_Stores", 
+            "Mutilation", 
+            "Ammunition", 
+            "Scrap", 
+            "Firearm", 
+            "Ammunition", 
+            "Mutilation", 
+            "United_States_Department_of_Defense", 
+            "Defense_Logistics_Agency", 
+            "Scottsdale,_Arizona"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barrett_Firearms_Company", 
+            "Squirrel", 
+            "Barrett_M82", 
+            "Steyr", 
+            ".223_Remington", 
+            ".50_BMG", 
+            "Steyr_AUG"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Cartridge_(firearms)", 
+            "Caliber", 
+            "Ammunition", 
+            "Reusability", 
+            "Firearm", 
+            "Ammunition"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shoe", 
+            "Horse", 
+            "Horse", 
+            "Service_rifle", 
+            "Rifle", 
+            "Rifle", 
+            "Shoe", 
+            "Filling_station", 
+            "Sport", 
+            "Natural_gas", 
+            "Nail_(fastener)", 
+            "Brass", 
+            "Cog", 
+            "Pain", 
+            "Rifle"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Alaska", 
+            "223", 
+            "Ammunition"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "45_(number)", 
+            "Cartridge_(firearms)", 
+            ".223_Remington", 
+            "Brass", 
+            "Thread_(computer_science)", 
+            "Dirt_(TV_series)", 
+            ".308_Winchester"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Posttraumatic_stress_disorder", 
+            "Deer", 
+            "Posttraumatic_stress_disorder", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ironic_(song)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Fear_mongering"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Shooting_sports", 
+            "Chicken", 
+            "Ammunition", 
+            "Rhetoric", 
+            ".45_ACP", 
+            "Left-wing_politics", 
+            ".22_Long_Rifle", 
+            "M1911_pistol", 
+            "United_States_Department_of_Defense", 
+            "Inch", 
+            "Inch", 
+            "Ammunition", 
+            ".22_Long_Rifle", 
+            "Hoarding", 
+            "Match_grade", 
+            ".45_ACP", 
+            "Firearm", 
+            "Ammunition", 
+            "Firearm", 
+            "Handgun", 
+            "Ammunition", 
+            "Firearm", 
+            ".22_Long_Rifle", 
+            "Hobby", 
+            "Chicken_Little_(2005_film)", 
+            "Firearm"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Iron_Curtain", 
+            "Russians", 
+            "Curtain_Theatre", 
+            "Iron", 
+            "Adult", 
+            "Wisdom"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "World_Taekwondo_Federation", 
+            "Internet_forum", 
+            "Internet", 
+            "Forum", 
+            "Texas"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Esox", 
+            "Nancy_Pelosi", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Paranoia"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Modern_liberalism_in_the_United_States", 
+            "Liberalism", 
+            "Democratic_Party_(United_States)", 
+            "Deer", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Left-wing_politics", 
+            "Rehabilitation_(Soviet)", 
+            "Collar", 
+            "Deer_hunting", 
+            "Blue-collar_worker", 
+            "Flood", 
+            "United_States_Department_of_Defense", 
+            "Thread_(computer_science)", 
+            "Rehabilitation", 
+            "Crime", 
+            "Prison", 
+            "Rifle", 
+            "Prison", 
+            "Blue-collar_worker", 
+            "Assault", 
+            "Paranoia", 
+            "Duck", 
+            "Hunting", 
+            "Rifle", 
+            "Bass_guitar", 
+            "Liberalism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Nancy"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Hysteria", 
+            "Barack_Obama", 
+            "Propaganda", 
+            "Gun_politics", 
+            "Morphing", 
+            "Panic_buying", 
+            "United_States_Congress", 
+            "Right-wing_politics", 
+            "Chicken", 
+            "Democratic_Party_(United_States)", 
+            "Firearm", 
+            "Chicken_Little_(2005_film)", 
+            "Right-wing_politics", 
+            "Propaganda", 
+            "Right-wing_politics", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Law", 
+            "Police"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Hazmat", 
+            "Primer_(molecular_biology)", 
+            "Nail_(fastener)", 
+            "Primer_(molecular_biology)", 
+            "Shoe"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Pound_(mass)", 
+            ".45_ACP", 
+            "Hoarding", 
+            "Primer_(molecular_biology)", 
+            "2000", 
+            "Ammunition", 
+            "1500", 
+            ".22_Long_Rifle"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Joker_(playing_card)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Attorney_General", 
+            "Attorney_at_law", 
+            "Democratic_Party_(United_States)", 
+            "Assault_weapon", 
+            "United_States", 
+            "District", 
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Hysteria", 
+            "Democratic_Party_(United_States)", 
+            "Federal_Assault_Weapons_Ban", 
+            "United_States_House_of_Representatives", 
+            "Newspaper"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Colt's_Manufacturing_Company", 
+            "Handgun", 
+            "AK-47", 
+            "Ammunition", 
+            ".45_ACP", 
+            "Ammunition", 
+            "AR-15", 
+            "Cloning", 
+            "Firearm", 
+            "1911"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Ammunition", 
+            "Logistics", 
+            "DLA", 
+            "Venture_Stores", 
+            "Mutilation", 
+            "Ammunition", 
+            "Scrap", 
+            "Firearm", 
+            "Ammunition", 
+            "Mutilation", 
+            "United_States_Department_of_Defense", 
+            "Defense_Logistics_Agency", 
+            "Scottsdale,_Arizona"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Barrett_Firearms_Company", 
+            "Squirrel", 
+            "Barrett_M82", 
+            "Steyr", 
+            ".223_Remington", 
+            ".50_BMG", 
+            "Steyr_AUG"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Cartridge_(firearms)", 
+            "Caliber", 
+            "Ammunition", 
+            "Reusability", 
+            "Firearm", 
+            "Ammunition"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Shoe", 
+            "Horse", 
+            "Horse", 
+            "Service_rifle", 
+            "Rifle", 
+            "Rifle", 
+            "Shoe", 
+            "Filling_station", 
+            "Sport", 
+            "Natural_gas", 
+            "Nail_(fastener)", 
+            "Brass", 
+            "Cog", 
+            "Pain", 
+            "Rifle"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Alaska", 
+            "223", 
+            "Ammunition"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "45_(number)", 
+            "Cartridge_(firearms)", 
+            ".223_Remington", 
+            "Brass", 
+            "Thread_(computer_science)", 
+            "Dirt_(TV_series)", 
+            ".308_Winchester"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Posttraumatic_stress_disorder", 
+            "Deer", 
+            "Posttraumatic_stress_disorder", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ironic_(song)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Fear_mongering"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Shooting_sports", 
+            "Chicken", 
+            "Ammunition", 
+            "Rhetoric", 
+            ".45_ACP", 
+            "Left-wing_politics", 
+            ".22_Long_Rifle", 
+            "M1911_pistol", 
+            "United_States_Department_of_Defense", 
+            "Inch", 
+            "Inch", 
+            "Ammunition", 
+            ".22_Long_Rifle", 
+            "Hoarding", 
+            "Match_grade", 
+            ".45_ACP", 
+            "Firearm", 
+            "Ammunition", 
+            "Firearm", 
+            "Handgun", 
+            "Ammunition", 
+            "Firearm", 
+            ".22_Long_Rifle", 
+            "Hobby", 
+            "Chicken_Little_(2005_film)", 
+            "Firearm"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Iron_Curtain", 
+            "Russians", 
+            "Curtain_Theatre", 
+            "Iron", 
+            "Adult", 
+            "Wisdom"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "World_Taekwondo_Federation", 
+            "Internet_forum", 
+            "Internet", 
+            "Forum", 
+            "Texas"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Esox", 
+            "Nancy_Pelosi", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Paranoia"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Modern_liberalism_in_the_United_States", 
+            "Liberalism", 
+            "Democratic_Party_(United_States)", 
+            "Deer", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Left-wing_politics", 
+            "Rehabilitation_(Soviet)", 
+            "Collar", 
+            "Deer_hunting", 
+            "Blue-collar_worker", 
+            "Flood", 
+            "United_States_Department_of_Defense", 
+            "Thread_(computer_science)", 
+            "Rehabilitation", 
+            "Crime", 
+            "Prison", 
+            "Rifle", 
+            "Prison", 
+            "Blue-collar_worker", 
+            "Assault", 
+            "Paranoia", 
+            "Duck", 
+            "Hunting", 
+            "Rifle", 
+            "Bass_guitar", 
+            "Liberalism"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Nancy"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Hysteria", 
+            "Barack_Obama", 
+            "Propaganda", 
+            "Gun_politics", 
+            "Morphing", 
+            "Panic_buying", 
+            "United_States_Congress", 
+            "Right-wing_politics", 
+            "Chicken", 
+            "Democratic_Party_(United_States)", 
+            "Firearm", 
+            "Chicken_Little_(2005_film)", 
+            "Right-wing_politics", 
+            "Propaganda", 
+            "Right-wing_politics", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Law", 
+            "Police"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Hazmat", 
+            "Primer_(molecular_biology)", 
+            "Nail_(fastener)", 
+            "Primer_(molecular_biology)", 
+            "Shoe"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Pound_(mass)", 
+            ".45_ACP", 
+            "Hoarding", 
+            "Primer_(molecular_biology)", 
+            "2000", 
+            "Ammunition", 
+            "1500", 
+            ".22_Long_Rifle"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Joker_(playing_card)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Attorney_General", 
+            "Attorney_at_law", 
+            "Democratic_Party_(United_States)", 
+            "Assault_weapon", 
+            "United_States", 
+            "District", 
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Hysteria", 
+            "Democratic_Party_(United_States)", 
+            "Federal_Assault_Weapons_Ban", 
+            "United_States_House_of_Representatives", 
+            "Newspaper"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Colt's_Manufacturing_Company", 
+            "Handgun", 
+            "AK-47", 
+            "Ammunition", 
+            ".45_ACP", 
+            "Ammunition", 
+            "AR-15", 
+            "Cloning", 
+            "Firearm", 
+            "1911"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Ammunition", 
+            "Logistics", 
+            "DLA", 
+            "Venture_Stores", 
+            "Mutilation", 
+            "Ammunition", 
+            "Scrap", 
+            "Firearm", 
+            "Ammunition", 
+            "Mutilation", 
+            "United_States_Department_of_Defense", 
+            "Defense_Logistics_Agency", 
+            "Scottsdale,_Arizona"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Barrett_Firearms_Company", 
+            "Squirrel", 
+            "Barrett_M82", 
+            "Steyr", 
+            ".223_Remington", 
+            ".50_BMG", 
+            "Steyr_AUG"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Cartridge_(firearms)", 
+            "Caliber", 
+            "Ammunition", 
+            "Reusability", 
+            "Firearm", 
+            "Ammunition"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Shoe", 
+            "Horse", 
+            "Horse", 
+            "Service_rifle", 
+            "Rifle", 
+            "Rifle", 
+            "Shoe", 
+            "Filling_station", 
+            "Sport", 
+            "Natural_gas", 
+            "Nail_(fastener)", 
+            "Brass", 
+            "Cog", 
+            "Pain", 
+            "Rifle"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Alaska", 
+            "223", 
+            "Ammunition"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "45_(number)", 
+            "Cartridge_(firearms)", 
+            ".223_Remington", 
+            "Brass", 
+            "Thread_(computer_science)", 
+            "Dirt_(TV_series)", 
+            ".308_Winchester"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Posttraumatic_stress_disorder", 
+            "Deer", 
+            "Posttraumatic_stress_disorder", 
+            "World_Taekwondo_Federation"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Ironic_(song)", 
+            "Republican_Party_(United_States)", 
+            "Bank", 
+            "Fear_mongering"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Shooting_sports", 
+            "Chicken", 
+            "Ammunition", 
+            "Rhetoric", 
+            ".45_ACP", 
+            "Left-wing_politics", 
+            ".22_Long_Rifle", 
+            "M1911_pistol", 
+            "United_States_Department_of_Defense", 
+            "Inch", 
+            "Inch", 
+            "Ammunition", 
+            ".22_Long_Rifle", 
+            "Hoarding", 
+            "Match_grade", 
+            ".45_ACP", 
+            "Firearm", 
+            "Ammunition", 
+            "Firearm", 
+            "Handgun", 
+            "Ammunition", 
+            "Firearm", 
+            ".22_Long_Rifle", 
+            "Hobby", 
+            "Chicken_Little_(2005_film)", 
+            "Firearm"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Iron_Curtain", 
+            "Russians", 
+            "Curtain_Theatre", 
+            "Iron", 
+            "Adult", 
+            "Wisdom"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "World_Taekwondo_Federation", 
+            "Internet_forum", 
+            "Internet", 
+            "Forum", 
+            "Texas"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Esox", 
+            "Nancy_Pelosi", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Paranoia"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Modern_liberalism_in_the_United_States", 
+            "Liberalism", 
+            "Democratic_Party_(United_States)", 
+            "Deer", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Left-wing_politics", 
+            "Rehabilitation_(Soviet)", 
+            "Collar", 
+            "Deer_hunting", 
+            "Blue-collar_worker", 
+            "Flood", 
+            "United_States_Department_of_Defense", 
+            "Thread_(computer_science)", 
+            "Rehabilitation", 
+            "Crime", 
+            "Prison", 
+            "Rifle", 
+            "Prison", 
+            "Blue-collar_worker", 
+            "Assault", 
+            "Paranoia", 
+            "Duck", 
+            "Hunting", 
+            "Rifle", 
+            "Bass_guitar", 
+            "Liberalism"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Nancy"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Second_Amendment_to_the_United_States_Constitution"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Hysteria", 
+            "Barack_Obama", 
+            "Propaganda", 
+            "Gun_politics", 
+            "Morphing", 
+            "Panic_buying", 
+            "United_States_Congress", 
+            "Right-wing_politics", 
+            "Chicken", 
+            "Democratic_Party_(United_States)", 
+            "Firearm", 
+            "Chicken_Little_(2005_film)", 
+            "Right-wing_politics", 
+            "Propaganda", 
+            "Right-wing_politics", 
+            "National_Rifle_Association"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Law", 
+            "Police"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Hazmat", 
+            "Primer_(molecular_biology)", 
+            "Nail_(fastener)", 
+            "Primer_(molecular_biology)", 
+            "Shoe"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Pound_(mass)", 
+            ".45_ACP", 
+            "Hoarding", 
+            "Primer_(molecular_biology)", 
+            "2000", 
+            "Ammunition", 
+            "1500", 
+            ".22_Long_Rifle"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Ear", 
+            "Joker_(playing_card)"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Attorney_General", 
+            "Attorney_at_law", 
+            "Democratic_Party_(United_States)", 
+            "Assault_weapon", 
+            "United_States", 
+            "District", 
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "Hysteria", 
+            "Democratic_Party_(United_States)", 
+            "Federal_Assault_Weapons_Ban", 
+            "United_States_House_of_Representatives", 
+            "Newspaper"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Colt's_Manufacturing_Company", 
+            "Handgun", 
+            "AK-47", 
+            "Ammunition", 
+            ".45_ACP", 
+            "Ammunition", 
+            "AR-15", 
+            "Cloning", 
+            "Firearm", 
+            "1911"
+        ], 
+        "postID": 90
+    }
+]

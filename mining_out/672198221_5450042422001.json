@@ -1,0 +1,126 @@
+[
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Enriched_uranium", 
+            "Nuclear_program_of_Iran", 
+            "Sanctions_against_Iran", 
+            "Sanctions_against_Iran", 
+            "Mahmoud_Ahmadinejad", 
+            "Iran", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Sanctions_against_Iran", 
+            "Barack_Obama", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "Iran", 
+            "Tehran", 
+            "Uranium", 
+            "United_Nations", 
+            "Nuclear_program_of_Iran", 
+            "Barack_Obama", 
+            "Nuclear_program_of_Iran", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "Iran", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "United_States", 
+            "Nuclear_program_of_Iran", 
+            "President_of_the_United_States", 
+            "News_conference", 
+            "Mahmoud_Ahmadinejad", 
+            "Election", 
+            "Iran"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Spiel"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Camera"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Saber_noise", 
+            "Mahmoud_Ahmadinejad"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Iran"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Time_(magazine)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "CBS", 
+            "American_Civil_War", 
+            "White_House", 
+            "Slavery", 
+            "NBC", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Chato_Volcano", 
+            "LOL", 
+            "Shame"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Dog_breed", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Nuclear_program_of_Iran", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Cat", 
+            "Data_entry_clerk"
+        ], 
+        "postID": 13
+    }
+]

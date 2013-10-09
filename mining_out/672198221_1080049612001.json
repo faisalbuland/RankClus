@@ -1,0 +1,141 @@
+[
+    {
+        "entity": [
+            "Aortic_valve", 
+            "Heart_valve", 
+            "The_Methodist_Hospital", 
+            "Cardiac_surgery", 
+            "George_W._Bush", 
+            "Cardiac_surgery", 
+            "Hospital", 
+            "George_W._Bush", 
+            "Aortic_valve", 
+            "Glenn_McGrath", 
+            "Hospital", 
+            "Surgery", 
+            "Surgery", 
+            "Heart_valve", 
+            "Barbara_Bush", 
+            "Surgery", 
+            "Breathing", 
+            "Methodism", 
+            "Heart_valve", 
+            "Surgery", 
+            "Methodism", 
+            "Cardiac_surgery", 
+            "Laura_Bush", 
+            "Barbara_Bush", 
+            "George_W._Bush", 
+            "Methodist_Hospital_of_Indianapolis", 
+            "Cardiac_surgery", 
+            "Surgeon", 
+            "Heart_valve", 
+            "Aortic_valve", 
+            "Jim_McGrath_(British_commentator)", 
+            "Aortic_valve"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Clapper_(musical_instrument)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Houston_Chronicle", 
+            "!!!", 
+            "Houston,_Texas"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "First_Lady"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Blood", 
+            "Jim_McGrath_(British_commentator)", 
+            "Barbara_Bush", 
+            "Blood_flow", 
+            "George_W._Bush", 
+            "Update_(SQL)", 
+            "Heart_valve", 
+            "Heart_valve", 
+            "George_W._Bush", 
+            "Hospital", 
+            "Aortic_valve", 
+            "George_W._Bush", 
+            "Aortic_valve", 
+            "Heart_valve", 
+            "Barbara_Bush", 
+            "Aortic_valve", 
+            "Aortic_valve", 
+            "Intensive_care_unit", 
+            "Glenn_McGrath", 
+            "Intensive_care_medicine", 
+            "Surgeon", 
+            "George_W._Bush", 
+            "Breathing", 
+            "Surgery", 
+            "Heart_valve", 
+            "Surgery"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "First_Lady", 
+            "Hero", 
+            "Civil_service"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Bush_family", 
+            "George_W._Bush", 
+            "Patrol_boat", 
+            "Dog", 
+            "George_W._Bush", 
+            "Dock_(maritime)", 
+            "United_States_Secret_Service", 
+            "United_States_Secret_Service", 
+            "United_States_Secret_Service", 
+            "Coffee", 
+            "Barbara_Bush"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "News_media"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "Dick_Cheney", 
+            "Joe_Biden", 
+            "Dick_Cheney", 
+            "Hugo_Award", 
+            "CBS", 
+            "Hugo_Ch\u00e1vez", 
+            "God", 
+            "Guantanamo_Bay_detention_camp", 
+            "Torture", 
+            "Joe_Biden", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Barack_Obama", 
+            "Chavez_(band)", 
+            "Joe_Biden", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Joe's_Own_Editor"
+        ], 
+        "postID": 3
+    }
+]

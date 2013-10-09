@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Poster"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Fact_checker", 
+            "Cindy_Williams", 
+            "Snopes", 
+            "Shirley,_London", 
+            "Laverne_Roberts", 
+            "Internet_forum", 
+            "WilliamsF1"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Slime", 
+            "Dude"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hollyweird", 
+            "Republican_Party_(United_States)", 
+            "Kelsey_Grammer", 
+            "Tracy_Grammer", 
+            "Kelsey,_Alberta"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hollyweird", 
+            "!!!"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Conscience", 
+            "Vic", 
+            "Nail_(fastener)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Princess", 
+            "Economy", 
+            "Record_producer", 
+            "Marmot", 
+            "Marmot", 
+            "Quantum_Corp.", 
+            "Parental_controls", 
+            "Film", 
+            "Drama", 
+            "Hollyweird", 
+            "Loon", 
+            "Discretionary_income", 
+            "Undergarment"
+        ], 
+        "postID": 9
+    }
+]

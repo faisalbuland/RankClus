@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [
+            "Lou_Dobbs"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Understatement", 
+            "Nightmare"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Daily_Planet", 
+            "Object_Management_Group", 
+            "Booing", 
+            "Daily_Planet"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Keith_Olbermann", 
+            "Benvenuto_Tisi_(il_Garofalo)", 
+            "Left-wing_politics", 
+            "Fair_and_balanced", 
+            "Nonsense", 
+            "Keith_Olbermann", 
+            "Pundit_(expert)", 
+            "Internet_forum", 
+            "Wing", 
+            "Janeane_Garofalo", 
+            "Sean_Hannity", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Chair_(official)", 
+            "Coulter,_South_Lanarkshire", 
+            "Jeanne,_Countess_of_Flanders", 
+            "Playground", 
+            "Rush_(band)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }
+]

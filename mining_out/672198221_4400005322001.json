@@ -1,0 +1,63 @@
+[
+    {
+        "entity": [
+            "Gas", 
+            "Florida", 
+            "Mass", 
+            "Work_experience", 
+            "Hallucination", 
+            "State", 
+            "List_of_United_States_state_prisons", 
+            "Prison", 
+            "Lachrymatory_agent", 
+            "Cell_(biology)", 
+            "Mass_hysteria", 
+            "Bean"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pol", 
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Lala"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Afghanistan"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Stun_gun", 
+            "Lachrymatory_agent", 
+            "Gas"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }
+]

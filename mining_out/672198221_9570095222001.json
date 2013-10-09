@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "Humiliation", 
+            "Foot_whipping"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gestapo"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Islamic_terrorism", 
+            "Islamism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_bankruptcy_court", 
+            "Arthur_Gonzalez", 
+            "Guard_(American_football)", 
+            "Bankruptcy", 
+            "Chrysler", 
+            "Attorney_at_law", 
+            "King_Arthur", 
+            "Bankruptcy", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Cookie_jar", 
+            "Cookie", 
+            "Cookie", 
+            "Cookie_jar", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cookie"
+        ], 
+        "postID": 10
+    }
+]

@@ -8,28 +8,53 @@
     <file path="/ranker.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370609657458" ignored="false" />
     <file path="$PROJECT_DIR$/../Repos/mongoEntry/GenNetwork.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369979617629" ignored="false" />
     <file path="/user.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369986826121" ignored="false" />
-    <file path="/main.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370611066736" ignored="false" />
+    <file path="/main.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371748071248" ignored="false" />
     <file path="/Curator.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989673486" ignored="false" />
-    <file path="$PROJECT_DIR$/cogcomp/labeler/constants.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
-    <file path="$PROJECT_DIR$/cogcomp/cluster/constants.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
     <file path="$PROJECT_DIR$/cogcomp/parser/Parser.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
-    <file path="$PROJECT_DIR$/cogcomp/cluster/ClusterGenerator.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
     <file path="$PROJECT_DIR$/cogcomp/parser/MultiParser.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
     <file path="$PROJECT_DIR$/cogcomp/parser/constants.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
-    <file path="$PROJECT_DIR$/cogcomp/labeler/MultiLabeler.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
-    <file path="$PROJECT_DIR$/cogcomp/labeler/Labeler.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369989724780" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370071709081" ignored="false" />
     <file path="/Library/Python/2.7/site-packages/thrift/__init__.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369990956023" ignored="false" />
     <file path="/Library/Python/2.7/site-packages/thrift/protocol/__init__.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369990956023" ignored="false" />
     <file path="/Library/Python/2.7/site-packages/thrift/Thrift.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369990956023" ignored="false" />
     <file path="/Library/Python/2.7/site-packages/thrift/transport/__init__.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369990956023" ignored="false" />
     <file path="/Library/Python/2.7/site-packages/thrift/protocol/TBinaryProtocol.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369990956023" ignored="false" />
-    <file path="/client.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1369993017877" ignored="false" />
+    <file path="/client.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370872412153" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/relaxng.rng" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370134980744" ignored="false" />
-    <file path="/rankclus.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370611148489" ignored="false" />
-    <file path="/network.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370611532425" ignored="false" />
+    <file path="/rankclus.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370820911191" ignored="false" />
+    <file path="/network.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370820812437" ignored="false" />
     <file path="/test_list.txt" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370605807317" ignored="false" />
-    <file path="/a.dummy" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370559073875" ignored="false" />
+    <file path="/a.dummy" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371621624141" ignored="false" />
+    <file path="/mining.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1370872460181" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/main.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371748071686" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/config/curator_componet.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371467915218" ignored="false" />
+    <file path="/curator_componet.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371466796736" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/config/user.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371621579319" ignored="false" />
+    <file path="/user.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371466867604" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/process_manage.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371747997167" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/template/main.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371482807250" ignored="false" />
+    <file path="/main.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371745527641" ignored="false" />
+    <file path="/process_manage.py" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371747994467" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/README" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371469214079" ignored="false" />
+    <file path="/README" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371469212280" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/config/curator_component.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371746486919" ignored="false" />
+    <file path="/curator_component.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371470575291" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/config/configs.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371621397617" ignored="false" />
+    <file path="/configs.json" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371621220697" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/log.txt" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371621917031" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/template/login.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371633013466" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/templates/main.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371745527641" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/templates/config.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371746766622" ignored="false" />
+    <file path="/config.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371746766622" ignored="false" />
+    <file path="/common.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371726534417" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/static/common.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371726534857" ignored="false" />
+    <file path="/login.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371726672153" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/templates/login.html" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371726672153" ignored="false" />
+    <file path="/monitor.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371745996738" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/static/monitor.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371745998938" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/static/config.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371747034688" ignored="false" />
+    <file path="/config.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371746988499" ignored="false" />
+    <file path="$PROJECT_DIR$/../CuratorMonitor/static/jquery.js" changelist="4790d332-e57b-4c0d-acf7-e011ac48e015" time="1371745513968" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
+      <file leaf-file-name="mining.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mining.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="525" selection-end="525" vertical-scroll-proportion="0.3717201">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="network.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/structure/network.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="281" column="50" selection-start="8751" selection-end="8751" vertical-scroll-proportion="0.0">
+            <state line="5" column="11" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +86,25 @@
       <file leaf-file-name="DataReader.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/reader/DataReader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="38" selection-start="4516" selection-end="4516" vertical-scroll-proportion="0.0">
+            <state line="7" column="70" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/structure/network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="208" column="53" selection-start="6314" selection-end="6314" vertical-scroll-proportion="2.444882">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cluster.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rankclus/cluster.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,7 +113,7 @@
       <file leaf-file-name="rankclus.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rankclus/rankclus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="18" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -88,7 +122,16 @@
       <file leaf-file-name="ranker.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rankclus/ranker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="19" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
+            <state line="14" column="30" selection-start="509" selection-end="511" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="em.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rankclus/em.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,10 +147,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/data/structure/user.py" />
-        <option value="$PROJECT_DIR$/curator/cogcomp/curator/Curator.py" />
         <option value="$PROJECT_DIR$/cogcomp/curator/Curator.py" />
-        <option value="$PROJECT_DIR$/curator/client.py" />
         <option value="$PROJECT_DIR$/rankclus/em.py" />
         <option value="$PROJECT_DIR$/rankclus/cluster.py" />
         <option value="$PROJECT_DIR$/Data/reader/DataReader.py" />
@@ -116,18 +156,21 @@
         <option value="$PROJECT_DIR$/RankClus/ranker.py" />
         <option value="$PROJECT_DIR$/NetworkData/test_list.txt" />
         <option value="$PROJECT_DIR$/rankclus/ranker.py" />
-        <option value="$PROJECT_DIR$/rankclus/rankclus.py" />
         <option value="$PROJECT_DIR$/data/structure/network.py" />
-        <option value="$PROJECT_DIR$/data/reader/DataReader.py" />
+        <option value="$PROJECT_DIR$/rankclus/rankclus.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/examine.py" />
+        <option value="$PROJECT_DIR$/data/reader/DataReader.py" />
+        <option value="$PROJECT_DIR$/curator/client.py" />
+        <option value="$PROJECT_DIR$/mining.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="97" />
-    <option name="width" value="1928" />
-    <option name="height" value="1177" />
+    <option name="x" value="53" />
+    <option name="y" value="22" />
+    <option name="width" value="2507" />
+    <option name="height" value="1418" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -239,38 +282,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RankClus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RankClus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RankClus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RankClus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NetworkData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -278,11 +289,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CuratorMonitor" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -298,7 +310,7 @@
       <recent name="$PROJECT_DIR$/data/reader" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.mining">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,6 +329,25 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mining" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RankClus" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mining.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -380,16 +411,35 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mining" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.mining" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4790d332-e57b-4c0d-acf7-e011ac48e015" name="Default" comment="" />
@@ -399,18 +449,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="97" width="1928" height="1177" extended-state="0" />
+    <frame x="53" y="22" width="2507" height="1418" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25345376" sideWeight="0.6754967" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18000813" sideWeight="0.7417803" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39943343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3245033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25821972" sideWeight="0.93387425" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -482,111 +532,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cogcomp/curator/ttypes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="206" selection-end="206" vertical-scroll-proportion="0.19794722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cogcomp/curator/Curator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="27" selection-start="5546" selection-end="5546" vertical-scroll-proportion="0.60730594">
-          <folding>
-            <element signature="e#141#198#0" expanded="false" />
-            <element signature="e#507#2661#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/20090301_20090601/27819558_1710089122001.json">
+    <entry file="file://$PROJECT_DIR$/mining_out/409192893_2840069322001.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/20090301_20090601.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1490" column="0" selection-start="44148" selection-end="44148" vertical-scroll-proportion="-26.084549" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/20090301_20090601/27819558_1120076912001.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="4572" selection-end="4572" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reader/__init__.py">
+    <entry file="file://$PROJECT_DIR$/mining_out/672198221_6950039322001.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/matrixlib/defmatrix.py">
+    <entry file="file://$PROJECT_DIR$/mining_out/5291911282_5360092812001.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="329" column="0" selection-start="9010" selection-end="9010" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/5531905206_6760006712001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/4960045241001_4690038122001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/6960020520001_4750080812001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/6960020520001_5240053912001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/6960020520001_2980093022001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining_out/4960045241001_6960003122001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reader/DataReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="70" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/20090301_20090601/27819558_1370031812001.json">
+    <entry file="file://$PROJECT_DIR$/mining.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="43" selection-start="3799" selection-end="3821" vertical-scroll-proportion="-4.375">
+        <state line="5" column="11" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curator/client.py">
+    <entry file="file://$PROJECT_DIR$/rankclus/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="454" selection-end="454" vertical-scroll-proportion="0.30612245">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rankclus/ranker.py">
+    <entry file="file://$PROJECT_DIR$/rankclus/em.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="19" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/20090301_20090601/27819558_1080004712001.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="4226" selection-end="4231" vertical-scroll-proportion="0.20801233">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetworkData/test_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="27" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rankclus/rankclus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="18" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rankclus/ranker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="509" selection-end="511" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/structure/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="50" selection-start="8751" selection-end="8751" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reader/DataReader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="38" selection-start="4516" selection-end="4516" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="525" selection-end="525" vertical-scroll-proportion="0.3717201">
+        <state line="208" column="53" selection-start="6314" selection-end="6314" vertical-scroll-proportion="2.444882">
           <folding />
         </state>
       </provider>

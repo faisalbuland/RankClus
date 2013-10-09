@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Torture", 
+            "Barack_Obama", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Lipstick", 
+            "Cakewalk", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "GWB", 
+            "Makeover", 
+            "Piggy_(Merrie_Melodies)", 
+            "Barack_Obama", 
+            "Prosecutor", 
+            "Guantanamo_military_commission", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Qur'an", 
+            "Terrorism", 
+            "Fault_(geology)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Guilt", 
+            "Hell", 
+            "Pig", 
+            "United_States", 
+            "Optics", 
+            "Gonzo_(studio)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Backtracking", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Election_Day", 
+            "2012", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Medicare_(Canada)", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }
+]

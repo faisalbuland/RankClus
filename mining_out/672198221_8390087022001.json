@@ -1,0 +1,614 @@
+[
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "National_Rifle_Association", 
+            "Federation_Against_Copyright_Theft", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Wow_(recording)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Wishful_thinking", 
+            "Statistic", 
+            "Gun_politics", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "National_Rifle_Association", 
+            "Mexico", 
+            "Statistics"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "Politics_of_Mexico", 
+            "United_States", 
+            "Cash_flow", 
+            "Mexico", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "United_States", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Weapon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Customs", 
+            "Travel_trailer", 
+            "Customs", 
+            "Customs", 
+            "Mexico", 
+            "U.S._Customs_and_Border_Protection"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Federation_Against_Copyright_Theft", 
+            "Mexico", 
+            "Joseph_Stalin", 
+            "Yea,_Victoria", 
+            "Joseph_Stalin", 
+            "Barack_Obama", 
+            "Global_warming", 
+            "Politics"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "BEAR_and_LION_Cipher", 
+            "ARMS", 
+            "Political_corruption", 
+            "Sucker", 
+            "Left-wing_politics"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bone", 
+            "Genocide", 
+            "United_States", 
+            "Japan", 
+            "Slavery", 
+            "Smoke", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Violence"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Mexico", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Law", 
+            "Energy", 
+            "Politics_of_Mexico", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Psychoactive_drug", 
+            "Violence", 
+            "United_States", 
+            "Drug"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Mexico"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Violence", 
+            "Drug"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "United_States", 
+            "Drug", 
+            "Police", 
+            "Mexico", 
+            "Ford_Motor_Company", 
+            "Drug", 
+            "United_States", 
+            "Gerald_Ford"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hora", 
+            "William_Newell", 
+            "Mexico", 
+            "Smuggling", 
+            "Belgium", 
+            "Illegal_drug_trade", 
+            "Colombia", 
+            "AK-47", 
+            "Israel", 
+            "Spain", 
+            "Mexico", 
+            "Revolutionary_Armed_Forces_of_Colombia", 
+            "Military_of_the_United_States", 
+            "Immigration", 
+            "People's_Republic_of_China", 
+            "Cartel", 
+            "M16_rifle", 
+            "Herbert_Hoover", 
+            "Rifle", 
+            "Cache", 
+            "Smuggling", 
+            "2006", 
+            "Asia", 
+            "Arms_trafficking", 
+            "Mexico", 
+            "Explosive_material", 
+            "Assault_rifle", 
+            "Crime", 
+            "Intelligence_agency", 
+            "Crime_scene", 
+            "Intelligence_(information_gathering)", 
+            "Korean_language", 
+            "Guatemala", 
+            "Africa", 
+            "Russian_language", 
+            "Police", 
+            "Mexico", 
+            "Politics_of_Mexico", 
+            "Illegal_drug_trade", 
+            "Mexican_Army", 
+            "United_States", 
+            "Mexico", 
+            "Drug_cartel", 
+            "United_States", 
+            "United_States_Congress", 
+            "Illegal_drug_trade", 
+            "Rocket-propelled_grenade", 
+            "Tijuana", 
+            "United_States_Intelligence_Community", 
+            "Interpol", 
+            "Special_agent", 
+            "Town", 
+            "Rocket", 
+            "China", 
+            "Latin_America", 
+            "Porosity", 
+            "Hand_grenade", 
+            "United_States_Congress", 
+            "Crime_scene", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Latin_America", 
+            "Hand_grenade", 
+            "Underground_economy", 
+            "March_27", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Mexico", 
+            "Crime", 
+            "Fragmentation_(weaponry)", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Bazaar", 
+            "United_States_House_of_Representatives", 
+            "Ixc\u00e1n", 
+            "AK-47", 
+            "Allen_Newell", 
+            "Cuban_Revolution", 
+            "Assault_weapon", 
+            "Mexico", 
+            "Russian_Mafia", 
+            "Revolutionary_Armed_Forces_of_Colombia", 
+            "Russian_language", 
+            "Federal_Research_Division", 
+            "Cocaine", 
+            "Organized_crime", 
+            "South_America", 
+            "United_States", 
+            "La_Hora", 
+            "Crime", 
+            "United_States", 
+            "Hand_grenade", 
+            "Mafia", 
+            "United_States_Army", 
+            "United_States", 
+            "China", 
+            "Asia", 
+            "Gerald_Ford", 
+            "Library_of_Congress", 
+            "Amnesty_International", 
+            "Guatemala", 
+            "Cartel", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Eastern_Bloc", 
+            "Soviet_Union", 
+            "Illegal_drug_trade", 
+            "The_Mexican", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "South_Korea", 
+            "Korea", 
+            "Newspaper", 
+            "Smuggling", 
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Psychoactive_drug", 
+            "Drug", 
+            "Violence"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "National_Rifle_Association", 
+            "Federation_Against_Copyright_Theft", 
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Wow_(recording)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Mile", 
+            "Wishful_thinking", 
+            "Statistic", 
+            "Gun_politics", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "National_Rifle_Association", 
+            "Mexico", 
+            "Statistics"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "Politics_of_Mexico", 
+            "United_States", 
+            "Cash_flow", 
+            "Mexico", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "United_States", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Weapon"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Customs", 
+            "Travel_trailer", 
+            "Customs", 
+            "Customs", 
+            "Mexico", 
+            "U.S._Customs_and_Border_Protection"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Federation_Against_Copyright_Theft", 
+            "Mexico", 
+            "Joseph_Stalin", 
+            "Yea,_Victoria", 
+            "Joseph_Stalin", 
+            "Barack_Obama", 
+            "Global_warming", 
+            "Politics"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "BEAR_and_LION_Cipher", 
+            "ARMS", 
+            "Political_corruption", 
+            "Sucker", 
+            "Left-wing_politics"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bone", 
+            "Genocide", 
+            "United_States", 
+            "Japan", 
+            "Slavery", 
+            "Smoke", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Violence"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Mexico", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Law", 
+            "Energy", 
+            "Politics_of_Mexico", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Psychoactive_drug", 
+            "Violence", 
+            "United_States", 
+            "Drug"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Mexico"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Violence", 
+            "Drug"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "United_States", 
+            "Drug", 
+            "Police", 
+            "Mexico", 
+            "Ford_Motor_Company", 
+            "Drug", 
+            "United_States", 
+            "Gerald_Ford"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hora", 
+            "William_Newell", 
+            "Mexico", 
+            "Smuggling", 
+            "Belgium", 
+            "Illegal_drug_trade", 
+            "Colombia", 
+            "AK-47", 
+            "Israel", 
+            "Spain", 
+            "Mexico", 
+            "Revolutionary_Armed_Forces_of_Colombia", 
+            "Military_of_the_United_States", 
+            "Immigration", 
+            "People's_Republic_of_China", 
+            "Cartel", 
+            "M16_rifle", 
+            "Herbert_Hoover", 
+            "Rifle", 
+            "Cache", 
+            "Smuggling", 
+            "2006", 
+            "Asia", 
+            "Arms_trafficking", 
+            "Mexico", 
+            "Explosive_material", 
+            "Assault_rifle", 
+            "Crime", 
+            "Intelligence_agency", 
+            "Crime_scene", 
+            "Intelligence_(information_gathering)", 
+            "Korean_language", 
+            "Guatemala", 
+            "Africa", 
+            "Russian_language", 
+            "Police", 
+            "Mexico", 
+            "Politics_of_Mexico", 
+            "Illegal_drug_trade", 
+            "Mexican_Army", 
+            "United_States", 
+            "Mexico", 
+            "Drug_cartel", 
+            "United_States", 
+            "United_States_Congress", 
+            "Illegal_drug_trade", 
+            "Rocket-propelled_grenade", 
+            "Tijuana", 
+            "United_States_Intelligence_Community", 
+            "Interpol", 
+            "Special_agent", 
+            "Town", 
+            "Rocket", 
+            "China", 
+            "Latin_America", 
+            "Porosity", 
+            "Hand_grenade", 
+            "United_States_Congress", 
+            "Crime_scene", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Latin_America", 
+            "Hand_grenade", 
+            "Underground_economy", 
+            "March_27", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Mexico", 
+            "Crime", 
+            "Fragmentation_(weaponry)", 
+            "Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives", 
+            "Bazaar", 
+            "United_States_House_of_Representatives", 
+            "Ixc\u00e1n", 
+            "AK-47", 
+            "Allen_Newell", 
+            "Cuban_Revolution", 
+            "Assault_weapon", 
+            "Mexico", 
+            "Russian_Mafia", 
+            "Revolutionary_Armed_Forces_of_Colombia", 
+            "Russian_language", 
+            "Federal_Research_Division", 
+            "Cocaine", 
+            "Organized_crime", 
+            "South_America", 
+            "United_States", 
+            "La_Hora", 
+            "Crime", 
+            "United_States", 
+            "Hand_grenade", 
+            "Mafia", 
+            "United_States_Army", 
+            "United_States", 
+            "China", 
+            "Asia", 
+            "Gerald_Ford", 
+            "Library_of_Congress", 
+            "Amnesty_International", 
+            "Guatemala", 
+            "Cartel", 
+            "Illegal_drug_trade", 
+            "Mexico", 
+            "Eastern_Bloc", 
+            "Soviet_Union", 
+            "Illegal_drug_trade", 
+            "The_Mexican", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "South_Korea", 
+            "Korea", 
+            "Newspaper", 
+            "Smuggling", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Psychoactive_drug", 
+            "Drug", 
+            "Violence"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 40
+    }
+]

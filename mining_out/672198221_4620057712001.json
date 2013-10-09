@@ -1,0 +1,83 @@
+[
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Symptom", 
+            "Civic_Democratic_Party"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Browser_Helper_Object", 
+            "United_States_dollar", 
+            "Creditor", 
+            "United_States_dollar", 
+            "Gerald_Ford", 
+            "April_2", 
+            "United_States", 
+            "Kelvin", 
+            "Safety_(American_football)", 
+            "People's_Republic_of_China", 
+            "President_of_the_People's_Republic_of_China", 
+            "Economist", 
+            "Prudence", 
+            "Safety_(American_football)", 
+            "Standard_Chartered_Bank", 
+            "People's_Republic_of_China", 
+            "Government_debt", 
+            "Legislature", 
+            "Risks_to_civilization,_humans_and_planet_Earth", 
+            "Economist", 
+            "Hu_Jintao", 
+            "Debt", 
+            "United_States", 
+            "Stimulus_(physiology)", 
+            "People's_Republic_of_China", 
+            "United_States", 
+            "United_States", 
+            "United_States_Department_of_the_Treasury", 
+            "President_of_the_United_States", 
+            "Treasury_security", 
+            "Federal_government_of_the_United_States", 
+            "Lau_Islands", 
+            "China", 
+            "United_States_public_debt", 
+            "Beijing", 
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Hu_Jintao", 
+            "United_States_dollar", 
+            "Hong_Kong", 
+            "Barack_Obama", 
+            "Deficit", 
+            "Washington,_D.C.", 
+            "China", 
+            "News_conference", 
+            "People's_Republic_of_China", 
+            "Eye", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "London", 
+            "Washington,_D.C.", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

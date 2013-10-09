@@ -1,0 +1,16 @@
+[
+    {
+        "entity": [
+            "Rape", 
+            "Philippines"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Double_jeopardy", 
+            "Guilt"
+        ], 
+        "postID": 2
+    }
+]

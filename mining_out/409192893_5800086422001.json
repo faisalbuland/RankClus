@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "South_Korea", 
+            "Korea", 
+            "Korea", 
+            "Beijing", 
+            "Beijing", 
+            "Japan", 
+            "North_Korea", 
+            "Japan", 
+            "Refugee", 
+            "China", 
+            "Refugee", 
+            "China", 
+            "China", 
+            "Language", 
+            "Palestinian_refugee", 
+            "Korea", 
+            "Taiwan", 
+            "Taiwan", 
+            "South_Korea"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Kimchi"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "Moon", 
+            "Mushroom", 
+            "Weapon_of_mass_destruction", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Nuclear_warfare", 
+            "Iran"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Taiwan", 
+            "People's_Republic_of_China", 
+            "Japan", 
+            "People's_Republic_of_China", 
+            "Language", 
+            "Syria", 
+            "Iran", 
+            "Kim_Il-sung", 
+            "Kim_Il", 
+            "China", 
+            "North_Korea", 
+            "Free_trade", 
+            "Korea"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ballistics", 
+            "Japan", 
+            "WALL_(AM)", 
+            "Ballistics_(disambiguation)", 
+            "Missile", 
+            "China"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Nuclear_weapon", 
+            "Radiation", 
+            "Stalinism", 
+            "Nuclear_explosion", 
+            "Politics"
+        ], 
+        "postID": 7
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "entity": [
+            "One_person_show", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Treasury", 
+            "United_States_Department_of_the_Treasury", 
+            "Economy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Frying_pan", 
+            "Blood", 
+            "Blood_pressure", 
+            "Hypertension", 
+            "Frying"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Treasury", 
+            "Advice_and_consent", 
+            "Economy", 
+            "United_States_Department_of_the_Treasury", 
+            "Tank", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Cheating", 
+            "Confirmation", 
+            "Economy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Subprime_lending", 
+            "Privacy", 
+            "Community_Reinvestment_Act", 
+            "Bicameralism", 
+            "Law", 
+            "United_States_Senate", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "United_States_Senate", 
+            "Jackson,_Mississippi", 
+            "Economy", 
+            "Community_Reinvestment_Act", 
+            "Financial_privacy", 
+            "Bill_Clinton", 
+            "July_30", 
+            "Voice_vote", 
+            "Legislation", 
+            "Phil_Gramm", 
+            "1995", 
+            "Legislator", 
+            "Economy", 
+            "1933", 
+            "TARP", 
+            "Financial_services", 
+            "November_12", 
+            "Economy", 
+            "1999", 
+            "Thomas_J._Bliley,_Jr.", 
+            "United_States_Senate", 
+            "Chair_(official)", 
+            "United_States_Congress", 
+            "Republican_Party_(United_States)", 
+            "United_States_Congress", 
+            "United_States_Congress_Conference_committee", 
+            "November_4", 
+            "Great_Depression", 
+            "Law", 
+            "Democratic_Party_(United_States)", 
+            "1999", 
+            "United_States_Senate", 
+            "2003", 
+            "Biography", 
+            "Law", 
+            "U.S._Securities_and_Exchange_Commission", 
+            "Commerce", 
+            "United_States_congressional_delegations_from_Iowa", 
+            "Bill_Clinton", 
+            "Conference_committee", 
+            "May_6", 
+            "Bail_out_(finance)", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "July_20", 
+            "1999", 
+            "Redlining", 
+            "Republican_Party_(United_States)", 
+            "United_States_House_Committee_on_Energy_and_Commerce", 
+            "Privacy", 
+            "United_States_Senate_Committee_on_Commerce,_Science_and_Transportation", 
+            "United_States_Department_of_Housing_and_Urban_Development", 
+            "Mortgage", 
+            "2001", 
+            "Mortgage", 
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "Jim_Leach", 
+            "Phil_Gramm", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 5
+    }
+]

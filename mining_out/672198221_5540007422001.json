@@ -1,0 +1,47 @@
+[
+    {
+        "entity": [
+            "Star", 
+            "Laser"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Gas", 
+            "North_Korea", 
+            "Soviet_Union", 
+            "Laser", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "Global_warming", 
+            "China", 
+            "Debt"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Laser", 
+            "Human", 
+            "Oil", 
+            "Nuclear_fusion"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "Projectile", 
+            "Projectile", 
+            "Steam", 
+            "Temporary_work", 
+            "Laser", 
+            "Hobby", 
+            "Ryan_Howard_(The_Office)", 
+            "Petroleum"
+        ], 
+        "postID": 4
+    }
+]

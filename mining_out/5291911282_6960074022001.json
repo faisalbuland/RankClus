@@ -1,0 +1,201 @@
+[
+    {
+        "entity": [
+            "Maggie_Simpson", 
+            "University_of_Pennsylvania", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Daily_Collegian_(Penn_State)", 
+            "Gay", 
+            "Portland_State_University", 
+            "Pennsylvania_State_University", 
+            "Higher_education", 
+            "Student_newspaper", 
+            "Newspaper", 
+            "University", 
+            "Education"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "Internet_forum", 
+            "2009", 
+            "April_12"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Lesbian"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Literature", 
+            "University_of_Pennsylvania", 
+            "College", 
+            "Teacher", 
+            "Monopoly", 
+            "2009", 
+            "Senior_Military_College", 
+            "April_11", 
+            "College", 
+            "Pennsylvania_State_University", 
+            "Common_year_starting_on_Thursday", 
+            "College", 
+            "College"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Atmosphere", 
+            "Funk", 
+            "Cookie", 
+            "Campus", 
+            "Marmot", 
+            "Constitution", 
+            "Twinkie", 
+            "Marmot", 
+            "College", 
+            "Fridge_(band)", 
+            "Halo", 
+            "Freedom_of_speech", 
+            "Quantum"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Iraq", 
+            "Thug", 
+            "Simile", 
+            "Iraqi_Special_Operations_Forces", 
+            "Vietnam", 
+            "Grist", 
+            "Special_forces", 
+            "Crook", 
+            "Pardon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bump"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Professor", 
+            "Academia"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Welding", 
+            "College", 
+            "1973", 
+            "Conservatism", 
+            "G.I._Bill", 
+            "Hairstyle", 
+            "United_States_Army", 
+            "Tanker_(ship)", 
+            "Sergeant", 
+            "Elbow", 
+            "Eye"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Fair_Game_(Scientology)", 
+            "Purple", 
+            "American_Civil_Liberties_Union"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Quotation_mark", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Upper_class", 
+            "United_States_Army"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Americanization", 
+            "Anachronism", 
+            "Thread_(computer_science)", 
+            "Ku_Klux_Klan", 
+            "White_American", 
+            "John_McCain", 
+            "MASH_(film)", 
+            "Bunker", 
+            "Mexico", 
+            "Teacher", 
+            "Cultural_assimilation", 
+            "Bigotry", 
+            "Archie_Bunker", 
+            "The_Simpsons", 
+            "United_States", 
+            "Archie_Bunker", 
+            "Academia", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Puerto_Rico", 
+            "Aryan", 
+            "Liberalism", 
+            "The_Simpsons", 
+            "War_Veteran", 
+            "Doom_source_port", 
+            "Korean_War", 
+            "Korean_War", 
+            "Patriotism", 
+            "Aryan_Nations", 
+            "Left-wing_politics", 
+            "John_McCain"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Civil_war", 
+            "Communism", 
+            "Quantum", 
+            "Insurance", 
+            "Money", 
+            "Insurance", 
+            "Barack_Obama", 
+            "Marmot", 
+            "Spectrum", 
+            "Insurance", 
+            "Barter", 
+            "Porsche", 
+            "Sailboat", 
+            "Marmot", 
+            "Ignition_system"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }
+]

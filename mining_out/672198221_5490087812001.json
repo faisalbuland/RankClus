@@ -1,0 +1,288 @@
+[
+    {
+        "entity": [
+            "Eye", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Potato", 
+            "President_of_the_United_States", 
+            "Hot_Potato", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barny_Boatman", 
+            "Third_party_(politics)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Wig"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Terrorism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Raila_Odinga", 
+            "William_Orville_Ayres", 
+            "Odinga", 
+            "Frank_Marshall", 
+            "Marshall_Amplification", 
+            "Frank_Marshall_Davis"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "DOA", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Capitol_Records", 
+            "Duel", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Ice_cream", 
+            "Cat", 
+            "George_W._Bush", 
+            "Cake", 
+            "Cream", 
+            "Sprouting", 
+            "Barack_Obama", 
+            "Brussels_sprout"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Bonus_Army", 
+            "Duel", 
+            "United_States_Congress"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Potato", 
+            "President_of_the_United_States", 
+            "Hot_Potato", 
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barny_Boatman", 
+            "Third_party_(politics)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Wig"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Terrorism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Raila_Odinga", 
+            "William_Orville_Ayres", 
+            "Odinga", 
+            "Frank_Marshall", 
+            "Marshall_Amplification", 
+            "Frank_Marshall_Davis"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "DOA", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Capitol_Records", 
+            "Duel", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Ice_cream", 
+            "Cat", 
+            "George_W._Bush", 
+            "Cake", 
+            "Cream", 
+            "Sprouting", 
+            "Barack_Obama", 
+            "Brussels_sprout"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Bonus_Army", 
+            "Duel", 
+            "United_States_Congress"
+        ], 
+        "postID": 40
+    }
+]

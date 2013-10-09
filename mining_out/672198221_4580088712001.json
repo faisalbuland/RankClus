@@ -1,0 +1,1082 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [], 
+        "postID": 81
+    }, 
+    {
+        "entity": [], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 100
+    }, 
+    {
+        "entity": [], 
+        "postID": 101
+    }, 
+    {
+        "entity": [], 
+        "postID": 102
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "American_International_Group"
+        ], 
+        "postID": 103
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Bail_(disambiguation)", 
+            "Atmospheric_escape", 
+            "H._L._Mencken"
+        ], 
+        "postID": 104
+    }, 
+    {
+        "entity": [
+            "Infusion", 
+            "Model_(person)", 
+            "Earned_run", 
+            "Third_party_(politics)", 
+            "Fiasco", 
+            "Business_model"
+        ], 
+        "postID": 105
+    }, 
+    {
+        "entity": [], 
+        "postID": 106
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 107
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Theft"
+        ], 
+        "postID": 108
+    }, 
+    {
+        "entity": [
+            "BUNCH", 
+            "American_International_Group", 
+            "KBR_(company)"
+        ], 
+        "postID": 109
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Financial_crisis", 
+            "Mat", 
+            "United_States_Congressional_committee", 
+            "United_States_Congress", 
+            "American_International_Group"
+        ], 
+        "postID": 110
+    }, 
+    {
+        "entity": [
+            "Ordinary_income", 
+            "Tax", 
+            "Profit", 
+            "Ordinary_income", 
+            "Internal_Revenue_Service", 
+            "International_Maritime_Organization", 
+            "Confidence_trick", 
+            "Wall_Street", 
+            "Wall_Street", 
+            "Confidence_trick", 
+            "Ordinary_income", 
+            "International_Maritime_Organization", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "United_States_dollar", 
+            "Stock_broker", 
+            "Christmas", 
+            "Profit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Income_tax"
+        ], 
+        "postID": 111
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "American_International_Group", 
+            "American_International_Group", 
+            "CNN", 
+            "Chair_(official)", 
+            "Chief_executive_officer", 
+            "Timothy_F._Geithner", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "2009"
+        ], 
+        "postID": 112
+    }, 
+    {
+        "entity": [
+            "Air_Traffic", 
+            "United_States", 
+            "Controllers_(DC_Comics)", 
+            "Barack_Obama", 
+            "Traffic_(band)", 
+            "United_Auto_Workers", 
+            "Air_traffic_controller"
+        ], 
+        "postID": 113
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)"
+        ], 
+        "postID": 114
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 115
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 116
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "American_International_Group", 
+            "Fiduciary"
+        ], 
+        "postID": 117
+    }, 
+    {
+        "entity": [], 
+        "postID": 118
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "United_States"
+        ], 
+        "postID": 119
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Bribery", 
+            "Socialism", 
+            "Myocardial_infarction", 
+            "Finance", 
+            "Socialism", 
+            "Book_value", 
+            "Private_sector", 
+            "Socialism", 
+            "Hack_(technology)"
+        ], 
+        "postID": 120
+    }
+]

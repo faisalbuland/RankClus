@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Immigration_to_the_United_States", 
+            "Illegal_immigration", 
+            "Immigration_to_the_United_States", 
+            "United_States", 
+            "State", 
+            "Governor", 
+            "Visa_(document)", 
+            "Arizona"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Administrative_divisions_of_Mexico", 
+            "Mexico", 
+            "Mexico", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

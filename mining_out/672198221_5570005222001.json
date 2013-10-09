@@ -1,0 +1,84 @@
+[
+    {
+        "entity": [
+            "State_law", 
+            "U.S._state", 
+            "Voter_registration", 
+            "Fraud", 
+            "Attorney_General", 
+            "New_York_City", 
+            "Fraud", 
+            "Guilt", 
+            "Barack_Obama", 
+            "U.S._state", 
+            "Columbus,_Ohio", 
+            "Barack_Obama", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Electoral_fraud", 
+            "Felony", 
+            "Clark_County,_Nevada", 
+            "Nevada", 
+            "Democratic_Party_(United_States)", 
+            "Law", 
+            "Cottage", 
+            "Nevada", 
+            "Ohio", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Racial_quota", 
+            "Quota", 
+            "Brownlee,_Saskatchewan", 
+            "Alan_Lomax", 
+            "Registrar_(academic)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Association_of_Community_Organizations_for_Reform_Now"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Film_director", 
+            "Quota", 
+            "Racial_quota", 
+            "State_Attorney_General", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Phoebe_(moon)", 
+            "Nevada", 
+            "State_Attorney_General", 
+            "South_Carolina_Democratic_Party", 
+            "Fraud"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Census", 
+            "Fudge"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Acorn_Archimedes", 
+            "Acorn_Archimedes", 
+            "Lou_Dobbs"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Nail_(fastener)", 
+            "Census", 
+            "Browser_Helper_Object"
+        ], 
+        "postID": 6
+    }
+]

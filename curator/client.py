@@ -31,7 +31,14 @@ class curatorClient:
         :param type: type of service ie. "ner" "wikifier"
         :param forceUpdate: boolean flag
         """
-        self.transport.open()
+        # self.transport.open()
         msg = self.client.provide(type,text,forceUpdate)
-        print msg
+        # self.transport.close()
+        return msg
+
+    def open(self):
+        self.transport.open()
+
+    def close(self):
         self.transport.close()
+

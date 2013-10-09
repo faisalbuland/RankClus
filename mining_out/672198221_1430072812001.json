@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Economy", 
+            "United_States", 
+            "Barack_Obama", 
+            "Chief_executive_officer", 
+            "Government_debt", 
+            "Chief_executive_officer", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Placeholder_name"
+        ], 
+        "postID": 2
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "entity": [
+            "Stream", 
+            "Tax", 
+            "Tax", 
+            "Tax_law", 
+            "FairTax", 
+            "Tax_law", 
+            "Flat_tax", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Military_of_the_United_States", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "YouTube", 
+            "Military_of_the_United_States", 
+            "YouTube", 
+            "YouTube"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "National_security_of_Japan", 
+            "National_security_of_Japan"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Energy_efficiency", 
+            "Orrin_Hatch", 
+            "Hillary_Rodham_Clinton", 
+            "Paranoia", 
+            "Colin_Powell", 
+            "President_of_the_United_States", 
+            "Rosalynn_Carter", 
+            "Green_energy", 
+            "Rosalynn_Carter", 
+            "Non-profit_organization", 
+            "Social_change", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "2010", 
+            "Volunteers_in_Service_to_America", 
+            "Fantasy", 
+            "Lever", 
+            "Joe_Biden", 
+            "StB_(Czechoslovak_State_Security)", 
+            "Energy", 
+            "Fiscal_year", 
+            "Colin_Powell", 
+            "Fiscal_year", 
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "2009", 
+            "United_States_Congress", 
+            "Learn_and_Serve_America", 
+            "Vice_President_of_the_United_States", 
+            "Ted_Kennedy", 
+            "Futures_contract", 
+            "AmeriCorps", 
+            "Ted_Kennedy", 
+            "Michelle_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "Ted_Kennedy", 
+            "John_F._Kennedy", 
+            "Politics", 
+            "Michelle_Obama", 
+            "Orrin_Hatch", 
+            "April_23", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "Concrete", 
+            "Health_care", 
+            "President_of_the_United_States", 
+            "Education", 
+            "Law", 
+            "John_F._Kennedy", 
+            "National_Service_Act", 
+            "Conscription_in_the_United_Kingdom", 
+            "Orrin_Hatch", 
+            "23rd_Infantry_Division_(United_States)", 
+            "Bill_Clinton", 
+            "AmeriCorps", 
+            "Paranoia", 
+            "Inker", 
+            "Bill_Clinton", 
+            "Far_right", 
+            "Mick_Kennedy", 
+            "Barack_Obama", 
+            "United_States", 
+            "Jimmy_Carter", 
+            "Energy", 
+            "Bill_Clinton", 
+            "Talking_point", 
+            "National_service", 
+            "Volunteer", 
+            "AmeriCorps", 
+            "2014"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Civil_Police_(Brazil)", 
+            "Pay_grade"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States_Senate", 
+            "FairTax", 
+            "Tax", 
+            "Health_care", 
+            "Stream", 
+            "Inventor", 
+            "United_States", 
+            "FairTax", 
+            "Tax", 
+            "Stream", 
+            "Flat_tax", 
+            "Health_care_reform", 
+            "Race_of_the_Future", 
+            "Tax", 
+            "United_States_Congress", 
+            "Tax", 
+            "Tax_law", 
+            "Streamliner"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "United_States_Congress", 
+            "Tax", 
+            "Dust", 
+            "Flat_tax", 
+            "United_States_Congress", 
+            "Tax", 
+            "FairTax"
+        ], 
+        "postID": 8
+    }
+]

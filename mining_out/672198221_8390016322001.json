@@ -1,0 +1,618 @@
+[
+    {
+        "entity": [
+            "Conyers,_Georgia", 
+            "George_W._Bush", 
+            "Vincent_Bugliosi", 
+            "United_States_Congressional_committee"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Intelligence_(information_gathering)", 
+            "Stanza", 
+            "Intelligence_agency", 
+            "Dead_Horse_(song)", 
+            "Genie", 
+            "Stanza", 
+            "GONN", 
+            "United_States_Congress", 
+            "Drum", 
+            "Intelligence_(information_gathering)", 
+            "Focus_(band)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Duet_(music)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Gerald_Ford", 
+            "April_Fools'_Day", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Punch_line", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "France", 
+            "United_States_Congress", 
+            "Germany", 
+            "Bill_Clinton", 
+            "France", 
+            "United_States_Congress", 
+            "United_States", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Weak_operator_topology", 
+            "Politics", 
+            "Iraq", 
+            "Weak_operator_topology", 
+            "Joseph_Stalin", 
+            "Muslim_world", 
+            "Weak_operator_topology", 
+            "Weapon_of_mass_destruction", 
+            "Iraq", 
+            "Muslim", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Staging_area", 
+            "War_on_Terrorism", 
+            "Footprint", 
+            "States_and_territories_of_India", 
+            "Middle_East"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Economy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Politics", 
+            "War_on_Terrorism", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "War_on_Terrorism", 
+            "American_Century", 
+            "United_States", 
+            "Google", 
+            "1998"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines", 
+            "Weak_operator_topology", 
+            "Iraq", 
+            "International_Maritime_Organization", 
+            "Weak_operator_topology"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Scandal_(band)", 
+            "Hill", 
+            "Kofi_Tavernier", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Vladimir_Putin", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Monica_(singer)", 
+            "Memorial_Day", 
+            "President_of_the_United_States", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Shame", 
+            "2001", 
+            "World_Trade_Center", 
+            "Political_corruption", 
+            "Bill_Clinton", 
+            "National_security", 
+            "Scandal", 
+            "Bomb", 
+            "Jacques_Chirac", 
+            "Saddam_Hussein", 
+            "Sand", 
+            "Politics"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Hell", 
+            "Iraq", 
+            "Osama_bin_Laden", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Iraq"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Arab_world", 
+            "Iran", 
+            "Palestine", 
+            "Arab", 
+            "2003", 
+            "Antagonist", 
+            "Somalia", 
+            "President_of_the_United_States", 
+            "Energy", 
+            "Chechnya", 
+            "Iran", 
+            "Saddam_Hussein", 
+            "NATO", 
+            "Saddam_Hussein", 
+            "Egypt", 
+            "Confirmation", 
+            "United_States_Senate", 
+            "Lebanon", 
+            "Yemen", 
+            "Theocracy", 
+            "Assassination", 
+            "Iraq", 
+            "Chemical_warfare", 
+            "Politics"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Salman_Pak", 
+            "Village", 
+            "Salman_Pak_facility", 
+            "Baghdad", 
+            "Surrogate", 
+            "Salman_Pak", 
+            "Fedayeen", 
+            "Central_Intelligence_Agency", 
+            "Afghan_training_camp", 
+            "Saddam_Hussein", 
+            "Salman_Pak", 
+            "Urban_warfare", 
+            "Salman_Pak_facility", 
+            "Al-Qaeda", 
+            "Surrogate", 
+            "Terrorism", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Al-Qaeda", 
+            "Paramilitary", 
+            "Al-Qaeda", 
+            "Al-Qaeda", 
+            "Magazine", 
+            "Al-Qaeda", 
+            "Salman_Pak_facility", 
+            "Arab", 
+            "Palestinian_people", 
+            "Vanity_(performer)", 
+            "September_11", 
+            "Mockup", 
+            "Arab", 
+            "Vanity_Fair_(magazine)", 
+            "Vanity_Fair_(magazine)", 
+            "Salman_Pak_facility", 
+            "Terrorism", 
+            "Iraq", 
+            "Central_Intelligence_Agency", 
+            "Al-Qaeda", 
+            "Salman_Pak", 
+            "Salman_Pak_facility", 
+            "Afghan_training_camp", 
+            "2004", 
+            "Iraq", 
+            "Iraq", 
+            "Counter-terrorism", 
+            "Unconventional_warfare", 
+            "Extremism", 
+            "Al-Qaeda", 
+            "Central_Intelligence_Agency", 
+            "Terrorism", 
+            "1999", 
+            "Self-defense", 
+            "Unconventional_warfare", 
+            "Salman_Pak", 
+            "Salman_Pak_facility", 
+            "Saddam_Hussein", 
+            "Iraq", 
+            "Baghdad", 
+            "Central_Intelligence_Agency", 
+            "Terrorism", 
+            "Terrorism", 
+            "Palestinian_people", 
+            "Defense_Intelligence_Agency", 
+            "Iraq", 
+            "United_States_Senate", 
+            "Iraq", 
+            "Republican_Party_(United_States)", 
+            "Salman_Pak", 
+            "Aircraft", 
+            "Defection", 
+            "Baghdad", 
+            "Salman_Pak_facility", 
+            "Hat", 
+            "Defense_Intelligence_Agency"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Peaches_(musician)", 
+            "Cream_(band)", 
+            "Nelson_Rockefeller", 
+            "Nasty_(song)", 
+            "Rocky", 
+            "Chair_(official)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Conyers,_Georgia", 
+            "George_W._Bush", 
+            "Vincent_Bugliosi", 
+            "United_States_Congressional_committee"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Intelligence_(information_gathering)", 
+            "Stanza", 
+            "Intelligence_agency", 
+            "Dead_Horse_(song)", 
+            "Genie", 
+            "Stanza", 
+            "GONN", 
+            "United_States_Congress", 
+            "Drum", 
+            "Intelligence_(information_gathering)", 
+            "Focus_(band)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Duet_(music)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Gerald_Ford", 
+            "April_Fools'_Day", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Punch_line", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "France", 
+            "United_States_Congress", 
+            "Germany", 
+            "Bill_Clinton", 
+            "France", 
+            "United_States_Congress", 
+            "United_States", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Weak_operator_topology", 
+            "Politics", 
+            "Iraq", 
+            "Weak_operator_topology", 
+            "Joseph_Stalin", 
+            "Muslim_world", 
+            "Weak_operator_topology", 
+            "Weapon_of_mass_destruction", 
+            "Iraq", 
+            "Muslim", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Staging_area", 
+            "War_on_Terrorism", 
+            "Footprint", 
+            "States_and_territories_of_India", 
+            "Middle_East"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Economy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Politics", 
+            "War_on_Terrorism", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "War_on_Terrorism", 
+            "American_Century", 
+            "United_States", 
+            "Google", 
+            "1998"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines", 
+            "Weak_operator_topology", 
+            "Iraq", 
+            "International_Maritime_Organization", 
+            "Weak_operator_topology"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Scandal_(band)", 
+            "Hill", 
+            "Kofi_Tavernier", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Vladimir_Putin", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Monica_(singer)", 
+            "Memorial_Day", 
+            "President_of_the_United_States", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Shame", 
+            "2001", 
+            "World_Trade_Center", 
+            "Political_corruption", 
+            "Bill_Clinton", 
+            "National_security", 
+            "Scandal", 
+            "Bomb", 
+            "Jacques_Chirac", 
+            "Saddam_Hussein", 
+            "Sand", 
+            "Politics"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Hell", 
+            "Iraq", 
+            "Osama_bin_Laden", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Iraq"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Arab_world", 
+            "Iran", 
+            "Palestine", 
+            "Arab", 
+            "2003", 
+            "Antagonist", 
+            "Somalia", 
+            "President_of_the_United_States", 
+            "Energy", 
+            "Chechnya", 
+            "Iran", 
+            "Saddam_Hussein", 
+            "NATO", 
+            "Saddam_Hussein", 
+            "Egypt", 
+            "Confirmation", 
+            "United_States_Senate", 
+            "Lebanon", 
+            "Yemen", 
+            "Theocracy", 
+            "Assassination", 
+            "Iraq", 
+            "Chemical_warfare", 
+            "Politics"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Salman_Pak", 
+            "Village", 
+            "Salman_Pak_facility", 
+            "Baghdad", 
+            "Surrogate", 
+            "Salman_Pak", 
+            "Fedayeen", 
+            "Central_Intelligence_Agency", 
+            "Afghan_training_camp", 
+            "Saddam_Hussein", 
+            "Salman_Pak", 
+            "Urban_warfare", 
+            "Salman_Pak_facility", 
+            "Al-Qaeda", 
+            "Surrogate", 
+            "Terrorism", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Al-Qaeda", 
+            "Paramilitary", 
+            "Al-Qaeda", 
+            "Al-Qaeda", 
+            "Magazine", 
+            "Al-Qaeda", 
+            "Salman_Pak_facility", 
+            "Arab", 
+            "Palestinian_people", 
+            "Vanity_(performer)", 
+            "September_11", 
+            "Mockup", 
+            "Arab", 
+            "Vanity_Fair_(magazine)", 
+            "Vanity_Fair_(magazine)", 
+            "Salman_Pak_facility", 
+            "Terrorism", 
+            "Iraq", 
+            "Central_Intelligence_Agency", 
+            "Al-Qaeda", 
+            "Salman_Pak", 
+            "Salman_Pak_facility", 
+            "Afghan_training_camp", 
+            "2004", 
+            "Iraq", 
+            "Iraq", 
+            "Counter-terrorism", 
+            "Unconventional_warfare", 
+            "Extremism", 
+            "Al-Qaeda", 
+            "Central_Intelligence_Agency", 
+            "Terrorism", 
+            "1999", 
+            "Self-defense", 
+            "Unconventional_warfare", 
+            "Salman_Pak", 
+            "Salman_Pak_facility", 
+            "Saddam_Hussein", 
+            "Iraq", 
+            "Baghdad", 
+            "Central_Intelligence_Agency", 
+            "Terrorism", 
+            "Terrorism", 
+            "Palestinian_people", 
+            "Defense_Intelligence_Agency", 
+            "Iraq", 
+            "United_States_Senate", 
+            "Iraq", 
+            "Republican_Party_(United_States)", 
+            "Salman_Pak", 
+            "Aircraft", 
+            "Defection", 
+            "Baghdad", 
+            "Salman_Pak_facility", 
+            "Hat", 
+            "Defense_Intelligence_Agency"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Peaches_(musician)", 
+            "Cream_(band)", 
+            "Nelson_Rockefeller", 
+            "Nasty_(song)", 
+            "Rocky", 
+            "Chair_(official)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Accountability"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Quotation_mark", 
+            "Good_morning"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

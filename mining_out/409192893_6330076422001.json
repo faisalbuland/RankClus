@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "NASCAR", 
+            "Car_Talk", 
+            "National_Public_Radio", 
+            "United_States_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "John_Murtha"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "International_Data_Encryption_Algorithm"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Acorn"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_Carlin", 
+            "Carlin,_Nevada"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

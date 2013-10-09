@@ -1,0 +1,95 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "Osama_bin_Laden", 
+            "Taliban", 
+            "Osama_bin_Laden"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Valley", 
+            "Jafar_(Aladdin)", 
+            "Reuters", 
+            "Valley", 
+            "Swat_(princely_state)", 
+            "Valley", 
+            "Kalam_Valley", 
+            "Major_General", 
+            "Kalam_Valley", 
+            "Taliban", 
+            "Taliban", 
+            "Regions_of_France", 
+            "Northern_Ireland_Assembly", 
+            "Valley", 
+            "Athar_Abbas", 
+            "Abbas", 
+            "Taliban", 
+            "Dir,_Pakistan", 
+            "Provincial_Assembly_of_the_North-West_Frontier_Province", 
+            "Lower_Dir", 
+            "Lower_Dir", 
+            "District", 
+            "Swat,_Pakistan", 
+            "Silver", 
+            "Kalam_Valley", 
+            "Reuters", 
+            "Swat_River", 
+            "Swat_(princely_state)", 
+            "Kalam_Valley", 
+            "Shah", 
+            "Dir", 
+            "Lower_Dir", 
+            "Major_General", 
+            "Swat_(princely_state)", 
+            "Swat,_Pakistan", 
+            "Dir,_Pakistan", 
+            "Taliban"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cong", 
+            "Taliban", 
+            "Ether", 
+            "Viet_Cong"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "2009", 
+            "Bollocks", 
+            "Common_year_starting_on_Thursday", 
+            "May_23", 
+            "English_language"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Taxicab"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Refugee", 
+            "Taliban", 
+            "Town", 
+            "Violence", 
+            "Pashtun_people", 
+            "Refugee_camp"
+        ], 
+        "postID": 7
+    }
+]

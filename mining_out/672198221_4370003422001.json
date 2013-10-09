@@ -1,0 +1,86 @@
+[
+    {
+        "entity": [
+            "LOL", 
+            "Bank", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Website", 
+            "President_of_the_United_States", 
+            "Business_jet", 
+            "Handshake", 
+            "Billy_Gibbons", 
+            "Governor", 
+            "Nevada", 
+            "Face_time", 
+            "Billy_Gibbons", 
+            "United_States_Senate", 
+            "Governor", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "Economy", 
+            "Super_Bowl", 
+            "Governor", 
+            "President_of_the_United_States", 
+            "Billy_Gibbons", 
+            "Las_Vegas,_Nevada", 
+            "Harry_Reid", 
+            "City_and_town_halls", 
+            "Town", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "Constituency", 
+            "Indiana"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Movie_theater", 
+            "Yea,_Victoria", 
+            "Popcorn"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Soft_drink"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Governor", 
+            "Dick_Cheney", 
+            "Governor"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Nevada", 
+            "Governor", 
+            "Orlando,_Florida", 
+            "Barack_Obama", 
+            "Atlantic_Ocean", 
+            "Atlantic_City,_New_Jersey", 
+            "Branson,_Missouri"
+        ], 
+        "postID": 6
+    }
+]

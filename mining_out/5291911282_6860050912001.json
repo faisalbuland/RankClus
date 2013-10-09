@@ -1,0 +1,18 @@
+[
+    {
+        "entity": [
+            "Wedding_dress", 
+            "Wedding", 
+            "Marriage", 
+            "Wedding", 
+            "Wedding_dress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marriage"
+        ], 
+        "postID": 2
+    }
+]

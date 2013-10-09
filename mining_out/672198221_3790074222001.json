@@ -1,0 +1,55 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Electoral_fraud", 
+            "Fraud", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Sarcasm"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Electoral_fraud", 
+            "Acorn", 
+            "Electoral_fraud", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Voter_registration", 
+            "U.S._state", 
+            "Racial_quota", 
+            "Voter_registration", 
+            "Association_of_Community_Organizations_for_Reform_Now", 
+            "Quota", 
+            "Nevada", 
+            "Law"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "June_bug", 
+            "Western_Bug", 
+            "Duck", 
+            "Attorney_General", 
+            "Harvard_Law_School", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Climate_change"
+        ], 
+        "postID": 5
+    }
+]

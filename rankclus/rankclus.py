@@ -64,6 +64,7 @@ class RankClus:
         while True:
             it +=1
             try:
+                print "ITERATION %s",it
                 self.rank()
             except ClusterEmptyError,e:
                 print "Empty cluster detected!!"
@@ -77,8 +78,9 @@ class RankClus:
                     break
 
                 continue
-
+            print "ITERATION %s",it
             self.clustering()
+
             epsilon = self.adjust()
             if it>10 or epsilon < 0.05:
                 break
@@ -86,8 +88,8 @@ class RankClus:
         # print self.network.__str__()
 
 
-    def printResult(self):
-        self.network.clusterView()
+    def printResult(self,limit=None):
+        self.network.clusterView(limit)
 
 
 

@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Military_service", 
+            "Pension", 
+            "Stepfamily"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Survivors", 
+            "Widows_(TV_series)", 
+            "Website", 
+            "Toll-free_telephone_number", 
+            "Blog"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Veterans_of_Foreign_Wars", 
+            "Veteran", 
+            "United_States", 
+            "Democratic_Party_(United_States)", 
+            "Roman_legion"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Master's_degree", 
+            "Pension", 
+            "English_language", 
+            "Central_processing_unit", 
+            "Comprehension", 
+            "Spain", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Assisted_living", 
+            "Homelessness", 
+            "Disability"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster", 
+            "Dual-tone_multi-frequency", 
+            "Site_map", 
+            "Telephone_number", 
+            "Web_browser"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

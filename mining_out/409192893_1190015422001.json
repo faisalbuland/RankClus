@@ -1,0 +1,416 @@
+[
+    {
+        "entity": [
+            "Artic", 
+            "Refinery", 
+            "Hippie", 
+            "Tree"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Slogan", 
+            "Conservatism_in_the_United_States", 
+            "Slogan", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Boots_Group", 
+            "Boots_Group", 
+            "Electricity", 
+            "Drill", 
+            "Boots_Group", 
+            "Girl", 
+            "Internal_Revenue_Service", 
+            "Drill", 
+            "Boots_Group"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Global_warming", 
+            "Petroleum", 
+            "Liberalism", 
+            "Mythology", 
+            "CNN"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Power_station", 
+            "Natural_gas", 
+            "Biomass", 
+            "Oil_refinery", 
+            "Electric_power_transmission", 
+            "Petroleum", 
+            "Oil_refinery", 
+            "Diesel", 
+            "Gasoline", 
+            "Petroleum", 
+            "Petroleum", 
+            "Oil_platform", 
+            "Oil_refinery", 
+            "Oil_platform", 
+            "Petroleum", 
+            "Petroleum", 
+            "Petroleum", 
+            "Petroleum", 
+            "Wind_power", 
+            "Petroleum", 
+            "Petroleum", 
+            "Petroleum", 
+            "Drilling_rig", 
+            "Petroleum"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Toyota_Prius", 
+            "Toyota", 
+            "Dill", 
+            "Economy", 
+            "Drill", 
+            "Toyota_Prius", 
+            "United_States", 
+            "Barack_Obama", 
+            "Nightmare", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Oil", 
+            "Republican_Party_(United_States)", 
+            "Technology", 
+            "Technology", 
+            "Boots_Group", 
+            "Finite_set", 
+            "Election", 
+            "China", 
+            "Water", 
+            "Republican_Party_(United_States)", 
+            "Environmental_technology", 
+            "Environmental_technology"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Political_corruption", 
+            "Politics", 
+            "Rhetoric"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "Oil_refinery", 
+            "Vienna", 
+            "Petroleum", 
+            "Cartel", 
+            "Petroleum_industry", 
+            "OPEC", 
+            "OPEC", 
+            "Petroleum", 
+            "Oil_refinery", 
+            "OPEC", 
+            "Petroleum", 
+            "Petroleum", 
+            "Petroleum", 
+            "Petroleum", 
+            "OPEC", 
+            "Oil_reserves", 
+            "Barrel_(volume)", 
+            "Monopoly", 
+            "Petroleum"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Freddie", 
+            "George_W._Bush", 
+            "Finance", 
+            "Optimism", 
+            "Freddie", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Google", 
+            "Wow_(recording)", 
+            "Bank", 
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Bail_out_(finance)", 
+            "Barack_Obama", 
+            "Bail_out_(finance)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Europe", 
+            "Petroleum", 
+            "Barack_Obama", 
+            "Petroleum", 
+            "Spain", 
+            "Model_(person)", 
+            "Biproduct", 
+            "Europe", 
+            "Barack_Obama", 
+            "Socialism", 
+            "Shia_Islam"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "Bird", 
+            "Heck", 
+            "Wind", 
+            "Environmentalism", 
+            "Ecosystem"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Private_sector", 
+            "United_States", 
+            "Energy", 
+            "United_States", 
+            "Tax", 
+            "Goat", 
+            "Hell", 
+            "MINC"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "LOL", 
+            "Gunny", 
+            "Wildlife"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "Battery_(electricity)", 
+            "Hybrid_(biology)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Classical_liberalism", 
+            "JFK_(film)", 
+            "Libertarianism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Apple_Inc.", 
+            "Laptop", 
+            "Technology", 
+            "Laptop"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Canada", 
+            "Natural_gas", 
+            "Wind_turbine", 
+            "Wind_turbine", 
+            "Fossil", 
+            "Greenhouse", 
+            "Fossil_fuel", 
+            "Florida", 
+            "Greenhouse_gas", 
+            "Greenhouse_gas", 
+            "370", 
+            "Water", 
+            "Russia", 
+            "Fossil_fuel", 
+            "Fossil", 
+            "Carbon_dioxide", 
+            "Wind_farm", 
+            "Carbon_dioxide", 
+            "Energy_development", 
+            "Wind_power", 
+            "Fossil", 
+            "Fossil_fuel", 
+            "Wind_turbine", 
+            "Wind_power", 
+            "Earth", 
+            "Farm", 
+            "County", 
+            "Natural_gas", 
+            "Watt", 
+            "Wind_turbine", 
+            "Wind_power", 
+            "Tonne", 
+            "Wind_turbine", 
+            "Coal", 
+            "Wind_power", 
+            "291", 
+            "Wind_power", 
+            "Power_station", 
+            "Wind_turbine", 
+            "McRae,_Georgia", 
+            "Deficit", 
+            "Fossil_fuel", 
+            "Carbon_dioxide", 
+            "Fossil", 
+            "Finite_set", 
+            "Wind_power", 
+            "Horse_Hollow_Wind_Energy_Center", 
+            "Central_Texas", 
+            "Abilene,_Texas", 
+            "Texas", 
+            "United_States", 
+            "Petroleum", 
+            "Carbon_dioxide", 
+            "Petroleum", 
+            "Wind_turbine", 
+            "Tonne", 
+            "Carbon_dioxide", 
+            "Energy_development", 
+            "735", 
+            "1945", 
+            "Mexico", 
+            "Texas", 
+            "Siemens_AG", 
+            "Farm", 
+            "Carbon_dioxide", 
+            "Carbon", 
+            "Natural_gas", 
+            "Carbon_dioxide", 
+            "2007", 
+            "General_Electric", 
+            "Intergovernmental_Panel_on_Climate_Change", 
+            "Siemens_AG", 
+            "Greenhouse_gas", 
+            "Industrial_Revolution", 
+            "Cubic_foot", 
+            "Florida", 
+            "Global_warming", 
+            "Texas", 
+            "Earth", 
+            "Wind_power", 
+            "Wind_power", 
+            "Carbon_dioxide", 
+            "Wind_power", 
+            "Evaporation", 
+            "Foot_(length)", 
+            "Wind_turbine", 
+            "1945", 
+            "Wind_farm", 
+            "Wind_turbine", 
+            "Global_cooling", 
+            "Nuclear_power", 
+            "Wind_power", 
+            "Wind_farm", 
+            "421", 
+            "French_Revolution", 
+            "Wind_power", 
+            "Wind_power", 
+            "Wind_turbine", 
+            "Energy_development", 
+            "Wind_turbine", 
+            "China", 
+            "Deficit", 
+            "Horse_Hollow_Wind_Energy_Center", 
+            "Natural_gas", 
+            "Energy_development", 
+            "North_American_energy_independence"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Recycling", 
+            "Apple", 
+            "Canada", 
+            "Recycling", 
+            "Apple_Store", 
+            "Environmentally_friendly", 
+            "2001", 
+            "Recycling", 
+            "Apple_Inc.", 
+            "Ecology", 
+            "IPod", 
+            "Apple_Inc.", 
+            "Citizenship", 
+            "Apple_Inc.", 
+            "Electronics", 
+            "Electronic_music", 
+            "IPod", 
+            "Electronic_music", 
+            "Apple_Inc.", 
+            "Electronics", 
+            "Shipping", 
+            "Apple_Inc.", 
+            "Retailing", 
+            "Apple", 
+            "Macintosh", 
+            "Apple", 
+            "United_States", 
+            "Macintosh"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nickel", 
+            "Nickel-cadmium_battery", 
+            "Nickel", 
+            "Metal", 
+            "Nickel-cadmium_battery", 
+            "Nickel-cadmium_battery", 
+            "Nickel-metal_hydride_battery", 
+            "Hybrid_electric_vehicle", 
+            "Nickel-metal_hydride_battery", 
+            "Cadmium"
+        ], 
+        "postID": 24
+    }
+]

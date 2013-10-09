@@ -1,0 +1,251 @@
+[
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "News_release", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Spawn_(biology)", 
+            "Witchcraft", 
+            "Rove_(TV_series)", 
+            "Witch-hunt", 
+            "Crime"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "Smear_campaign"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Politician", 
+            "Prosecutor", 
+            "Special_prosecutor", 
+            "Security_clearance", 
+            "President_of_the_United_States", 
+            "Classified_information"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Political_history_of_Chicago", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Bus", 
+            "Liability", 
+            "Politics", 
+            "SOP_Rules", 
+            "Chicago"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sword", 
+            "Mom_(disambiguation)", 
+            "Sword"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Tagged_Image_File_Format", 
+            "Hillary_Rodham_Clinton", 
+            "Thread_(computer_science)", 
+            "Nancy_Pelosi", 
+            "Hillary_Rodham_Clinton", 
+            "Clintonite", 
+            "Tin", 
+            "Bill_Clinton", 
+            "Hat", 
+            "Hillary_Rodham_Clinton", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Nancy_Reagan", 
+            "2012", 
+            "Bill_Clinton", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "May_19", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Bus", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Nancy", 
+            "Sinkhole", 
+            "Finesse"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon", 
+            "Routing_Information_Protocol", 
+            "Beast", 
+            "Woody_Hayes", 
+            "Beast_(comics)", 
+            "Nada-ku,_Kobe"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Fox", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Nancy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stimming", 
+            "President_of_the_United_States", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Nancy", 
+            "Barack_Obama", 
+            "Sissy", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Politics", 
+            "Scapegoat", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Feint", 
+            "Rope-a-dope", 
+            "Nancy_Pelosi", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Barack_Obama"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "The_Republicans_(Germany)", 
+            "Republican_Party_(United_States)", 
+            "The_Republicans_(Germany)", 
+            "Dick_Cheney", 
+            "Hell", 
+            "Nancy", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }
+]

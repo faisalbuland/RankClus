@@ -1,0 +1,16 @@
+[
+    {
+        "entity": [
+            "Ballistics", 
+            "Assault_weapon", 
+            "Fingerprint", 
+            "Ballistic_fingerprinting", 
+            "Mythology"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }
+]

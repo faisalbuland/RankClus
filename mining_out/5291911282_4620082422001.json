@@ -1,0 +1,132 @@
+[
+    {
+        "entity": [
+            "Barney_Gumble", 
+            "Barney_Frank", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "Memorial_Day", 
+            "Nancy", 
+            "Harry_Reid"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wreath", 
+            "Golf", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Planet"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Member_of_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Homelessness", 
+            "Soldier", 
+            "Homage", 
+            "Drug", 
+            "Patriotism", 
+            "Drug_addiction", 
+            "United_States_Army", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "United_States", 
+            "Debt", 
+            "Soldier", 
+            "Debt", 
+            "Drug", 
+            "Drug_addiction", 
+            "Homelessness", 
+            "Blank_cheque", 
+            "United_States", 
+            "Homage"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Politician", 
+            "Caveat", 
+            "Thrust", 
+            "Socrates", 
+            "Bean", 
+            "Vertebral_column", 
+            "Perspiration", 
+            "Nut_(fruit)", 
+            "Risk", 
+            "Torque", 
+            "Injury", 
+            "Injury", 
+            "Wage", 
+            "Cowardice", 
+            "United_States", 
+            "Cream_(band)", 
+            "Shield"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Politician", 
+            "Cowardice", 
+            "Injury", 
+            "Socrates", 
+            "Wage", 
+            "Howard_Hawks", 
+            "United_States", 
+            "United_States", 
+            "Neoconservatism", 
+            "Cream_(band)", 
+            "United_States", 
+            "Shield", 
+            "Chicken", 
+            "Injury", 
+            "Perspiration", 
+            "Vertebral_column", 
+            "Risk"
+        ], 
+        "postID": 12
+    }
+]

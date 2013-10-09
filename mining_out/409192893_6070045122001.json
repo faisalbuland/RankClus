@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Amnesty", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "2007"
+        ], 
+        "postID": 4
+    }
+]

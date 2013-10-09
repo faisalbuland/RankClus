@@ -1,0 +1,568 @@
+[
+    {
+        "entity": [
+            "Voucher", 
+            "School_voucher"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Scholarship", 
+            "Dollar", 
+            "Washington,_D.C.", 
+            "George_Washington"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Hamas", 
+            "Charitable_organization", 
+            "Suicide", 
+            "Arsenal", 
+            "Palestinian_people", 
+            "Heart_of_Midlothian_F.C.", 
+            "Suicide_attack", 
+            "Hamas", 
+            "Hearts_and_Minds"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bravo_(US_TV_channel)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Christianity"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Crusades", 
+            "Crusades", 
+            "Religion", 
+            "Robin_(comics)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Palestinian_people", 
+            "Palestine", 
+            "Ohio", 
+            "Reserve_Officers'_Training_Corps", 
+            "Hamas", 
+            "Palestine", 
+            "FYI", 
+            "Dime_(United_States_coin)", 
+            "Ohio_State_University", 
+            "Jew"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Jihad", 
+            "Lease", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "Crusades", 
+            "Islam"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Jihad", 
+            "Federal_grants_(USA)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "WAIT_(AM)", 
+            "Dust", 
+            "Hillary_Rodham_Clinton", 
+            "Republican_Party_(United_States)", 
+            "Newt"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "Definition_of_terrorism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Palestine", 
+            "United_Kingdom", 
+            "United_Kingdom", 
+            "Judaism", 
+            "Jew"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Decapitation"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "First_Crusade", 
+            "Crusades"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Adar", 
+            "Reign_of_Terror", 
+            "Tel_Aviv", 
+            "March_13", 
+            "Aircraft_hijacking", 
+            "March_11", 
+            "Terrorism", 
+            "5769_(Hebrew_year)", 
+            "Arab", 
+            "Rubber", 
+            "Palestinian_Media_Watch", 
+            "Palestinian_National_Authority", 
+            "Media_Watch_(TV_program)", 
+            "Photographer", 
+            "Reign_of_Terror", 
+            "Manila-Cavite_Expressway", 
+            "Dinghy", 
+            "Bus", 
+            "Lebanon", 
+            "Television_station", 
+            "Hand_grenade", 
+            "Arab\u2013Israeli_conflict", 
+            "Fuel_tank", 
+            "Television", 
+            "Gail_Platt", 
+            "Israel", 
+            "Revolution", 
+            "Tourism", 
+            "Israel", 
+            "Palestinian_National_Authority", 
+            "Palestinian_people", 
+            "Palestinian_people", 
+            "Haifa", 
+            "United_States", 
+            "Israelis", 
+            "Arab_citizens_of_Israel", 
+            "Suicide_attack", 
+            "Bus", 
+            "Murder", 
+            "1978", 
+            "Bus", 
+            "Manila-Cavite_Expressway", 
+            "Bus", 
+            "Egged_Bus_Cooperative", 
+            "Narrator", 
+            "Highway_2_(Israel)", 
+            "Hand_grenade", 
+            "Israel", 
+            "Bus", 
+            "Dalal", 
+            "Religion", 
+            "Bus", 
+            "Dalal_Mughrabi", 
+            "Beach", 
+            "March_9", 
+            "Palestinian_people", 
+            "Mercaz_HaRav_massacre", 
+            "Tel_Aviv", 
+            "Tank", 
+            "Bus", 
+            "Israel", 
+            "Ma'agan_Michael", 
+            "Highway_2_(Israel)", 
+            "Ma'agan", 
+            "Zodiac_Group", 
+            "Zodiac", 
+            "Bus", 
+            "Suicide_attack"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Palestinian_Christian", 
+            "Apostasy", 
+            "Yasser_Arafat", 
+            "Palestinian_people", 
+            "Poverty", 
+            "Aid", 
+            "Palestinian_people", 
+            "Jew"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Suicide", 
+            "Suicide_attack", 
+            "Hearts_and_Minds"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Voucher", 
+            "School_voucher"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Scholarship", 
+            "Dollar", 
+            "Washington,_D.C.", 
+            "George_Washington"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hamas", 
+            "Charitable_organization", 
+            "Suicide", 
+            "Arsenal", 
+            "Palestinian_people", 
+            "Heart_of_Midlothian_F.C.", 
+            "Suicide_attack", 
+            "Hamas", 
+            "Hearts_and_Minds"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bravo_(US_TV_channel)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Christianity"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Crusades", 
+            "Crusades", 
+            "Religion", 
+            "Robin_(comics)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Palestinian_people", 
+            "Palestine", 
+            "Ohio", 
+            "Reserve_Officers'_Training_Corps", 
+            "Hamas", 
+            "Palestine", 
+            "FYI", 
+            "Dime_(United_States_coin)", 
+            "Ohio_State_University", 
+            "Jew"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Jihad", 
+            "Lease", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "Crusades", 
+            "Islam"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Jihad", 
+            "Federal_grants_(USA)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "WAIT_(AM)", 
+            "Dust", 
+            "Hillary_Rodham_Clinton", 
+            "Republican_Party_(United_States)", 
+            "Newt"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "Definition_of_terrorism"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Palestine", 
+            "United_Kingdom", 
+            "United_Kingdom", 
+            "Judaism", 
+            "Jew"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Decapitation"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "First_Crusade", 
+            "Crusades"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Adar", 
+            "Reign_of_Terror", 
+            "Tel_Aviv", 
+            "March_13", 
+            "Aircraft_hijacking", 
+            "March_11", 
+            "Terrorism", 
+            "5769_(Hebrew_year)", 
+            "Arab", 
+            "Rubber", 
+            "Palestinian_Media_Watch", 
+            "Palestinian_National_Authority", 
+            "Media_Watch_(TV_program)", 
+            "Photographer", 
+            "Reign_of_Terror", 
+            "Manila-Cavite_Expressway", 
+            "Dinghy", 
+            "Bus", 
+            "Lebanon", 
+            "Television_station", 
+            "Hand_grenade", 
+            "Arab\u2013Israeli_conflict", 
+            "Fuel_tank", 
+            "Television", 
+            "Gail_Platt", 
+            "Israel", 
+            "Revolution", 
+            "Tourism", 
+            "Israel", 
+            "Palestinian_National_Authority", 
+            "Palestinian_people", 
+            "Palestinian_people", 
+            "Haifa", 
+            "United_States", 
+            "Israelis", 
+            "Arab_citizens_of_Israel", 
+            "Suicide_attack", 
+            "Bus", 
+            "Murder", 
+            "1978", 
+            "Bus", 
+            "Manila-Cavite_Expressway", 
+            "Bus", 
+            "Egged_Bus_Cooperative", 
+            "Narrator", 
+            "Highway_2_(Israel)", 
+            "Hand_grenade", 
+            "Israel", 
+            "Bus", 
+            "Dalal", 
+            "Religion", 
+            "Bus", 
+            "Dalal_Mughrabi", 
+            "Beach", 
+            "March_9", 
+            "Palestinian_people", 
+            "Mercaz_HaRav_massacre", 
+            "Tel_Aviv", 
+            "Tank", 
+            "Bus", 
+            "Israel", 
+            "Ma'agan_Michael", 
+            "Highway_2_(Israel)", 
+            "Ma'agan", 
+            "Zodiac_Group", 
+            "Zodiac", 
+            "Bus", 
+            "Suicide_attack"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Palestinian_Christian", 
+            "Apostasy", 
+            "Yasser_Arafat", 
+            "Palestinian_people", 
+            "Poverty", 
+            "Aid", 
+            "Palestinian_people", 
+            "Jew"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Suicide", 
+            "Suicide_attack", 
+            "Hearts_and_Minds"
+        ], 
+        "postID": 60
+    }
+]

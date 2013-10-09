@@ -1,0 +1,314 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "President_of_the_United_States", 
+            "The_View", 
+            "Great_Depression_in_the_United_States", 
+            "MTV", 
+            "Great_Depression_in_the_United_States", 
+            "Guess_(clothing)", 
+            "Black_Entertainment_Television"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Olympians", 
+            "Demographics"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "Rachael_Ray", 
+            "Rachel"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Great_Depression", 
+            "Guess_(clothing)", 
+            "Black_Entertainment_Television", 
+            "President_of_the_United_States", 
+            "Teleprompter", 
+            "MTV", 
+            "Deer", 
+            "The_View", 
+            "Great_Depression", 
+            "Great_Depression"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Miserable_(song)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "MASH_(film)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Keyboard_instrument", 
+            "Coffee"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "Washington,_D.C.", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Puppet", 
+            "City_and_town_halls", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Jay_Leno", 
+            "United_States_House_of_Representatives", 
+            "Barack_Obama", 
+            "Town_hall_meeting", 
+            "United_States_Constitution", 
+            "United_States_House_of_Representatives", 
+            "Chat_show", 
+            "President_of_the_United_States", 
+            "United_States_Constitution", 
+            "The_Tonight_Show"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Olympic_Games", 
+            "Barack_Obama", 
+            "Special_Olympics"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Novel", 
+            "Novel", 
+            "Messiah", 
+            "Fiction"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Kettle", 
+            "Understatement"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Gaff", 
+            "Olympic_Games"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Talker"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "President_of_the_United_States", 
+            "The_View", 
+            "Great_Depression_in_the_United_States", 
+            "MTV", 
+            "Great_Depression_in_the_United_States", 
+            "Guess_(clothing)", 
+            "Black_Entertainment_Television"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Olympians", 
+            "Demographics"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "Rachael_Ray", 
+            "Rachel"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Great_Depression", 
+            "Guess_(clothing)", 
+            "Black_Entertainment_Television", 
+            "President_of_the_United_States", 
+            "Teleprompter", 
+            "MTV", 
+            "Deer", 
+            "The_View", 
+            "Great_Depression", 
+            "Great_Depression"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Miserable_(song)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "MASH_(film)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Keyboard_instrument", 
+            "Coffee"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "Washington,_D.C.", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Puppet", 
+            "City_and_town_halls", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Jay_Leno", 
+            "United_States_House_of_Representatives", 
+            "Barack_Obama", 
+            "Town_hall_meeting", 
+            "United_States_Constitution", 
+            "United_States_House_of_Representatives", 
+            "Chat_show", 
+            "President_of_the_United_States", 
+            "United_States_Constitution", 
+            "The_Tonight_Show"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Olympic_Games", 
+            "Barack_Obama", 
+            "Special_Olympics"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Novel", 
+            "Novel", 
+            "Messiah", 
+            "Fiction"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Kettle", 
+            "Understatement"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Gaff", 
+            "Olympic_Games"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Talker"
+        ], 
+        "postID": 40
+    }
+]

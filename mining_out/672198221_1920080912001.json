@@ -1,0 +1,756 @@
+[
+    {
+        "entity": [
+            "Pope", 
+            "Medical_journal", 
+            "Journal", 
+            "Science", 
+            "Pope", 
+            "Condom", 
+            "Lancet", 
+            "AIDS", 
+            "Condom", 
+            "Distortion"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Closet", 
+            "Birth_control", 
+            "Intelligence", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Pedophilia", 
+            "Germans", 
+            "Drug", 
+            "Roman_Catholic_Church", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Vulgar_(film)", 
+            "Abortion", 
+            "Evangelists", 
+            "Secularity", 
+            "The_Lancet", 
+            "Homosexual_orientation", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Nazism", 
+            "Pope", 
+            "High_church", 
+            "Roman_Catholic_Church", 
+            "Drug_addiction"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Roman_Catholic_Church", 
+            "Pope", 
+            "Hat", 
+            "Germans", 
+            "Papal_Tiara"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Automobile", 
+            "Car_accident"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "AIDS", 
+            "Condom", 
+            "Pope"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Roman_Catholic_Church", 
+            "Pope", 
+            "AIDS", 
+            "Scourge", 
+            "Methodology", 
+            "Epidemic", 
+            "Africa", 
+            "AIDS", 
+            "Roman_Catholic_Church", 
+            "Abstinence", 
+            "Remedy", 
+            "Moral_obligation"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Pope", 
+            "Apologize_(song)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Disease", 
+            "Pope", 
+            "Narcissism", 
+            "Africa", 
+            "Condom", 
+            "Condom", 
+            "SAFE_(cable_system)", 
+            "Rape", 
+            "Teenage_pregnancy", 
+            "Scourge", 
+            "Roman_Catholic_Church", 
+            "Abstinence", 
+            "Human_sexual_behavior", 
+            "Roman_Catholic_Church", 
+            "Condom", 
+            "AIDS", 
+            "Disease", 
+            "AIDS", 
+            "Pope"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Condom", 
+            "Sexual_intercourse", 
+            "Rape", 
+            "Morality", 
+            "Condom", 
+            "Dollar", 
+            "Roman_Catholic_Church", 
+            "Sexual_intercourse", 
+            "Morality", 
+            "AIDS", 
+            "Sexual_intercourse", 
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Condom", 
+            "Fault_(geology)", 
+            "Pope", 
+            "Pope", 
+            "Statistics", 
+            "Condom", 
+            "African_people", 
+            "Facts", 
+            "Roman_Catholic_Church", 
+            "Disease", 
+            "Nun", 
+            "Sexual_intercourse", 
+            "Religion", 
+            "Sexual_intercourse", 
+            "Author", 
+            "AIDS", 
+            "Roman_Catholic_Church", 
+            "Common_sense", 
+            "Sexually_transmitted_disease", 
+            "Condom", 
+            "Africa"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Sexually_transmitted_disease", 
+            "Science", 
+            "Medicine", 
+            "HIV", 
+            "Sexually_transmitted_disease", 
+            "Doctrine", 
+            "Condom", 
+            "Condom", 
+            "Sexually_transmitted_disease", 
+            "Pope", 
+            "AIDS", 
+            "Pregnancy", 
+            "Pregnancy", 
+            "Birth_control", 
+            "AIDS", 
+            "Film_director", 
+            "STD_testing", 
+            "HIV", 
+            "Public_university", 
+            "Doctrine", 
+            "Condom", 
+            "Snapshot_(computer_storage)", 
+            "Papal_infallibility", 
+            "Sexually_transmitted_disease", 
+            "Condom", 
+            "Pregnancy", 
+            "Condom", 
+            "Sexually_transmitted_disease", 
+            "Birth_control", 
+            "University", 
+            "Incidence_(epidemiology)", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "AIDS", 
+            "Sexually_transmitted_disease", 
+            "Nurse", 
+            "AIDS", 
+            "Pope", 
+            "Fault_(geology)", 
+            "Human_sexual_behavior", 
+            "Sexually_transmitted_disease", 
+            "Virginity", 
+            "Fault_(geology)", 
+            "Rain", 
+            "Cherry", 
+            "Pope"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Monogamy", 
+            "Pope", 
+            "Beef", 
+            "Monogamy", 
+            "Analogy", 
+            "Medication", 
+            "HIV", 
+            "Sexually_transmitted_disease", 
+            "Pregnancy", 
+            "Sexual_abstinence", 
+            "Vaccine", 
+            "Sexual_abstinence", 
+            "Teenage_pregnancy", 
+            "Monogamy", 
+            "AIDS", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Pregnancy", 
+            "Norm_(sociology)", 
+            "HIV", 
+            "HIV", 
+            "Thompson,_Connecticut", 
+            "Circumcision", 
+            "Birth_control", 
+            "Breastfeeding", 
+            "Birth_control", 
+            "Sex_education", 
+            "Human_sexual_behavior", 
+            "Human_sexual_behavior", 
+            "Scandinavia", 
+            "Pregnancy", 
+            "Pregnancy", 
+            "Sex_education", 
+            "Africa", 
+            "Human_sexual_behavior", 
+            "Dowry", 
+            "Condom", 
+            "Condom", 
+            "Condom", 
+            "Sex_education", 
+            "Famine", 
+            "Sex_education", 
+            "HIV", 
+            "2001", 
+            "Superstition", 
+            "Africa", 
+            "Mass", 
+            "Human_sexual_behavior", 
+            "Drug", 
+            "Poverty", 
+            "United_States_Department_of_Health,_Education,_and_Welfare", 
+            "Western_world", 
+            "Virus", 
+            "AIDS", 
+            "Birth_control", 
+            "AIDS", 
+            "Africa", 
+            "Human_sexual_behavior", 
+            "Teenage_pregnancy", 
+            "Teenage_pregnancy", 
+            "Sexual_intercourse", 
+            "Monkey", 
+            "Statutory_rape", 
+            "HIV", 
+            "Marriage", 
+            "Tommy_Thompson", 
+            "Africa", 
+            "Tommy_(rock_opera)", 
+            "Birth_control", 
+            "Pregnancy", 
+            "Clinic", 
+            "Village", 
+            "Human_sexual_behavior", 
+            "Pandemic", 
+            "Sex_education", 
+            "Africa", 
+            "Condom", 
+            "Village", 
+            "Sex_education", 
+            "Draft_(hull)", 
+            "Sexually_transmitted_disease", 
+            "Human_sexual_behavior", 
+            "Woman", 
+            "George_W._Bush", 
+            "Fertility", 
+            "Pregnancy", 
+            "Health_care", 
+            "Human_sexual_behavior", 
+            "Body_piercing", 
+            "Birth_control", 
+            "Planet", 
+            "Sexually_transmitted_disease", 
+            "HIV", 
+            "Human_sexual_behavior", 
+            "Abortion", 
+            "Statistics", 
+            "Rape"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Pope", 
+            "Akimbo", 
+            "Pope_Benedict_XVI", 
+            "Condom", 
+            "The_Advocate", 
+            "Africa", 
+            "France", 
+            "Pope_Benedict_XVI", 
+            "Spain", 
+            "Feminism", 
+            "Coalition_government", 
+            "Pope_Benedict_XVI", 
+            "Rubber", 
+            "Condom", 
+            "AIDS", 
+            "Pope_Benedict_XVI", 
+            "Advocate", 
+            "Cake", 
+            "Blog", 
+            "Pontiff", 
+            "Pope", 
+            "Pope", 
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Pope", 
+            "Medical_journal", 
+            "Journal", 
+            "Science", 
+            "Pope", 
+            "Condom", 
+            "Lancet", 
+            "AIDS", 
+            "Condom", 
+            "Distortion"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Closet", 
+            "Birth_control", 
+            "Intelligence", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Pedophilia", 
+            "Germans", 
+            "Drug", 
+            "Roman_Catholic_Church", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Vulgar_(film)", 
+            "Abortion", 
+            "Evangelists", 
+            "Secularity", 
+            "The_Lancet", 
+            "Homosexual_orientation", 
+            "Episcopal_Church_in_the_United_States_of_America", 
+            "Nazism", 
+            "Pope", 
+            "High_church", 
+            "Roman_Catholic_Church", 
+            "Drug_addiction"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Roman_Catholic_Church", 
+            "Pope", 
+            "Hat", 
+            "Germans", 
+            "Papal_Tiara"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Automobile", 
+            "Car_accident"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "AIDS", 
+            "Condom", 
+            "Pope"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Roman_Catholic_Church", 
+            "Pope", 
+            "AIDS", 
+            "Scourge", 
+            "Methodology", 
+            "Epidemic", 
+            "Africa", 
+            "AIDS", 
+            "Roman_Catholic_Church", 
+            "Abstinence", 
+            "Remedy", 
+            "Moral_obligation"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Pope", 
+            "Apologize_(song)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Disease", 
+            "Pope", 
+            "Narcissism", 
+            "Africa", 
+            "Condom", 
+            "Condom", 
+            "SAFE_(cable_system)", 
+            "Rape", 
+            "Teenage_pregnancy", 
+            "Scourge", 
+            "Roman_Catholic_Church", 
+            "Abstinence", 
+            "Human_sexual_behavior", 
+            "Roman_Catholic_Church", 
+            "Condom", 
+            "AIDS", 
+            "Disease", 
+            "AIDS", 
+            "Pope"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Nun", 
+            "Condom", 
+            "Sexual_intercourse", 
+            "Rape", 
+            "Morality", 
+            "Condom", 
+            "Dollar", 
+            "Roman_Catholic_Church", 
+            "Sexual_intercourse", 
+            "Morality", 
+            "AIDS", 
+            "Sexual_intercourse", 
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Condom", 
+            "Fault_(geology)", 
+            "Pope", 
+            "Pope", 
+            "Statistics", 
+            "Condom", 
+            "African_people", 
+            "Facts", 
+            "Roman_Catholic_Church", 
+            "Disease", 
+            "Nun", 
+            "Sexual_intercourse", 
+            "Religion", 
+            "Sexual_intercourse", 
+            "Author", 
+            "AIDS", 
+            "Roman_Catholic_Church", 
+            "Common_sense", 
+            "Sexually_transmitted_disease", 
+            "Condom", 
+            "Africa"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Sexually_transmitted_disease", 
+            "Science", 
+            "Medicine", 
+            "HIV", 
+            "Sexually_transmitted_disease", 
+            "Doctrine", 
+            "Condom", 
+            "Condom", 
+            "Sexually_transmitted_disease", 
+            "Pope", 
+            "AIDS", 
+            "Pregnancy", 
+            "Pregnancy", 
+            "Birth_control", 
+            "AIDS", 
+            "Film_director", 
+            "STD_testing", 
+            "HIV", 
+            "Public_university", 
+            "Doctrine", 
+            "Condom", 
+            "Snapshot_(computer_storage)", 
+            "Papal_infallibility", 
+            "Sexually_transmitted_disease", 
+            "Condom", 
+            "Pregnancy", 
+            "Condom", 
+            "Sexually_transmitted_disease", 
+            "Birth_control", 
+            "University", 
+            "Incidence_(epidemiology)", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "AIDS", 
+            "Sexually_transmitted_disease", 
+            "Nurse", 
+            "AIDS", 
+            "Pope", 
+            "Fault_(geology)", 
+            "Human_sexual_behavior", 
+            "Sexually_transmitted_disease", 
+            "Virginity", 
+            "Fault_(geology)", 
+            "Rain", 
+            "Cherry", 
+            "Pope"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Monogamy", 
+            "Pope", 
+            "Beef", 
+            "Monogamy", 
+            "Analogy", 
+            "Medication", 
+            "HIV", 
+            "Sexually_transmitted_disease", 
+            "Pregnancy", 
+            "Sexual_abstinence", 
+            "Vaccine", 
+            "Sexual_abstinence", 
+            "Teenage_pregnancy", 
+            "Monogamy", 
+            "AIDS", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Pregnancy", 
+            "Norm_(sociology)", 
+            "HIV", 
+            "HIV", 
+            "Thompson,_Connecticut", 
+            "Circumcision", 
+            "Birth_control", 
+            "Breastfeeding", 
+            "Birth_control", 
+            "Sex_education", 
+            "Human_sexual_behavior", 
+            "Human_sexual_behavior", 
+            "Scandinavia", 
+            "Pregnancy", 
+            "Pregnancy", 
+            "Sex_education", 
+            "Africa", 
+            "Human_sexual_behavior", 
+            "Dowry", 
+            "Condom", 
+            "Condom", 
+            "Condom", 
+            "Sex_education", 
+            "Famine", 
+            "Sex_education", 
+            "HIV", 
+            "2001", 
+            "Superstition", 
+            "Africa", 
+            "Mass", 
+            "Human_sexual_behavior", 
+            "Drug", 
+            "Poverty", 
+            "United_States_Department_of_Health,_Education,_and_Welfare", 
+            "Western_world", 
+            "Virus", 
+            "AIDS", 
+            "Birth_control", 
+            "AIDS", 
+            "Africa", 
+            "Human_sexual_behavior", 
+            "Teenage_pregnancy", 
+            "Teenage_pregnancy", 
+            "Sexual_intercourse", 
+            "Monkey", 
+            "Statutory_rape", 
+            "HIV", 
+            "Marriage", 
+            "Tommy_Thompson", 
+            "Africa", 
+            "Tommy_(rock_opera)", 
+            "Birth_control", 
+            "Pregnancy", 
+            "Clinic", 
+            "Village", 
+            "Human_sexual_behavior", 
+            "Pandemic", 
+            "Sex_education", 
+            "Africa", 
+            "Condom", 
+            "Village", 
+            "Sex_education", 
+            "Draft_(hull)", 
+            "Sexually_transmitted_disease", 
+            "Human_sexual_behavior", 
+            "Woman", 
+            "George_W._Bush", 
+            "Fertility", 
+            "Pregnancy", 
+            "Health_care", 
+            "Human_sexual_behavior", 
+            "Body_piercing", 
+            "Birth_control", 
+            "Planet", 
+            "Sexually_transmitted_disease", 
+            "HIV", 
+            "Human_sexual_behavior", 
+            "Abortion", 
+            "Statistics", 
+            "Rape"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Pope", 
+            "Akimbo", 
+            "Pope_Benedict_XVI", 
+            "Condom", 
+            "The_Advocate", 
+            "Africa", 
+            "France", 
+            "Pope_Benedict_XVI", 
+            "Spain", 
+            "Feminism", 
+            "Coalition_government", 
+            "Pope_Benedict_XVI", 
+            "Rubber", 
+            "Condom", 
+            "AIDS", 
+            "Pope_Benedict_XVI", 
+            "Advocate", 
+            "Cake", 
+            "Blog", 
+            "Pontiff", 
+            "Pope", 
+            "Pope", 
+            "Pope", 
+            "Condom"
+        ], 
+        "postID": 40
+    }
+]

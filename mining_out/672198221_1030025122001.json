@@ -1,0 +1,21 @@
+[
+    {
+        "entity": [
+            "ABC_News", 
+            "American_Broadcasting_Company", 
+            "Practical_joke", 
+            "Class_reunion", 
+            "High_school"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Camera", 
+            "Neat_(TV_series)", 
+            "Surly_Bikes", 
+            "Gullibility"
+        ], 
+        "postID": 2
+    }
+]

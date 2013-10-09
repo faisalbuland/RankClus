@@ -1,0 +1,95 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hardware", 
+            "United_States_Congress", 
+            "Travesty", 
+            "Noise", 
+            "United_States_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Korean_War", 
+            "Korean_War", 
+            "Benzedrine", 
+            "United_States_Congress", 
+            "Invasion_of_Grenada", 
+            "Lebanon", 
+            "Gulf_War", 
+            "2001", 
+            "Vietnam_War"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Longevity", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Jaw", 
+            "United_States_Department_of_Defense", 
+            "Disability", 
+            "Disability", 
+            "Full_Faith_and_Credit_Clause", 
+            "Social_Security_(United_States)", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Disabled_American_Veterans", 
+            "Social_Security_Administration", 
+            "Entitlement", 
+            "Disability", 
+            "Disability", 
+            "Faith", 
+            "Social_Security_(United_States)", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Full_disclosure", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Social_Security_Administration", 
+            "Concurrency_(road)", 
+            "Disability", 
+            "Disability", 
+            "Dog", 
+            "Redundancy_(engineering)", 
+            "Social_Security_(United_States)", 
+            "Ritual", 
+            "Social_Security_Agency", 
+            "Law", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Social_Security_(United_States)", 
+            "Social_Security_(United_States)", 
+            "Bureaucracy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Veterans'_benefits", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Social_Security_Administration", 
+            "Politics"
+        ], 
+        "postID": 8
+    }
+]

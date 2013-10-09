@@ -1,0 +1,111 @@
+[
+    {
+        "entity": [
+            "468", 
+            "Governor", 
+            "241", 
+            "Afghanistan", 
+            "Shia_Islam", 
+            "B-1_Lancer", 
+            "Afghanistan", 
+            "Mahdi_Army", 
+            "Iraq", 
+            "B-1_Lancer", 
+            "United_States_Air_Force", 
+            "United_Nationalists_Democratic_Organizations", 
+            "Civilian_casualties", 
+            "President_of_the_United_States", 
+            "Police", 
+            "Hamid_Karzai", 
+            "Iraq", 
+            "Iraq", 
+            "United_States_Air_Force", 
+            "Hamid_Karzai", 
+            "Iraq"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "United_States", 
+            "Bank", 
+            "George_W._Bush", 
+            "Mission_Accomplished", 
+            "Mission_(LDS_Church)", 
+            "George_W._Bush"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "Terrorism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Afghanistan", 
+            "Wow_(Kate_Bush_song)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Basra", 
+            "Afghanistan", 
+            "Violence", 
+            "Al_Anbar_Governorate", 
+            "May_19", 
+            "235", 
+            "Afghanistan", 
+            "Iraq", 
+            "471", 
+            "International_Security_Assistance_Force", 
+            "United_States_Air_Force", 
+            "Dissident", 
+            "Iraq", 
+            "Iraq", 
+            "United_States_Air_Force", 
+            "Afghanistan", 
+            "Baghdad", 
+            "Intel_Corporation"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "War_on_Terrorism", 
+            "President_of_the_United_States", 
+            "Abraham_Lincoln", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Iraq", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Iraq", 
+            "CNN"
+        ], 
+        "postID": 8
+    }
+]

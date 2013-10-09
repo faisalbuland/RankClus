@@ -1,0 +1,581 @@
+[
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_fraud", 
+            "Transparent_(album)", 
+            "USA_Today", 
+            "Fox_News_Channel", 
+            "Credit_card", 
+            "Fox_Broadcasting_Company", 
+            "Credit_card_fraud", 
+            "Credit_card_fraud", 
+            "United_States", 
+            "Credit_card", 
+            "Web_page", 
+            "United_States_Congress", 
+            "Fine_print", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Gerald_Ford", 
+            "Fashion", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Recession", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Law", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Headache", 
+            "Law", 
+            "Fine_print", 
+            "United_States_Senate", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_interest", 
+            "Fine_print"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Usury", 
+            "Interest", 
+            "Patriotism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Transparency_(humanities)", 
+            "Fine_print", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fine_print", 
+            "Fine_print"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Dishwasher"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Consumer_credit", 
+            "President_of_the_United_States", 
+            "College", 
+            "Credit_card"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "ISO_7813", 
+            "Wink", 
+            "ISO_7813", 
+            "Hematophagy", 
+            "Blood", 
+            "Barack_Obama", 
+            "Bat", 
+            "ISO_7813", 
+            "ISO_7813", 
+            "Credit_card", 
+            "Law"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Virtuous_circle_and_vicious_circle", 
+            "Mortgage"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "High-definition_television", 
+            "Amazon.com", 
+            "Credit_card", 
+            "Car_rental", 
+            "Best_Buy", 
+            "Hotel", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Consumer_credit", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Pun", 
+            "LOL"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Capital_One", 
+            "Capital_One", 
+            "Marketing", 
+            "Interest"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "1980s", 
+            "Interest"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "God", 
+            "Class_conflict", 
+            "Capitalism", 
+            "The_One_(film)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Typographical_error", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_fraud", 
+            "Transparent_(album)", 
+            "USA_Today", 
+            "Fox_News_Channel", 
+            "Credit_card", 
+            "Fox_Broadcasting_Company", 
+            "Credit_card_fraud", 
+            "Credit_card_fraud", 
+            "United_States", 
+            "Credit_card", 
+            "Web_page", 
+            "United_States_Congress", 
+            "Fine_print", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Gerald_Ford", 
+            "Fashion", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Recession", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Law", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Headache", 
+            "Law", 
+            "Fine_print", 
+            "United_States_Senate", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_interest", 
+            "Fine_print"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Usury", 
+            "Interest", 
+            "Patriotism"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Transparency_(humanities)", 
+            "Fine_print", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fine_print", 
+            "Fine_print"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Dishwasher"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Consumer_credit", 
+            "President_of_the_United_States", 
+            "College", 
+            "Credit_card"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "ISO_7813", 
+            "Wink", 
+            "ISO_7813", 
+            "Hematophagy", 
+            "Blood", 
+            "Barack_Obama", 
+            "Bat", 
+            "ISO_7813", 
+            "ISO_7813", 
+            "Credit_card", 
+            "Law"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Virtuous_circle_and_vicious_circle", 
+            "Mortgage"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "High-definition_television", 
+            "Amazon.com", 
+            "Credit_card", 
+            "Car_rental", 
+            "Best_Buy", 
+            "Hotel", 
+            "Barack_Obama"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Consumer_credit", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Pun", 
+            "LOL"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Capital_One", 
+            "Capital_One", 
+            "Marketing", 
+            "Interest"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "1980s", 
+            "Interest"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "God", 
+            "Class_conflict", 
+            "Capitalism", 
+            "The_One_(film)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Typographical_error", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_fraud", 
+            "Transparent_(album)", 
+            "USA_Today", 
+            "Fox_News_Channel", 
+            "Credit_card", 
+            "Fox_Broadcasting_Company", 
+            "Credit_card_fraud", 
+            "Credit_card_fraud", 
+            "United_States", 
+            "Credit_card", 
+            "Web_page", 
+            "United_States_Congress", 
+            "Fine_print", 
+            "Barack_Obama"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Gerald_Ford", 
+            "Fashion", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Recession", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Law", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Headache", 
+            "Law", 
+            "Fine_print", 
+            "United_States_Senate", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_interest", 
+            "Fine_print"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Usury", 
+            "Interest", 
+            "Patriotism"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Transparency_(humanities)", 
+            "Fine_print", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Fine_print", 
+            "Fine_print"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Dishwasher"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Attorney_at_law"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Consumer_credit", 
+            "President_of_the_United_States", 
+            "College", 
+            "Credit_card"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "ISO_7813", 
+            "Wink", 
+            "ISO_7813", 
+            "Hematophagy", 
+            "Blood", 
+            "Barack_Obama", 
+            "Bat", 
+            "ISO_7813", 
+            "ISO_7813", 
+            "Credit_card", 
+            "Law"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Virtuous_circle_and_vicious_circle", 
+            "Mortgage"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "High-definition_television", 
+            "Amazon.com", 
+            "Credit_card", 
+            "Car_rental", 
+            "Best_Buy", 
+            "Hotel", 
+            "Barack_Obama"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Consumer_credit", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Pun", 
+            "LOL"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Capital_One", 
+            "Capital_One", 
+            "Marketing", 
+            "Interest"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "1980s", 
+            "Interest"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "God", 
+            "Class_conflict", 
+            "Capitalism", 
+            "The_One_(film)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Typographical_error", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 60
+    }
+]

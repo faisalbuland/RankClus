@@ -1,0 +1,94 @@
+[
+    {
+        "entity": [
+            "Missile", 
+            "Cruise_missile_submarine", 
+            "Submarine-launched_ballistic_missile", 
+            "Cruise_missile", 
+            "SSN_(hull_classification_symbol)", 
+            "Ballistic_missile_submarine"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Cruise_missile", 
+            "China", 
+            "Russian_language", 
+            "Real-time_(disambiguation)", 
+            "Time_trial", 
+            "Submarine", 
+            "Headway", 
+            "India", 
+            "Russian_Navy", 
+            "Russian_language", 
+            "Submarines_in_the_United_States_Navy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "BUMP_(comics)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Kursk", 
+            "Heck", 
+            "British_Rail_Class_156", 
+            "Cruise_missile_submarine", 
+            "Russia", 
+            "Cruise_missile_submarine", 
+            "Cruise_missile_submarine", 
+            "Heck"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Submarine", 
+            "Submarine", 
+            "Nuclear_weapon", 
+            "Russia", 
+            "Cruise_missile"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Cruise_missile_submarine", 
+            "Russian_submarine_K-141_Kursk", 
+            "Torpedo", 
+            "Cruise_missile"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Unmanned_aerial_vehicle", 
+            "Star_Wars", 
+            "Tank", 
+            "Think_tank", 
+            "United_States_Navy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sharks", 
+            "Scuba_diving", 
+            "Deep_diving"
+        ], 
+        "postID": 10
+    }
+]

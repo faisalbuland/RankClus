@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Suburban_Mobility_Authority_for_Regional_Transportation", 
+            "Euromissile_HOT", 
+            "Threaded_discussion", 
+            "Editorial_cartoon", 
+            "2009", 
+            "Post", 
+            "Las_Vegas_Review-Journal", 
+            "Las_Vegas,_Nevada", 
+            "Cartoon", 
+            "Internet_forum"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Cartoon"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Mod_(lifestyle)"
+        ], 
+        "postID": 4
+    }
+]

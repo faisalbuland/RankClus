@@ -1,0 +1,54 @@
+[
+    {
+        "entity": [
+            "Will_(philosophy)", 
+            "Recruit_training", 
+            "Stamina", 
+            "Shame"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)", 
+            "United_States_Marine_Corps_Boot_Camp"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Drill_instructor", 
+            "Drill", 
+            "Dover", 
+            "United_States_Marine_Corps", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Anxiety", 
+            "Basketball", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "Tennis", 
+            "United_States_Army", 
+            "Volleyball", 
+            "High_school", 
+            "Crunch_(exercise)", 
+            "2003", 
+            "Jogging", 
+            "Press_up"
+        ], 
+        "postID": 5
+    }
+]

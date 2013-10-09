@@ -1,0 +1,937 @@
+[
+    {
+        "entity": [
+            "The_San_Diego_Union-Tribune", 
+            "Symptom", 
+            "Stress_(biological)", 
+            "Posttraumatic_stress_disorder", 
+            "Child_pornography", 
+            "Kerry_GAA", 
+            "Prison", 
+            "Pornography", 
+            "2004", 
+            "Pornography", 
+            "Wade_Sanders", 
+            "Probation", 
+            "2009", 
+            "The_San_Diego_Union-Tribune", 
+            "Child_pornography", 
+            "Pornography", 
+            "The_San_Diego_Union-Tribune", 
+            "San_Diego,_California", 
+            "Child_pornography", 
+            "Pornography", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Kerry_GAA"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Cheerleading"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Iraq", 
+            "Pornographic_film", 
+            "Stacy_Valentine", 
+            "Valentine_(film)", 
+            "Jenna_Bush", 
+            "Angle"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Kerry_GAA"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Eye", 
+            "2009", 
+            "John_Kerry", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Iraq", 
+            "Horse"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Perversion"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Population", 
+            "Democratic_Party_(United_States)", 
+            "Population_control", 
+            "Kerry_GAA", 
+            "Pedophilia"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Democracy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder", 
+            "Sorta"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mare", 
+            "Colt_(horse)", 
+            "Gelding"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Horse"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Bible"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Zoophilia", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Democratic_Party_(United_States)", 
+            "Posttraumatic_stress_disorder", 
+            "Republican_Party_(United_States)", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Second", 
+            "Kerry_GAA"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "John_Kerry", 
+            "Bank", 
+            "John_Kerry", 
+            "United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "The_San_Diego_Union-Tribune", 
+            "Symptom", 
+            "Stress_(biological)", 
+            "Posttraumatic_stress_disorder", 
+            "Child_pornography", 
+            "Kerry_GAA", 
+            "Prison", 
+            "Pornography", 
+            "2004", 
+            "Pornography", 
+            "Wade_Sanders", 
+            "Probation", 
+            "2009", 
+            "The_San_Diego_Union-Tribune", 
+            "Child_pornography", 
+            "Pornography", 
+            "The_San_Diego_Union-Tribune", 
+            "San_Diego,_California", 
+            "Child_pornography", 
+            "Pornography", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Kerry_GAA"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Cheerleading"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Iraq", 
+            "Pornographic_film", 
+            "Stacy_Valentine", 
+            "Valentine_(film)", 
+            "Jenna_Bush", 
+            "Angle"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Kerry_GAA"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Eye", 
+            "2009", 
+            "John_Kerry", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Iraq", 
+            "Horse"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Perversion"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Population", 
+            "Democratic_Party_(United_States)", 
+            "Population_control", 
+            "Kerry_GAA", 
+            "Pedophilia"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Democracy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder", 
+            "Sorta"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Mare", 
+            "Colt_(horse)", 
+            "Gelding"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Horse"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Bible"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Zoophilia", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Democratic_Party_(United_States)", 
+            "Posttraumatic_stress_disorder", 
+            "Republican_Party_(United_States)", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Second", 
+            "Kerry_GAA"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "John_Kerry", 
+            "Bank", 
+            "John_Kerry", 
+            "United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "The_San_Diego_Union-Tribune", 
+            "Symptom", 
+            "Stress_(biological)", 
+            "Posttraumatic_stress_disorder", 
+            "Child_pornography", 
+            "Kerry_GAA", 
+            "Prison", 
+            "Pornography", 
+            "2004", 
+            "Pornography", 
+            "Wade_Sanders", 
+            "Probation", 
+            "2009", 
+            "The_San_Diego_Union-Tribune", 
+            "Child_pornography", 
+            "Pornography", 
+            "The_San_Diego_Union-Tribune", 
+            "San_Diego,_California", 
+            "Child_pornography", 
+            "Pornography", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Kerry_GAA"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Cheerleading"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Iraq", 
+            "Pornographic_film", 
+            "Stacy_Valentine", 
+            "Valentine_(film)", 
+            "Jenna_Bush", 
+            "Angle"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Kerry_GAA"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Eye", 
+            "2009", 
+            "John_Kerry", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Iraq", 
+            "Horse"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Perversion"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Population", 
+            "Democratic_Party_(United_States)", 
+            "Population_control", 
+            "Kerry_GAA", 
+            "Pedophilia"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Democracy"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder", 
+            "Sorta"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mare", 
+            "Colt_(horse)", 
+            "Gelding"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Horse"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Bible"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Zoophilia", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Democratic_Party_(United_States)", 
+            "Posttraumatic_stress_disorder", 
+            "Republican_Party_(United_States)", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Second", 
+            "Kerry_GAA"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "John_Kerry", 
+            "Bank", 
+            "John_Kerry", 
+            "United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "The_San_Diego_Union-Tribune", 
+            "Symptom", 
+            "Stress_(biological)", 
+            "Posttraumatic_stress_disorder", 
+            "Child_pornography", 
+            "Kerry_GAA", 
+            "Prison", 
+            "Pornography", 
+            "2004", 
+            "Pornography", 
+            "Wade_Sanders", 
+            "Probation", 
+            "2009", 
+            "The_San_Diego_Union-Tribune", 
+            "Child_pornography", 
+            "Pornography", 
+            "The_San_Diego_Union-Tribune", 
+            "San_Diego,_California", 
+            "Child_pornography", 
+            "Pornography", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Kerry_GAA"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Cheerleading"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Iraq", 
+            "Pornographic_film", 
+            "Stacy_Valentine", 
+            "Valentine_(film)", 
+            "Jenna_Bush", 
+            "Angle"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Kerry_GAA"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Eye", 
+            "2009", 
+            "John_Kerry", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Iraq", 
+            "Horse"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Perversion"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Population", 
+            "Democratic_Party_(United_States)", 
+            "Population_control", 
+            "Kerry_GAA", 
+            "Pedophilia"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Democracy"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder", 
+            "Sorta"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Mare", 
+            "Colt_(horse)", 
+            "Gelding"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Horse"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Bible"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Zoophilia", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Democratic_Party_(United_States)", 
+            "Posttraumatic_stress_disorder", 
+            "Republican_Party_(United_States)", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Second", 
+            "Kerry_GAA"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "John_Kerry", 
+            "Bank", 
+            "John_Kerry", 
+            "United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "The_San_Diego_Union-Tribune", 
+            "Symptom", 
+            "Stress_(biological)", 
+            "Posttraumatic_stress_disorder", 
+            "Child_pornography", 
+            "Kerry_GAA", 
+            "Prison", 
+            "Pornography", 
+            "2004", 
+            "Pornography", 
+            "Wade_Sanders", 
+            "Probation", 
+            "2009", 
+            "The_San_Diego_Union-Tribune", 
+            "Child_pornography", 
+            "Pornography", 
+            "The_San_Diego_Union-Tribune", 
+            "San_Diego,_California", 
+            "Child_pornography", 
+            "Pornography", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Kerry_GAA"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Cheerleading"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Iraq", 
+            "Pornographic_film", 
+            "Stacy_Valentine", 
+            "Valentine_(film)", 
+            "Jenna_Bush", 
+            "Angle"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Kerry_GAA"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Eye", 
+            "2009", 
+            "John_Kerry", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Iraq", 
+            "Horse"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Perversion"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Population", 
+            "Democratic_Party_(United_States)", 
+            "Population_control", 
+            "Kerry_GAA", 
+            "Pedophilia"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Democracy"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder", 
+            "Sorta"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Mare", 
+            "Colt_(horse)", 
+            "Gelding"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Horse"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Child_pornography", 
+            "Bible"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Zoophilia", 
+            "Child_pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Posttraumatic_stress_disorder", 
+            "Pornography", 
+            "Democratic_Party_(United_States)", 
+            "Posttraumatic_stress_disorder", 
+            "Republican_Party_(United_States)", 
+            "Pornography", 
+            "Child_pornography"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Kerry_GAA", 
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Pornography", 
+            "Second", 
+            "Kerry_GAA"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "John_Kerry", 
+            "Bank", 
+            "John_Kerry", 
+            "United_States", 
+            "United_States_Senate"
+        ], 
+        "postID": 100
+    }
+]

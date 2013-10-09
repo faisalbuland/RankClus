@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Psychedelic_rock", 
+            "1986", 
+            "Posttraumatic_stress_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Posttraumatic_stress_disorder", 
+            "Trait_theory"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "War", 
+            "Posttraumatic_stress_disorder", 
+            "Lewis", 
+            "Fort_Lewis"
+        ], 
+        "postID": 4
+    }
+]

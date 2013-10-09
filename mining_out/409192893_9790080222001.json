@@ -1,0 +1,107 @@
+[
+    {
+        "entity": [
+            "Flue", 
+            "Hell", 
+            "Pandemic", 
+            "Donkey"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mask", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Influenza"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Republican_Party_(United_States)", 
+            "Influenza_pandemic", 
+            "Influenza_pandemic", 
+            "Shame"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Homework"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Partisan_(military)", 
+            "Stalinism", 
+            "Snow"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Globe", 
+            "Pandemic", 
+            "Pneumonia", 
+            "Medication", 
+            "Virus", 
+            "Influenza", 
+            "Finite_set"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Mexico", 
+            "Influenza"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Influenza", 
+            "Joseph_Stalin", 
+            "Plymouth_Duster", 
+            "Orlando,_Florida"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Coast_Guard"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "George_W._Bush", 
+            "Vaccine", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }
+]

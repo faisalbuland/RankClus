@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "2009", 
+            "Pastor", 
+            "Bubbles_(band)", 
+            "Mon_people", 
+            "Barack_Obama", 
+            "Christian", 
+            "United_States", 
+            "God"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mad_(magazine)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Judeo-Christian", 
+            "Middle_East", 
+            "Upper_class", 
+            "Christianity", 
+            "Arab", 
+            "Secularism", 
+            "Christianity", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

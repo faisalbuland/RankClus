@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Prostate_cancer", 
+            "Cancer", 
+            "2009", 
+            "Prostate", 
+            "Hope,_British_Columbia", 
+            "Don_Imus", 
+            "Mon_people", 
+            "Imus,_Cavite", 
+            "March_16"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 2
+    }
+]

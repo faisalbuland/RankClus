@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Hamas", 
+            "Israel", 
+            "Israel", 
+            "Hamas"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Statesman", 
+            "Hamas", 
+            "Hamas"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Palestinian_people", 
+            "Nick_Cvjetkovich", 
+            "Hamas", 
+            "Fatah", 
+            "Gaza", 
+            "Israel", 
+            "Hamas", 
+            "Informant", 
+            "United_States", 
+            "West_Bank"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Feces", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Terrorism"
+        ], 
+        "postID": 8
+    }
+]

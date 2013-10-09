@@ -1,0 +1,586 @@
+[
+    {
+        "entity": [
+            "Muslim_world", 
+            "Muslim", 
+            "Islam", 
+            "Turkey", 
+            "Parliament", 
+            "Agence_France-Presse", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "Israel", 
+            "Barack_Obama", 
+            "Weapon", 
+            "Turkey", 
+            "Annapolis,_Maryland", 
+            "Welsh_people", 
+            "Avigdor", 
+            "Barack_Obama", 
+            "Annapolis,_Maryland", 
+            "Europe", 
+            "Muslim", 
+            "Muslim_world", 
+            "Palestine", 
+            "Barack_Obama", 
+            "United_States", 
+            "Republic", 
+            "Iran", 
+            "Islamic_republic", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Israelis", 
+            "Republic", 
+            "2007", 
+            "Islam", 
+            "Islam", 
+            "Iran", 
+            "Bridge", 
+            "Washington,_D.C.", 
+            "Foreign_minister", 
+            "September_11,_2001_attacks", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Israel", 
+            "Middle_East", 
+            "President_of_the_United_States", 
+            "April_6", 
+            "Joe_Lieberman", 
+            "Barack_Obama", 
+            "United_States", 
+            "Barack_Obama", 
+            "Islamic_republic", 
+            "Ummah", 
+            "Palestinian_people", 
+            "Grand_National_Assembly_of_Turkey", 
+            "Muslim", 
+            "Israel", 
+            "Islam", 
+            "Israeli-Palestinian_conflict", 
+            "Barack_Obama", 
+            "Weapon", 
+            "Annapolis,_Maryland", 
+            "Turkey", 
+            "Education", 
+            "Avigdor_Lieberman", 
+            "Superpower", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Kansas", 
+            "Inquisition", 
+            "Witch-hunt", 
+            "Religion", 
+            "Phelps_(village),_New_York", 
+            "Salem_witch_trials", 
+            "Spanish_Inquisition", 
+            "Witchcraft", 
+            "Nut_(fruit)", 
+            "Islam", 
+            "Salem,_Massachusetts", 
+            "Religion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Arab", 
+            "Dearborn,_Michigan", 
+            "Persian_peoples"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Global_warming"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Freedom_of_speech", 
+            "Muslim_world", 
+            "Religion", 
+            "Kafir", 
+            "Islam", 
+            "Israel"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Violence"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Superpower"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States", 
+            "Only_Time", 
+            "Time_(magazine)", 
+            "Bullying", 
+            "United_States", 
+            "Historical_rankings_of_United_States_Presidents"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Culture", 
+            "United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Demon", 
+            "Muslim", 
+            "God", 
+            "Extremism", 
+            "Murder", 
+            "Abraham", 
+            "God", 
+            "Islam", 
+            "God", 
+            "Extremism", 
+            "Islam", 
+            "Religion", 
+            "Religion", 
+            "Christianity", 
+            "Religion", 
+            "God", 
+            "Jew", 
+            "Christianity", 
+            "Islam", 
+            "Religion"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Cartridge_(firearms)", 
+            "Cartridge_(firearms)", 
+            "Islam"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Self-determination"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Islam"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Islam", 
+            "Islam", 
+            "Islam", 
+            "Islamic_fundamentalism", 
+            "Muslim_world"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Islam", 
+            "United_States", 
+            "SR-71_Blackbird", 
+            "Kadena_Air_Base", 
+            "Foot_(length)", 
+            "President_of_the_United_States", 
+            "Okinawa_Prefecture"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Islam", 
+            "Binary_File_Descriptor_library", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Terrorism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Saudi_Arabia", 
+            "Muslim_world", 
+            "Iraq", 
+            "Iraqi_insurgency", 
+            "Bahrain", 
+            "Kuwait", 
+            "Muslim", 
+            "Turkey", 
+            "Muslim", 
+            "Malaysia", 
+            "Muslim", 
+            "Iraq", 
+            "Afghanistan"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "FedEx_Ground", 
+            "Clam"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Muslim_world", 
+            "Muslim", 
+            "Islam", 
+            "Turkey", 
+            "Parliament", 
+            "Agence_France-Presse", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "Israel", 
+            "Barack_Obama", 
+            "Weapon", 
+            "Turkey", 
+            "Annapolis,_Maryland", 
+            "Welsh_people", 
+            "Avigdor", 
+            "Barack_Obama", 
+            "Annapolis,_Maryland", 
+            "Europe", 
+            "Muslim", 
+            "Muslim_world", 
+            "Palestine", 
+            "Barack_Obama", 
+            "United_States", 
+            "Republic", 
+            "Iran", 
+            "Islamic_republic", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Israelis", 
+            "Republic", 
+            "2007", 
+            "Islam", 
+            "Islam", 
+            "Iran", 
+            "Bridge", 
+            "Washington,_D.C.", 
+            "Foreign_minister", 
+            "September_11,_2001_attacks", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Israel", 
+            "Middle_East", 
+            "President_of_the_United_States", 
+            "April_6", 
+            "Joe_Lieberman", 
+            "Barack_Obama", 
+            "United_States", 
+            "Barack_Obama", 
+            "Islamic_republic", 
+            "Ummah", 
+            "Palestinian_people", 
+            "Grand_National_Assembly_of_Turkey", 
+            "Muslim", 
+            "Israel", 
+            "Islam", 
+            "Israeli-Palestinian_conflict", 
+            "Barack_Obama", 
+            "Weapon", 
+            "Annapolis,_Maryland", 
+            "Turkey", 
+            "Education", 
+            "Avigdor_Lieberman", 
+            "Superpower", 
+            "United_States"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Kansas", 
+            "Inquisition", 
+            "Witch-hunt", 
+            "Religion", 
+            "Phelps_(village),_New_York", 
+            "Salem_witch_trials", 
+            "Spanish_Inquisition", 
+            "Witchcraft", 
+            "Nut_(fruit)", 
+            "Islam", 
+            "Salem,_Massachusetts", 
+            "Religion"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Arab", 
+            "Dearborn,_Michigan", 
+            "Persian_peoples"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Global_warming"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Freedom_of_speech", 
+            "Muslim_world", 
+            "Religion", 
+            "Kafir", 
+            "Islam", 
+            "Israel"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Violence"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "Superpower"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States", 
+            "Only_Time", 
+            "Time_(magazine)", 
+            "Bullying", 
+            "United_States", 
+            "Historical_rankings_of_United_States_Presidents"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Culture", 
+            "United_States"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Demon", 
+            "Muslim", 
+            "God", 
+            "Extremism", 
+            "Murder", 
+            "Abraham", 
+            "God", 
+            "Islam", 
+            "God", 
+            "Extremism", 
+            "Islam", 
+            "Religion", 
+            "Religion", 
+            "Christianity", 
+            "Religion", 
+            "God", 
+            "Jew", 
+            "Christianity", 
+            "Islam", 
+            "Religion"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Cartridge_(firearms)", 
+            "Cartridge_(firearms)", 
+            "Islam"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Self-determination"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Islam"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Islam", 
+            "Islam", 
+            "Islam", 
+            "Islamic_fundamentalism", 
+            "Muslim_world"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Islam", 
+            "United_States", 
+            "SR-71_Blackbird", 
+            "Kadena_Air_Base", 
+            "Foot_(length)", 
+            "President_of_the_United_States", 
+            "Okinawa_Prefecture"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Barack_Obama"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Islam", 
+            "Binary_File_Descriptor_library", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Terrorism"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Saudi_Arabia", 
+            "Muslim_world", 
+            "Iraq", 
+            "Iraqi_insurgency", 
+            "Bahrain", 
+            "Kuwait", 
+            "Muslim", 
+            "Turkey", 
+            "Muslim", 
+            "Malaysia", 
+            "Muslim", 
+            "Iraq", 
+            "Afghanistan"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "FedEx_Ground", 
+            "Clam"
+        ], 
+        "postID": 52
+    }
+]

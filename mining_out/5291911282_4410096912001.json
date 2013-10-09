@@ -1,0 +1,766 @@
+[
+    {
+        "entity": [
+            "Headbanging", 
+            "YouTube", 
+            "Spoetzl_Brewery", 
+            "Motley,_Minnesota", 
+            "M\u00f6tley_Cr\u00fce", 
+            "Hash_function", 
+            "Bock", 
+            "Shiner,_Texas"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "CCR", 
+            "Andr\u00e9_3000", 
+            "Savoy", 
+            "Savoy_Brown"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sidewalk", 
+            "Duplex_(building)", 
+            "Dog", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Porch", 
+            "Surgery", 
+            "Porch", 
+            "Leash", 
+            "Dog", 
+            "Dog", 
+            "Wrench", 
+            "Dog", 
+            "Apartment", 
+            "Snout", 
+            "Porch", 
+            "Rapping", 
+            "Freeway", 
+            "Port", 
+            "Walking_stick", 
+            "Jerk", 
+            "Sidewalk", 
+            "Growling", 
+            "Goatee", 
+            "Noise", 
+            "Pincer", 
+            "Sidewalk", 
+            "Curses_(programming_library)", 
+            "Dog", 
+            "Moustache", 
+            "Walking_stick", 
+            "Pound_(mass)", 
+            "Dog", 
+            "Walking_stick", 
+            "Doberman_Pinscher", 
+            "Dog", 
+            "Dog", 
+            "Stomach", 
+            "Lawn", 
+            "Trucks", 
+            "Dog", 
+            "Porch", 
+            "Apartment", 
+            "Dog", 
+            "E-mail", 
+            "Surgery"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dammit_(song)", 
+            "Walking_stick"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Pup"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Taser"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Jazz", 
+            "Rum", 
+            "Coke_(fuel)", 
+            "Tylenol"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Air_traffic_control", 
+            "General_Communication"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Duck", 
+            "D._V._Gundappa", 
+            "God"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Karaoke", 
+            "Coffee"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Estrous_cycle", 
+            "45_(number)", 
+            "Equalization", 
+            "Hope,_British_Columbia", 
+            "Punk_rock", 
+            "Dog"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Base_on_balls"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Apartment", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Stupidity", 
+            "Police", 
+            "Jaw"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Headbanging", 
+            "YouTube", 
+            "Spoetzl_Brewery", 
+            "Motley,_Minnesota", 
+            "M\u00f6tley_Cr\u00fce", 
+            "Hash_function", 
+            "Bock", 
+            "Shiner,_Texas"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "CCR", 
+            "Andr\u00e9_3000", 
+            "Savoy", 
+            "Savoy_Brown"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Sidewalk", 
+            "Duplex_(building)", 
+            "Dog", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Porch", 
+            "Surgery", 
+            "Porch", 
+            "Leash", 
+            "Dog", 
+            "Dog", 
+            "Wrench", 
+            "Dog", 
+            "Apartment", 
+            "Snout", 
+            "Porch", 
+            "Rapping", 
+            "Freeway", 
+            "Port", 
+            "Walking_stick", 
+            "Jerk", 
+            "Sidewalk", 
+            "Growling", 
+            "Goatee", 
+            "Noise", 
+            "Pincer", 
+            "Sidewalk", 
+            "Curses_(programming_library)", 
+            "Dog", 
+            "Moustache", 
+            "Walking_stick", 
+            "Pound_(mass)", 
+            "Dog", 
+            "Walking_stick", 
+            "Doberman_Pinscher", 
+            "Dog", 
+            "Dog", 
+            "Stomach", 
+            "Lawn", 
+            "Trucks", 
+            "Dog", 
+            "Porch", 
+            "Apartment", 
+            "Dog", 
+            "E-mail", 
+            "Surgery"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Dammit_(song)", 
+            "Walking_stick"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Pup"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Taser"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Jazz", 
+            "Rum", 
+            "Coke_(fuel)", 
+            "Tylenol"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Air_traffic_control", 
+            "General_Communication"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Duck", 
+            "D._V._Gundappa", 
+            "God"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Karaoke", 
+            "Coffee"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Estrous_cycle", 
+            "45_(number)", 
+            "Equalization", 
+            "Hope,_British_Columbia", 
+            "Punk_rock", 
+            "Dog"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Base_on_balls"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Apartment", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Stupidity", 
+            "Police", 
+            "Jaw"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Headbanging", 
+            "YouTube", 
+            "Spoetzl_Brewery", 
+            "Motley,_Minnesota", 
+            "M\u00f6tley_Cr\u00fce", 
+            "Hash_function", 
+            "Bock", 
+            "Shiner,_Texas"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "CCR", 
+            "Andr\u00e9_3000", 
+            "Savoy", 
+            "Savoy_Brown"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Sidewalk", 
+            "Duplex_(building)", 
+            "Dog", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Porch", 
+            "Surgery", 
+            "Porch", 
+            "Leash", 
+            "Dog", 
+            "Dog", 
+            "Wrench", 
+            "Dog", 
+            "Apartment", 
+            "Snout", 
+            "Porch", 
+            "Rapping", 
+            "Freeway", 
+            "Port", 
+            "Walking_stick", 
+            "Jerk", 
+            "Sidewalk", 
+            "Growling", 
+            "Goatee", 
+            "Noise", 
+            "Pincer", 
+            "Sidewalk", 
+            "Curses_(programming_library)", 
+            "Dog", 
+            "Moustache", 
+            "Walking_stick", 
+            "Pound_(mass)", 
+            "Dog", 
+            "Walking_stick", 
+            "Doberman_Pinscher", 
+            "Dog", 
+            "Dog", 
+            "Stomach", 
+            "Lawn", 
+            "Trucks", 
+            "Dog", 
+            "Porch", 
+            "Apartment", 
+            "Dog", 
+            "E-mail", 
+            "Surgery"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Dammit_(song)", 
+            "Walking_stick"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Pup"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Taser"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Jazz", 
+            "Rum", 
+            "Coke_(fuel)", 
+            "Tylenol"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Air_traffic_control", 
+            "General_Communication"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Duck", 
+            "D._V._Gundappa", 
+            "God"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Karaoke", 
+            "Coffee"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Estrous_cycle", 
+            "45_(number)", 
+            "Equalization", 
+            "Hope,_British_Columbia", 
+            "Punk_rock", 
+            "Dog"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Base_on_balls"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Apartment", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Stupidity", 
+            "Police", 
+            "Jaw"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Headbanging", 
+            "YouTube", 
+            "Spoetzl_Brewery", 
+            "Motley,_Minnesota", 
+            "M\u00f6tley_Cr\u00fce", 
+            "Hash_function", 
+            "Bock", 
+            "Shiner,_Texas"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "CCR", 
+            "Andr\u00e9_3000", 
+            "Savoy", 
+            "Savoy_Brown"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Sidewalk", 
+            "Duplex_(building)", 
+            "Dog", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Porch", 
+            "Surgery", 
+            "Porch", 
+            "Leash", 
+            "Dog", 
+            "Dog", 
+            "Wrench", 
+            "Dog", 
+            "Apartment", 
+            "Snout", 
+            "Porch", 
+            "Rapping", 
+            "Freeway", 
+            "Port", 
+            "Walking_stick", 
+            "Jerk", 
+            "Sidewalk", 
+            "Growling", 
+            "Goatee", 
+            "Noise", 
+            "Pincer", 
+            "Sidewalk", 
+            "Curses_(programming_library)", 
+            "Dog", 
+            "Moustache", 
+            "Walking_stick", 
+            "Pound_(mass)", 
+            "Dog", 
+            "Walking_stick", 
+            "Doberman_Pinscher", 
+            "Dog", 
+            "Dog", 
+            "Stomach", 
+            "Lawn", 
+            "Trucks", 
+            "Dog", 
+            "Porch", 
+            "Apartment", 
+            "Dog", 
+            "E-mail", 
+            "Surgery"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Dammit_(song)", 
+            "Walking_stick"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Pup"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Taser"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Jazz", 
+            "Rum", 
+            "Coke_(fuel)", 
+            "Tylenol"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Air_traffic_control", 
+            "General_Communication"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Duck", 
+            "D._V._Gundappa", 
+            "God"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Karaoke", 
+            "Coffee"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Estrous_cycle", 
+            "45_(number)", 
+            "Equalization", 
+            "Hope,_British_Columbia", 
+            "Punk_rock", 
+            "Dog"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Base_on_balls"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Apartment", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Stupidity", 
+            "Police", 
+            "Jaw"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [], 
+        "postID": 80
+    }
+]

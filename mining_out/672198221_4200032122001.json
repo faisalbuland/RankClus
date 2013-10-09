@@ -1,0 +1,560 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Venezuela", 
+            "Shack", 
+            "Barack_Obama", 
+            "Venezuela", 
+            "Community_organizing"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Communism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "Fidel_Castro", 
+            "Desiderius_Erasmus", 
+            "Philosophy", 
+            "Barack_Obama", 
+            "Diplomacy", 
+            "Boycott"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Black_helicopter", 
+            "LOL", 
+            "Helicopter"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Jimmy_Carter", 
+            "United_States", 
+            "Fidel_Castro", 
+            "President_of_the_United_States", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Fidel_Castro", 
+            "Hugo_Ch\u00e1vez", 
+            "Socialism", 
+            "United_States", 
+            "Socialism", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fidel_Castro", 
+            "Arabian_Peninsula", 
+            "Vietnam", 
+            "South_Korea", 
+            "China", 
+            "United_States", 
+            "Latin_America", 
+            "China", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "Communist_party", 
+            "Communism", 
+            "Latin"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hill_fort", 
+            "Oppression", 
+            "List_of_designated_terrorist_organizations", 
+            "Terrorism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Public_Service", 
+            "LOL", 
+            "Eagle", 
+            "Black_helicopter", 
+            "Helicopter"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gumdrop", 
+            "Cuba", 
+            "Embargo", 
+            "Candy", 
+            "United_States_embargo_against_Cuba"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Cuba", 
+            "Human_rights", 
+            "Castro"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "United_States", 
+            "Mythology", 
+            "Soviet_Union", 
+            "Foreign_policy", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Cold-blooded", 
+            "Left-wing_politics", 
+            "Richard_Nixon", 
+            "Che_Guevara", 
+            "D\u00e9tente", 
+            "Revolutionary", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "China", 
+            "Indigenous_peoples_of_the_Americas", 
+            "Bench_press", 
+            "Human_rights", 
+            "United_States", 
+            "Cuba", 
+            "Indigenous_peoples_of_the_Americas"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Venezuela", 
+            "Shack", 
+            "Barack_Obama", 
+            "Venezuela", 
+            "Community_organizing"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Communism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "Fidel_Castro", 
+            "Desiderius_Erasmus", 
+            "Philosophy", 
+            "Barack_Obama", 
+            "Diplomacy", 
+            "Boycott"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Black_helicopter", 
+            "LOL", 
+            "Helicopter"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "LOL"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Jimmy_Carter", 
+            "United_States", 
+            "Fidel_Castro", 
+            "President_of_the_United_States", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Fidel_Castro", 
+            "Hugo_Ch\u00e1vez", 
+            "Socialism", 
+            "United_States", 
+            "Socialism", 
+            "Barack_Obama"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fidel_Castro", 
+            "Arabian_Peninsula", 
+            "Vietnam", 
+            "South_Korea", 
+            "China", 
+            "United_States", 
+            "Latin_America", 
+            "China", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "Communist_party", 
+            "Communism", 
+            "Latin"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Hill_fort", 
+            "Oppression", 
+            "List_of_designated_terrorist_organizations", 
+            "Terrorism"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Public_Service", 
+            "LOL", 
+            "Eagle", 
+            "Black_helicopter", 
+            "Helicopter"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gumdrop", 
+            "Cuba", 
+            "Embargo", 
+            "Candy", 
+            "United_States_embargo_against_Cuba"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Cuba", 
+            "Human_rights", 
+            "Castro"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "United_States", 
+            "Mythology", 
+            "Soviet_Union", 
+            "Foreign_policy", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Cold-blooded", 
+            "Left-wing_politics", 
+            "Richard_Nixon", 
+            "Che_Guevara", 
+            "D\u00e9tente", 
+            "Revolutionary", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "China", 
+            "Indigenous_peoples_of_the_Americas", 
+            "Bench_press", 
+            "Human_rights", 
+            "United_States", 
+            "Cuba", 
+            "Indigenous_peoples_of_the_Americas"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Venezuela", 
+            "Shack", 
+            "Barack_Obama", 
+            "Venezuela", 
+            "Community_organizing"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Communism"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "Fidel_Castro", 
+            "Desiderius_Erasmus", 
+            "Philosophy", 
+            "Barack_Obama", 
+            "Diplomacy", 
+            "Boycott"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Black_helicopter", 
+            "LOL", 
+            "Helicopter"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "LOL"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Jimmy_Carter", 
+            "United_States", 
+            "Fidel_Castro", 
+            "President_of_the_United_States", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Fidel_Castro", 
+            "Hugo_Ch\u00e1vez", 
+            "Socialism", 
+            "United_States", 
+            "Socialism", 
+            "Barack_Obama"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fidel_Castro", 
+            "Arabian_Peninsula", 
+            "Vietnam", 
+            "South_Korea", 
+            "China", 
+            "United_States", 
+            "Latin_America", 
+            "China", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "Communist_party", 
+            "Communism", 
+            "Latin"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Hill_fort", 
+            "Oppression", 
+            "List_of_designated_terrorist_organizations", 
+            "Terrorism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Public_Service", 
+            "LOL", 
+            "Eagle", 
+            "Black_helicopter", 
+            "Helicopter"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Gumdrop", 
+            "Cuba", 
+            "Embargo", 
+            "Candy", 
+            "United_States_embargo_against_Cuba"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Cuba", 
+            "Human_rights", 
+            "Castro"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Soviet_Union", 
+            "United_States", 
+            "Mythology", 
+            "Soviet_Union", 
+            "Foreign_policy", 
+            "Ronald_Reagan", 
+            "President_of_the_United_States", 
+            "Cold-blooded", 
+            "Left-wing_politics", 
+            "Richard_Nixon", 
+            "Che_Guevara", 
+            "D\u00e9tente", 
+            "Revolutionary", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Fast_food", 
+            "China", 
+            "Indigenous_peoples_of_the_Americas", 
+            "Bench_press", 
+            "Human_rights", 
+            "United_States", 
+            "Cuba", 
+            "Indigenous_peoples_of_the_Americas"
+        ], 
+        "postID": 60
+    }
+]

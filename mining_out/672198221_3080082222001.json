@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Helicopter", 
+            "White_paper", 
+            "Fighter_aircraft", 
+            "Frigate", 
+            "Submarine", 
+            "Eurocopter_AS_532", 
+            "Australia"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Australia", 
+            "Screw_thread", 
+            "Regional_power"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Parliament_of_the_United_Kingdom", 
+            "Royal_Australian_Navy", 
+            "Minced_oath"
+        ], 
+        "postID": 3
+    }
+]

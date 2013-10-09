@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Boot_camp", 
+            "Dress_uniform", 
+            "Boot", 
+            "May_22", 
+            "Blues-rock", 
+            "Boot", 
+            "Blues-rock", 
+            "Boot_camp", 
+            "Dress_uniform"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Blues", 
+            "Dress_uniform"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "RMAS", 
+            "Regiment", 
+            "Cavalry_regiments_of_the_British_Army", 
+            "Regiment", 
+            "Overall", 
+            "Cavalry"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Flag", 
+            "Boot_camp", 
+            "Boot", 
+            "Bean", 
+            "Drill"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "Soldier", 
+            "Boot_camp", 
+            "Soldier", 
+            "United_States_Marine_Corps", 
+            "Derelict", 
+            "God", 
+            "United_States_Air_Force", 
+            "Recruit_training", 
+            "God", 
+            "D._V._Gundappa", 
+            "United_States", 
+            "United_States_Marine_Corps", 
+            "United_States_Coast_Guard", 
+            "Duck"
+        ], 
+        "postID": 6
+    }
+]

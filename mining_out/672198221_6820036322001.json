@@ -1,0 +1,650 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Governor", 
+            "Suicide", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Super_Bowl", 
+            "Barack_Obama", 
+            "State", 
+            "Business_jet", 
+            "Las_Vegas,_Nevada", 
+            "Tax"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Las_Vegas,_Nevada", 
+            "Jet_aircraft", 
+            "United_States_Air_Force", 
+            "Air_Force_One"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Las_Vegas,_Nevada"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Lip_service", 
+            "Pennsylvania", 
+            "Las_Vegas,_Nevada", 
+            "Rail_transport", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Fundraiser", 
+            "Lip", 
+            "Pennsylvania_Avenue"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Nevada", 
+            "Gambling"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Opus_number", 
+            "Cabinet", 
+            "Manhattan", 
+            "United_States", 
+            "Lower_Manhattan"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Don_Imus", 
+            "United_States", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "George_W._Bush"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "40th_Canadian_federal_election", 
+            "Mantra", 
+            "George_H._W._Bush", 
+            "Joseph_Stalin", 
+            "Yea,_Victoria", 
+            "George_H._W._Bush", 
+            "Politics"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Stimulus_(physiology)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "Barack_Obama", 
+            "Ford_Motor_Company", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "October_1", 
+            "Fiscal_year", 
+            "September_30", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "2009"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Ford_Mustang", 
+            "Gasoline", 
+            "Miles_per_hour", 
+            "Barack_Obama", 
+            "Carroll_Shelby", 
+            "Toyota", 
+            "Pickup_truck", 
+            "Gallon", 
+            "President_of_the_United_States", 
+            "Toyota_Prius", 
+            "2016", 
+            "Toyota_Prius", 
+            "Gallon", 
+            "God", 
+            "Sport_utility_vehicle"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Toilet", 
+            "Tax"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Recession"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Internal_combustion_engine", 
+            "Automotive_industry", 
+            "Shelby,_North_Carolina", 
+            "Pound_(mass)", 
+            "Internal_combustion_engine", 
+            "Straight-4", 
+            "Fuel_injection", 
+            "Iron", 
+            "Sport_utility_vehicle", 
+            "Gasoline_direct_injection", 
+            "Turbocharger", 
+            "Europe", 
+            "Corporate_Average_Fuel_Economy", 
+            "United_States", 
+            "Supercharger", 
+            "Barack_Obama", 
+            "Pound_(mass)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Governor", 
+            "Suicide", 
+            "United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Super_Bowl", 
+            "Barack_Obama", 
+            "State", 
+            "Business_jet", 
+            "Las_Vegas,_Nevada", 
+            "Tax"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Las_Vegas,_Nevada", 
+            "Jet_aircraft", 
+            "United_States_Air_Force", 
+            "Air_Force_One"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Las_Vegas,_Nevada"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Lip_service", 
+            "Pennsylvania", 
+            "Las_Vegas,_Nevada", 
+            "Rail_transport", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Fundraiser", 
+            "Lip", 
+            "Pennsylvania_Avenue"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Nevada", 
+            "Gambling"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Opus_number", 
+            "Cabinet", 
+            "Manhattan", 
+            "United_States", 
+            "Lower_Manhattan"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Don_Imus", 
+            "United_States", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "George_W._Bush"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "40th_Canadian_federal_election", 
+            "Mantra", 
+            "George_H._W._Bush", 
+            "Joseph_Stalin", 
+            "Yea,_Victoria", 
+            "George_H._W._Bush", 
+            "Politics"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Stimulus_(physiology)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "Barack_Obama", 
+            "Ford_Motor_Company", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "October_1", 
+            "Fiscal_year", 
+            "September_30", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "2009"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Ford_Mustang", 
+            "Gasoline", 
+            "Miles_per_hour", 
+            "Barack_Obama", 
+            "Carroll_Shelby", 
+            "Toyota", 
+            "Pickup_truck", 
+            "Gallon", 
+            "President_of_the_United_States", 
+            "Toyota_Prius", 
+            "2016", 
+            "Toyota_Prius", 
+            "Gallon", 
+            "God", 
+            "Sport_utility_vehicle"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Toilet", 
+            "Tax"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Recession"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Internal_combustion_engine", 
+            "Automotive_industry", 
+            "Shelby,_North_Carolina", 
+            "Pound_(mass)", 
+            "Internal_combustion_engine", 
+            "Straight-4", 
+            "Fuel_injection", 
+            "Iron", 
+            "Sport_utility_vehicle", 
+            "Gasoline_direct_injection", 
+            "Turbocharger", 
+            "Europe", 
+            "Corporate_Average_Fuel_Economy", 
+            "United_States", 
+            "Supercharger", 
+            "Barack_Obama", 
+            "Pound_(mass)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Governor", 
+            "Suicide", 
+            "United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Super_Bowl", 
+            "Barack_Obama", 
+            "State", 
+            "Business_jet", 
+            "Las_Vegas,_Nevada", 
+            "Tax"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Las_Vegas,_Nevada", 
+            "Jet_aircraft", 
+            "United_States_Air_Force", 
+            "Air_Force_One"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "Las_Vegas,_Nevada"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Los_Angeles,_California", 
+            "Lip_service", 
+            "Pennsylvania", 
+            "Las_Vegas,_Nevada", 
+            "Rail_transport", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Fundraiser", 
+            "Lip", 
+            "Pennsylvania_Avenue"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "Nevada", 
+            "Gambling"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Opus_number", 
+            "Cabinet", 
+            "Manhattan", 
+            "United_States", 
+            "Lower_Manhattan"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Don_Imus", 
+            "United_States", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "George_W._Bush"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "40th_Canadian_federal_election", 
+            "Mantra", 
+            "George_H._W._Bush", 
+            "Joseph_Stalin", 
+            "Yea,_Victoria", 
+            "George_H._W._Bush", 
+            "Politics"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Stimulus_(physiology)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "Barack_Obama", 
+            "Ford_Motor_Company", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "October_1", 
+            "Fiscal_year", 
+            "September_30", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "2009"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Ford_Mustang", 
+            "Gasoline", 
+            "Miles_per_hour", 
+            "Barack_Obama", 
+            "Carroll_Shelby", 
+            "Toyota", 
+            "Pickup_truck", 
+            "Gallon", 
+            "President_of_the_United_States", 
+            "Toyota_Prius", 
+            "2016", 
+            "Toyota_Prius", 
+            "Gallon", 
+            "God", 
+            "Sport_utility_vehicle"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Toilet", 
+            "Tax"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Recession"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Internal_combustion_engine", 
+            "Automotive_industry", 
+            "Shelby,_North_Carolina", 
+            "Pound_(mass)", 
+            "Internal_combustion_engine", 
+            "Straight-4", 
+            "Fuel_injection", 
+            "Iron", 
+            "Sport_utility_vehicle", 
+            "Gasoline_direct_injection", 
+            "Turbocharger", 
+            "Europe", 
+            "Corporate_Average_Fuel_Economy", 
+            "United_States", 
+            "Supercharger", 
+            "Barack_Obama", 
+            "Pound_(mass)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 60
+    }
+]

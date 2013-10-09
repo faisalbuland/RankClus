@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "MDC_(band)", 
+            "Marmot", 
+            "Marmot", 
+            "E-mail", 
+            "E-mail", 
+            "MDC_(band)", 
+            "Sorry_(Madonna_song)", 
+            "Ether", 
+            "Internet", 
+            "E-mail_address", 
+            "E-mail", 
+            "Quantum_Corp."
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Help_desk", 
+            "E-mail", 
+            "Pop_music", 
+            "MDC_(band)", 
+            "E-mail", 
+            "Mail"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

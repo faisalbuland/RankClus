@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Georgia_(U.S._state)", 
+            "Russian_language"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Germany", 
+            "Russia", 
+            "IMHO", 
+            "France", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "NATO"
+        ], 
+        "postID": 4
+    }
+]

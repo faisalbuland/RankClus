@@ -1,0 +1,51 @@
+[
+    {
+        "entity": [
+            "Christ", 
+            "Dollar", 
+            "Democratic_Party_(United_States)", 
+            "Democracy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Thread_(computer_science)", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax_cut", 
+            "Tax", 
+            "Thread_(computer_science)", 
+            "United_States_Congress", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Joseph_Stalin", 
+            "Tax_cut", 
+            "Tax", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Thread_(computer_science)", 
+            "Okay,_Oklahoma", 
+            "Tax", 
+            "Tax_rate"
+        ], 
+        "postID": 5
+    }
+]

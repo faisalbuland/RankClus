@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Martyrdom_in_Islam", 
+            "Martyrdom_in_Islam", 
+            "Kitchen", 
+            "Abortion", 
+            "Bomb", 
+            "Tea", 
+            "Martyrdom_in_Islam", 
+            "Abortion", 
+            "Ignition_system", 
+            "Hospital", 
+            "Cookie", 
+            "Bomb", 
+            "Physician", 
+            "Operation_Rescue"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Christian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "He_(letter)", 
+            "Islam"
+        ], 
+        "postID": 3
+    }
+]

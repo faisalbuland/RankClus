@@ -1,0 +1,134 @@
+[
+    {
+        "entity": [
+            "Second", 
+            "Nonsense", 
+            "Government_Accountability_Office", 
+            "United_States_public_debt"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Deficit"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Government_Accountability_Office", 
+            "Barack_Obama", 
+            "Congressional_Budget_Office", 
+            "United_States_public_debt"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States_Congress", 
+            "2009", 
+            "White_House", 
+            "Pundit_(expert)", 
+            "Common_year_starting_on_Thursday", 
+            "Government_Accountability_Office", 
+            "Baseline", 
+            "March_21"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Executive_(government)", 
+            "Mathematics"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bipartisanship"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Capital_flight", 
+            "Hell", 
+            "Inflation", 
+            "Economics", 
+            "Brain", 
+            "Fiscal_policy", 
+            "Brain_drain"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Book_of_Numbers", 
+            "Government_Accountability_Office", 
+            "United_States_Congress", 
+            "Statistics", 
+            "Federal_government_of_the_United_States", 
+            "United_States_Congress", 
+            "Treasury", 
+            "Government_Accountability_Office", 
+            "Government_Accountability_Office", 
+            "Economy", 
+            "United_States_Department_of_the_Treasury", 
+            "Tax"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Government_Accountability_Office", 
+            "Tax", 
+            "Whitehouse_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Economics", 
+            "Economic_growth", 
+            "Economic_system"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Productivity", 
+            "Marketplace"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "World_economy", 
+            "Economics", 
+            "Investment", 
+            "Productivity"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Breathing", 
+            "Spin_(physics)", 
+            "Partisan_(military)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Productivity"
+        ], 
+        "postID": 15
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "entity": [
+            "Posttraumatic_stress_disorder"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "MOT_test", 
+            "Thread_(computer_science)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Brilliant_(band)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Stunt"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Jet_engine", 
+            "Jet_engine", 
+            "American_Airlines_Flight_77", 
+            "New_York_City", 
+            "American_Airlines_Flight_77", 
+            "September_11,_2001_attacks", 
+            "Surveillance", 
+            "The_Pentagon", 
+            "Hudson_River", 
+            "The_Pentagon", 
+            "September_11,_2001_attacks", 
+            "Closed-circuit_television"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Camera", 
+            "United_States_Department_of_Defense", 
+            "United_States_Department_of_Defense", 
+            "International_Maritime_Organization", 
+            "Aircraft_hijacking", 
+            "World_Trade_Center"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "7", 
+            "Aircraft", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Decoy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Transparency_(humanities)", 
+            "New_York_City", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cruise_missile", 
+            "Inch", 
+            "The_Pentagon", 
+            "Missile", 
+            "September_11,_2001_attacks", 
+            "Footprint", 
+            "Barack_Obama", 
+            "September_11,_2001_attacks", 
+            "National_security"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Missile"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Scare_Tactics", 
+            "Over_(cricket)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Bermuda", 
+            "Triangle", 
+            "Bermuda_Triangle", 
+            "Fixed-wing_aircraft"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Fixed-wing_aircraft", 
+            "Missile", 
+            "Classified_information", 
+            "Joint_Chiefs_of_Staff", 
+            "Bermuda", 
+            "Classified_information", 
+            "April_28"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Okay"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Okay,_Oklahoma"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "President", 
+            "Egg_(biology)", 
+            "Fiasco", 
+            "White_House", 
+            "Nice", 
+            "White", 
+            "President"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Flag"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Flag"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Photo_shoot", 
+            "United_States_dollar", 
+            "White_House", 
+            "May_8", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Hell", 
+            "Prez_(DC_Comics)", 
+            "Federal_Aviation_Administration", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Egg_(biology)", 
+            "Nice", 
+            "Fiasco", 
+            "All-news_radio", 
+            "IMHO", 
+            "2009"
+        ], 
+        "postID": 24
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "entity": [
+            "Orange_(colour)", 
+            "Richmond,_Virginia", 
+            "Hampton,_Virginia", 
+            "Hampton_Roads", 
+            "Virginia"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Slate"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Gloster_Meteor"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Russia", 
+            "Gerald_Ford"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Russian_language", 
+            "Soyuz_launch_vehicle", 
+            "Virginia", 
+            "Observatory", 
+            "Soyuz_spacecraft", 
+            "Washington", 
+            "United_States_Naval_Observatory", 
+            "Soyuz_launch_vehicle", 
+            "Chester", 
+            "Flash_(photography)", 
+            "United_States", 
+            "Earth", 
+            "Rocket", 
+            "Gerald_Ford", 
+            "Soyuz_spacecraft", 
+            "Junk_(ship)", 
+            "United_States_Naval_Observatory", 
+            "International_Space_Station", 
+            "Space_debris", 
+            "Junk_(ship)", 
+            "Observatory", 
+            "Meteoroid", 
+            "Russian_language", 
+            "United_States_Naval_Observatory", 
+            "Ford_Motor_Company", 
+            "Rocket", 
+            "Space_debris"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Gull"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mystery_(fiction)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bird"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Clog_(shoe)", 
+            "Green_Man", 
+            "Meteoroid", 
+            "Little_green_men", 
+            "United_States_Air_Force", 
+            "Omaha,_Nebraska", 
+            "Hotline", 
+            "Green_Man", 
+            "Military_airbase", 
+            "BAE_Harrier_II", 
+            "Little_green_men", 
+            "Year_2000_problem", 
+            "Little_green_men", 
+            "Meteoroid", 
+            "911", 
+            "Iowa", 
+            "Space_debris", 
+            "New_Year", 
+            "Smoke", 
+            "Green_Man", 
+            "Aircraft"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Magnetic_pole", 
+            "Magnet", 
+            "Junk_(ship)", 
+            "One_Heart", 
+            "Magnet", 
+            "One_Nation_(Australia)", 
+            "Space_debris"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Space_debris", 
+            "Joseph_Stalin", 
+            "Russian_language", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Junk_(ship)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Space_debris", 
+            "Junk_(ship)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }
+]

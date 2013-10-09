@@ -1,0 +1,51 @@
+[
+    {
+        "entity": [
+            "The_New_York_Times", 
+            "Automotive_industry", 
+            "Barack_Obama", 
+            "Task_force", 
+            "Bankruptcy", 
+            "Automotive_industry", 
+            "Treasury", 
+            "Ford_Motor_Company", 
+            "The_New_York_Times", 
+            "Surgery", 
+            "United_States_Department_of_the_Treasury", 
+            "Task_force", 
+            "Gerald_Ford", 
+            "New_York", 
+            "Washington,_D.C.", 
+            "Bankruptcy", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "HM_Treasury", 
+            "June_1", 
+            "General_Motors", 
+            "President_of_the_United_States", 
+            "Detroit,_Michigan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Share_price", 
+            "Bankruptcy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cuba", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Truck", 
+            "Chevrolet", 
+            "GMC_(automobile)"
+        ], 
+        "postID": 4
+    }
+]

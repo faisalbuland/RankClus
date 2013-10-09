@@ -1,0 +1,126 @@
+[
+    {
+        "entity": [
+            "April_14", 
+            "Bank", 
+            "2009", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Doubt"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "IMHO"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Defamation", 
+            "Defamation", 
+            "Indictment", 
+            "U.S._state", 
+            "John_Murtha", 
+            "Indictment"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Indictment", 
+            "Timeline"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "SPOT_(producer)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Defamation", 
+            "Diarrhea", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Defamation", 
+            "Indictment", 
+            "Anbar", 
+            "John_Murtha", 
+            "Indictment", 
+            "Pro_forma"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Indictable_offence", 
+            "John_Murtha", 
+            "Indictable_offence", 
+            "Indictable_offence", 
+            "Haditha", 
+            "United_States_Marine_Corps", 
+            "Indictable_offence", 
+            "ART", 
+            "Tongue"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Defamation", 
+            "Indictment", 
+            "Thread_(computer_science)", 
+            "Indictment", 
+            "John_Murtha", 
+            "Thread_(computer_science)", 
+            "Defamation", 
+            "Indictment"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "John_Murtha", 
+            "John_Murtha", 
+            "IMHO", 
+            "Religion"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "John_Murtha"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }
+]

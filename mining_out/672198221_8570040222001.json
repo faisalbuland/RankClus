@@ -1,0 +1,72 @@
+[
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "2012", 
+            "Goethe_Basin"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Russian_language"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Colonel", 
+            "Kentucky", 
+            "Kentucky_colonel"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Coup_d'\u00e9tat", 
+            "Beer", 
+            "Russian_language", 
+            "Beer_Hall_Putsch", 
+            "Beer_hall"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Russian_Mafia", 
+            "Russian_language", 
+            "Mafia", 
+            "Field_day"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Russian_Empire", 
+            "Russian_Empire", 
+            "249"
+        ], 
+        "postID": 9
+    }
+]

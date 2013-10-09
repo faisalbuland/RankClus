@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "American_Dream", 
+            "Automotive_industry", 
+            "Homelessness", 
+            "Broker", 
+            "Unemployment", 
+            "Sol"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Macintosh", 
+            "Chrysler", 
+            "Freddie", 
+            "Fannie_Mae", 
+            "Freddie_Mac", 
+            "American_International_Group", 
+            "Mae", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dust"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "entity": [
+            "Newspaper", 
+            "NASDAQ", 
+            "2009", 
+            "Stocks"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Illusion"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Rail_gauge", 
+            "England"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Trooper", 
+            "U.S._state", 
+            "U.S._state", 
+            "Florida", 
+            "U.S._state", 
+            "State_police", 
+            "Downhill"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Warrior", 
+            "Sarcasm", 
+            "Bridge"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Doubt"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Governor", 
+            "Soldier", 
+            "Hat", 
+            "Florida_Highway_Patrol", 
+            "Florida_Highway_Patrol", 
+            "U.S._state", 
+            "Eldridge,_Iowa", 
+            "Soldier", 
+            "Moderator", 
+            "Florida", 
+            "God", 
+            "State_police", 
+            "D._V._Gundappa", 
+            "Police", 
+            "Duck", 
+            "State_police", 
+            "U.S._state", 
+            "Derelict", 
+            "Laundry", 
+            "God", 
+            "Film_director", 
+            "Florida_State_University", 
+            "Florida"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Private_sector", 
+            "Fat", 
+            "Fat", 
+            "Trench_warfare"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stocks", 
+            "Real_estate_economics", 
+            "Manufacturing"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Economy"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Stock_tank"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Stock_tank", 
+            "Economy", 
+            "Stock_market", 
+            "Stock_market", 
+            "Stock_market", 
+            "Economy", 
+            "Vice_Versa_(disambiguation)", 
+            "United_States", 
+            "Economy", 
+            "Stock_market", 
+            "Economy"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Hamas", 
+            "Palestinian_refugee", 
+            "Television", 
+            "Palestinian_people", 
+            "January_27", 
+            "Islam", 
+            "Executive_order_(United_States)", 
+            "Tax", 
+            "September_11,_2001_attacks", 
+            "Inauguration", 
+            "Terrorism", 
+            "Hamas", 
+            "State", 
+            "PASS", 
+            "Fijian_general_election,_2006", 
+            "Interrogation", 
+            "CNN", 
+            "Subsequent_Nuremberg_Trials", 
+            "H.R.", 
+            "Refugee", 
+            "KNOW-FM", 
+            "News_agency", 
+            "February_4", 
+            "Parliamentary_system", 
+            "Barack_Obama", 
+            "Palestinian_people", 
+            "1388", 
+            "Hamas", 
+            "French_Resistance", 
+            "Guantanamo_Bay_detention_camp", 
+            "Mahmoud_Abbas", 
+            "United_States", 
+            "E-mail", 
+            "Guantanamo_Bay_detention_camp", 
+            "Barack_Obama", 
+            "Hamas", 
+            "Gaza", 
+            "Hamas", 
+            "E-mail", 
+            "Arabian_Peninsula", 
+            "Barack_Obama", 
+            "United_States", 
+            "Fatah", 
+            "Palestinian_people", 
+            "Barack_Obama", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Judge", 
+            "2006", 
+            "Palestinian_people", 
+            "Abortion", 
+            "Federal_Register", 
+            "Executive_order_(United_States)", 
+            "Capitol_Records", 
+            "Human_migration", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Ticker_tape", 
+            "Barack_Obama", 
+            "United_States", 
+            "USS_Cole_bombing", 
+            "Gaza", 
+            "Refugee", 
+            "Mahmoud_Abbas", 
+            "Palestinian_territories", 
+            "Television", 
+            "Stuff_(magazine)"
+        ], 
+        "postID": 20
+    }
+]

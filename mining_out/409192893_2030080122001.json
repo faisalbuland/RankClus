@@ -1,0 +1,600 @@
+[
+    {
+        "entity": [
+            "Handshake", 
+            "Holocaust_denial", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Donkey", 
+            "George_W._Bush", 
+            "Devil", 
+            "Barack_Obama", 
+            "United_States", 
+            "Cowardice", 
+            "President_of_the_United_States", 
+            "Denier", 
+            "George_W._Bush", 
+            "Devil", 
+            "Hugo_Ch\u00e1vez", 
+            "Mahmoud_Ahmadinejad", 
+            "President_of_the_United_States", 
+            "The_Holocaust", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Sleepover"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Americas", 
+            "Latin_America", 
+            "Latin_America"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "State", 
+            "Cuba", 
+            "Barack_Obama", 
+            "Palestine", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Freedom_(philosophy)", 
+            "Barack_Obama", 
+            "April_18", 
+            "List_of_Presidents_of_Venezuela", 
+            "Puerto_Rico", 
+            "Venezuela", 
+            "Fidel_Castro", 
+            "United_States_Department_of_State", 
+            "Commerce", 
+            "Venezuela", 
+            "2009", 
+            "Vein", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "2009", 
+            "Regions_of_France", 
+            "George_W._Bush", 
+            "Hugo_Award", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Diplomacy", 
+            "Barack_Obama", 
+            "January_19", 
+            "United_States", 
+            "Fiasco", 
+            "United_States", 
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "U.S._state", 
+            "Washington,_D.C.", 
+            "Hungarian_Revolution_of_1956", 
+            "Venezuela", 
+            "Terrorism", 
+            "Hugo_Ch\u00e1vez", 
+            "Regions_of_France", 
+            "United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President-elect", 
+            "Barack_Obama", 
+            "Israel", 
+            "Telecommunication", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Venezuela", 
+            "United_States", 
+            "Regions_of_France", 
+            "Barack_Obama", 
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "Inauguration", 
+            "President_of_the_United_States", 
+            "Sovereignty", 
+            "Sat_(Sanskrit)", 
+            "Sovereignty", 
+            "Fidel_Castro", 
+            "United_States", 
+            "Barack_Obama", 
+            "Petroleum", 
+            "Petroleum", 
+            "Cuba", 
+            "Skepticism", 
+            "President_of_the_United_States", 
+            "Middle_East", 
+            "United_States", 
+            "Gaza", 
+            "Venezuela", 
+            "United_States_Department_of_State", 
+            "Ra\u00fal_Castro", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Knee", 
+            "Handshake", 
+            "Handshake", 
+            "Jerk"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Object_Management_Group", 
+            "Novel"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Garden"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "French_Resistance", 
+            "Motto", 
+            "Planet"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Shipping", 
+            "Coke_(fuel)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Racism", 
+            "President_of_the_United_States", 
+            "Racism_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Politics"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Ariel_Sharon", 
+            "Racism", 
+            "The_Holocaust", 
+            "Racism", 
+            "Big_Stick_Ideology", 
+            "Mahmoud_Ahmadinejad", 
+            "The_Holocaust", 
+            "Ayatollah", 
+            "Israel", 
+            "Iran", 
+            "Barack_Obama", 
+            "Holocaust_denial", 
+            "Holocaust_denial"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "France"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Onion_ring", 
+            "Onion"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Lion"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Hay,_New_South_Wales"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Breathing", 
+            "Carl_von_Clausewitz", 
+            "Breath_spray", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Handshake", 
+            "Holocaust_denial", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Donkey", 
+            "George_W._Bush", 
+            "Devil", 
+            "Barack_Obama", 
+            "United_States", 
+            "Cowardice", 
+            "President_of_the_United_States", 
+            "Denier", 
+            "George_W._Bush", 
+            "Devil", 
+            "Hugo_Ch\u00e1vez", 
+            "Mahmoud_Ahmadinejad", 
+            "President_of_the_United_States", 
+            "The_Holocaust", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Sleepover"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Americas", 
+            "Latin_America", 
+            "Latin_America"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "State", 
+            "Cuba", 
+            "Barack_Obama", 
+            "Palestine", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Freedom_(philosophy)", 
+            "Barack_Obama", 
+            "April_18", 
+            "List_of_Presidents_of_Venezuela", 
+            "Puerto_Rico", 
+            "Venezuela", 
+            "Fidel_Castro", 
+            "United_States_Department_of_State", 
+            "Commerce", 
+            "Venezuela", 
+            "2009", 
+            "Vein", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "2009", 
+            "Regions_of_France", 
+            "George_W._Bush", 
+            "Hugo_Award", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Diplomacy", 
+            "Barack_Obama", 
+            "January_19", 
+            "United_States", 
+            "Fiasco", 
+            "United_States", 
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "U.S._state", 
+            "Washington,_D.C.", 
+            "Hungarian_Revolution_of_1956", 
+            "Venezuela", 
+            "Terrorism", 
+            "Hugo_Ch\u00e1vez", 
+            "Regions_of_France", 
+            "United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President-elect", 
+            "Barack_Obama", 
+            "Israel", 
+            "Telecommunication", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Venezuela", 
+            "United_States", 
+            "Regions_of_France", 
+            "Barack_Obama", 
+            "United_States", 
+            "Hugo_Ch\u00e1vez", 
+            "Inauguration", 
+            "President_of_the_United_States", 
+            "Sovereignty", 
+            "Sat_(Sanskrit)", 
+            "Sovereignty", 
+            "Fidel_Castro", 
+            "United_States", 
+            "Barack_Obama", 
+            "Petroleum", 
+            "Petroleum", 
+            "Cuba", 
+            "Skepticism", 
+            "President_of_the_United_States", 
+            "Middle_East", 
+            "United_States", 
+            "Gaza", 
+            "Venezuela", 
+            "United_States_Department_of_State", 
+            "Ra\u00fal_Castro", 
+            "Federal_government_of_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Knee", 
+            "Handshake", 
+            "Handshake", 
+            "Jerk"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Object_Management_Group", 
+            "Novel"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Garden"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "French_Resistance", 
+            "Motto", 
+            "Planet"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Shipping", 
+            "Coke_(fuel)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Racism", 
+            "President_of_the_United_States", 
+            "Racism_in_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Politics"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Ariel_Sharon", 
+            "Racism", 
+            "The_Holocaust", 
+            "Racism", 
+            "Big_Stick_Ideology", 
+            "Mahmoud_Ahmadinejad", 
+            "The_Holocaust", 
+            "Ayatollah", 
+            "Israel", 
+            "Iran", 
+            "Barack_Obama", 
+            "Holocaust_denial", 
+            "Holocaust_denial"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "France"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Barack_Obama"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Onion_ring", 
+            "Onion"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Lion"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Hay,_New_South_Wales"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Breathing", 
+            "Carl_von_Clausewitz", 
+            "Breath_spray", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 56
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "entity": [
+            "Vertebra", 
+            "Nuclear_fusion", 
+            "Celiac", 
+            "Press_up", 
+            "Wheat", 
+            "Medical_record", 
+            "United_States_Marine_Corps", 
+            "Varsity_team", 
+            "Orthopedic_surgery", 
+            "Gluten_sensitivity", 
+            "Air_Force_Reserve_Officer_Training_Corps", 
+            "Disease", 
+            "Hurdling", 
+            "Wheat_allergy", 
+            "Academic_term", 
+            "Orthopedic_surgery", 
+            "Spinal_fusion", 
+            "Physical_exercise", 
+            "Wheat_allergy", 
+            "Recruiter", 
+            "Bloating", 
+            "Gluten", 
+            "Physician", 
+            "Diagnosis", 
+            "Nuclear_fusion", 
+            "Waiver", 
+            "Professional_Footballers'_Association", 
+            "Physician", 
+            "Celiac", 
+            "High_school", 
+            "Titanium", 
+            "Pain", 
+            "Surgery", 
+            "Bread", 
+            "Basketball", 
+            "Spinal_fusion", 
+            "Waiver", 
+            "Gas", 
+            "Celiac", 
+            "Blood", 
+            "Coeliac_disease", 
+            "Blood_test", 
+            "Pain", 
+            "Reserve_Officers'_Training_Corps", 
+            "Trial_and_error", 
+            "2005", 
+            "Vertebral_column"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bikini"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ear"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Read-only_memory", 
+            "Ring_finger", 
+            "Surgery", 
+            "Recruiter", 
+            "Disability", 
+            "Ortho", 
+            "Neurology", 
+            "Physician", 
+            "United_States_Army", 
+            "Finger"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Bone", 
+            "Pain", 
+            "Degeneration", 
+            "!!!", 
+            "Spinal_disc_herniation"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Waiver"
+        ], 
+        "postID": 7
+    }
+]

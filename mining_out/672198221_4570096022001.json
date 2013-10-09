@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "Captain", 
+            "Fox_Broadcasting_Company", 
+            "Bill_Goldberg", 
+            "Barack_Obama", 
+            "Fox_News_Channel", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Captain", 
+            "Fault_(geology)", 
+            "President_of_the_United_States", 
+            "Yugoslav_Partisans", 
+            "Barack_Obama", 
+            "Tax", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Commander-in-chief", 
+            "Love_Affair", 
+            "God", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Cancer", 
+            "Hostage", 
+            "Mount_Rushmore", 
+            "God", 
+            "George_W._Bush", 
+            "Rushmore_(film)", 
+            "Liberalism_in_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "Bill_Goldberg", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mitt_Romney", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Nielsen_Broadcast_Data_Systems", 
+            "Civic_Democratic_Party", 
+            "Mootness", 
+            "IMHO", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "Republicanism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Cable", 
+            "Cable", 
+            "Fox_News_Channel", 
+            "Far_left", 
+            "Left-wing_politics"
+        ], 
+        "postID": 5
+    }
+]

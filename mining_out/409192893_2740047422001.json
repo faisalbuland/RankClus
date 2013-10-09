@@ -1,0 +1,24 @@
+[
+    {
+        "entity": [
+            "Globe", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Internet_forum", 
+            "Mass_media", 
+            "Tin_foil", 
+            "Two-party_system", 
+            "Mass", 
+            "Internet_forum", 
+            "Fart", 
+            "Internet_forum"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)"
+        ], 
+        "postID": 2
+    }
+]

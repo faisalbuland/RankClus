@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "Power-on_self-test", 
+            "Surgery", 
+            "United_States_Air_Force", 
+            "LASIK", 
+            "Stock_Exchange_of_Thailand", 
+            "Euromissile_HOT", 
+            "Life_(magazine)", 
+            "Good_morning", 
+            "2009", 
+            "KID", 
+            "March_20", 
+            "Thought", 
+            "March_31"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Lottery", 
+            "Surgery"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Careerism", 
+            "LASIK"
+        ], 
+        "postID": 5
+    }
+]

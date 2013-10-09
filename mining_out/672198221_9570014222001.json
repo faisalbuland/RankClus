@@ -1,0 +1,89 @@
+[
+    {
+        "entity": [
+            "Rehabilitation", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Rehabilitation_(Soviet)", 
+            "Guess_(clothing)", 
+            "Osama_bin_Laden", 
+            "Arabian_Peninsula"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Saudi_Arabia", 
+            "September_19", 
+            "Iraq", 
+            "Responsibility_for_the_September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Organizers_of_the_September_11,_2001_attacks"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cave", 
+            "Osama_bin_Laden", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Poverty", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Videocassette_recorder", 
+            "Federal_Bureau_of_Investigation", 
+            "Cadaver", 
+            "Yea,_Victoria"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Rehabilitation", 
+            "Liberal_Party_(UK)", 
+            "Liberalism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Saudi_Arabia", 
+            "Gerald_Ford", 
+            "Iraq"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

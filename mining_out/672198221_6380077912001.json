@@ -1,0 +1,420 @@
+[
+    {
+        "entity": [
+            "Nickelodeon_(TV_channel)", 
+            "Barack_Obama", 
+            "United_States", 
+            "Broadcast_delay", 
+            "Finance", 
+            "Convergence", 
+            "United_Kingdom", 
+            "United_States", 
+            "Accountancy", 
+            "Foot_(length)", 
+            "United_States", 
+            "Barack_Obama", 
+            "Lemming", 
+            "United_States", 
+            "France", 
+            "United_Kingdom", 
+            "Barack_Obama", 
+            "Derivative_(finance)", 
+            "Teleprompter", 
+            "Kudos", 
+            "Global_financial_system", 
+            "United_States", 
+            "Contraction_(grammar)", 
+            "Barack_Obama", 
+            "Great_Britain", 
+            "DEEP", 
+            "Barack_Obama", 
+            "WANT", 
+            "Pole_position", 
+            "Continental_Europe", 
+            "Nickelodeon_(TV_channel)", 
+            "Minister_(government)", 
+            "Crace,_Australian_Capital_Territory", 
+            "Land_(band)", 
+            "John_Gregory_Crace", 
+            "Germany", 
+            "Lost_(TV_series)", 
+            "Don't_repeat_yourself", 
+            "Lost_(TV_series)", 
+            "Prime_minister", 
+            "Capital_market", 
+            "Nick_Robinson", 
+            "Europe", 
+            "Time_(magazine)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Subprime_mortgage_crisis", 
+            "Secured_loan", 
+            "Wallpaper", 
+            "Barack_Obama", 
+            "Mortgage"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sewer"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Quik_(boot_loader)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "LOL", 
+            "Democracy", 
+            "Bank", 
+            "Democracy", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Freethought", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Comedy_Central", 
+            "Wave_propagation", 
+            "United_States", 
+            "Mountain", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Debt", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Grammar", 
+            "LOL", 
+            "Web_page", 
+            "Elitism", 
+            "English_language"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Sewer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Poster", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Thread_(computer_science)", 
+            "President_of_the_United_States", 
+            "Ministry_of_Defence_(United_Kingdom)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "John_McCain", 
+            "John_McCain", 
+            "Object_Management_Group", 
+            "George_W._Bush"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug", 
+            "LOL", 
+            "Cough", 
+            "Macro_(computer_science)", 
+            "Macroscopic", 
+            "Cough", 
+            "Cough", 
+            "Addiction", 
+            "Drug", 
+            "Drug", 
+            "Debt"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Mod_(lifestyle)", 
+            "Civic_Democratic_Party", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Poster", 
+            "Commentator", 
+            "Barack_Obama", 
+            "2009", 
+            "April_4", 
+            "The_Guardian", 
+            "Sat_(Sanskrit)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Britney_Spears", 
+            "Britney_(album)", 
+            "Impromptu_speaking", 
+            "George_W._Bush", 
+            "Orator", 
+            "William_Shakespeare"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Nickelodeon_(TV_channel)", 
+            "Barack_Obama", 
+            "United_States", 
+            "Broadcast_delay", 
+            "Finance", 
+            "Convergence", 
+            "United_Kingdom", 
+            "United_States", 
+            "Accountancy", 
+            "Foot_(length)", 
+            "United_States", 
+            "Barack_Obama", 
+            "Lemming", 
+            "United_States", 
+            "France", 
+            "United_Kingdom", 
+            "Barack_Obama", 
+            "Derivative_(finance)", 
+            "Teleprompter", 
+            "Kudos", 
+            "Global_financial_system", 
+            "United_States", 
+            "Contraction_(grammar)", 
+            "Barack_Obama", 
+            "Great_Britain", 
+            "DEEP", 
+            "Barack_Obama", 
+            "WANT", 
+            "Pole_position", 
+            "Continental_Europe", 
+            "Nickelodeon_(TV_channel)", 
+            "Minister_(government)", 
+            "Crace,_Australian_Capital_Territory", 
+            "Land_(band)", 
+            "John_Gregory_Crace", 
+            "Germany", 
+            "Lost_(TV_series)", 
+            "Don't_repeat_yourself", 
+            "Lost_(TV_series)", 
+            "Prime_minister", 
+            "Capital_market", 
+            "Nick_Robinson", 
+            "Europe", 
+            "Time_(magazine)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Subprime_mortgage_crisis", 
+            "Secured_loan", 
+            "Wallpaper", 
+            "Barack_Obama", 
+            "Mortgage"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Sewer"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Fluid", 
+            "Quik_(boot_loader)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "LOL", 
+            "Democracy", 
+            "Bank", 
+            "Democracy", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Freethought", 
+            "Barack_Obama"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Comedy_Central", 
+            "Wave_propagation", 
+            "United_States", 
+            "Mountain", 
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Debt", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Grammar", 
+            "LOL", 
+            "Web_page", 
+            "Elitism", 
+            "English_language"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Sewer"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Poster", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Thread_(computer_science)", 
+            "President_of_the_United_States", 
+            "Ministry_of_Defence_(United_Kingdom)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "John_McCain", 
+            "John_McCain", 
+            "Object_Management_Group", 
+            "George_W._Bush"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Drug_cartel", 
+            "Illegal_drug_trade", 
+            "Cartel", 
+            "Drug", 
+            "LOL", 
+            "Cough", 
+            "Macro_(computer_science)", 
+            "Macroscopic", 
+            "Cough", 
+            "Cough", 
+            "Addiction", 
+            "Drug", 
+            "Drug", 
+            "Debt"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Mod_(lifestyle)", 
+            "Civic_Democratic_Party", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Poster", 
+            "Commentator", 
+            "Barack_Obama", 
+            "2009", 
+            "April_4", 
+            "The_Guardian", 
+            "Sat_(Sanskrit)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Britney_Spears", 
+            "Britney_(album)", 
+            "Impromptu_speaking", 
+            "George_W._Bush", 
+            "Orator", 
+            "William_Shakespeare"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

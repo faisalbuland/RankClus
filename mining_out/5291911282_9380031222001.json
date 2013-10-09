@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Statute"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Moving_company"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Moving_company", 
+            "Furniture", 
+            "Client_(computing)"
+        ], 
+        "postID": 3
+    }
+]

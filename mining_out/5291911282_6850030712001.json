@@ -1,0 +1,31 @@
+[
+    {
+        "entity": [
+            "Special_forces", 
+            "Hale,_Greater_Manchester"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ear"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Army"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Vietnam_War", 
+            "Military_history", 
+            "Vietnam", 
+            "British_Army", 
+            "Army"
+        ], 
+        "postID": 4
+    }
+]

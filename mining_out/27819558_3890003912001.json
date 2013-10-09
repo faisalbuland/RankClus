@@ -1,0 +1,52 @@
+[
+    {
+        "entity": [
+            "Joint_Chiefs_of_Staff", 
+            "Barack_Obama", 
+            "Gay", 
+            "Clock", 
+            "Gay_community", 
+            "Barack_Obama", 
+            "2010", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "White_House", 
+            "President_of_the_United_States", 
+            "Robert_Gates", 
+            "White_House", 
+            "Oconaluftee_Indian_Village", 
+            "United_States_Secretary_of_Defense"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Unemployment", 
+            "Unemployment", 
+            "Unemployment"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Don't_ask,_don't_tell", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "2012", 
+            "Getter"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

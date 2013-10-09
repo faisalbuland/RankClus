@@ -1,0 +1,802 @@
+[
+    {
+        "entity": [
+            "News_conference", 
+            "President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "Health_care", 
+            "Chuck_Todd", 
+            "Prime_time", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "White_House", 
+            "NBC"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "1978", 
+            "Law", 
+            "George_W._Bush", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "George_W._Bush", 
+            "Felony", 
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Faith"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Cricket", 
+            "Gerald_Ford", 
+            "Test_cricket", 
+            "President_of_the_United_States", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Lobbying", 
+            "Disability", 
+            "Monkey", 
+            "Transparency_(humanities)", 
+            "Fart"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Firebombing", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mr._President_(musical)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "General_Educational_Development", 
+            "Chinese_language", 
+            "Mr._President_(musical)", 
+            "Old_age"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Oath"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chances"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Stock_Exchange_of_Thailand", 
+            "Brinson,_Georgia", 
+            "United_States", 
+            "Lahaina,_Hawaii", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Blindfold"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Martial_law", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Credit_card", 
+            "Income_tax", 
+            "2009", 
+            "Economy", 
+            "United_States", 
+            "Income_tax_in_the_United_States", 
+            "United_States", 
+            "Savings_account", 
+            "Economy", 
+            "Posse_comitatus_(common_law)", 
+            "Water", 
+            "Inflation", 
+            "North_American_Free_Trade_Agreement", 
+            "Debt", 
+            "Attainder", 
+            "Posse_comitatus_(common_law)", 
+            "List_of_Latin_phrases_(C-E)", 
+            "Ex_post_facto_law", 
+            "Election_promise", 
+            "United_States", 
+            "Election_promise", 
+            "Law", 
+            "March_24", 
+            "United_States_Constitution", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "United_States", 
+            "Comitatus_(Kingdom_of_Hungary)", 
+            "Ammunition", 
+            "United_States", 
+            "Dividend", 
+            "United_States_Constitution"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Git_(software)", 
+            "Tax", 
+            "Tax_reform"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "Health_care", 
+            "Chuck_Todd", 
+            "Prime_time", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "White_House", 
+            "NBC"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "1978", 
+            "Law", 
+            "George_W._Bush", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "George_W._Bush", 
+            "Felony", 
+            "Law"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Faith"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Cricket", 
+            "Gerald_Ford", 
+            "Test_cricket", 
+            "President_of_the_United_States", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Lobbying", 
+            "Disability", 
+            "Monkey", 
+            "Transparency_(humanities)", 
+            "Fart"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Firebombing", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mr._President_(musical)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "General_Educational_Development", 
+            "Chinese_language", 
+            "Mr._President_(musical)", 
+            "Old_age"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Oath"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chances"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Stock_Exchange_of_Thailand", 
+            "Brinson,_Georgia", 
+            "United_States", 
+            "Lahaina,_Hawaii", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Blindfold"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Martial_law", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Credit_card", 
+            "Income_tax", 
+            "2009", 
+            "Economy", 
+            "United_States", 
+            "Income_tax_in_the_United_States", 
+            "United_States", 
+            "Savings_account", 
+            "Economy", 
+            "Posse_comitatus_(common_law)", 
+            "Water", 
+            "Inflation", 
+            "North_American_Free_Trade_Agreement", 
+            "Debt", 
+            "Attainder", 
+            "Posse_comitatus_(common_law)", 
+            "List_of_Latin_phrases_(C-E)", 
+            "Ex_post_facto_law", 
+            "Election_promise", 
+            "United_States", 
+            "Election_promise", 
+            "Law", 
+            "March_24", 
+            "United_States_Constitution", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "United_States", 
+            "Comitatus_(Kingdom_of_Hungary)", 
+            "Ammunition", 
+            "United_States", 
+            "Dividend", 
+            "United_States_Constitution"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Git_(software)", 
+            "Tax", 
+            "Tax_reform"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "Health_care", 
+            "Chuck_Todd", 
+            "Prime_time", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "White_House", 
+            "NBC"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "1978", 
+            "Law", 
+            "George_W._Bush", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "George_W._Bush", 
+            "Felony", 
+            "Law"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Faith"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Cricket", 
+            "Gerald_Ford", 
+            "Test_cricket", 
+            "President_of_the_United_States", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Lobbying", 
+            "Disability", 
+            "Monkey", 
+            "Transparency_(humanities)", 
+            "Fart"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Firebombing", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mr._President_(musical)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "General_Educational_Development", 
+            "Chinese_language", 
+            "Mr._President_(musical)", 
+            "Old_age"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Oath"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chances"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Stock_Exchange_of_Thailand", 
+            "Brinson,_Georgia", 
+            "United_States", 
+            "Lahaina,_Hawaii", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Blindfold"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Martial_law", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Credit_card", 
+            "Income_tax", 
+            "2009", 
+            "Economy", 
+            "United_States", 
+            "Income_tax_in_the_United_States", 
+            "United_States", 
+            "Savings_account", 
+            "Economy", 
+            "Posse_comitatus_(common_law)", 
+            "Water", 
+            "Inflation", 
+            "North_American_Free_Trade_Agreement", 
+            "Debt", 
+            "Attainder", 
+            "Posse_comitatus_(common_law)", 
+            "List_of_Latin_phrases_(C-E)", 
+            "Ex_post_facto_law", 
+            "Election_promise", 
+            "United_States", 
+            "Election_promise", 
+            "Law", 
+            "March_24", 
+            "United_States_Constitution", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "United_States", 
+            "Comitatus_(Kingdom_of_Hungary)", 
+            "Ammunition", 
+            "United_States", 
+            "Dividend", 
+            "United_States_Constitution"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Git_(software)", 
+            "Tax", 
+            "Tax_reform"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "Health_care", 
+            "Chuck_Todd", 
+            "Prime_time", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "White_House", 
+            "NBC"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "1978", 
+            "Law", 
+            "George_W._Bush", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "George_W._Bush", 
+            "Felony", 
+            "Law"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Folk_music", 
+            "Faith"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Cricket", 
+            "Gerald_Ford", 
+            "Test_cricket", 
+            "President_of_the_United_States", 
+            "Jimmy_Carter"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Lobbying", 
+            "Disability", 
+            "Monkey", 
+            "Transparency_(humanities)", 
+            "Fart"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Firebombing", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Mr._President_(musical)"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson", 
+            "United_States"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "General_Educational_Development", 
+            "Chinese_language", 
+            "Mr._President_(musical)", 
+            "Old_age"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Oath"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chances"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Stock_Exchange_of_Thailand", 
+            "Brinson,_Georgia", 
+            "United_States", 
+            "Lahaina,_Hawaii", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Blindfold"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Martial_law", 
+            "Tax", 
+            "Stimulus_(physiology)", 
+            "Credit_card", 
+            "Income_tax", 
+            "2009", 
+            "Economy", 
+            "United_States", 
+            "Income_tax_in_the_United_States", 
+            "United_States", 
+            "Savings_account", 
+            "Economy", 
+            "Posse_comitatus_(common_law)", 
+            "Water", 
+            "Inflation", 
+            "North_American_Free_Trade_Agreement", 
+            "Debt", 
+            "Attainder", 
+            "Posse_comitatus_(common_law)", 
+            "List_of_Latin_phrases_(C-E)", 
+            "Ex_post_facto_law", 
+            "Election_promise", 
+            "United_States", 
+            "Election_promise", 
+            "Law", 
+            "March_24", 
+            "United_States_Constitution", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "United_States", 
+            "Comitatus_(Kingdom_of_Hungary)", 
+            "Ammunition", 
+            "United_States", 
+            "Dividend", 
+            "United_States_Constitution"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Git_(software)", 
+            "Tax", 
+            "Tax_reform"
+        ], 
+        "postID": 80
+    }
+]

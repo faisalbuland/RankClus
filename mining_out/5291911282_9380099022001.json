@@ -1,0 +1,743 @@
+[
+    {
+        "entity": [
+            "Fifth_Amendment_to_the_United_States_Constitution", 
+            "Gun_politics", 
+            "Terrorism", 
+            "United_States_Department_of_Homeland_Security", 
+            "Amnesty", 
+            "Wing", 
+            "President_of_the_United_States", 
+            "Terrorism", 
+            "War_on_Terrorism", 
+            "Sex", 
+            "Patriotism", 
+            "Alien_(law)", 
+            "Government_spending", 
+            "Illegal_immigration", 
+            "Janet_Napolitano", 
+            "Janet_Napolitano", 
+            "Intimidation", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "Janet_Napolitano", 
+            "Abortion", 
+            "Washington", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States_Constitution", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Terrorism", 
+            "Marriage", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_Homeland_Security", 
+            "Terrorism", 
+            "Veteran", 
+            "Homeland_security", 
+            "Homeland_security", 
+            "Iraq_War", 
+            "Extremism", 
+            "Same-sex_marriage", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Extremism", 
+            "Barack_Obama", 
+            "Extremism", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post", 
+            "Janet_Napolitano", 
+            "The_Washington_Post", 
+            "Abortion", 
+            "Immigration", 
+            "Terrorism", 
+            "Homeland_security", 
+            "Intelligence_(information_gathering)", 
+            "United_States_Department_of_Homeland_Security", 
+            "April_7", 
+            "Single-issue_politics", 
+            "Lone_Wolf", 
+            "List_of_designated_terrorist_organizations", 
+            "Gray_Wolf", 
+            "Washington,_D.C."
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Declaration_of_independence", 
+            "Independence", 
+            "Journalist"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Amphitheatre", 
+            "Machine_gun", 
+            "Gun_politics", 
+            "Socialism", 
+            "Guard_dog", 
+            "Independence", 
+            "Theatre", 
+            "Modern_liberalism_in_the_United_States", 
+            "Guard_(American_football)", 
+            "Fascism", 
+            "Red_Storm_Rising", 
+            "Storm_(Marvel_Comics)", 
+            "Storm_Rising", 
+            "Red_Storm_Entertainment", 
+            "United_States", 
+            "Individual_rights", 
+            "Propaganda", 
+            "United_States", 
+            "Ammunition"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Washington", 
+            "Science_fiction", 
+            "Washington,_D.C.", 
+            "Logic", 
+            "Marmot", 
+            "Quantum", 
+            "Marmot", 
+            "Crime"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Psychology", 
+            "Portable_Document_Format", 
+            "Portable_Document_Format", 
+            "Military_of_the_United_States", 
+            "United_States_Department_of_Homeland_Security", 
+            "Right-wing_politics", 
+            "Terrorism", 
+            "Gray_Wolf", 
+            "Violence", 
+            "Extremism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "Washington,_D.C.", 
+            "Washington,_D.C.", 
+            "The_Washington_Post", 
+            "Quotation_mark"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Scooter_(motorcycle)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Olympic_Games", 
+            "Atlanta,_Georgia", 
+            "President_of_the_United_States", 
+            "United_States_Army", 
+            "United_States", 
+            "Population", 
+            "United_States_Army", 
+            "Explosive_material", 
+            "United_States_Marine_Corps", 
+            "Olympic_Park", 
+            "United_States_Army"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Yum", 
+            "Yum", 
+            "Blanket", 
+            "Hack_(technology)", 
+            "MSNBC"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "White_supremacy", 
+            "Explosive_material", 
+            "Fundamentalism", 
+            "Terrorism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Scouting", 
+            "Mexico", 
+            "Terrorism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Facet"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Terrorism", 
+            "Terrorism", 
+            "Socialism", 
+            "Men_and_Women", 
+            "Federal_Bureau_of_Investigation", 
+            "National_Security_Agency", 
+            "Communism", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Fifth_Amendment_to_the_United_States_Constitution", 
+            "Gun_politics", 
+            "Terrorism", 
+            "United_States_Department_of_Homeland_Security", 
+            "Amnesty", 
+            "Wing", 
+            "President_of_the_United_States", 
+            "Terrorism", 
+            "War_on_Terrorism", 
+            "Sex", 
+            "Patriotism", 
+            "Alien_(law)", 
+            "Government_spending", 
+            "Illegal_immigration", 
+            "Janet_Napolitano", 
+            "Janet_Napolitano", 
+            "Intimidation", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "Janet_Napolitano", 
+            "Abortion", 
+            "Washington", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States_Constitution", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Terrorism", 
+            "Marriage", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_Homeland_Security", 
+            "Terrorism", 
+            "Veteran", 
+            "Homeland_security", 
+            "Homeland_security", 
+            "Iraq_War", 
+            "Extremism", 
+            "Same-sex_marriage", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Extremism", 
+            "Barack_Obama", 
+            "Extremism", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post", 
+            "Janet_Napolitano", 
+            "The_Washington_Post", 
+            "Abortion", 
+            "Immigration", 
+            "Terrorism", 
+            "Homeland_security", 
+            "Intelligence_(information_gathering)", 
+            "United_States_Department_of_Homeland_Security", 
+            "April_7", 
+            "Single-issue_politics", 
+            "Lone_Wolf", 
+            "List_of_designated_terrorist_organizations", 
+            "Gray_Wolf", 
+            "Washington,_D.C."
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Declaration_of_independence", 
+            "Independence", 
+            "Journalist"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Amphitheatre", 
+            "Machine_gun", 
+            "Gun_politics", 
+            "Socialism", 
+            "Guard_dog", 
+            "Independence", 
+            "Theatre", 
+            "Modern_liberalism_in_the_United_States", 
+            "Guard_(American_football)", 
+            "Fascism", 
+            "Red_Storm_Rising", 
+            "Storm_(Marvel_Comics)", 
+            "Storm_Rising", 
+            "Red_Storm_Entertainment", 
+            "United_States", 
+            "Individual_rights", 
+            "Propaganda", 
+            "United_States", 
+            "Ammunition"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Washington", 
+            "Science_fiction", 
+            "Washington,_D.C.", 
+            "Logic", 
+            "Marmot", 
+            "Quantum", 
+            "Marmot", 
+            "Crime"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Psychology", 
+            "Portable_Document_Format", 
+            "Portable_Document_Format", 
+            "Military_of_the_United_States", 
+            "United_States_Department_of_Homeland_Security", 
+            "Right-wing_politics", 
+            "Terrorism", 
+            "Gray_Wolf", 
+            "Violence", 
+            "Extremism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "Washington,_D.C.", 
+            "Washington,_D.C.", 
+            "The_Washington_Post", 
+            "Quotation_mark"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Scooter_(motorcycle)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Olympic_Games", 
+            "Atlanta,_Georgia", 
+            "President_of_the_United_States", 
+            "United_States_Army", 
+            "United_States", 
+            "Population", 
+            "United_States_Army", 
+            "Explosive_material", 
+            "United_States_Marine_Corps", 
+            "Olympic_Park", 
+            "United_States_Army"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Yum", 
+            "Yum", 
+            "Blanket", 
+            "Hack_(technology)", 
+            "MSNBC"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "White_supremacy", 
+            "Explosive_material", 
+            "Fundamentalism", 
+            "Terrorism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Scouting", 
+            "Mexico", 
+            "Terrorism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Facet"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Terrorism", 
+            "Terrorism", 
+            "Socialism", 
+            "Men_and_Women", 
+            "Federal_Bureau_of_Investigation", 
+            "National_Security_Agency", 
+            "Communism", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Fifth_Amendment_to_the_United_States_Constitution", 
+            "Gun_politics", 
+            "Terrorism", 
+            "United_States_Department_of_Homeland_Security", 
+            "Amnesty", 
+            "Wing", 
+            "President_of_the_United_States", 
+            "Terrorism", 
+            "War_on_Terrorism", 
+            "Sex", 
+            "Patriotism", 
+            "Alien_(law)", 
+            "Government_spending", 
+            "Illegal_immigration", 
+            "Janet_Napolitano", 
+            "Janet_Napolitano", 
+            "Intimidation", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "Janet_Napolitano", 
+            "Abortion", 
+            "Washington", 
+            "United_States", 
+            "Barack_Obama", 
+            "United_States_Constitution", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Terrorism", 
+            "Marriage", 
+            "Terrorism", 
+            "Right-wing_politics", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States_Department_of_Homeland_Security", 
+            "Terrorism", 
+            "Veteran", 
+            "Homeland_security", 
+            "Homeland_security", 
+            "Iraq_War", 
+            "Extremism", 
+            "Same-sex_marriage", 
+            "United_States_Department_of_Homeland_Security", 
+            "United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Extremism", 
+            "Barack_Obama", 
+            "Extremism", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post", 
+            "Janet_Napolitano", 
+            "The_Washington_Post", 
+            "Abortion", 
+            "Immigration", 
+            "Terrorism", 
+            "Homeland_security", 
+            "Intelligence_(information_gathering)", 
+            "United_States_Department_of_Homeland_Security", 
+            "April_7", 
+            "Single-issue_politics", 
+            "Lone_Wolf", 
+            "List_of_designated_terrorist_organizations", 
+            "Gray_Wolf", 
+            "Washington,_D.C."
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Declaration_of_independence", 
+            "Independence", 
+            "Journalist"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Amphitheatre", 
+            "Machine_gun", 
+            "Gun_politics", 
+            "Socialism", 
+            "Guard_dog", 
+            "Independence", 
+            "Theatre", 
+            "Modern_liberalism_in_the_United_States", 
+            "Guard_(American_football)", 
+            "Fascism", 
+            "Red_Storm_Rising", 
+            "Storm_(Marvel_Comics)", 
+            "Storm_Rising", 
+            "Red_Storm_Entertainment", 
+            "United_States", 
+            "Individual_rights", 
+            "Propaganda", 
+            "United_States", 
+            "Ammunition"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Washington", 
+            "Science_fiction", 
+            "Washington,_D.C.", 
+            "Logic", 
+            "Marmot", 
+            "Quantum", 
+            "Marmot", 
+            "Crime"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Psychology", 
+            "Portable_Document_Format", 
+            "Portable_Document_Format", 
+            "Military_of_the_United_States", 
+            "United_States_Department_of_Homeland_Security", 
+            "Right-wing_politics", 
+            "Terrorism", 
+            "Gray_Wolf", 
+            "Violence", 
+            "Extremism"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "The_Washington_Post_(march)", 
+            "Washington,_D.C.", 
+            "Washington,_D.C.", 
+            "The_Washington_Post", 
+            "Quotation_mark"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Scooter_(motorcycle)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Olympic_Games", 
+            "Atlanta,_Georgia", 
+            "President_of_the_United_States", 
+            "United_States_Army", 
+            "United_States", 
+            "Population", 
+            "United_States_Army", 
+            "Explosive_material", 
+            "United_States_Marine_Corps", 
+            "Olympic_Park", 
+            "United_States_Army"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Yum", 
+            "Yum", 
+            "Blanket", 
+            "Hack_(technology)", 
+            "MSNBC"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "White_supremacy", 
+            "Explosive_material", 
+            "Fundamentalism", 
+            "Terrorism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Scouting", 
+            "Mexico", 
+            "Terrorism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Facet"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Terrorism", 
+            "Terrorism", 
+            "Socialism", 
+            "Men_and_Women", 
+            "Federal_Bureau_of_Investigation", 
+            "National_Security_Agency", 
+            "Communism", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 60
+    }
+]

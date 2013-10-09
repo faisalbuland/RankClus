@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Town", 
+            "Town_hall_meeting", 
+            "Radio", 
+            "Barack_Obama", 
+            "City_and_town_halls"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Coffee"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Quotation_mark", 
+            "Bible", 
+            "Christian"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cult"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "God", 
+            "City_and_town_halls", 
+            "Euphoria_(emotion)", 
+            "Town", 
+            "Town_hall_meeting", 
+            "Trinity"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Classical_liberalism", 
+            "Ode", 
+            "Classical_liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fantastic_(magazine)", 
+            "Fantastic_(magazine)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Thread_(computer_science)", 
+            "Sun"
+        ], 
+        "postID": 15
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "entity": [
+            "Paternity_(law)", 
+            "Child_support", 
+            "Iraq", 
+            "Child_support", 
+            "Deadbeat_parent", 
+            "Petition"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Payroll", 
+            "Madam", 
+            "Default_judgment"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Child_support", 
+            "Divorce", 
+            "United_States_Army_Reserve", 
+            "Juvenile_delinquency", 
+            "United_States_Army", 
+            "California", 
+            "Delinquent", 
+            "Child_support", 
+            "Law", 
+            "Law_school", 
+            "Default_judgment", 
+            "Child_support", 
+            "State", 
+            "Massachusetts"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Military_service", 
+            "Childcare", 
+            "Boot"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "May_2005", 
+            "Law", 
+            "Book_of_Numbers", 
+            "Arrears", 
+            "2005", 
+            "State", 
+            "Nursing_school", 
+            "Dime_(United_States_coin)", 
+            "Nursing", 
+            "Hope,_British_Columbia", 
+            "November_2004", 
+            "2004", 
+            "State"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Florida_National_Guard", 
+            "Certificate_of_Secondary_Education", 
+            "DNA", 
+            "Judge", 
+            "Genetic_fingerprinting", 
+            "Paternity_(law)", 
+            "Paternity_(law)", 
+            "Iraq", 
+            "Florida", 
+            "Maternity", 
+            "Sampling_(music)", 
+            "Roadblock", 
+            "Fat", 
+            "United_States_Army", 
+            "September_11,_2001_attacks", 
+            "National_Guard_of_the_United_States", 
+            "Troops_(film)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Deadbeat_parent", 
+            "Warzone_(band)", 
+            "Active_Duty"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sage", 
+            "God", 
+            "Bank", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Personal_experience", 
+            "Lawyer", 
+            "Writer", 
+            "Welfare_(financial_aid)", 
+            "Divorce", 
+            "Divorce", 
+            "Lawyer", 
+            "WAIT_(AM)", 
+            "Lawsuit", 
+            "Courtroom"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Deadbeat_parent", 
+            "Child_support", 
+            "Attorney_at_law", 
+            "Advanced_Intelligent_Tape", 
+            "Child_support", 
+            "Mootness", 
+            "Iraq", 
+            "Marital_status", 
+            "MEN", 
+            "Certificate_of_Secondary_Education", 
+            "Boot_Camp_(software)", 
+            "Soldier", 
+            "MEN", 
+            "Divorce", 
+            "Hook_(music)", 
+            "Deadbeat_parent", 
+            "Mother_insult", 
+            "Child_support", 
+            "FYI", 
+            "Attorney_at_law"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Police", 
+            "Jail", 
+            "Police_academy", 
+            "Rabbit", 
+            "Injunction", 
+            "Badge_(song)", 
+            "Leaf", 
+            "Crime", 
+            "E-mail"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Soapbox", 
+            "Glass", 
+            "Compass", 
+            "Greenhouse", 
+            "Honey"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Honey", 
+            "Refrain"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Judge", 
+            "Assignment_(law)", 
+            "581", 
+            "Federal_law", 
+            "Finance", 
+            "Code_of_Federal_Regulations", 
+            "United_States_Department_of_Defense", 
+            "Assignment_(law)", 
+            "Child_support", 
+            "Rta", 
+            "Divorce", 
+            "Ohio", 
+            "Toll-free_telephone_number", 
+            "Law", 
+            "Alimony", 
+            "Decree", 
+            "Federal_government_of_the_United_States", 
+            "Child_support", 
+            "Child_support", 
+            "Alimony", 
+            "Court_order", 
+            "Toll-free_telephone_number", 
+            "CSEA", 
+            "Cleveland,_Ohio", 
+            "Post_office_box", 
+            "Alimony", 
+            "Facsimile", 
+            "Fax", 
+            "Alimony", 
+            "Social_Security_number", 
+            "Divorce", 
+            "Social_security", 
+            "Cleveland,_Ohio", 
+            "Cleveland,_Ohio", 
+            "Return_address", 
+            "Attorney_at_law", 
+            "Attorney_at_law", 
+            "Assignment_(law)", 
+            "Deductive_reasoning", 
+            "Accountancy", 
+            "United_States_Code", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Defense_Switched_Network", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Envelope", 
+            "Alimony", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Fax", 
+            "Child_support", 
+            "Garnishment", 
+            "Child_support", 
+            "Decree", 
+            "Area_code_216", 
+            "United_States_Department_of_Defense", 
+            "Law", 
+            "Regulation", 
+            "659", 
+            "Garnishment"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Honey", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Paternity_(law)", 
+            "Child_support", 
+            "Iraq", 
+            "Child_support", 
+            "Deadbeat_parent", 
+            "Petition"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Payroll", 
+            "Madam", 
+            "Default_judgment"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Child_support", 
+            "Divorce", 
+            "United_States_Army_Reserve", 
+            "Juvenile_delinquency", 
+            "United_States_Army", 
+            "California", 
+            "Delinquent", 
+            "Child_support", 
+            "Law", 
+            "Law_school", 
+            "Default_judgment", 
+            "Child_support", 
+            "State", 
+            "Massachusetts"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Military_service", 
+            "Childcare", 
+            "Boot"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "May_2005", 
+            "Law", 
+            "Book_of_Numbers", 
+            "Arrears", 
+            "2005", 
+            "State", 
+            "Nursing_school", 
+            "Dime_(United_States_coin)", 
+            "Nursing", 
+            "Hope,_British_Columbia", 
+            "November_2004", 
+            "2004", 
+            "State"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Florida_National_Guard", 
+            "Certificate_of_Secondary_Education", 
+            "DNA", 
+            "Judge", 
+            "Genetic_fingerprinting", 
+            "Paternity_(law)", 
+            "Paternity_(law)", 
+            "Iraq", 
+            "Florida", 
+            "Maternity", 
+            "Sampling_(music)", 
+            "Roadblock", 
+            "Fat", 
+            "United_States_Army", 
+            "September_11,_2001_attacks", 
+            "National_Guard_of_the_United_States", 
+            "Troops_(film)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Deadbeat_parent", 
+            "Warzone_(band)", 
+            "Active_Duty"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Sage", 
+            "God", 
+            "Bank", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Personal_experience", 
+            "Lawyer", 
+            "Writer", 
+            "Welfare_(financial_aid)", 
+            "Divorce", 
+            "Divorce", 
+            "Lawyer", 
+            "WAIT_(AM)", 
+            "Lawsuit", 
+            "Courtroom"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Deadbeat_parent", 
+            "Child_support", 
+            "Attorney_at_law", 
+            "Advanced_Intelligent_Tape", 
+            "Child_support", 
+            "Mootness", 
+            "Iraq", 
+            "Marital_status", 
+            "MEN", 
+            "Certificate_of_Secondary_Education", 
+            "Boot_Camp_(software)", 
+            "Soldier", 
+            "MEN", 
+            "Divorce", 
+            "Hook_(music)", 
+            "Deadbeat_parent", 
+            "Mother_insult", 
+            "Child_support", 
+            "FYI", 
+            "Attorney_at_law"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Police", 
+            "Jail", 
+            "Police_academy", 
+            "Rabbit", 
+            "Injunction", 
+            "Badge_(song)", 
+            "Leaf", 
+            "Crime", 
+            "E-mail"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Soapbox", 
+            "Glass", 
+            "Compass", 
+            "Greenhouse", 
+            "Honey"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Honey", 
+            "Refrain"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Judge", 
+            "Assignment_(law)", 
+            "581", 
+            "Federal_law", 
+            "Finance", 
+            "Code_of_Federal_Regulations", 
+            "United_States_Department_of_Defense", 
+            "Assignment_(law)", 
+            "Child_support", 
+            "Rta", 
+            "Divorce", 
+            "Ohio", 
+            "Toll-free_telephone_number", 
+            "Law", 
+            "Alimony", 
+            "Decree", 
+            "Federal_government_of_the_United_States", 
+            "Child_support", 
+            "Child_support", 
+            "Alimony", 
+            "Court_order", 
+            "Toll-free_telephone_number", 
+            "CSEA", 
+            "Cleveland,_Ohio", 
+            "Post_office_box", 
+            "Alimony", 
+            "Facsimile", 
+            "Fax", 
+            "Alimony", 
+            "Social_Security_number", 
+            "Divorce", 
+            "Social_security", 
+            "Cleveland,_Ohio", 
+            "Cleveland,_Ohio", 
+            "Return_address", 
+            "Attorney_at_law", 
+            "Attorney_at_law", 
+            "Assignment_(law)", 
+            "Deductive_reasoning", 
+            "Accountancy", 
+            "United_States_Code", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Defense_Switched_Network", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Envelope", 
+            "Alimony", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Fax", 
+            "Child_support", 
+            "Garnishment", 
+            "Child_support", 
+            "Decree", 
+            "Area_code_216", 
+            "United_States_Department_of_Defense", 
+            "Law", 
+            "Regulation", 
+            "659", 
+            "Garnishment"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Honey", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Paternity_(law)", 
+            "Child_support", 
+            "Iraq", 
+            "Child_support", 
+            "Deadbeat_parent", 
+            "Petition"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Payroll", 
+            "Madam", 
+            "Default_judgment"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Child_support", 
+            "Divorce", 
+            "United_States_Army_Reserve", 
+            "Juvenile_delinquency", 
+            "United_States_Army", 
+            "California", 
+            "Delinquent", 
+            "Child_support", 
+            "Law", 
+            "Law_school", 
+            "Default_judgment", 
+            "Child_support", 
+            "State", 
+            "Massachusetts"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Military_service", 
+            "Childcare", 
+            "Boot"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "May_2005", 
+            "Law", 
+            "Book_of_Numbers", 
+            "Arrears", 
+            "2005", 
+            "State", 
+            "Nursing_school", 
+            "Dime_(United_States_coin)", 
+            "Nursing", 
+            "Hope,_British_Columbia", 
+            "November_2004", 
+            "2004", 
+            "State"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Florida_National_Guard", 
+            "Certificate_of_Secondary_Education", 
+            "DNA", 
+            "Judge", 
+            "Genetic_fingerprinting", 
+            "Paternity_(law)", 
+            "Paternity_(law)", 
+            "Iraq", 
+            "Florida", 
+            "Maternity", 
+            "Sampling_(music)", 
+            "Roadblock", 
+            "Fat", 
+            "United_States_Army", 
+            "September_11,_2001_attacks", 
+            "National_Guard_of_the_United_States", 
+            "Troops_(film)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Deadbeat_parent", 
+            "Warzone_(band)", 
+            "Active_Duty"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Sage", 
+            "God", 
+            "Bank", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Personal_experience", 
+            "Lawyer", 
+            "Writer", 
+            "Welfare_(financial_aid)", 
+            "Divorce", 
+            "Divorce", 
+            "Lawyer", 
+            "WAIT_(AM)", 
+            "Lawsuit", 
+            "Courtroom"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Deadbeat_parent", 
+            "Child_support", 
+            "Attorney_at_law", 
+            "Advanced_Intelligent_Tape", 
+            "Child_support", 
+            "Mootness", 
+            "Iraq", 
+            "Marital_status", 
+            "MEN", 
+            "Certificate_of_Secondary_Education", 
+            "Boot_Camp_(software)", 
+            "Soldier", 
+            "MEN", 
+            "Divorce", 
+            "Hook_(music)", 
+            "Deadbeat_parent", 
+            "Mother_insult", 
+            "Child_support", 
+            "FYI", 
+            "Attorney_at_law"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Police", 
+            "Jail", 
+            "Police_academy", 
+            "Rabbit", 
+            "Injunction", 
+            "Badge_(song)", 
+            "Leaf", 
+            "Crime", 
+            "E-mail"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Soapbox", 
+            "Glass", 
+            "Compass", 
+            "Greenhouse", 
+            "Honey"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Honey", 
+            "Refrain"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Garnishment", 
+            "Judge", 
+            "Assignment_(law)", 
+            "581", 
+            "Federal_law", 
+            "Finance", 
+            "Code_of_Federal_Regulations", 
+            "United_States_Department_of_Defense", 
+            "Assignment_(law)", 
+            "Child_support", 
+            "Rta", 
+            "Divorce", 
+            "Ohio", 
+            "Toll-free_telephone_number", 
+            "Law", 
+            "Alimony", 
+            "Decree", 
+            "Federal_government_of_the_United_States", 
+            "Child_support", 
+            "Child_support", 
+            "Alimony", 
+            "Court_order", 
+            "Toll-free_telephone_number", 
+            "CSEA", 
+            "Cleveland,_Ohio", 
+            "Post_office_box", 
+            "Alimony", 
+            "Facsimile", 
+            "Fax", 
+            "Alimony", 
+            "Social_Security_number", 
+            "Divorce", 
+            "Social_security", 
+            "Cleveland,_Ohio", 
+            "Cleveland,_Ohio", 
+            "Return_address", 
+            "Attorney_at_law", 
+            "Attorney_at_law", 
+            "Assignment_(law)", 
+            "Deductive_reasoning", 
+            "Accountancy", 
+            "United_States_Code", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Defense_Switched_Network", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Envelope", 
+            "Alimony", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Fax", 
+            "Child_support", 
+            "Garnishment", 
+            "Child_support", 
+            "Decree", 
+            "Area_code_216", 
+            "United_States_Department_of_Defense", 
+            "Law", 
+            "Regulation", 
+            "659", 
+            "Garnishment"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Honey", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 60
+    }
+]

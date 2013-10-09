@@ -1,0 +1,610 @@
+[
+    {
+        "entity": [
+            "Equality", 
+            "Mental_health", 
+            "National_Association_of_Social_Workers", 
+            "Vermont", 
+            "National_Association_of_Professional_Base_Ball_Players", 
+            "Equality", 
+            "Civil_marriage", 
+            "Social_work", 
+            "Literature", 
+            "Vermont", 
+            "Civil_union", 
+            "Mental_health", 
+            "State_law", 
+            "Law", 
+            "Marriage", 
+            "Marriage", 
+            "State", 
+            "Psychology", 
+            "Mental_health", 
+            "Same-sex_marriage", 
+            "Trade_union", 
+            "The_University_of_Vermont", 
+            "Heterosexuality", 
+            "Psychologist", 
+            "Vermont", 
+            "State", 
+            "Scientific_literature", 
+            "Same-sex_marriage", 
+            "Legislature", 
+            "Marriage", 
+            "State", 
+            "Professor", 
+            "Statute", 
+            "Same-sex_marriage", 
+            "North_Carolina_General_Assembly", 
+            "Same-sex_marriage", 
+            "Vermont", 
+            "Same-sex_marriage", 
+            "Homosexuality"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Legislature", 
+            "Same-sex_marriage", 
+            "Vermont", 
+            "Pilgrimage", 
+            "Vermont", 
+            "Vermont", 
+            "Marriage", 
+            "Vermont_General_Assembly"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Murder", 
+            "Rape", 
+            "Vermont", 
+            "U.S._state"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Missouri", 
+            "U.S._state", 
+            "States'_rights", 
+            "Missouri"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Terry_Cashman", 
+            "Jessica_Buchanan", 
+            "Terry_Cashman", 
+            "Judge", 
+            "Mental_health", 
+            "Rape", 
+            "U.S._state", 
+            "Rape", 
+            "Vermont", 
+            "Vermont", 
+            "Conservatism", 
+            "Vermont_General_Assembly", 
+            "Vermont", 
+            "New_England_town", 
+            "England", 
+            "Edward_Cashman", 
+            "New_England", 
+            "Christian", 
+            "Child_sexual_abuse", 
+            "Cattle", 
+            "Vermont", 
+            "Prison", 
+            "Child_sexual_abuse", 
+            "Legislature", 
+            "Republican_Party_(United_States)", 
+            "U.S._state"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Confederation", 
+            "United_States_Constitution", 
+            "Missouri"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Vermont", 
+            "Homosexuality", 
+            "Heartbeat", 
+            "Vermont", 
+            "Same-sex_marriage", 
+            "Clergy", 
+            "Religion", 
+            "Same-sex_marriage_in_Canada", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Marriage", 
+            "Fundamentalism", 
+            "U.S._state"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Religious_text", 
+            "Clergy", 
+            "Equity_(law)", 
+            "Marriage", 
+            "Clergy", 
+            "Civil_marriage", 
+            "Vermont", 
+            "Social_equality", 
+            "Religious_denomination", 
+            "Clergy", 
+            "Equality", 
+            "Religious_denomination", 
+            "Education", 
+            "Marriage", 
+            "Marriage_Equality_USA", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Secularism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Christianity", 
+            "Christian"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cult", 
+            "Muslim", 
+            "Muslim", 
+            "Muslim", 
+            "Homosexuality", 
+            "Muslim", 
+            "God", 
+            "Gospel_of_Matthew", 
+            "Matthew_Shepard", 
+            "Homosexuality", 
+            "Bible", 
+            "Bible", 
+            "Qur'an", 
+            "Jesus", 
+            "Qur'an", 
+            "Earth", 
+            "Phelps_(village),_New_York", 
+            "God", 
+            "Church", 
+            "Phelps_(village),_New_York", 
+            "Bible", 
+            "Terrorism", 
+            "Church_service", 
+            "Christianity", 
+            "God", 
+            "Religion", 
+            "Musical_instrument", 
+            "Muslim", 
+            "God"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "LGBT", 
+            "Church_and_State"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Homosexuality", 
+            "Nazi_Germany", 
+            "State", 
+            "Roman_Catholic_Church", 
+            "Religious_right", 
+            "Marriage", 
+            "Religion", 
+            "Law", 
+            "Religion", 
+            "Christianity", 
+            "Nazi_Germany", 
+            "Dogma"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Poster", 
+            "Public_opinion", 
+            "Narrative", 
+            "Narrative", 
+            "LGBT", 
+            "Mathematics", 
+            "Clergy", 
+            "Logic"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Update_(SQL)", 
+            "Narrative", 
+            "IMHO", 
+            "Dynamics_(music)", 
+            "News_release", 
+            "News", 
+            "Thread_(computer_science)", 
+            "United_States_Military_Academy", 
+            "LGBT"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Gay", 
+            "United_States_Military_Academy", 
+            "Internet_forum"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Closet", 
+            "Closeted", 
+            "United_States_Military_Academy", 
+            "Point_group"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Civil_rights_movement", 
+            "Homosexuality", 
+            "Law", 
+            "Civil_rights", 
+            "Law", 
+            "Homosexuality", 
+            "Law"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Morale", 
+            "March_16", 
+            "Mutiny", 
+            "Repeal", 
+            "Mon_people", 
+            "Earring", 
+            "Repeal", 
+            "Hat", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Equality", 
+            "Mental_health", 
+            "National_Association_of_Social_Workers", 
+            "Vermont", 
+            "National_Association_of_Professional_Base_Ball_Players", 
+            "Equality", 
+            "Civil_marriage", 
+            "Social_work", 
+            "Literature", 
+            "Vermont", 
+            "Civil_union", 
+            "Mental_health", 
+            "State_law", 
+            "Law", 
+            "Marriage", 
+            "Marriage", 
+            "State", 
+            "Psychology", 
+            "Mental_health", 
+            "Same-sex_marriage", 
+            "Trade_union", 
+            "The_University_of_Vermont", 
+            "Heterosexuality", 
+            "Psychologist", 
+            "Vermont", 
+            "State", 
+            "Scientific_literature", 
+            "Same-sex_marriage", 
+            "Legislature", 
+            "Marriage", 
+            "State", 
+            "Professor", 
+            "Statute", 
+            "Same-sex_marriage", 
+            "North_Carolina_General_Assembly", 
+            "Same-sex_marriage", 
+            "Vermont", 
+            "Same-sex_marriage", 
+            "Homosexuality"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Legislature", 
+            "Same-sex_marriage", 
+            "Vermont", 
+            "Pilgrimage", 
+            "Vermont", 
+            "Vermont", 
+            "Marriage", 
+            "Vermont_General_Assembly"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Pedophilia", 
+            "Murder", 
+            "Rape", 
+            "Vermont", 
+            "U.S._state"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Missouri", 
+            "U.S._state", 
+            "States'_rights", 
+            "Missouri"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Terry_Cashman", 
+            "Jessica_Buchanan", 
+            "Terry_Cashman", 
+            "Judge", 
+            "Mental_health", 
+            "Rape", 
+            "U.S._state", 
+            "Rape", 
+            "Vermont", 
+            "Vermont", 
+            "Conservatism", 
+            "Vermont_General_Assembly", 
+            "Vermont", 
+            "New_England_town", 
+            "England", 
+            "Edward_Cashman", 
+            "New_England", 
+            "Christian", 
+            "Child_sexual_abuse", 
+            "Cattle", 
+            "Vermont", 
+            "Prison", 
+            "Child_sexual_abuse", 
+            "Legislature", 
+            "Republican_Party_(United_States)", 
+            "U.S._state"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Confederation", 
+            "United_States_Constitution", 
+            "Missouri"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Vermont", 
+            "Homosexuality", 
+            "Heartbeat", 
+            "Vermont", 
+            "Same-sex_marriage", 
+            "Clergy", 
+            "Religion", 
+            "Same-sex_marriage_in_Canada", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Marriage", 
+            "Fundamentalism", 
+            "U.S._state"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Religious_text", 
+            "Clergy", 
+            "Equity_(law)", 
+            "Marriage", 
+            "Clergy", 
+            "Civil_marriage", 
+            "Vermont", 
+            "Social_equality", 
+            "Religious_denomination", 
+            "Clergy", 
+            "Equality", 
+            "Religious_denomination", 
+            "Education", 
+            "Marriage", 
+            "Marriage_Equality_USA", 
+            "Same-sex_marriage"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Secularism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Christianity", 
+            "Christian"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Cult", 
+            "Muslim", 
+            "Muslim", 
+            "Muslim", 
+            "Homosexuality", 
+            "Muslim", 
+            "God", 
+            "Gospel_of_Matthew", 
+            "Matthew_Shepard", 
+            "Homosexuality", 
+            "Bible", 
+            "Bible", 
+            "Qur'an", 
+            "Jesus", 
+            "Qur'an", 
+            "Earth", 
+            "Phelps_(village),_New_York", 
+            "God", 
+            "Church", 
+            "Phelps_(village),_New_York", 
+            "Bible", 
+            "Terrorism", 
+            "Church_service", 
+            "Christianity", 
+            "God", 
+            "Religion", 
+            "Musical_instrument", 
+            "Muslim", 
+            "God"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "LGBT", 
+            "Church_and_State"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Homosexuality", 
+            "Nazi_Germany", 
+            "State", 
+            "Roman_Catholic_Church", 
+            "Religious_right", 
+            "Marriage", 
+            "Religion", 
+            "Law", 
+            "Religion", 
+            "Christianity", 
+            "Nazi_Germany", 
+            "Dogma"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Poster", 
+            "Public_opinion", 
+            "Narrative", 
+            "Narrative", 
+            "LGBT", 
+            "Mathematics", 
+            "Clergy", 
+            "Logic"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Update_(SQL)", 
+            "Narrative", 
+            "IMHO", 
+            "Dynamics_(music)", 
+            "News_release", 
+            "News", 
+            "Thread_(computer_science)", 
+            "United_States_Military_Academy", 
+            "LGBT"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Gay", 
+            "United_States_Military_Academy", 
+            "Internet_forum"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Closet", 
+            "Closeted", 
+            "United_States_Military_Academy", 
+            "Point_group"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Civil_rights_movement", 
+            "Homosexuality", 
+            "Law", 
+            "Civil_rights", 
+            "Law", 
+            "Homosexuality", 
+            "Law"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Morale", 
+            "March_16", 
+            "Mutiny", 
+            "Repeal", 
+            "Mon_people", 
+            "Earring", 
+            "Repeal", 
+            "Hat", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 40
+    }
+]

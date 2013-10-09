@@ -1,0 +1,27 @@
+[
+    {
+        "entity": [
+            "Tax", 
+            "Uncle_Sam", 
+            "Blues", 
+            "Blues", 
+            "Mod_(computer_gaming)", 
+            "Public_service_announcement", 
+            "Pulitzer_Prize_for_Public_Service"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Irritability", 
+            "Signs_(film)", 
+            "Anger", 
+            "Psychoactive_drug", 
+            "Drug_use", 
+            "Fatigue_(medical)", 
+            "Anxiety", 
+            "Apathy_(rapper)"
+        ], 
+        "postID": 2
+    }
+]

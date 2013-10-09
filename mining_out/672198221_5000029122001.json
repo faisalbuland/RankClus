@@ -1,0 +1,982 @@
+[
+    {
+        "entity": [
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Stuff_(magazine)", 
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Uniform_Resource_Locator"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Sexually_transmitted_disease", 
+            "Influenza", 
+            "World_Health_Organization", 
+            "Orthomyxoviridae", 
+            "Orthomyxoviridae", 
+            "Influenza", 
+            "Pandemic", 
+            "Virus", 
+            "Virus", 
+            "Disease", 
+            "Animal", 
+            "Pathogen", 
+            "Orthomyxoviridae", 
+            "Population", 
+            "Transmission_(medicine)", 
+            "Pandemic", 
+            "Influenza", 
+            "Disease", 
+            "Orthomyxoviridae", 
+            "Virus", 
+            "Virus", 
+            "Virus", 
+            "Infectious_disease", 
+            "Influenza", 
+            "Infectious_disease", 
+            "Gene", 
+            "Domestication", 
+            "Influenza", 
+            "Pandemic", 
+            "Infectious_disease", 
+            "Virus", 
+            "Pandemic", 
+            "Pandemic", 
+            "Animal", 
+            "Virus", 
+            "Livestock", 
+            "Pandemic", 
+            "Domestication", 
+            "Transmission_(medicine)", 
+            "Infectious_disease", 
+            "Disease", 
+            "Wildlife", 
+            "Pandemic"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOT_Polish_Airlines", 
+            "WASH", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Daisy", 
+            "Cutter_(ship)", 
+            "Joseph_Stalin", 
+            "BLU-82"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Nationalization", 
+            "Imo_State", 
+            "Influenza", 
+            "Health_care", 
+            "Influenza", 
+            "Swine_flu", 
+            "Mon_people", 
+            "Pig", 
+            "April_27", 
+            "2009", 
+            "Domestic_sheep", 
+            "Influenza"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Federal_Emergency_Management_Agency", 
+            "Typhoid_fever", 
+            "Mary_Mallon"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "Severe_acute_respiratory_syndrome", 
+            "Hospital", 
+            "Republican_Party_(United_States)", 
+            "Queens", 
+            "1918", 
+            "Pandemic", 
+            "Pig", 
+            "Spanish_flu", 
+            "Queens", 
+            "Queens", 
+            "Disease", 
+            "New_York", 
+            "Influenza", 
+            "Flue", 
+            "Mexico", 
+            "George_W._Bush", 
+            "Refrain", 
+            "Virus"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Influenza", 
+            "Socialism", 
+            "Bolivarian_Revolution", 
+            "Pig", 
+            "Swine_flu"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "United_States", 
+            "Avian_influenza", 
+            "George_W._Bush", 
+            "Avian", 
+            "Disease", 
+            "Republican_Party_(United_States)", 
+            "Headlines_(The_Tonight_Show)", 
+            "Presidency_of_George_W._Bush", 
+            "Drug", 
+            "Severe_acute_respiratory_syndrome", 
+            "Death", 
+            "Oseltamivir", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Influenza", 
+            "Influenza", 
+            "George_W._Bush", 
+            "Disease", 
+            "Mortality_rate", 
+            "Virus"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Piglet"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Virus", 
+            "Vaccine"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Flash_(photography)", 
+            "Hospital"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Pig", 
+            "Oseltamivir", 
+            "Influenza_vaccine", 
+            "Virus", 
+            "Bird", 
+            "Mexico", 
+            "Avian_influenza", 
+            "Influenza"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_care_reform"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Virus", 
+            "Gene", 
+            "Virus", 
+            "Hospital", 
+            "Mexico", 
+            "Lung"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Stuff_(magazine)", 
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Uniform_Resource_Locator"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Sexually_transmitted_disease", 
+            "Influenza", 
+            "World_Health_Organization", 
+            "Orthomyxoviridae", 
+            "Orthomyxoviridae", 
+            "Influenza", 
+            "Pandemic", 
+            "Virus", 
+            "Virus", 
+            "Disease", 
+            "Animal", 
+            "Pathogen", 
+            "Orthomyxoviridae", 
+            "Population", 
+            "Transmission_(medicine)", 
+            "Pandemic", 
+            "Influenza", 
+            "Disease", 
+            "Orthomyxoviridae", 
+            "Virus", 
+            "Virus", 
+            "Virus", 
+            "Infectious_disease", 
+            "Influenza", 
+            "Infectious_disease", 
+            "Gene", 
+            "Domestication", 
+            "Influenza", 
+            "Pandemic", 
+            "Infectious_disease", 
+            "Virus", 
+            "Pandemic", 
+            "Pandemic", 
+            "Animal", 
+            "Virus", 
+            "Livestock", 
+            "Pandemic", 
+            "Domestication", 
+            "Transmission_(medicine)", 
+            "Infectious_disease", 
+            "Disease", 
+            "Wildlife", 
+            "Pandemic"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOT_Polish_Airlines", 
+            "WASH", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Daisy", 
+            "Cutter_(ship)", 
+            "Joseph_Stalin", 
+            "BLU-82"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Nationalization", 
+            "Imo_State", 
+            "Influenza", 
+            "Health_care", 
+            "Influenza", 
+            "Swine_flu", 
+            "Mon_people", 
+            "Pig", 
+            "April_27", 
+            "2009", 
+            "Domestic_sheep", 
+            "Influenza"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Federal_Emergency_Management_Agency", 
+            "Typhoid_fever", 
+            "Mary_Mallon"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "Severe_acute_respiratory_syndrome", 
+            "Hospital", 
+            "Republican_Party_(United_States)", 
+            "Queens", 
+            "1918", 
+            "Pandemic", 
+            "Pig", 
+            "Spanish_flu", 
+            "Queens", 
+            "Queens", 
+            "Disease", 
+            "New_York", 
+            "Influenza", 
+            "Flue", 
+            "Mexico", 
+            "George_W._Bush", 
+            "Refrain", 
+            "Virus"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Influenza", 
+            "Socialism", 
+            "Bolivarian_Revolution", 
+            "Pig", 
+            "Swine_flu"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "United_States", 
+            "Avian_influenza", 
+            "George_W._Bush", 
+            "Avian", 
+            "Disease", 
+            "Republican_Party_(United_States)", 
+            "Headlines_(The_Tonight_Show)", 
+            "Presidency_of_George_W._Bush", 
+            "Drug", 
+            "Severe_acute_respiratory_syndrome", 
+            "Death", 
+            "Oseltamivir", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Influenza", 
+            "Influenza", 
+            "George_W._Bush", 
+            "Disease", 
+            "Mortality_rate", 
+            "Virus"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Piglet"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Virus", 
+            "Vaccine"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Flash_(photography)", 
+            "Hospital"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Pig", 
+            "Oseltamivir", 
+            "Influenza_vaccine", 
+            "Virus", 
+            "Bird", 
+            "Mexico", 
+            "Avian_influenza", 
+            "Influenza"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_care_reform"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Virus", 
+            "Gene", 
+            "Virus", 
+            "Hospital", 
+            "Mexico", 
+            "Lung"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Stuff_(magazine)", 
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Uniform_Resource_Locator"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Sexually_transmitted_disease", 
+            "Influenza", 
+            "World_Health_Organization", 
+            "Orthomyxoviridae", 
+            "Orthomyxoviridae", 
+            "Influenza", 
+            "Pandemic", 
+            "Virus", 
+            "Virus", 
+            "Disease", 
+            "Animal", 
+            "Pathogen", 
+            "Orthomyxoviridae", 
+            "Population", 
+            "Transmission_(medicine)", 
+            "Pandemic", 
+            "Influenza", 
+            "Disease", 
+            "Orthomyxoviridae", 
+            "Virus", 
+            "Virus", 
+            "Virus", 
+            "Infectious_disease", 
+            "Influenza", 
+            "Infectious_disease", 
+            "Gene", 
+            "Domestication", 
+            "Influenza", 
+            "Pandemic", 
+            "Infectious_disease", 
+            "Virus", 
+            "Pandemic", 
+            "Pandemic", 
+            "Animal", 
+            "Virus", 
+            "Livestock", 
+            "Pandemic", 
+            "Domestication", 
+            "Transmission_(medicine)", 
+            "Infectious_disease", 
+            "Disease", 
+            "Wildlife", 
+            "Pandemic"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOT_Polish_Airlines", 
+            "WASH", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Daisy", 
+            "Cutter_(ship)", 
+            "Joseph_Stalin", 
+            "BLU-82"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Nationalization", 
+            "Imo_State", 
+            "Influenza", 
+            "Health_care", 
+            "Influenza", 
+            "Swine_flu", 
+            "Mon_people", 
+            "Pig", 
+            "April_27", 
+            "2009", 
+            "Domestic_sheep", 
+            "Influenza"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Federal_Emergency_Management_Agency", 
+            "Typhoid_fever", 
+            "Mary_Mallon"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "Severe_acute_respiratory_syndrome", 
+            "Hospital", 
+            "Republican_Party_(United_States)", 
+            "Queens", 
+            "1918", 
+            "Pandemic", 
+            "Pig", 
+            "Spanish_flu", 
+            "Queens", 
+            "Queens", 
+            "Disease", 
+            "New_York", 
+            "Influenza", 
+            "Flue", 
+            "Mexico", 
+            "George_W._Bush", 
+            "Refrain", 
+            "Virus"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Influenza", 
+            "Socialism", 
+            "Bolivarian_Revolution", 
+            "Pig", 
+            "Swine_flu"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "United_States", 
+            "Avian_influenza", 
+            "George_W._Bush", 
+            "Avian", 
+            "Disease", 
+            "Republican_Party_(United_States)", 
+            "Headlines_(The_Tonight_Show)", 
+            "Presidency_of_George_W._Bush", 
+            "Drug", 
+            "Severe_acute_respiratory_syndrome", 
+            "Death", 
+            "Oseltamivir", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Influenza", 
+            "Influenza", 
+            "George_W._Bush", 
+            "Disease", 
+            "Mortality_rate", 
+            "Virus"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Piglet"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Virus", 
+            "Vaccine"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Flash_(photography)", 
+            "Hospital"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Pig", 
+            "Oseltamivir", 
+            "Influenza_vaccine", 
+            "Virus", 
+            "Bird", 
+            "Mexico", 
+            "Avian_influenza", 
+            "Influenza"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_care_reform"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Virus", 
+            "Gene", 
+            "Virus", 
+            "Hospital", 
+            "Mexico", 
+            "Lung"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Stuff_(magazine)", 
+            "ALERT_(medical_facility,_Ethiopia)", 
+            "Uniform_Resource_Locator"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Sexually_transmitted_disease", 
+            "Influenza", 
+            "World_Health_Organization", 
+            "Orthomyxoviridae", 
+            "Orthomyxoviridae", 
+            "Influenza", 
+            "Pandemic", 
+            "Virus", 
+            "Virus", 
+            "Disease", 
+            "Animal", 
+            "Pathogen", 
+            "Orthomyxoviridae", 
+            "Population", 
+            "Transmission_(medicine)", 
+            "Pandemic", 
+            "Influenza", 
+            "Disease", 
+            "Orthomyxoviridae", 
+            "Virus", 
+            "Virus", 
+            "Virus", 
+            "Infectious_disease", 
+            "Influenza", 
+            "Infectious_disease", 
+            "Gene", 
+            "Domestication", 
+            "Influenza", 
+            "Pandemic", 
+            "Infectious_disease", 
+            "Virus", 
+            "Pandemic", 
+            "Pandemic", 
+            "Animal", 
+            "Virus", 
+            "Livestock", 
+            "Pandemic", 
+            "Domestication", 
+            "Transmission_(medicine)", 
+            "Infectious_disease", 
+            "Disease", 
+            "Wildlife", 
+            "Pandemic"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOT_Polish_Airlines", 
+            "WASH", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Centers_for_Disease_Control_and_Prevention"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Daisy", 
+            "Cutter_(ship)", 
+            "Joseph_Stalin", 
+            "BLU-82"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "Nationalization", 
+            "Imo_State", 
+            "Influenza", 
+            "Health_care", 
+            "Influenza", 
+            "Swine_flu", 
+            "Mon_people", 
+            "Pig", 
+            "April_27", 
+            "2009", 
+            "Domestic_sheep", 
+            "Influenza"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Federal_Emergency_Management_Agency", 
+            "Typhoid_fever", 
+            "Mary_Mallon"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "Severe_acute_respiratory_syndrome", 
+            "Hospital", 
+            "Republican_Party_(United_States)", 
+            "Queens", 
+            "1918", 
+            "Pandemic", 
+            "Pig", 
+            "Spanish_flu", 
+            "Queens", 
+            "Queens", 
+            "Disease", 
+            "New_York", 
+            "Influenza", 
+            "Flue", 
+            "Mexico", 
+            "George_W._Bush", 
+            "Refrain", 
+            "Virus"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Influenza", 
+            "Socialism", 
+            "Bolivarian_Revolution", 
+            "Pig", 
+            "Swine_flu"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Avian", 
+            "Avian_influenza", 
+            "United_States", 
+            "Avian_influenza", 
+            "George_W._Bush", 
+            "Avian", 
+            "Disease", 
+            "Republican_Party_(United_States)", 
+            "Headlines_(The_Tonight_Show)", 
+            "Presidency_of_George_W._Bush", 
+            "Drug", 
+            "Severe_acute_respiratory_syndrome", 
+            "Death", 
+            "Oseltamivir", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Influenza", 
+            "Influenza", 
+            "George_W._Bush", 
+            "Disease", 
+            "Mortality_rate", 
+            "Virus"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Piglet"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Virus", 
+            "Vaccine"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Flash_(photography)", 
+            "Hospital"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Pig", 
+            "Oseltamivir", 
+            "Influenza_vaccine", 
+            "Virus", 
+            "Bird", 
+            "Mexico", 
+            "Avian_influenza", 
+            "Influenza"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_care_reform"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [], 
+        "postID": 78
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Virus", 
+            "Gene", 
+            "Virus", 
+            "Hospital", 
+            "Mexico", 
+            "Lung"
+        ], 
+        "postID": 80
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "entity": [
+            "DNI", 
+            "Stipend", 
+            "Dennis_Blair", 
+            "Barack_Obama", 
+            "Tony_Blair", 
+            "Associated_Press", 
+            "The_Weekly_Standard", 
+            "Guantanamo_Bay_detention_camp", 
+            "Guantanamo_Bay_Naval_Base", 
+            "News_conference"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "False_imprisonment"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Terrorism", 
+            "China", 
+            "Crime", 
+            "Crime", 
+            "Prison", 
+            "Geneva_Conventions", 
+            "People's_Republic_of_China", 
+            "Attorney_at_law", 
+            "Restitution", 
+            "Prison", 
+            "People's_Republic_of_China", 
+            "Geneva"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Russian_language", 
+            "Dink", 
+            "Dink", 
+            "Dink", 
+            "Indigenous_peoples", 
+            "Dink", 
+            "Radio", 
+            "Battery_(electricity)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "China", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Iraq", 
+            "China", 
+            "Terrorism", 
+            "Al-Qaeda", 
+            "Insurgency", 
+            "Afghanistan", 
+            "Abu_Ghraib", 
+            "Counter-insurgency", 
+            "Terrorism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Uyghur_people", 
+            "Volkswagen_Jetta", 
+            "Taliban", 
+            "Pakistan", 
+            "Pakistan", 
+            "Afghanistan", 
+            "Turkey", 
+            "China", 
+            "United_States", 
+            "Turkestan", 
+            "East_Turkestan", 
+            "2001", 
+            "Province", 
+            "Uyghur_people", 
+            "Al-Qaeda", 
+            "Operation_Enduring_Freedom", 
+            "China", 
+            "People's_Republic_of_China", 
+            "People's_Republic_of_China", 
+            "Pakistan", 
+            "Refugee", 
+            "Strategic_bombing", 
+            "Xinjiang", 
+            "Operation_Enduring_Freedom", 
+            "Xinjiang", 
+            "Afghanistan", 
+            "People's_Republic_of_China", 
+            "Afghanistan", 
+            "Muslim", 
+            "Communism", 
+            "Tora", 
+            "Al-Qaeda", 
+            "Tora_Bora", 
+            "Tora_Bora", 
+            "United_States", 
+            "October_2001", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "List_of_U.S._Army_acronyms_and_expressions", 
+            "Acronym_and_initialism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Governor", 
+            "!!!", 
+            "City_council", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Mayor"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Donkey", 
+            "Dog"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Abu_Ghraib"
+        ], 
+        "postID": 17
+    }
+]

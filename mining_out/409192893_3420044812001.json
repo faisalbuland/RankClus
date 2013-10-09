@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "Timothy_F._Geithner", 
+            "United_States_Secretary_of_the_Treasury", 
+            "White_House", 
+            "American_International_Group", 
+            "United_States_Department_of_the_Treasury", 
+            "American_International_Group", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Reuters", 
+            "Bail_(disambiguation)", 
+            "American_International_Group", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Insurance", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States", 
+            "White_House", 
+            "Chief_executive_officer", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "United_States_Congress"
+        ], 
+        "postID": 3
+    }
+]

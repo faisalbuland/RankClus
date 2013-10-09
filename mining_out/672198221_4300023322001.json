@@ -1,0 +1,666 @@
+[
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Common_sense", 
+            "Waterboarding", 
+            "Nancy_Pelosi", 
+            "Jail"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Psychiatric_hospital", 
+            "Cart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Waterboarding", 
+            "Jail", 
+            "Torture", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Cheny,_Yonne", 
+            "Fall_guy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Cohort_(military_unit)", 
+            "Crime"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "John_S._McCain,_Sr.", 
+            "Partisan_(military)", 
+            "United_States_Senate", 
+            "John_McCain"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Waterboarding", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Prisoner_of_war", 
+            "IMHO", 
+            "Prisoner-of-war_camp"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "John_McCain"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Waterboarding", 
+            "Heat", 
+            "John_McCain", 
+            "Law", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "French_fries", 
+            "Culpability", 
+            "Bye_(sports)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Law", 
+            "Ronald_Reagan", 
+            "Nancy_Pelosi", 
+            "Spear", 
+            "September_11,_2001_attacks", 
+            "Nancy_Pelosi", 
+            "Nancy_Reagan", 
+            "Psychopathy", 
+            "September_11,_2001_attacks", 
+            "Geneva_Conventions", 
+            "Geneva", 
+            "Public_law", 
+            "September_1", 
+            "September_11"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Nancy_Pelosi", 
+            "Hook_(music)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Hillary_Rodham_Clinton", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Nonsense", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Common_sense", 
+            "Waterboarding", 
+            "Nancy_Pelosi", 
+            "Jail"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Psychiatric_hospital", 
+            "Cart"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Waterboarding", 
+            "Jail", 
+            "Torture", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Cheny,_Yonne", 
+            "Fall_guy"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Cohort_(military_unit)", 
+            "Crime"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "John_S._McCain,_Sr.", 
+            "Partisan_(military)", 
+            "United_States_Senate", 
+            "John_McCain"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Waterboarding", 
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Prisoner_of_war", 
+            "IMHO", 
+            "Prisoner-of-war_camp"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "John_McCain"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Waterboarding", 
+            "Heat", 
+            "John_McCain", 
+            "Law", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "French_fries", 
+            "Culpability", 
+            "Bye_(sports)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Law", 
+            "Ronald_Reagan", 
+            "Nancy_Pelosi", 
+            "Spear", 
+            "September_11,_2001_attacks", 
+            "Nancy_Pelosi", 
+            "Nancy_Reagan", 
+            "Psychopathy", 
+            "September_11,_2001_attacks", 
+            "Geneva_Conventions", 
+            "Geneva", 
+            "Public_law", 
+            "September_1", 
+            "September_11"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Nancy_Pelosi", 
+            "Hook_(music)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Hillary_Rodham_Clinton", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Nonsense", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Common_sense", 
+            "Waterboarding", 
+            "Nancy_Pelosi", 
+            "Jail"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Psychiatric_hospital", 
+            "Cart"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Waterboarding", 
+            "Jail", 
+            "Torture", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Cheny,_Yonne", 
+            "Fall_guy"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Cohort_(military_unit)", 
+            "Crime"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "John_S._McCain,_Sr.", 
+            "Partisan_(military)", 
+            "United_States_Senate", 
+            "John_McCain"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Waterboarding", 
+            "United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Prisoner_of_war", 
+            "IMHO", 
+            "Prisoner-of-war_camp"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "John_McCain"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Waterboarding", 
+            "Heat", 
+            "John_McCain", 
+            "Law", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "French_fries", 
+            "Culpability", 
+            "Bye_(sports)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Law", 
+            "Ronald_Reagan", 
+            "Nancy_Pelosi", 
+            "Spear", 
+            "September_11,_2001_attacks", 
+            "Nancy_Pelosi", 
+            "Nancy_Reagan", 
+            "Psychopathy", 
+            "September_11,_2001_attacks", 
+            "Geneva_Conventions", 
+            "Geneva", 
+            "Public_law", 
+            "September_1", 
+            "September_11"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Nancy_Pelosi", 
+            "Hook_(music)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Hillary_Rodham_Clinton", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Nonsense", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Common_sense", 
+            "Waterboarding", 
+            "Nancy_Pelosi", 
+            "Jail"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Psychiatric_hospital", 
+            "Cart"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Rummy", 
+            "Waterboarding", 
+            "Jail", 
+            "Torture", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Cheny,_Yonne", 
+            "Fall_guy"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Cohort_(military_unit)", 
+            "Crime"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "John_S._McCain,_Sr.", 
+            "Partisan_(military)", 
+            "United_States_Senate", 
+            "John_McCain"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Waterboarding", 
+            "United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Prisoner_of_war", 
+            "IMHO", 
+            "Prisoner-of-war_camp"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "John_McCain"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Waterboarding", 
+            "Heat", 
+            "John_McCain", 
+            "Law", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "French_fries", 
+            "Culpability", 
+            "Bye_(sports)"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Law", 
+            "Ronald_Reagan", 
+            "Nancy_Pelosi", 
+            "Spear", 
+            "September_11,_2001_attacks", 
+            "Nancy_Pelosi", 
+            "Nancy_Reagan", 
+            "Psychopathy", 
+            "September_11,_2001_attacks", 
+            "Geneva_Conventions", 
+            "Geneva", 
+            "Public_law", 
+            "September_1", 
+            "September_11"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Nancy_Pelosi", 
+            "Hook_(music)"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Hillary_Rodham_Clinton", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Nonsense", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }
+]

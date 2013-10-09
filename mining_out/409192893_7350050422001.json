@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Republican_National_Committee", 
+            "Nancy_Pelosi", 
+            "Speaker_of_the_United_States_House_of_Representatives"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Republican_National_Committee"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Bowls", 
+            "Milk"
+        ], 
+        "postID": 3
+    }
+]

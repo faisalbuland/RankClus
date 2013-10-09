@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [
+            "ABC_News", 
+            "Dom", 
+            "Dom_DeLuise"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tights", 
+            "Actor", 
+            "Hospital", 
+            "Candid_Camera", 
+            "Texas", 
+            "Candid_Records", 
+            "Burt_Reynolds", 
+            "Cooking", 
+            "Hood_(comics)", 
+            "Brooks,_Alberta", 
+            "Monday_Night_Football", 
+            "Television_program", 
+            "Bandit", 
+            "Delivery_(cricket)", 
+            "Melanie_Bush", 
+            "Los_Angeles,_California", 
+            "The_Bandit_(1946_film)", 
+            "Author", 
+            "Mel_Brooks", 
+            "Dom_DeLuise"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Burt_Reynolds", 
+            "The_End_(film)"
+        ], 
+        "postID": 5
+    }
+]

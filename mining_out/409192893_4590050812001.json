@@ -1,0 +1,446 @@
+[
+    {
+        "entity": [
+            "Political_corruption", 
+            "Chief_executive_officer", 
+            "Prison", 
+            "Board_of_governors", 
+            "Theft"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Book_of_Job", 
+            "Salary_cap", 
+            "Cap_(sport)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Micromanagement", 
+            "Privately_held_company", 
+            "American_International_Group"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tenure"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Game_programmer", 
+            "Computer_programming", 
+            "Long-distance_track_event"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Federal_Sentencing_Guidelines", 
+            "Seizure", 
+            "Mandatory_sentencing"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Political_corruption", 
+            "United_States_Congress"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Cranial", 
+            "F.C._Internazionale_Milano"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Surplus_value", 
+            "Surplus_value", 
+            "Surplus_value", 
+            "Chief_executive_officer", 
+            "Benchmark", 
+            "American_International_Group"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Desert"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Sardine", 
+            "Bread", 
+            "Breakfast"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Profession"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Christopher_Dodd", 
+            "Nancy_Pelosi", 
+            "Harry_Reid", 
+            "Barney_Gumble", 
+            "United_States_Congress", 
+            "Franks", 
+            "Nancy", 
+            "Fault_(geology)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Democratic_and_Social_Centre", 
+            "Boeing_E-4", 
+            "Tax"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Quota", 
+            "Material", 
+            "Overtime_(sports)", 
+            "Material"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Debt", 
+            "Socialism", 
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Root", 
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "American_International_Group", 
+            "Rat", 
+            "Tax", 
+            "Bankruptcy", 
+            "American_International_Group", 
+            "Economy", 
+            "Guard_dog", 
+            "Contract"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "World_war", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "The_good_life", 
+            "The_good_life", 
+            "American_International_Group", 
+            "Flat_tax", 
+            "Tax", 
+            "Tax_rate", 
+            "Internal_Revenue_Service", 
+            "Repeal", 
+            "Janitor", 
+            "Tax", 
+            "Sales", 
+            "Repertory"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Bankruptcy", 
+            "Tax", 
+            "Socialism", 
+            "Bankruptcy", 
+            "American_International_Group", 
+            "Tax", 
+            "Socialism", 
+            "Capitalism", 
+            "President_of_the_United_States", 
+            "American_International_Group"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Political_corruption", 
+            "Chief_executive_officer", 
+            "Prison", 
+            "Board_of_governors", 
+            "Theft"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Book_of_Job", 
+            "Salary_cap", 
+            "Cap_(sport)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Micromanagement", 
+            "Privately_held_company", 
+            "American_International_Group"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Tenure"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Game_programmer", 
+            "Computer_programming", 
+            "Long-distance_track_event"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Federal_Sentencing_Guidelines", 
+            "Seizure", 
+            "Mandatory_sentencing"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Political_corruption", 
+            "United_States_Congress"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cranial", 
+            "F.C._Internazionale_Milano"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Surplus_value", 
+            "Surplus_value", 
+            "Surplus_value", 
+            "Chief_executive_officer", 
+            "Benchmark", 
+            "American_International_Group"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Desert"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Sardine", 
+            "Bread", 
+            "Breakfast"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Profession"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Christopher_Dodd", 
+            "Nancy_Pelosi", 
+            "Harry_Reid", 
+            "Barney_Gumble", 
+            "United_States_Congress", 
+            "Franks", 
+            "Nancy", 
+            "Fault_(geology)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Democratic_and_Social_Centre", 
+            "Boeing_E-4", 
+            "Tax"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Quota", 
+            "Material", 
+            "Overtime_(sports)", 
+            "Material"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Debt", 
+            "Socialism", 
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Root", 
+            "American_International_Group", 
+            "American_International_Group"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "American_International_Group", 
+            "Rat", 
+            "Tax", 
+            "Bankruptcy", 
+            "American_International_Group", 
+            "Economy", 
+            "Guard_dog", 
+            "Contract"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "World_war", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "The_good_life", 
+            "The_good_life", 
+            "American_International_Group", 
+            "Flat_tax", 
+            "Tax", 
+            "Tax_rate", 
+            "Internal_Revenue_Service", 
+            "Repeal", 
+            "Janitor", 
+            "Tax", 
+            "Sales", 
+            "Repertory"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Bankruptcy", 
+            "Tax", 
+            "Socialism", 
+            "Bankruptcy", 
+            "American_International_Group", 
+            "Tax", 
+            "Socialism", 
+            "Capitalism", 
+            "President_of_the_United_States", 
+            "American_International_Group"
+        ], 
+        "postID": 50
+    }
+]

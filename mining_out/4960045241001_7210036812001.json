@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "Video_game", 
+            "Television", 
+            "New_Order", 
+            "Boyd_Rice", 
+            "Video_game", 
+            "Choice_magazine"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Scott_Fitzgerald_(singer)", 
+            "Video_game", 
+            "Fitzgerald,_Georgia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 3
+    }
+]

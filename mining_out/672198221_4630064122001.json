@@ -1,0 +1,394 @@
+[
+    {
+        "entity": [
+            "Crime", 
+            "Traffic_ticket", 
+            "Supreme_Court_of_the_United_States", 
+            "1981", 
+            "Police", 
+            "Illegal_drug_trade", 
+            "Drug-related_crime", 
+            "Gerald_Ford", 
+            "Police", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Constitutionality"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Probable_cause"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Seizure", 
+            "Containerization", 
+            "United_States_open_container_laws", 
+            "Firearm", 
+            "Search_and_seizure", 
+            "Firearm", 
+            "United_States_open_container_laws", 
+            "Bust_(sculpture)", 
+            "Recreational_vehicle", 
+            "Containerization"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Containerization", 
+            "Law_of_the_United_States", 
+            "United_States_open_container_laws"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Communication", 
+            "Law", 
+            "Pickup_truck", 
+            "Pickup_truck", 
+            "Truck_camper", 
+            "Pickup_truck", 
+            "California", 
+            "Recreational_vehicle", 
+            "Recreational_vehicle", 
+            "Truck_camper", 
+            "Recreational_vehicle"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Police_dog", 
+            "Police_dog", 
+            "Drug"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Illegal_drug_trade", 
+            "Privacy", 
+            "Police_officer", 
+            "State", 
+            "Drug", 
+            "Sword", 
+            "United_States_Constitution", 
+            "State", 
+            "Ton", 
+            "Probable_cause", 
+            "Warrant_(law)", 
+            "Police"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Traffic_ticket", 
+            "Dog"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "County", 
+            "Reasonable_suspicion"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Police_officer", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Police"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Police", 
+            "KNOW-FM"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Idiot"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Airport", 
+            "Drug"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Supreme_Court_of_the_United_States", 
+            "Poop_deck", 
+            "Police", 
+            "Twinkie", 
+            "Law", 
+            "New_York", 
+            "Probable_cause", 
+            "Liberalism", 
+            "Concealed_carry_in_the_United_States", 
+            "Police", 
+            "Massachusetts", 
+            "Citizenship", 
+            "Law"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Search_warrant", 
+            "Driver's_license", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Safety_(American_football)", 
+            "Warrant_(law)", 
+            "Mothers_Against_Drunk_Driving", 
+            "Supreme_Court_of_the_United_States", 
+            "Driving_under_the_influence", 
+            "Check_Point", 
+            "Judge", 
+            "Driver's_license", 
+            "Driving_under_the_influence", 
+            "Insurance", 
+            "Mothers_Against_Drunk_Driving", 
+            "Reasonable_suspicion", 
+            "Check_Point", 
+            "Florida"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Traffic_ticket", 
+            "Supreme_Court_of_the_United_States", 
+            "1981", 
+            "Police", 
+            "Illegal_drug_trade", 
+            "Drug-related_crime", 
+            "Gerald_Ford", 
+            "Police", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Police", 
+            "Police"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Constitutionality"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Probable_cause"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Seizure", 
+            "Containerization", 
+            "United_States_open_container_laws", 
+            "Firearm", 
+            "Search_and_seizure", 
+            "Firearm", 
+            "United_States_open_container_laws", 
+            "Bust_(sculpture)", 
+            "Recreational_vehicle", 
+            "Containerization"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Containerization", 
+            "Law_of_the_United_States", 
+            "United_States_open_container_laws"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Communication", 
+            "Law", 
+            "Pickup_truck", 
+            "Pickup_truck", 
+            "Truck_camper", 
+            "Pickup_truck", 
+            "California", 
+            "Recreational_vehicle", 
+            "Recreational_vehicle", 
+            "Truck_camper", 
+            "Recreational_vehicle"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Police_dog", 
+            "Police_dog", 
+            "Drug"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Cocaine", 
+            "Illegal_drug_trade", 
+            "Privacy", 
+            "Police_officer", 
+            "State", 
+            "Drug", 
+            "Sword", 
+            "United_States_Constitution", 
+            "State", 
+            "Ton", 
+            "Probable_cause", 
+            "Warrant_(law)", 
+            "Police"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Traffic_ticket", 
+            "Dog"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "County", 
+            "Reasonable_suspicion"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Police_officer", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Police"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Police", 
+            "KNOW-FM"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Idiot"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Airport", 
+            "Drug"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Supreme_Court_of_the_United_States", 
+            "Poop_deck", 
+            "Police", 
+            "Twinkie", 
+            "Law", 
+            "New_York", 
+            "Probable_cause", 
+            "Liberalism", 
+            "Concealed_carry_in_the_United_States", 
+            "Police", 
+            "Massachusetts", 
+            "Citizenship", 
+            "Law"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Search_warrant", 
+            "Driver's_license", 
+            "Driving_under_the_influence", 
+            "Police", 
+            "Safety_(American_football)", 
+            "Warrant_(law)", 
+            "Mothers_Against_Drunk_Driving", 
+            "Supreme_Court_of_the_United_States", 
+            "Driving_under_the_influence", 
+            "Check_Point", 
+            "Judge", 
+            "Driver's_license", 
+            "Driving_under_the_influence", 
+            "Insurance", 
+            "Mothers_Against_Drunk_Driving", 
+            "Reasonable_suspicion", 
+            "Check_Point", 
+            "Florida"
+        ], 
+        "postID": 40
+    }
+]

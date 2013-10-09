@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Wells", 
+            "Liberty_(pressure_group)", 
+            "Mineral", 
+            "September_11,_2001_attacks", 
+            "Uniform_Resource_Locator", 
+            "Bayonne", 
+            "Monument", 
+            "September_11", 
+            "Russia", 
+            "Texas", 
+            "England", 
+            "2006", 
+            "Bayonne", 
+            "Statue_of_Liberty", 
+            "Mineral_Wells,_Texas", 
+            "Dude"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bayonne", 
+            "Bayonne", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Weehawken,_New_Jersey", 
+            "England"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bergen_County,_New_Jersey", 
+            "Northvale,_New_Jersey", 
+            "Bergen_County,_New_Jersey", 
+            "U.S._state"
+        ], 
+        "postID": 4
+    }
+]

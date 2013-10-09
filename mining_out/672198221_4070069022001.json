@@ -1,0 +1,315 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Health_care"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Drug", 
+            "Cancer", 
+            "Dick_Morris", 
+            "Insecurity", 
+            "Colon_(anatomy)", 
+            "Colorectal_cancer", 
+            "Washington", 
+            "United_States", 
+            "Canada", 
+            "Bureaucrat", 
+            "Morris_Motor_Company", 
+            "Health_care", 
+            "Oncology", 
+            "Catostomidae", 
+            "Donkey", 
+            "Collective_farming", 
+            "Canada"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Veterans_Affairs", 
+            "Eric_Shinseki", 
+            "General_(United_States)", 
+            "United_States_Department_of_Homeland_Security", 
+            "Eric_Shinseki", 
+            "Retirement"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tax"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "TRICARE", 
+            "TRICARE"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "TRICARE", 
+            "Iraq", 
+            "TRICARE", 
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "G.I._Bill", 
+            "Democratic_Party_(United_States)", 
+            "GI_(military)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Agence_m\u00e9tropolitaine_de_transport", 
+            "United_States_Congress", 
+            "Health_care", 
+            "United_States_Department_of_Defense", 
+            "Republican_Party_(United_States)", 
+            "United_States_Department_of_Defense", 
+            "Chu_(state)", 
+            "Cost_of_living_index", 
+            "Undersecretary", 
+            "Inflation", 
+            "Rational_number", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "International_Championship_Wrestling", 
+            "Chu_(state)", 
+            "United_States_Department_of_Defense", 
+            "David_Chu", 
+            "Barack_Obama", 
+            "United_States_Department_of_Defense"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Idiot", 
+            "United_States_Senate", 
+            "Presidency_of_George_W._Bush", 
+            "TRICARE", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "TRICARE", 
+            "Hell", 
+            "TRICARE"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fodder"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "G.I._Bill", 
+            "Sorry_(Madonna_song)", 
+            "Education", 
+            "TRICARE"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cancer", 
+            "The_Lancet", 
+            "Disease", 
+            "Cancer", 
+            "The_Lancet", 
+            "Eastern_Europe", 
+            "Concord,_New_Hampshire", 
+            "Morris_Motor_Company", 
+            "Colorectal_cancer", 
+            "Colorectal_cancer", 
+            "Japan", 
+            "Cancer", 
+            "Colorectal_cancer", 
+            "Canada", 
+            "Pharmacy", 
+            "Dick_Morris", 
+            "Cancer", 
+            "Disease", 
+            "United_Kingdom", 
+            "Concord,_New_Hampshire", 
+            "Ontario", 
+            "Cancer", 
+            "Canada", 
+            "British_Columbia", 
+            "Cancer", 
+            "Cancer", 
+            "France", 
+            "United_States", 
+            "Cancer", 
+            "United_States", 
+            "2009", 
+            "Canada", 
+            "Colorectal_cancer", 
+            "France", 
+            "Colorectal_cancer", 
+            "Colorectal_cancer", 
+            "Canada", 
+            "Rectum", 
+            "Oncology", 
+            "Cancer", 
+            "Manitoba", 
+            "Europe", 
+            "Europe", 
+            "Health_care", 
+            "Fox_Broadcasting_Company", 
+            "Health_care_industry", 
+            "Colorectal_cancer", 
+            "Colorectal_cancer", 
+            "Saskatchewan", 
+            "Prostate_cancer", 
+            "Regina,_Saskatchewan", 
+            "Cancer", 
+            "Columbia_University", 
+            "Prostate_cancer", 
+            "Australia", 
+            "Collective_farming", 
+            "Nova_Scotia", 
+            "Canada", 
+            "United_States", 
+            "Concord,_New_Hampshire", 
+            "Japan", 
+            "Mon_people", 
+            "1990", 
+            "Nova_(TV_series)", 
+            "Health_care_systems", 
+            "Ahn", 
+            "Cancer", 
+            "Australia", 
+            "Cancer", 
+            "Health_care_systems", 
+            "Cancer", 
+            "Prostate_cancer", 
+            "Breast_cancer", 
+            "Lancet", 
+            "Breed_registry", 
+            "Cancer_registry", 
+            "Prostate_cancer", 
+            "The_Lancet", 
+            "Cancer", 
+            "Health_care", 
+            "1994", 
+            "Canada", 
+            "Concord,_New_Hampshire", 
+            "Canada", 
+            "Benchmarking", 
+            "Algeria", 
+            "Breast_cancer", 
+            "Breast_cancer", 
+            "Disease", 
+            "Five-year_survival_rate", 
+            "Survival_(Doctor_Who)", 
+            "Rectum", 
+            "April_20", 
+            "Health_care", 
+            "Scotia", 
+            "Canadian_nationality_law", 
+            "Colorectal_cancer", 
+            "Canada", 
+            "Cancer", 
+            "Canadian_nationality_law", 
+            "Canada"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Colorectal_cancer", 
+            "Private_sector", 
+            "Health_insurance", 
+            "Republican_Party_(United_States)", 
+            "Statistics", 
+            "Cancer", 
+            "United_States", 
+            "Presidency_of_George_W._Bush", 
+            "TRICARE", 
+            "Insurance", 
+            "Colon_(anatomy)", 
+            "Donald_Rumsfeld"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Republicanism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Socialism", 
+            "Bend,_Oregon"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "TRICARE", 
+            "TRICARE", 
+            "Copayment", 
+            "Blue_Shield", 
+            "TRICARE", 
+            "TRICARE", 
+            "Michigan", 
+            "Blue_Cross_and_Blue_Shield_Association", 
+            "Retirement", 
+            "TRICARE", 
+            "TRICARE", 
+            "Medicare_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Health_care_in_the_United_States", 
+            "Retirement", 
+            "Retirement", 
+            "Recruiter", 
+            "Health_care_in_the_United_States", 
+            "United_States_Congress", 
+            "Retirement", 
+            "Prescription_drug", 
+            "United_States_Military_Pay", 
+            "Health_care", 
+            "United_States_Congress"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States_federal_budget", 
+            "Health_care", 
+            "United_States_Congress"
+        ], 
+        "postID": 19
+    }
+]

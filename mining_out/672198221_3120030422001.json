@@ -1,0 +1,36 @@
+[
+    {
+        "entity": [
+            "Pennsylvania_House_of_Representatives", 
+            "Louisiana"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Governor"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Republican_In_Name_Only"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "James_K._Polk", 
+            "United_States_Army_Corps_of_Engineers", 
+            "Louisiana", 
+            "Basket", 
+            "Basket_Case", 
+            "United_States_Army", 
+            "Sinkhole", 
+            "U.S._state", 
+            "Redneck"
+        ], 
+        "postID": 4
+    }
+]

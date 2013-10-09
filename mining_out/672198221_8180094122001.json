@@ -1,0 +1,27 @@
+[
+    {
+        "entity": [
+            "Spruance_class_destroyer", 
+            "Aegis_combat_system", 
+            "Reserve_fleet", 
+            "Destroyer", 
+            "Raymond_A._Spruance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Anti-submarine_warfare"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "Arleigh_Burke_class_destroyer", 
+            "Retuinskih's_System_ROSS", 
+            "Edmund_Burke"
+        ], 
+        "postID": 3
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Wetback_(slur)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Missile_defense", 
+            "Missile", 
+            "Western_Europe", 
+            "Europe"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hamas", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Semper_fidelis"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Supply-side_economics", 
+            "Afghanistan", 
+            "FALSE"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Distribution_of_wealth", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "M14_rifle", 
+            "Plastic"
+        ], 
+        "postID": 9
+    }
+]

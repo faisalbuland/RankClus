@@ -1,0 +1,390 @@
+[
+    {
+        "entity": [
+            "News_conference", 
+            "Barack_Obama", 
+            "News_conference", 
+            "Prime_time", 
+            "Prime_time", 
+            "News_conference", 
+            "2001", 
+            "American_Idol", 
+            "2000", 
+            "Fox_Broadcasting_Company", 
+            "American_Idol", 
+            "Barack_Obama", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "President_of_the_United_States", 
+            "News_conference", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Television", 
+            "Gerald_Ford", 
+            "George_W._Bush", 
+            "United_States_presidential_election_debates", 
+            "Barack_Obama", 
+            "Gerald_Ford", 
+            "Fox_Broadcasting_Company", 
+            "Nielsen_Ratings"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "New_York"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Greenback", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Iowa", 
+            "Teleprompter", 
+            "Kinda_(Doctor_Who)", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "2012", 
+            "Election", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Shrub", 
+            "English_language", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Ukraine", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Russian_language", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Sukhoi_Su-27"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "News_conference", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Fox_Entertainment_Group", 
+            "Ford_Motor_Company", 
+            "Fox_Broadcasting_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Baffle", 
+            "Barack_Obama", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "President_of_the_United_States", 
+            "Private_sector", 
+            "Television_station", 
+            "Bachelor_of_Science", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Barack_Obama"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "News_conference"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Motto", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "George_W._Bush", 
+            "Teleprompter", 
+            "Barack_Obama"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Barack_Obama", 
+            "News_conference", 
+            "Prime_time", 
+            "Prime_time", 
+            "News_conference", 
+            "2001", 
+            "American_Idol", 
+            "2000", 
+            "Fox_Broadcasting_Company", 
+            "American_Idol", 
+            "Barack_Obama", 
+            "United_States", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company", 
+            "President_of_the_United_States", 
+            "News_conference", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Television", 
+            "Gerald_Ford", 
+            "George_W._Bush", 
+            "United_States_presidential_election_debates", 
+            "Barack_Obama", 
+            "Gerald_Ford", 
+            "Fox_Broadcasting_Company", 
+            "Nielsen_Ratings"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "New_York"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Greenback", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Iowa", 
+            "Teleprompter", 
+            "Kinda_(Doctor_Who)", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "2012", 
+            "Election", 
+            "God"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Shrub", 
+            "English_language", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Ukraine", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Russian_language", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Sukhoi_Su-27"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "News_conference", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Cable_television", 
+            "Fox_Entertainment_Group", 
+            "Ford_Motor_Company", 
+            "Fox_Broadcasting_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Baffle", 
+            "Barack_Obama", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "President_of_the_United_States", 
+            "Private_sector", 
+            "Television_station", 
+            "Bachelor_of_Science", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Hugo_Ch\u00e1vez"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Barack_Obama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "News_conference"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Motto", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "George_W._Bush", 
+            "Teleprompter", 
+            "Barack_Obama"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }
+]

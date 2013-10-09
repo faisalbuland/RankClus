@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "Drill_team", 
+            "Drill", 
+            "United_States_Army", 
+            "Germany", 
+            "Dog"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Peaked_cap", 
+            "United_States_Army", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Cap_(sport)", 
+            "Military_band"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Richard_Nixon", 
+            "Duck", 
+            "Germany", 
+            "Commander", 
+            "Platoon", 
+            "Blood", 
+            "Scouting", 
+            "Brigade", 
+            "Helmet", 
+            "Ammunition", 
+            "CVC_Capital_Partners"
+        ], 
+        "postID": 4
+    }
+]

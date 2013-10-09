@@ -1,0 +1,197 @@
+[
+    {
+        "entity": [
+            "Paulson", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bank", 
+            "Bank", 
+            "States_and_territories_of_India", 
+            "Bankruptcy", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ponzi_scheme", 
+            "Charles_Ponzi"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Buck", 
+            "Bill_Moyers", 
+            "Bill_Moyers", 
+            "Public_Broadcasting_Service", 
+            "Nathan_Banks"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Angle", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Economy", 
+            "Credit_default_swap", 
+            "Private_sector", 
+            "Stimulus_(physiology)", 
+            "Analogy", 
+            "Consumption_(economics)", 
+            "Book_of_Revelation", 
+            "Paulson", 
+            "Charles_Ponzi", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ponzi_scheme", 
+            "Private_sector", 
+            "Paulson", 
+            "Credit_default_swap"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "CNN", 
+            "Public_Broadcasting_Service"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Greed", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Scapegoat", 
+            "Greed"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "News_broadcasting", 
+            "Investor", 
+            "Cable_television", 
+            "Bill_Moyers", 
+            "Antenna_(radio)", 
+            "Nightly_Business_Report", 
+            "News_broadcasting", 
+            "Digital_television", 
+            "Cable_television", 
+            "The_NewsHour_with_Jim_Lehrer", 
+            "Public_Broadcasting_Service", 
+            "Bill_Moyers", 
+            "News_broadcasting"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "National_Collegiate_Athletic_Association", 
+            "Television", 
+            "France", 
+            "Cable_television", 
+            "Sports_channel", 
+            "Tour_de_France", 
+            "Bill_Moyers", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gadget", 
+            "Recession", 
+            "Economics", 
+            "Economic_equilibrium", 
+            "Stimulus", 
+            "Sustainability", 
+            "Economics", 
+            "Economics", 
+            "Economics", 
+            "Stimulus", 
+            "Economics", 
+            "Reset_button"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Current_events"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "CNN_International", 
+            "CNN_Pipeline", 
+            "CNN_International", 
+            "CNN_International", 
+            "Pipeline_transport", 
+            "CNN_International", 
+            "Television"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Savings_and_loan_association", 
+            "Turkish_general_election,_2002", 
+            "United_States_Congress", 
+            "Liability", 
+            "Corporation", 
+            "United_States_Congress"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Shock_(medical)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Chinese_language"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Consumer_spending", 
+            "Economy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Turkish_general_election,_2002"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Knowledge_market", 
+            "Thread_(computer_science)", 
+            "!!!"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Two-legged_match"
+        ], 
+        "postID": 20
+    }
+]

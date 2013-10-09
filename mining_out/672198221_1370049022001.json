@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Mass_media", 
+            "Police_state", 
+            "Sidewalk", 
+            "Kidnapping", 
+            "False_imprisonment", 
+            "Journalist"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "State", 
+            "William_Blake", 
+            "State", 
+            "Republic", 
+            "Opportunity_rover", 
+            "Police_state", 
+            "Braveheart", 
+            "North_Korea", 
+            "Mark_McGwire", 
+            "University_of_Southern_California", 
+            "University_of_Southern_California", 
+            "Jesse_Jackson", 
+            "Robert_Blake_(actor)", 
+            "Police_state", 
+            "Korea", 
+            "Boxer_(dog)", 
+            "Jackson,_Mississippi", 
+            "Police_state", 
+            "China", 
+            "People's_Republic_of_China", 
+            "Film", 
+            "New_York_City", 
+            "Barabra"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Impunity", 
+            "COPS_(TV_series)", 
+            "Auditorium", 
+            "Katy,_Texas", 
+            "Reporter", 
+            "Ann_Coulter", 
+            "Coulter,_South_Lanarkshire"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Donald_Duck", 
+            "Public_property", 
+            "IMHO", 
+            "University_of_Southern_California", 
+            "University_of_Southern_California", 
+            "COPS_(TV_series)", 
+            "Duck", 
+            "Keystone", 
+            "Tax", 
+            "Keystone_Cops", 
+            "Private_school", 
+            "College"
+        ], 
+        "postID": 4
+    }
+]

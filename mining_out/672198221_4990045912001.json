@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "European_Union", 
+            "Noise", 
+            "April_1", 
+            "G20", 
+            "2009", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "United_States_Congress", 
+            "United_States_Navy", 
+            "Drunken_Sailor", 
+            "Sailor"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "DVD"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Grammatical_mood", 
+            "The_Patriot_(2000_film)", 
+            "Patriot_(American_Revolution)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "IPod"
+        ], 
+        "postID": 5
+    }
+]

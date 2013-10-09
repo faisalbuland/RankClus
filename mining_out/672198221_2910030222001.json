@@ -1,0 +1,126 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stupidity", 
+            "Jail"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Capital_punishment"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Electrician", 
+            "Lawyer", 
+            "Certified_Public_Accountant", 
+            "Pain", 
+            "Mason", 
+            "Soldier", 
+            "Anatomy", 
+            "Teacher", 
+            "Crime", 
+            "Truck", 
+            "Postal_worker", 
+            "Crime", 
+            "Truck_driver"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Soldier", 
+            "Joseph_Stalin", 
+            "Wrist", 
+            "Law"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Murder", 
+            "Kidnapping"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Suspect"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Corps", 
+            "Sex", 
+            "Sex", 
+            "Non-commissioned_officer", 
+            "Non-commissioned_officer", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Rape", 
+            "Uniform_Code_of_Military_Justice"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Decency", 
+            "Carnal_knowledge", 
+            "Rape", 
+            "Obscenity", 
+            "Criminal_Investigation_Department"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Iowa", 
+            "Jail", 
+            "Barracks"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Coyote", 
+            "States_and_territories_of_India", 
+            "Deed"
+        ], 
+        "postID": 16
+    }
+]

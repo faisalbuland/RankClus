@@ -1,0 +1,590 @@
+[
+    {
+        "entity": [
+            "Camping", 
+            "Tent", 
+            "Recreational_vehicle", 
+            "Travel_trailer", 
+            "Pop_music", 
+            "Travel_trailer", 
+            "Rain", 
+            "Tent", 
+            "Headlamp", 
+            "Recreational_vehicle", 
+            "Tent", 
+            "Walking", 
+            "Eureka,_California", 
+            "Camping"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Camper", 
+            "Rock_music", 
+            "Rock_music", 
+            "Canvas", 
+            "Olfaction", 
+            "Grand_Canyon", 
+            "Pine_Creek_Gorge", 
+            "United_States_Army", 
+            "Pennsylvania", 
+            "Tent", 
+            "Laurel,_Maryland", 
+            "Sunning", 
+            "Kalmia_latifolia", 
+            "Tioga_County,_Pennsylvania", 
+            "Waterfall", 
+            "Waterfall", 
+            "Canvas", 
+            "Pennsylvania", 
+            "Tioga_County,_Pennsylvania", 
+            "Camping"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Battle_of_Gettysburg", 
+            "Rain", 
+            "Canvas", 
+            "Ohiopyle,_Pennsylvania", 
+            "Nice"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Water_slide", 
+            "Warren_County,_New_Jersey", 
+            "Warren,_Ohio", 
+            "Tent", 
+            "Grand_Canyon", 
+            ".it", 
+            "Pennsylvania", 
+            "Ill_(France)", 
+            "Ohiopyle_State_Park", 
+            "Campsite", 
+            "Canvas", 
+            "Canvas", 
+            "Potter_County,_Pennsylvania"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia", 
+            "Battle_of_Gettysburg", 
+            "Scout_(sport)", 
+            "Winfield,_Kansas", 
+            "Kansas", 
+            "Walnut_River_(Kansas)", 
+            "Festival", 
+            "Kentucky", 
+            "Kentucky", 
+            "Walnut_Valley", 
+            "Battle_of_Gettysburg", 
+            "Bluegrass_music", 
+            "Ohiopyle,_Pennsylvania", 
+            "Festival", 
+            "Shilo_(song)", 
+            "Bluegrass_music", 
+            "American_Civil_War", 
+            "Gemstone"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Central_heating", 
+            "Fifth_wheel_coupling", 
+            "Satellite_television", 
+            "Satellite", 
+            "Tent", 
+            "Tent", 
+            "Heat", 
+            "Wheel", 
+            "V\u0101c"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "George_Jefferson", 
+            "Tent", 
+            "Camping", 
+            "Tent", 
+            "Thomas_Jefferson", 
+            "Campsite"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Ark_(Transformers)", 
+            "Diamond", 
+            "Impact_crater", 
+            "Kansas", 
+            "Festival", 
+            "San_Antonio,_Texas", 
+            "Shilo_(song)", 
+            "Music_festival", 
+            "Diamond"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Medieval_hunting", 
+            "Elk", 
+            "Horse", 
+            "Tent", 
+            "Tent", 
+            "Colorado", 
+            "Packhorse", 
+            "American_Civil_War"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Camping", 
+            "Satan", 
+            "Acacia_koa", 
+            "Satan", 
+            "Camera"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Renaissance_fair", 
+            "Camping", 
+            "Renaissance"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Kansas", 
+            "Walnut_River_(Kansas)", 
+            "Flatpicking", 
+            "Colorado", 
+            "Kansas", 
+            "Walnut_Valley", 
+            "Winfield,_Kansas"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hit_(baseball)", 
+            "Tent", 
+            "Tent", 
+            "Rain", 
+            "Tent"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cub", 
+            "Fort_De_Soto_Park", 
+            "Tent", 
+            "St._Petersburg,_Florida", 
+            "Adventure", 
+            "Fort_De_Soto_Park", 
+            "Fortification", 
+            "Cub_Scout", 
+            "Boy_Scout", 
+            "Petersburg,_Virginia", 
+            "Bear", 
+            "United_States_National_Forest", 
+            "Eureka,_California", 
+            "Beach", 
+            "Fort_De_Soto_Park", 
+            "Hoosier", 
+            "Rattlesnake", 
+            "Hoosier_National_Forest", 
+            "Raccoon", 
+            "Pinellas_County,_Florida", 
+            "Bicycle", 
+            "Kayak", 
+            "Pinellas_County,_Florida"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Campsite", 
+            "Camper", 
+            "Beach", 
+            "Sand", 
+            "Florida", 
+            "Sun", 
+            "Beach"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Tent", 
+            "Arkansas", 
+            "Canada", 
+            "Camping", 
+            "Camping", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Black_Hills", 
+            "Canvas", 
+            "1970s"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Tent", 
+            "Tent"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Rushmore_(film)", 
+            "Wildlife", 
+            "Mount_Rushmore", 
+            "Basalt", 
+            "Devil", 
+            "Gravitation", 
+            "Camera", 
+            "Volcano", 
+            "135_film", 
+            "35_mm_film", 
+            "The_Dakotas", 
+            "Badlands", 
+            "The_Dakotas"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Four-wheel_drive", 
+            "Camper", 
+            "Dodge_Power_Wagon", 
+            "Camper_shell", 
+            "Pickup_truck", 
+            "Dodge", 
+            "Exoskeleton", 
+            "Truck", 
+            "Truck", 
+            "Dodge_Power_Wagon", 
+            "Stream", 
+            "Dodge", 
+            "Pickup_truck"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Panama", 
+            "Veracruz"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Camping", 
+            "Tent", 
+            "Recreational_vehicle", 
+            "Travel_trailer", 
+            "Pop_music", 
+            "Travel_trailer", 
+            "Rain", 
+            "Tent", 
+            "Headlamp", 
+            "Recreational_vehicle", 
+            "Tent", 
+            "Walking", 
+            "Eureka,_California", 
+            "Camping"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Camper", 
+            "Rock_music", 
+            "Rock_music", 
+            "Canvas", 
+            "Olfaction", 
+            "Grand_Canyon", 
+            "Pine_Creek_Gorge", 
+            "United_States_Army", 
+            "Pennsylvania", 
+            "Tent", 
+            "Laurel,_Maryland", 
+            "Sunning", 
+            "Kalmia_latifolia", 
+            "Tioga_County,_Pennsylvania", 
+            "Waterfall", 
+            "Waterfall", 
+            "Canvas", 
+            "Pennsylvania", 
+            "Tioga_County,_Pennsylvania", 
+            "Camping"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Battle_of_Gettysburg", 
+            "Rain", 
+            "Canvas", 
+            "Ohiopyle,_Pennsylvania", 
+            "Nice"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Water_slide", 
+            "Warren_County,_New_Jersey", 
+            "Warren,_Ohio", 
+            "Tent", 
+            "Grand_Canyon", 
+            ".it", 
+            "Pennsylvania", 
+            "Ill_(France)", 
+            "Ohiopyle_State_Park", 
+            "Campsite", 
+            "Canvas", 
+            "Canvas", 
+            "Potter_County,_Pennsylvania"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia", 
+            "Battle_of_Gettysburg", 
+            "Scout_(sport)", 
+            "Winfield,_Kansas", 
+            "Kansas", 
+            "Walnut_River_(Kansas)", 
+            "Festival", 
+            "Kentucky", 
+            "Kentucky", 
+            "Walnut_Valley", 
+            "Battle_of_Gettysburg", 
+            "Bluegrass_music", 
+            "Ohiopyle,_Pennsylvania", 
+            "Festival", 
+            "Shilo_(song)", 
+            "Bluegrass_music", 
+            "American_Civil_War", 
+            "Gemstone"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Central_heating", 
+            "Fifth_wheel_coupling", 
+            "Satellite_television", 
+            "Satellite", 
+            "Tent", 
+            "Tent", 
+            "Heat", 
+            "Wheel", 
+            "V\u0101c"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "George_Jefferson", 
+            "Tent", 
+            "Camping", 
+            "Tent", 
+            "Thomas_Jefferson", 
+            "Campsite"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Ark_(Transformers)", 
+            "Diamond", 
+            "Impact_crater", 
+            "Kansas", 
+            "Festival", 
+            "San_Antonio,_Texas", 
+            "Shilo_(song)", 
+            "Music_festival", 
+            "Diamond"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Medieval_hunting", 
+            "Elk", 
+            "Horse", 
+            "Tent", 
+            "Tent", 
+            "Colorado", 
+            "Packhorse", 
+            "American_Civil_War"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Camping", 
+            "Satan", 
+            "Acacia_koa", 
+            "Satan", 
+            "Camera"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Renaissance_fair", 
+            "Camping", 
+            "Renaissance"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Kansas", 
+            "Walnut_River_(Kansas)", 
+            "Flatpicking", 
+            "Colorado", 
+            "Kansas", 
+            "Walnut_Valley", 
+            "Winfield,_Kansas"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hit_(baseball)", 
+            "Tent", 
+            "Tent", 
+            "Rain", 
+            "Tent"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cub", 
+            "Fort_De_Soto_Park", 
+            "Tent", 
+            "St._Petersburg,_Florida", 
+            "Adventure", 
+            "Fort_De_Soto_Park", 
+            "Fortification", 
+            "Cub_Scout", 
+            "Boy_Scout", 
+            "Petersburg,_Virginia", 
+            "Bear", 
+            "United_States_National_Forest", 
+            "Eureka,_California", 
+            "Beach", 
+            "Fort_De_Soto_Park", 
+            "Hoosier", 
+            "Rattlesnake", 
+            "Hoosier_National_Forest", 
+            "Raccoon", 
+            "Pinellas_County,_Florida", 
+            "Bicycle", 
+            "Kayak", 
+            "Pinellas_County,_Florida"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Campsite", 
+            "Camper", 
+            "Beach", 
+            "Sand", 
+            "Florida", 
+            "Sun", 
+            "Beach"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Tent", 
+            "Arkansas", 
+            "Canada", 
+            "Camping", 
+            "Camping", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Black_Hills", 
+            "Canvas", 
+            "1970s"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Tent", 
+            "Tent"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rushmore_(film)", 
+            "Wildlife", 
+            "Mount_Rushmore", 
+            "Basalt", 
+            "Devil", 
+            "Gravitation", 
+            "Camera", 
+            "Volcano", 
+            "135_film", 
+            "35_mm_film", 
+            "The_Dakotas", 
+            "Badlands", 
+            "The_Dakotas"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Four-wheel_drive", 
+            "Camper", 
+            "Dodge_Power_Wagon", 
+            "Camper_shell", 
+            "Pickup_truck", 
+            "Dodge", 
+            "Exoskeleton", 
+            "Truck", 
+            "Truck", 
+            "Dodge_Power_Wagon", 
+            "Stream", 
+            "Dodge", 
+            "Pickup_truck"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Panama", 
+            "Veracruz"
+        ], 
+        "postID": 40
+    }
+]

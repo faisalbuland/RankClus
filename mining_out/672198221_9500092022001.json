@@ -1,0 +1,320 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Medical_record", 
+            "Electronic_medical_record", 
+            "Electronic_music", 
+            "President_of_the_United_States", 
+            "Curtain_call"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Fault_(geology)", 
+            "Horse", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Thread_(computer_science)", 
+            "Starting_lineup", 
+            "Thread_(computer_science)", 
+            "2009"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Database", 
+            "Electronic_music", 
+            "Medical_record", 
+            "Veterinary_surgeon", 
+            "Electronic_music", 
+            "Electronic_music", 
+            "Veterinary_surgeon", 
+            "Privacy", 
+            "Privacy", 
+            "Medical_record", 
+            "Medical_record"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Promises_(film)", 
+            "Promises_(film)", 
+            "Barack_Obama", 
+            "Stream"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Shame"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Boss_(video_games)", 
+            "George_W._Bush", 
+            "Boss_(video_games)", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Donkey", 
+            "Volunteers_in_Service_to_America", 
+            "Veterans_Affairs", 
+            "United_States_Cabinet", 
+            "Lip", 
+            "Bill_Clinton", 
+            "Lip_service", 
+            "President_of_the_United_States", 
+            "Commerce", 
+            "Sake", 
+            "Commerce", 
+            "Bush_family", 
+            "Electronic_music", 
+            "Barack_Obama", 
+            "Plural", 
+            "Optimism", 
+            "Health_care", 
+            "God", 
+            "Diplomacy", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Disability"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Electronic_medical_record", 
+            "Cancer", 
+            "Medical_record"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "1984"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Breathing"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "1984"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Medical_record", 
+            "Electronic_medical_record", 
+            "Electronic_music", 
+            "President_of_the_United_States", 
+            "Curtain_call"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Cart", 
+            "Fault_(geology)", 
+            "Horse", 
+            "Barack_Obama"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Thread_(computer_science)", 
+            "Starting_lineup", 
+            "Thread_(computer_science)", 
+            "2009"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Database", 
+            "Electronic_music", 
+            "Medical_record", 
+            "Veterinary_surgeon", 
+            "Electronic_music", 
+            "Electronic_music", 
+            "Veterinary_surgeon", 
+            "Privacy", 
+            "Privacy", 
+            "Medical_record", 
+            "Medical_record"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Promises_(film)", 
+            "Promises_(film)", 
+            "Barack_Obama", 
+            "Stream"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Shame"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Boss_(video_games)", 
+            "George_W._Bush", 
+            "Boss_(video_games)", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Donkey", 
+            "Volunteers_in_Service_to_America", 
+            "Veterans_Affairs", 
+            "United_States_Cabinet", 
+            "Lip", 
+            "Bill_Clinton", 
+            "Lip_service", 
+            "President_of_the_United_States", 
+            "Commerce", 
+            "Sake", 
+            "Commerce", 
+            "Bush_family", 
+            "Electronic_music", 
+            "Barack_Obama", 
+            "Plural", 
+            "Optimism", 
+            "Health_care", 
+            "God", 
+            "Diplomacy", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Disability"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Electronic_medical_record", 
+            "Cancer", 
+            "Medical_record"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "1984"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Breathing"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "1984"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }
+]

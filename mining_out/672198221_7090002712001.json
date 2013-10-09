@@ -1,0 +1,56 @@
+[
+    {
+        "entity": [
+            "Homelessness"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mission_(LDS_Church)", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Capitalism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Bench_press"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Homelessness"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Homelessness", 
+            "Plant_sap", 
+            "Magnet", 
+            "Greed"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 8
+    }
+]

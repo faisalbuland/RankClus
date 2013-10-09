@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "Blanket_term", 
+            "California", 
+            "Courtroom", 
+            "Insurgency", 
+            "Helicopter", 
+            "Airstrike", 
+            "Blanket", 
+            "Civilian_casualties", 
+            "California", 
+            "Civilian_casualties", 
+            "Courtroom", 
+            "Airstrike", 
+            "Enemy_combatant", 
+            "Variable"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Military_rank", 
+            "Cover-up"
+        ], 
+        "postID": 2
+    }
+]

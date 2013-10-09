@@ -1,0 +1,27 @@
+[
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Government_debt", 
+            "Alien_(law)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "State", 
+            "Welfare_(financial_aid)", 
+            "Postage_stamp", 
+            "State", 
+            "Civil_service", 
+            "Poor_White", 
+            "Food_Stamp_Program", 
+            "African_American", 
+            "Democratic_Party_(United_States)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Tax", 
+            "Mexican_American"
+        ], 
+        "postID": 2
+    }
+]

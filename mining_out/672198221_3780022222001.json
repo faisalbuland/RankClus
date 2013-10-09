@@ -1,0 +1,111 @@
+[
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Dick_Cheney", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Geneva_Conventions", 
+            "Geneva", 
+            "Interrogation", 
+            "OGA", 
+            "United_States_Army", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "Briefs", 
+            "CACI", 
+            "JAG", 
+            "Mud"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Scapegoat", 
+            "United_States", 
+            "Guilt", 
+            "United_States", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Belt_buckle", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bada_(singer)", 
+            "Roman_roads", 
+            "Lock_(water_transport)", 
+            "Scapegoat", 
+            "Abu_Ghraib", 
+            "Loon", 
+            "Culture", 
+            "Prison", 
+            "Gun_barrel"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Antonio_Taguba", 
+            "Antonio_Taguba", 
+            "Military_Police_Corps_(United_States_Army)", 
+            "Antonio_Taguba", 
+            "Iraq", 
+            "Bus", 
+            "Abu_Ghraib_torture_and_prisoner_abuse", 
+            "Police", 
+            "Military_police"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 13
+    }
+]

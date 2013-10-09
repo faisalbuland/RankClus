@@ -1,0 +1,19 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Economy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Legal_systems_of_the_world", 
+            "Debt", 
+            "Pipe_dream", 
+            "Health_care", 
+            "Pipe_(material)"
+        ], 
+        "postID": 2
+    }
+]

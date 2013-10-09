@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Pig", 
+            "Spice"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Software_bug", 
+            "Medical_prescription", 
+            "Eye"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Babe_(film)", 
+            "Contagious", 
+            "Garlic", 
+            "Disease", 
+            "Pound_(mass)", 
+            "Infectious_disease"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Delilah", 
+            "Samson"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Habanero_chili", 
+            "Disease", 
+            "Capsicum", 
+            "Infectious_disease", 
+            "Habanero_chili", 
+            "Contagious"
+        ], 
+        "postID": 5
+    }
+]

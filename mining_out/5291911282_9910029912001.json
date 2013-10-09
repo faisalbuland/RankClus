@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Town", 
+            "Hometown", 
+            "Horizon", 
+            "Bliss", 
+            "Drum_kit", 
+            "Arizona", 
+            "Recruit_training", 
+            "Irwin,_Pennsylvania", 
+            "Drum_kit"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fort_Huachuca", 
+            "Afghanistan", 
+            "Vietnam", 
+            "Advanced_Intelligent_Tape"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Basic_Allowance_for_Housing", 
+            "Basic_Allowance_for_Housing", 
+            "Grab_(tool)", 
+            "Collar", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Weed", 
+            "Grass", 
+            "String_trimmer", 
+            "Mower", 
+            "Ngo_Dinh_Diem"
+        ], 
+        "postID": 5
+    }
+]

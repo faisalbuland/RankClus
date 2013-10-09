@@ -1,0 +1,78 @@
+[
+    {
+        "entity": [
+            "Regions_of_France", 
+            "China", 
+            "Geopolitics"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Aid", 
+            "Sri_Lanka", 
+            "Lanka", 
+            "Independence", 
+            "Sri_Lanka", 
+            "United_States", 
+            "Lanka", 
+            "Lanka", 
+            "Food_aid", 
+            "1948", 
+            "Sri_Lanka", 
+            "Sri_Lanka", 
+            "Sri_Lankan_Civil_War", 
+            "Human_rights", 
+            "Fiscal_year", 
+            "United_States", 
+            "2001", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Indian_Ocean", 
+            "People's_Republic_of_China", 
+            "Naval_dockyard", 
+            "Africa", 
+            "Ocean", 
+            "Indian_Ocean", 
+            "People's_Republic_of_China"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Warship", 
+            "Royal_Australian_Navy", 
+            "Piracy_in_Somalia", 
+            "Navy", 
+            "Thread_(computer_science)", 
+            "Australia", 
+            "Royal_Australian_Navy", 
+            "ANZAC", 
+            "Somalia", 
+            "Internet_forum", 
+            "Thread_(computer_science)", 
+            "Royal_Australian_Navy", 
+            "Thread_(computer_science)", 
+            "Royal_Australian_Navy", 
+            "Piracy", 
+            "Piracy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Living_room", 
+            "House_party", 
+            "Fishing"
+        ], 
+        "postID": 6
+    }
+]

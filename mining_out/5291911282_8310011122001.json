@@ -1,0 +1,184 @@
+[
+    {
+        "entity": [
+            "English_language", 
+            "Dude", 
+            "Newspaper"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Murder", 
+            "Summary_execution", 
+            "Jury", 
+            "United_States", 
+            "Iraq", 
+            "Associated_Press", 
+            "Murder", 
+            "As_The_World_Turns_recurring_characters", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Hatley,_Mississippi", 
+            "2007", 
+            "Master_Sergeant", 
+            "Soldier", 
+            "Freyr", 
+            "Conspiracy_(crime)", 
+            "Insurgency", 
+            "Premeditated_murder", 
+            "Germany", 
+            "Parole", 
+            "Emotion", 
+            "Military_discharge", 
+            "Murder", 
+            "Associated_Press", 
+            "United_States_Army", 
+            "Execution-style_murder", 
+            "Hatley,_Mississippi", 
+            "Prison", 
+            "Iraqi_insurgency", 
+            "Premeditated_murder", 
+            "2007", 
+            "Hatley,_Mississippi"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "One_Heart", 
+            "Water", 
+            "Duck", 
+            "One_Nation_(Australia)", 
+            "Weed", 
+            "Mama-san", 
+            "Booby_trap"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Alone_in_the_Dark_II", 
+            "Platoon_(film)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bagdad", 
+            "The_Longest_Day_(film)", 
+            "Battle_of_the_Bulge", 
+            "Tank", 
+            "Iraq", 
+            "Longest_Day"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "English_language", 
+            "Dude"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "The_Green_Berets_(film)", 
+            "United_States_Army", 
+            "Saving_Private_Ryan", 
+            "Special_Forces_(United_States_Army)", 
+            "Propaganda", 
+            "The_Pentagon"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Don_Rickles", 
+            "Heroes_(TV_series)", 
+            "Satire", 
+            "Don_Rickles"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Vietnam_War", 
+            "Beret", 
+            "Propaganda", 
+            "Special_Forces_(United_States_Army)", 
+            "Vietnam_War", 
+            "The_Pentagon", 
+            "Platoon_(film)", 
+            "Vietnam_War"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Professor_Moriarty", 
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "First-class_cricket", 
+            "!!!", 
+            "Bruce_Willis", 
+            "Collateral_damage", 
+            "Saving_Private_Ryan", 
+            "Collateral_(finance)", 
+            "Iraq", 
+            "Cage_(rapper)", 
+            "Talkers_Magazine", 
+            "The_Sun", 
+            "Sun"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Sunset", 
+            "Vietnam", 
+            "Vietnam", 
+            "Sunset", 
+            "Soldier", 
+            "God", 
+            "Beach", 
+            "Derelict", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 15
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "entity": [
+            "Gas", 
+            "Americans_with_Disabilities_Act_of_1990", 
+            "British_Army", 
+            "2008"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Army_General", 
+            "United_States_Army", 
+            "Duck", 
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "God", 
+            "Soldier", 
+            "Derelict"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Federal_government_of_the_United_States", 
+            "One_Heart"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sergeant_Major", 
+            "United_States_Congress", 
+            "Sergeant", 
+            "ADT_Security_Services", 
+            "Sergeant_Major", 
+            "Soldier", 
+            "Inspector_General", 
+            "Fault_(geology)", 
+            "Officer_(armed_forces)", 
+            "Major"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Chile", 
+            "Credit_card"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Credit_score", 
+            "E-mail", 
+            "Fat", 
+            "Sergeant", 
+            "Travel_card", 
+            "Drum", 
+            "Debt", 
+            "Fort_Drum_(disambiguation)", 
+            "Platoon", 
+            "Mail", 
+            "Ako", 
+            "Active_Duty", 
+            "Platoon_Sergeant", 
+            "TDY", 
+            "Payroll", 
+            "Mail", 
+            "Hook_(music)", 
+            "Debt", 
+            "E-mail"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Finance", 
+            "Organisation_of_the_Islamic_Conference", 
+            "Service_Module", 
+            "Finance"
+        ], 
+        "postID": 7
+    }
+]

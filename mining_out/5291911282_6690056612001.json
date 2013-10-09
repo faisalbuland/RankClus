@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "Polk_County,_Florida"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Polk_County,_Florida", 
+            "Sheriff_Woody"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "Regions_of_France", 
+            "Polk_County,_Florida", 
+            "Airport", 
+            "List_of_United_States_federal_agencies"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Marketing"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }
+]

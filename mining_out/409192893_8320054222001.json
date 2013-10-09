@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Bank", 
+            "HTTP_404", 
+            "DOS", 
+            "HTTP_404"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Eastern_Time_Zone", 
+            "Time_(magazine)", 
+            "Citibank", 
+            "Time_(magazine)", 
+            "Eastern_Time_Zone", 
+            "May_3", 
+            "Mystery_(fiction)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Federal_Deposit_Insurance_Corporation"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tuxedo", 
+            "Hat", 
+            "Soup", 
+            "CITI-FM", 
+            "Top_hat", 
+            "Injection_(medicine)", 
+            "Beef"
+        ], 
+        "postID": 5
+    }
+]

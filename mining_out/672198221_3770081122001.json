@@ -1,0 +1,402 @@
+[
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "JACK_Audio_Connection_Kit", 
+            "Traversal_Using_Relay_NAT"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "CAR-15", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "!!!"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Inch", 
+            "Sniper_rifle", 
+            "Sniper", 
+            "2000", 
+            "M2_Browning_machine_gun", 
+            "Hunting", 
+            "Ammunition", 
+            "California_Golden_Bears", 
+            "Rabbit", 
+            "BL_5_inch_Howitzer", 
+            "MAC-10", 
+            "Association_football", 
+            "Association_football_pitch", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "California_Golden_Bears", 
+            "Machine_gun", 
+            "Vest", 
+            "Handgun", 
+            "Pound_(mass)", 
+            "Concession"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Nuclear_meltdown", 
+            "Nuclear_meltdown", 
+            "Nuclear_meltdown", 
+            "Common_sense", 
+            "Common_sense"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Firearm"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Law", 
+            "Mass", 
+            "United_States", 
+            "Firearm", 
+            "George_W._Bush", 
+            "Law", 
+            "Barack_Obama", 
+            "United_States", 
+            "650", 
+            "Capsicum", 
+            "Pepper_spray", 
+            "Judge"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "MAC-10", 
+            "Suppressive_fire", 
+            "Outlaws"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Hunting", 
+            "Lugger", 
+            "Hunting", 
+            "Handgun"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Object_Management_Group", 
+            "Fox_News_Channel", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Scout_(sport)", 
+            "Girl_Guides", 
+            "Barack_Obama", 
+            "Police", 
+            "Police_officer"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "State_park", 
+            "U.S._state", 
+            "Environmental_law", 
+            "U.S._state", 
+            "Law", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Long_gun"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Mountain", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Varmint_hunting", 
+            "One_Heart", 
+            ".22_Long_Rifle", 
+            "Rifle", 
+            "Shotgun", 
+            "Gangsta_rap", 
+            "Handgun", 
+            "Rambo", 
+            "One_Nation_(Australia)", 
+            "Plinking"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Gun", 
+            "Tank", 
+            "Hell", 
+            "Gun", 
+            "Confined_space"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Law", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Felony", 
+            "Misdemeanor", 
+            "Golden_Liberty", 
+            "Law", 
+            "Socialism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "JACK_Audio_Connection_Kit", 
+            "Traversal_Using_Relay_NAT"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "George_W._Bush"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "CAR-15", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "!!!"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Inch", 
+            "Sniper_rifle", 
+            "Sniper", 
+            "2000", 
+            "M2_Browning_machine_gun", 
+            "Hunting", 
+            "Ammunition", 
+            "California_Golden_Bears", 
+            "Rabbit", 
+            "BL_5_inch_Howitzer", 
+            "MAC-10", 
+            "Association_football", 
+            "Association_football_pitch", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "California_Golden_Bears", 
+            "Machine_gun", 
+            "Vest", 
+            "Handgun", 
+            "Pound_(mass)", 
+            "Concession"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Nuclear_meltdown", 
+            "Nuclear_meltdown", 
+            "Nuclear_meltdown", 
+            "Common_sense", 
+            "Common_sense"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Firearm"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "Law", 
+            "Mass", 
+            "United_States", 
+            "Firearm", 
+            "George_W._Bush", 
+            "Law", 
+            "Barack_Obama", 
+            "United_States", 
+            "650", 
+            "Capsicum", 
+            "Pepper_spray", 
+            "Judge"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "M16_rifle", 
+            "MAC-10", 
+            "Suppressive_fire", 
+            "Outlaws"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Hunting", 
+            "Lugger", 
+            "Hunting", 
+            "Handgun"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Object_Management_Group", 
+            "Fox_News_Channel", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Scout_(sport)", 
+            "Girl_Guides", 
+            "Barack_Obama", 
+            "Police", 
+            "Police_officer"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "State_park", 
+            "U.S._state", 
+            "Environmental_law", 
+            "U.S._state", 
+            "Law", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Long_gun"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Mountain", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Varmint_hunting", 
+            "One_Heart", 
+            ".22_Long_Rifle", 
+            "Rifle", 
+            "Shotgun", 
+            "Gangsta_rap", 
+            "Handgun", 
+            "Rambo", 
+            "One_Nation_(Australia)", 
+            "Plinking"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Gun", 
+            "Tank", 
+            "Hell", 
+            "Gun", 
+            "Confined_space"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Law", 
+            "Second_Amendment_to_the_United_States_Constitution", 
+            "Felony", 
+            "Misdemeanor", 
+            "Golden_Liberty", 
+            "Law", 
+            "Socialism"
+        ], 
+        "postID": 40
+    }
+]

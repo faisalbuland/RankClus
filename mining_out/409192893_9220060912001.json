@@ -1,0 +1,828 @@
+[
+    {
+        "entity": [
+            "Airport", 
+            "High-speed_rail", 
+            "Pollution", 
+            "Bullet", 
+            "Japan", 
+            "Shinkansen", 
+            "Freeway", 
+            "Pollution", 
+            "Diesel_multiple_unit", 
+            "Seattle,_Washington", 
+            "United_States", 
+            "United_States", 
+            "Europe", 
+            "San_Francisco,_California", 
+            "Oconaluftee_Indian_Village", 
+            "High-speed_rail", 
+            "Asia", 
+            "High-speed_rail", 
+            "Dallas,_Texas", 
+            "Portland,_Oregon", 
+            "San_Diego,_California", 
+            "Nap_(textile)", 
+            "Vancouver", 
+            "Common_good", 
+            "Miles_per_hour", 
+            "Tomorrowland", 
+            "Denver,_Colorado", 
+            "Las_Vegas,_Nevada", 
+            "Carbon", 
+            "Los_Angeles,_California", 
+            "San_Francisco,_California", 
+            "Drive_time", 
+            "Europe", 
+            "Los_Angeles,_California", 
+            "Bullet"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Miami,_Florida"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rail_transport", 
+            "Town", 
+            "Internal_combustion_engine", 
+            "Rail_tracks"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "High-speed_rail"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dallas,_Texas", 
+            "Southwest_Airlines", 
+            "Austin,_Texas", 
+            "Blood", 
+            "San_Antonio,_Texas", 
+            "Murder", 
+            "Texas", 
+            "Houston,_Texas", 
+            "Southwest_Airlines", 
+            "U.S._state", 
+            "State_government", 
+            "High-speed_rail"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Supersonic_transport", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Suburb"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Germany", 
+            "Netherlands", 
+            "Milk", 
+            "Village", 
+            "Netherlands"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Types_of_inhabited_localities_in_Russia", 
+            "Types_of_inhabited_localities_in_Russia"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Sunset_Limited", 
+            "New_Mexico", 
+            "Miles_per_hour", 
+            "San_Francisco,_California", 
+            "El_Paso,_Texas", 
+            "United_States", 
+            "Sunset_District,_San_Francisco,_California"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Rail_gauge", 
+            "1800s", 
+            "North_America", 
+            "Rail_tracks", 
+            "Rail_tracks", 
+            "Civil_war"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Root", 
+            "Boston,_Massachusetts", 
+            "Root_beer", 
+            "Shirley,_Massachusetts", 
+            "Boston_Celtics", 
+            "Fort_Devens,_Massachusetts", 
+            "Boston_Red_Sox", 
+            "Hamburger", 
+            "Fort_Devens,_Massachusetts"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Bullet", 
+            "United_States", 
+            "Shinkansen", 
+            "Chicago", 
+            "Miles_per_hour", 
+            "Surveying", 
+            "California", 
+            "Bullet", 
+            "Nevada", 
+            "President_of_the_United_States", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Columbus,_Ohio", 
+            "South_Carolina", 
+            "Phoenix,_Arizona", 
+            "Arizona", 
+            "Disneyland_Park_(Anaheim)", 
+            "Stimulus_(physiology)", 
+            "Milwaukee,_Wisconsin", 
+            "Harry_Reid", 
+            "Miles_per_hour", 
+            "2015", 
+            "Georgia_(U.S._state)", 
+            "Airway_(aviation)", 
+            "Frequency", 
+            "Europe", 
+            "Down_payment", 
+            "Midwestern_United_States", 
+            "Chicago", 
+            "Cincinnati,_Ohio", 
+            "United_States", 
+            "Anaheim,_California", 
+            "Miles_per_hour", 
+            "2012", 
+            "High-speed_rail", 
+            "Boost_C++_Libraries", 
+            "Japan", 
+            "Chicago", 
+            "Las_Vegas,_Nevada", 
+            "Bond_(finance)", 
+            "Milwaukee,_Wisconsin", 
+            "High-speed_rail", 
+            "Tucson,_Arizona", 
+            "Southern_California", 
+            "United_States", 
+            "High-speed_rail", 
+            "Cleveland,_Ohio", 
+            "Miles_per_hour", 
+            "Stimulus_(physiology)", 
+            "High-speed_rail", 
+            "Punctualism", 
+            "New_Jersey_Route_71", 
+            "Magnetic_levitation", 
+            "Engineering", 
+            "Rail_transport", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Level_crossing", 
+            "San_Francisco_Bay_Area", 
+            "California", 
+            "President_of_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Charlotte,_North_Carolina", 
+            "Cross_country_running", 
+            "Barack_Obama", 
+            "St._Louis,_Missouri", 
+            "Miles_per_hour", 
+            "San_Francisco,_California", 
+            "San_Francisco_Bay", 
+            "Miles_per_hour", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Highway", 
+            "Washington", 
+            "Shinkansen", 
+            "Speed_(film)", 
+            "Barack_Obama", 
+            "Ohio", 
+            "Book_of_Wisdom", 
+            "Miles_per_hour", 
+            "Madison,_Wisconsin", 
+            "Madison,_Wisconsin", 
+            "California"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Nuclear_power", 
+            "Vitesse", 
+            "1979_energy_crisis", 
+            "High-speed_rail", 
+            "Electricity", 
+            "Electric_power_transmission", 
+            "Gallon", 
+            "France", 
+            "Oconaluftee_Indian_Village", 
+            "High-speed_rail", 
+            "1973_oil_crisis", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Gasoline", 
+            "Petroleum", 
+            "United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "MARC_Train", 
+            "Amtrak", 
+            "Miles_per_hour", 
+            "Commuting", 
+            "Pennsylvania_Railroad", 
+            "Express_train", 
+            "New_York_City", 
+            "Pennsylvania_Station_(New_York_City)", 
+            "Freight_train", 
+            "Freight_train", 
+            "Braunschweig", 
+            "Acela_Express", 
+            "Amtrak"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "AVE", 
+            "Environmental_technology", 
+            "High-speed_rail", 
+            "Technology"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Shinkansen", 
+            "Cannabis_(drug)", 
+            "Dig", 
+            "Japan", 
+            "Interest_group", 
+            "Boondoggle_(project)", 
+            "Rallidae", 
+            "Miami,_Florida", 
+            "Big_Dig_(Boston,_Massachusetts)", 
+            "Population"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "Colorado", 
+            "United_States", 
+            "Population_density", 
+            "High-speed_rail", 
+            "Population_density", 
+            "High-speed_rail", 
+            "Population_density", 
+            "Rail_transport", 
+            "New_York_City", 
+            "Chicago", 
+            "Dallas,_Texas", 
+            "Arable_land", 
+            "Europe", 
+            "Light_rail", 
+            "Population", 
+            "Rail_transport", 
+            "Europe", 
+            "Dallas,_Texas", 
+            "Car_rental", 
+            "Rapid_transit"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Amtrak", 
+            "Miami,_Florida", 
+            "Jacksonville,_Florida", 
+            "Boston,_Massachusetts"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Bullet_train", 
+            "Rail_transport", 
+            "United_States", 
+            "Right-of-way_(transportation)", 
+            "Rail_transport", 
+            "Domain_(mathematics)", 
+            "Shipping", 
+            "Highway", 
+            "High-speed_rail", 
+            "Eminent_domain", 
+            "Bullet", 
+            "Pollution", 
+            "Los_Angeles,_California", 
+            "Electorate", 
+            "Rail_transport", 
+            "Traffic_congestion", 
+            "Bogie", 
+            "Brass", 
+            "Right-of-way_(transportation)", 
+            "Benin_Bronzes", 
+            "California"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Truck_driver", 
+            "Monopoly", 
+            "List_of_railway_companies", 
+            "Subsidy"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Super_speed", 
+            "Magnetic_levitation"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Airport", 
+            "High-speed_rail", 
+            "Pollution", 
+            "Bullet", 
+            "Japan", 
+            "Shinkansen", 
+            "Freeway", 
+            "Pollution", 
+            "Diesel_multiple_unit", 
+            "Seattle,_Washington", 
+            "United_States", 
+            "United_States", 
+            "Europe", 
+            "San_Francisco,_California", 
+            "Oconaluftee_Indian_Village", 
+            "High-speed_rail", 
+            "Asia", 
+            "High-speed_rail", 
+            "Dallas,_Texas", 
+            "Portland,_Oregon", 
+            "San_Diego,_California", 
+            "Nap_(textile)", 
+            "Vancouver", 
+            "Common_good", 
+            "Miles_per_hour", 
+            "Tomorrowland", 
+            "Denver,_Colorado", 
+            "Las_Vegas,_Nevada", 
+            "Carbon", 
+            "Los_Angeles,_California", 
+            "San_Francisco,_California", 
+            "Drive_time", 
+            "Europe", 
+            "Los_Angeles,_California", 
+            "Bullet"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Miami,_Florida"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Rail_transport", 
+            "Town", 
+            "Internal_combustion_engine", 
+            "Rail_tracks"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "High-speed_rail"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Dallas,_Texas", 
+            "Southwest_Airlines", 
+            "Austin,_Texas", 
+            "Blood", 
+            "San_Antonio,_Texas", 
+            "Murder", 
+            "Texas", 
+            "Houston,_Texas", 
+            "Southwest_Airlines", 
+            "U.S._state", 
+            "State_government", 
+            "High-speed_rail"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Supersonic_transport", 
+            "United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Suburb"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Germany", 
+            "Netherlands", 
+            "Milk", 
+            "Village", 
+            "Netherlands"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Types_of_inhabited_localities_in_Russia", 
+            "Types_of_inhabited_localities_in_Russia"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Sunset_Limited", 
+            "New_Mexico", 
+            "Miles_per_hour", 
+            "San_Francisco,_California", 
+            "El_Paso,_Texas", 
+            "United_States", 
+            "Sunset_District,_San_Francisco,_California"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Rail_gauge", 
+            "1800s", 
+            "North_America", 
+            "Rail_tracks", 
+            "Rail_tracks", 
+            "Civil_war"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Root", 
+            "Boston,_Massachusetts", 
+            "Root_beer", 
+            "Shirley,_Massachusetts", 
+            "Boston_Celtics", 
+            "Fort_Devens,_Massachusetts", 
+            "Boston_Red_Sox", 
+            "Hamburger", 
+            "Fort_Devens,_Massachusetts"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Florida", 
+            "Bullet", 
+            "United_States", 
+            "Shinkansen", 
+            "Chicago", 
+            "Miles_per_hour", 
+            "Surveying", 
+            "California", 
+            "Bullet", 
+            "Nevada", 
+            "President_of_the_United_States", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Columbus,_Ohio", 
+            "South_Carolina", 
+            "Phoenix,_Arizona", 
+            "Arizona", 
+            "Disneyland_Park_(Anaheim)", 
+            "Stimulus_(physiology)", 
+            "Milwaukee,_Wisconsin", 
+            "Harry_Reid", 
+            "Miles_per_hour", 
+            "2015", 
+            "Georgia_(U.S._state)", 
+            "Airway_(aviation)", 
+            "Frequency", 
+            "Europe", 
+            "Down_payment", 
+            "Midwestern_United_States", 
+            "Chicago", 
+            "Cincinnati,_Ohio", 
+            "United_States", 
+            "Anaheim,_California", 
+            "Miles_per_hour", 
+            "2012", 
+            "High-speed_rail", 
+            "Boost_C++_Libraries", 
+            "Japan", 
+            "Chicago", 
+            "Las_Vegas,_Nevada", 
+            "Bond_(finance)", 
+            "Milwaukee,_Wisconsin", 
+            "High-speed_rail", 
+            "Tucson,_Arizona", 
+            "Southern_California", 
+            "United_States", 
+            "High-speed_rail", 
+            "Cleveland,_Ohio", 
+            "Miles_per_hour", 
+            "Stimulus_(physiology)", 
+            "High-speed_rail", 
+            "Punctualism", 
+            "New_Jersey_Route_71", 
+            "Magnetic_levitation", 
+            "Engineering", 
+            "Rail_transport", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Level_crossing", 
+            "San_Francisco_Bay_Area", 
+            "California", 
+            "President_of_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Charlotte,_North_Carolina", 
+            "Cross_country_running", 
+            "Barack_Obama", 
+            "St._Louis,_Missouri", 
+            "Miles_per_hour", 
+            "San_Francisco,_California", 
+            "San_Francisco_Bay", 
+            "Miles_per_hour", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Highway", 
+            "Washington", 
+            "Shinkansen", 
+            "Speed_(film)", 
+            "Barack_Obama", 
+            "Ohio", 
+            "Book_of_Wisdom", 
+            "Miles_per_hour", 
+            "Madison,_Wisconsin", 
+            "Madison,_Wisconsin", 
+            "California"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Nuclear_power", 
+            "Vitesse", 
+            "1979_energy_crisis", 
+            "High-speed_rail", 
+            "Electricity", 
+            "Electric_power_transmission", 
+            "Gallon", 
+            "France", 
+            "Oconaluftee_Indian_Village", 
+            "High-speed_rail", 
+            "1973_oil_crisis", 
+            "High-speed_rail", 
+            "High-speed_rail", 
+            "Gasoline", 
+            "Petroleum", 
+            "United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "MARC_Train", 
+            "Amtrak", 
+            "Miles_per_hour", 
+            "Commuting", 
+            "Pennsylvania_Railroad", 
+            "Express_train", 
+            "New_York_City", 
+            "Pennsylvania_Station_(New_York_City)", 
+            "Freight_train", 
+            "Freight_train", 
+            "Braunschweig", 
+            "Acela_Express", 
+            "Amtrak"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "AVE", 
+            "Environmental_technology", 
+            "High-speed_rail", 
+            "Technology"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Shinkansen", 
+            "Cannabis_(drug)", 
+            "Dig", 
+            "Japan", 
+            "Interest_group", 
+            "Boondoggle_(project)", 
+            "Rallidae", 
+            "Miami,_Florida", 
+            "Big_Dig_(Boston,_Massachusetts)", 
+            "Population"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "Colorado", 
+            "United_States", 
+            "Population_density", 
+            "High-speed_rail", 
+            "Population_density", 
+            "High-speed_rail", 
+            "Population_density", 
+            "Rail_transport", 
+            "New_York_City", 
+            "Chicago", 
+            "Dallas,_Texas", 
+            "Arable_land", 
+            "Europe", 
+            "Light_rail", 
+            "Population", 
+            "Rail_transport", 
+            "Europe", 
+            "Dallas,_Texas", 
+            "Car_rental", 
+            "Rapid_transit"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Amtrak", 
+            "Miami,_Florida", 
+            "Jacksonville,_Florida", 
+            "Boston,_Massachusetts"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Bullet_train", 
+            "Rail_transport", 
+            "United_States", 
+            "Right-of-way_(transportation)", 
+            "Rail_transport", 
+            "Domain_(mathematics)", 
+            "Shipping", 
+            "Highway", 
+            "High-speed_rail", 
+            "Eminent_domain", 
+            "Bullet", 
+            "Pollution", 
+            "Los_Angeles,_California", 
+            "Electorate", 
+            "Rail_transport", 
+            "Traffic_congestion", 
+            "Bogie", 
+            "Brass", 
+            "Right-of-way_(transportation)", 
+            "Benin_Bronzes", 
+            "California"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Truck_driver", 
+            "Monopoly", 
+            "List_of_railway_companies", 
+            "Subsidy"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Super_speed", 
+            "Magnetic_levitation"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

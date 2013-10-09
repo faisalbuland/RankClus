@@ -1,0 +1,83 @@
+[
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_credit", 
+            "Retirement"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Barack_Obama", 
+            "Internal_Revenue_Service", 
+            "Rating_scale", 
+            "Tax", 
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_credit"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Unearned_income", 
+            "Tax", 
+            "Earned_run", 
+            "Tax", 
+            "Tax_break", 
+            "Smoke_screen", 
+            "Tax_rate", 
+            "The_Fed_(Columbia_newspaper)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_credit", 
+            "Tax", 
+            "Tax_credit"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hope_(disambiguation)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "April_15", 
+            "Lump_sum", 
+            "Penny"
+        ], 
+        "postID": 11
+    }
+]

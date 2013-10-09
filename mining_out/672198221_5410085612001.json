@@ -1,0 +1,188 @@
+[
+    {
+        "entity": [
+            "Tehran", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Reporter", 
+            "Jim_Lehrer", 
+            "Iran", 
+            "Roxana", 
+            "North_Dakota", 
+            "Short_story", 
+            "The_NewsHour_with_Jim_Lehrer", 
+            "The_NewsHour_with_Jim_Lehrer", 
+            "Miss_North_Dakota", 
+            "Sioux", 
+            "Iran", 
+            "Politics_of_Iran", 
+            "National_Public_Radio", 
+            "Freelancer", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wine", 
+            "Muslim"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "John_Knox", 
+            "Novelty_song", 
+            "Burger_King", 
+            "Population", 
+            "Gulf_War", 
+            "Gulf_War", 
+            "Jew", 
+            "Iran", 
+            "Christian", 
+            "Saudi_Arabia", 
+            "Saudi_Arabia", 
+            "Christian", 
+            "Gulf_War", 
+            "The_Burger_King", 
+            "Religion", 
+            "John_Knox", 
+            "Arabian_Peninsula", 
+            "Hamburger", 
+            "Burger_King", 
+            "Saudi_Arabia", 
+            "Iran", 
+            "Iran"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Espionage", 
+            "Iran", 
+            "Iran"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mullah", 
+            "Iran", 
+            "Iran", 
+            "Iran", 
+            "Islam", 
+            "Theocracy", 
+            "Iranian_peoples", 
+            "Iran", 
+            "Reporter", 
+            "Islamic_fundamentalism", 
+            "United_States", 
+            "Fundamentalism", 
+            "IMO", 
+            "International_relations"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Gallon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Pahlav\u012b_dynasty", 
+            "Iranian_peoples", 
+            "Law"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Crime", 
+            "Cell_(biology)", 
+            "Prison", 
+            "Police", 
+            "Propaganda", 
+            "CNN", 
+            "Saudi_Arabia", 
+            "Hijab", 
+            "Expatriate", 
+            "Arab", 
+            "National_Public_Radio", 
+            "Iran", 
+            "Extremism", 
+            "Islam", 
+            "Capital_punishment", 
+            "Iran", 
+            "Mutaween", 
+            "Trinidad", 
+            "Capital_punishment"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hollywood,_Los_Angeles,_California", 
+            "Iran"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "2001", 
+            "French_fries", 
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Iran"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "American_Idol", 
+            "Television"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "The_Reporter_(Belize)", 
+            "Iran", 
+            "International_Maritime_Organization", 
+            "War_Zone", 
+            "Sakoku", 
+            "International_Maritime_Organization", 
+            "Altruism", 
+            "Stringer", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Iranian_peoples"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Pulitzer_Prize", 
+            "Jail", 
+            "Iran"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Iran"
+        ], 
+        "postID": 16
+    }
+]

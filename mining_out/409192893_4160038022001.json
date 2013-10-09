@@ -1,0 +1,648 @@
+[
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Pittsburgh_Pirates", 
+            "Slaughter_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Battleship", 
+            "Somalia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Surgery", 
+            "Surgical_strike", 
+            "High_tech", 
+            "Gadget"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Target_practice", 
+            "Mission_Accomplished", 
+            "Iraq", 
+            "United_States_Navy", 
+            "Mission_(LDS_Church)", 
+            "!!!", 
+            "Afghanistan", 
+            "Mission_Accomplished", 
+            "Research_and_development"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Destroyer"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Less-lethal_weapon", 
+            "Weapon", 
+            "Provocation", 
+            "Less-lethal_weapon", 
+            "Suspect", 
+            "Probable_cause"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Treason", 
+            "Mass", 
+            "Adverse_drug_reaction", 
+            "Dime_(United_States_coin)", 
+            "United_States_Constitution", 
+            "Secession", 
+            "1867", 
+            "Chase,_British_Columbia", 
+            "Nuclear_power", 
+            "Nuclear_weapon", 
+            "Piracy", 
+            "Chief_Justice_of_the_United_States", 
+            "Salmon_P._Chase", 
+            "Salmon", 
+            "Jefferson_Davis"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Ransom", 
+            "Piracy", 
+            "Piracy"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton", 
+            "Explosive_material", 
+            "Piracy", 
+            "Barack_Obama", 
+            "Piracy", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Aden", 
+            "God", 
+            "Supercarrier", 
+            "Free-fire_zone"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Secession", 
+            "Liberty", 
+            "Piracy", 
+            "Cholecystokinin", 
+            "1722", 
+            "St_Bartholomew's_Hospital", 
+            "Chase,_British_Columbia", 
+            "Jeff_Davis_County,_Texas", 
+            "Somalia", 
+            "Bartholomew_Roberts", 
+            "Bartholomew_the_Apostle", 
+            "Salmon", 
+            "Choking", 
+            "Salmon_P._Chase", 
+            "United_States_Constitution", 
+            "Penal_labour", 
+            "1867", 
+            "Piracy", 
+            "Motto", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chief_Justice_of_the_United_States", 
+            "Treason"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Africa", 
+            "Somalia", 
+            "Texas", 
+            "Proof_(rapper)", 
+            "FUBAR", 
+            "Factoid", 
+            "Postcolonialism", 
+            "Mobile_phone"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Paleolithic", 
+            "Civic_virtue", 
+            "Language", 
+            "Rangers_F.C.", 
+            "Nation-building", 
+            "Iraq", 
+            "Somali_people"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Racism", 
+            "Somalia", 
+            "United_States", 
+            "LOL_(film)", 
+            "Street_crime", 
+            "Naval_artillery", 
+            "LOL_(film)", 
+            "Violence", 
+            "Crime", 
+            "Burn_(Usher_song)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Somalia", 
+            "Sniper", 
+            "Engine"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Olive", 
+            "Armour", 
+            "Light_infantry", 
+            "Olive_branch", 
+            "Vo_Nguyen_Giap", 
+            "Hatchery", 
+            "Somali_language", 
+            "William_Westmoreland", 
+            "United_States_Army_Rangers", 
+            "Grunts_(novel)", 
+            "Infantry", 
+            "Westy", 
+            "Terrorism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nation-building", 
+            "Antisocial_personality_disorder", 
+            "Riff_Raff", 
+            "National_government", 
+            "Barbarian", 
+            "Piracy", 
+            "Hell", 
+            "Mobile_phone"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Harbor", 
+            "Street_crime", 
+            "Crime", 
+            "Heroin", 
+            "Crime"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "DVD", 
+            "Police", 
+            "The_Wire_(TV_series)", 
+            "Police", 
+            "Leaf", 
+            "Wire_(band)", 
+            "Piracy", 
+            "Crime", 
+            "Artist", 
+            "Population", 
+            "Cash", 
+            "7-Eleven_(disambiguation)", 
+            "Colt_(horse)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Anarchy", 
+            "Racism", 
+            "Somalia", 
+            "Cocaine", 
+            "Illegal_drug_trade", 
+            "Thug"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Incarceration", 
+            "Crime", 
+            "Prosecutor", 
+            "Irrational_number", 
+            "Law", 
+            "Piracy", 
+            "Adventure_film", 
+            "Racism", 
+            "France", 
+            "Id,_ego,_and_super-ego", 
+            "Irrational_number", 
+            "Piracy", 
+            "International_waters", 
+            "Crime", 
+            "45_(number)", 
+            "Lexicon", 
+            "Piracy", 
+            "Purple"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Pittsburgh_Pirates", 
+            "Slaughter_(band)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Battleship", 
+            "Somalia"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Surgery", 
+            "Surgical_strike", 
+            "High_tech", 
+            "Gadget"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Target_practice", 
+            "Mission_Accomplished", 
+            "Iraq", 
+            "United_States_Navy", 
+            "Mission_(LDS_Church)", 
+            "!!!", 
+            "Afghanistan", 
+            "Mission_Accomplished", 
+            "Research_and_development"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Destroyer"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Less-lethal_weapon", 
+            "Weapon", 
+            "Provocation", 
+            "Less-lethal_weapon", 
+            "Suspect", 
+            "Probable_cause"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Treason", 
+            "Mass", 
+            "Adverse_drug_reaction", 
+            "Dime_(United_States_coin)", 
+            "United_States_Constitution", 
+            "Secession", 
+            "1867", 
+            "Chase,_British_Columbia", 
+            "Nuclear_power", 
+            "Nuclear_weapon", 
+            "Piracy", 
+            "Chief_Justice_of_the_United_States", 
+            "Salmon_P._Chase", 
+            "Salmon", 
+            "Jefferson_Davis"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ransom", 
+            "Piracy", 
+            "Piracy"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton", 
+            "Explosive_material", 
+            "Piracy", 
+            "Barack_Obama", 
+            "Piracy", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Aden", 
+            "God", 
+            "Supercarrier", 
+            "Free-fire_zone"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Secession", 
+            "Liberty", 
+            "Piracy", 
+            "Cholecystokinin", 
+            "1722", 
+            "St_Bartholomew's_Hospital", 
+            "Chase,_British_Columbia", 
+            "Jeff_Davis_County,_Texas", 
+            "Somalia", 
+            "Bartholomew_Roberts", 
+            "Bartholomew_the_Apostle", 
+            "Salmon", 
+            "Choking", 
+            "Salmon_P._Chase", 
+            "United_States_Constitution", 
+            "Penal_labour", 
+            "1867", 
+            "Piracy", 
+            "Motto", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chief_Justice_of_the_United_States", 
+            "Treason"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Africa", 
+            "Somalia", 
+            "Texas", 
+            "Proof_(rapper)", 
+            "FUBAR", 
+            "Factoid", 
+            "Postcolonialism", 
+            "Mobile_phone"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Paleolithic", 
+            "Civic_virtue", 
+            "Language", 
+            "Rangers_F.C.", 
+            "Nation-building", 
+            "Iraq", 
+            "Somali_people"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Racism", 
+            "Somalia", 
+            "United_States", 
+            "LOL_(film)", 
+            "Street_crime", 
+            "Naval_artillery", 
+            "LOL_(film)", 
+            "Violence", 
+            "Crime", 
+            "Burn_(Usher_song)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Somalia", 
+            "Sniper", 
+            "Engine"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Olive", 
+            "Armour", 
+            "Light_infantry", 
+            "Olive_branch", 
+            "Vo_Nguyen_Giap", 
+            "Hatchery", 
+            "Somali_language", 
+            "William_Westmoreland", 
+            "United_States_Army_Rangers", 
+            "Grunts_(novel)", 
+            "Infantry", 
+            "Westy", 
+            "Terrorism"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Nation-building", 
+            "Antisocial_personality_disorder", 
+            "Riff_Raff", 
+            "National_government", 
+            "Barbarian", 
+            "Piracy", 
+            "Hell", 
+            "Mobile_phone"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Harbor", 
+            "Street_crime", 
+            "Crime", 
+            "Heroin", 
+            "Crime"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "DVD", 
+            "Police", 
+            "The_Wire_(TV_series)", 
+            "Police", 
+            "Leaf", 
+            "Wire_(band)", 
+            "Piracy", 
+            "Crime", 
+            "Artist", 
+            "Population", 
+            "Cash", 
+            "7-Eleven_(disambiguation)", 
+            "Colt_(horse)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Anarchy", 
+            "Racism", 
+            "Somalia", 
+            "Cocaine", 
+            "Illegal_drug_trade", 
+            "Thug"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Incarceration", 
+            "Crime", 
+            "Prosecutor", 
+            "Irrational_number", 
+            "Law", 
+            "Piracy", 
+            "Adventure_film", 
+            "Racism", 
+            "France", 
+            "Id,_ego,_and_super-ego", 
+            "Irrational_number", 
+            "Piracy", 
+            "International_waters", 
+            "Crime", 
+            "45_(number)", 
+            "Lexicon", 
+            "Piracy", 
+            "Purple"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Racism"
+        ], 
+        "postID": 58
+    }
+]

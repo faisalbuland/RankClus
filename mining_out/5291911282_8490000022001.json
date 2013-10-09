@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [
+            "Ice_hockey", 
+            "Association_football", 
+            "Basketball", 
+            "Baseball", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Major_League_Baseball", 
+            "Lot_(department)", 
+            "Major", 
+            "Hell", 
+            "Bob_Uecker"
+        ], 
+        "postID": 3
+    }
+]

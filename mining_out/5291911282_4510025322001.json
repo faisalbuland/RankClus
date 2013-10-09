@@ -1,0 +1,282 @@
+[
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "E-mail_address", 
+            "God", 
+            "E-mail", 
+            "United_States", 
+            "Mod_(lifestyle)", 
+            "E-mail_address", 
+            "Law_enforcement_agency", 
+            "E-mail"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Confidence_trick", 
+            "2008", 
+            "Soldier", 
+            "God", 
+            "United_States_House_of_Representatives_elections,_2008", 
+            "D._V._Gundappa", 
+            "November_21", 
+            "God", 
+            "Duck", 
+            "Derelict", 
+            "Soldier", 
+            "Pseudonym"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rope"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Bank", 
+            "Iraq", 
+            "Bank_account", 
+            "Postage_stamp", 
+            "Nigeria", 
+            "E-mail", 
+            "Bank", 
+            "Fraud", 
+            "Currency", 
+            "Fallujah", 
+            "Penal_code", 
+            "Fraud", 
+            "Advance-fee_fraud", 
+            "E-mail_address", 
+            "AFF", 
+            "Real_estate", 
+            "Attorney's_fee", 
+            "Telephone", 
+            "Letterhead", 
+            "United_States_Secret_Service", 
+            "United_States_Marine_Corps", 
+            "Bribery", 
+            "Seal_(device)", 
+            "Oil", 
+            "Attorney_at_law", 
+            "Beneficiary", 
+            "Fax", 
+            "Logo", 
+            "2007", 
+            "Banknote", 
+            "Internet", 
+            "United_States_Secret_Service", 
+            "Fax", 
+            "Petroleum", 
+            "Interchange_fee"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nigeria", 
+            "Internet_access", 
+            "Internet"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Drum"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Fiber-Optic_Link_Around_the_Globe", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "God", 
+            "Derelict", 
+            "Windage", 
+            "Safety_(American_football)", 
+            "Load_(album)", 
+            "Safety_(American_football)", 
+            "D._V._Gundappa", 
+            "Weapon", 
+            "Fiber-Optic_Link_Around_the_Globe", 
+            "Fiber-Optic_Link_Around_the_Globe"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Nigeria"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Drum"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "E-mail_address", 
+            "God", 
+            "E-mail", 
+            "United_States", 
+            "Mod_(lifestyle)", 
+            "E-mail_address", 
+            "Law_enforcement_agency", 
+            "E-mail"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Confidence_trick", 
+            "2008", 
+            "Soldier", 
+            "God", 
+            "United_States_House_of_Representatives_elections,_2008", 
+            "D._V._Gundappa", 
+            "November_21", 
+            "God", 
+            "Duck", 
+            "Derelict", 
+            "Soldier", 
+            "Pseudonym"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Rope"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Bank", 
+            "Iraq", 
+            "Bank_account", 
+            "Postage_stamp", 
+            "Nigeria", 
+            "E-mail", 
+            "Bank", 
+            "Fraud", 
+            "Currency", 
+            "Fallujah", 
+            "Penal_code", 
+            "Fraud", 
+            "Advance-fee_fraud", 
+            "E-mail_address", 
+            "AFF", 
+            "Real_estate", 
+            "Attorney's_fee", 
+            "Telephone", 
+            "Letterhead", 
+            "United_States_Secret_Service", 
+            "United_States_Marine_Corps", 
+            "Bribery", 
+            "Seal_(device)", 
+            "Oil", 
+            "Attorney_at_law", 
+            "Beneficiary", 
+            "Fax", 
+            "Logo", 
+            "2007", 
+            "Banknote", 
+            "Internet", 
+            "United_States_Secret_Service", 
+            "Fax", 
+            "Petroleum", 
+            "Interchange_fee"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Nigeria", 
+            "Internet_access", 
+            "Internet"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Drum"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Fiber-Optic_Link_Around_the_Globe", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "God", 
+            "Derelict", 
+            "Windage", 
+            "Safety_(American_football)", 
+            "Load_(album)", 
+            "Safety_(American_football)", 
+            "D._V._Gundappa", 
+            "Weapon", 
+            "Fiber-Optic_Link_Around_the_Globe", 
+            "Fiber-Optic_Link_Around_the_Globe"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Nigeria"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Drum"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Terrorism"
+        ], 
+        "postID": 32
+    }
+]

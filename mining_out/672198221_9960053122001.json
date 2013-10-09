@@ -1,0 +1,71 @@
+[
+    {
+        "entity": [
+            "Illegal_drug_trade", 
+            "Undergarment", 
+            "International_Maritime_Organization", 
+            "Drug", 
+            "Police", 
+            "Teacher", 
+            "Strip_search"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Nurse", 
+            "United_States", 
+            "American_Dream"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Sexual_abuse", 
+            "Child_sexual_abuse", 
+            "Drug"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Medication", 
+            "Police", 
+            "Search_and_seizure", 
+            "Hell", 
+            "School_nursing", 
+            "Fourth_Amendment_to_the_United_States_Constitution", 
+            "Menstruation", 
+            "Nurse", 
+            "Dysmenorrhea", 
+            "Nurse", 
+            "Drug", 
+            "United_States", 
+            "Medical_prescription", 
+            "Grief", 
+            "Search_and_seizure", 
+            "Advil", 
+            "Nurse", 
+            "Headache"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Minor_league_baseball", 
+            "Law"
+        ], 
+        "postID": 7
+    }
+]

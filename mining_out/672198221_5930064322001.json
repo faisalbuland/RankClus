@@ -1,0 +1,852 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Abortion_debate", 
+            "Loaded_question"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Pro-choice"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Propaganda"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Child_abandonment", 
+            "Right-wing_politics", 
+            "Fish", 
+            "Wing", 
+            "Compulsory_sterilization", 
+            "Wing", 
+            "Wing", 
+            "Abortion", 
+            "Abortion", 
+            "Chemical_polarity", 
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Abortion", 
+            "Sterilization_(surgical_procedure)", 
+            "Winger_(ice_hockey)", 
+            "Red_Wing_High_School", 
+            "Abortion", 
+            "Winger_(ice_hockey)", 
+            "Compulsory_sterilization"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Pregnancy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abortion_in_the_United_States", 
+            "Abortion_debate", 
+            "Pro-choice", 
+            "Pro-choice", 
+            "Crime"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Fetus", 
+            "Zoology"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Uterus", 
+            "Pro-life"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bean", 
+            "Turkish_general_election,_2002", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Pro-life", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Chastity_belt", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Bond_(finance)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Sex_education", 
+            "Abortion", 
+            "Abortion", 
+            "Abortion", 
+            "Medical_abortion", 
+            "Sex_education", 
+            "Birth_control", 
+            "Birth_control"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Abortion", 
+            "Hysteria", 
+            "Crime", 
+            "Capital_punishment"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Cave", 
+            "Skin_(computing)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Abortion_debate", 
+            "Loaded_question"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Pro-choice"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Propaganda"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Child_abandonment", 
+            "Right-wing_politics", 
+            "Fish", 
+            "Wing", 
+            "Compulsory_sterilization", 
+            "Wing", 
+            "Wing", 
+            "Abortion", 
+            "Abortion", 
+            "Chemical_polarity", 
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Abortion", 
+            "Sterilization_(surgical_procedure)", 
+            "Winger_(ice_hockey)", 
+            "Red_Wing_High_School", 
+            "Abortion", 
+            "Winger_(ice_hockey)", 
+            "Compulsory_sterilization"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Pregnancy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abortion_in_the_United_States", 
+            "Abortion_debate", 
+            "Pro-choice", 
+            "Pro-choice", 
+            "Crime"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Fetus", 
+            "Zoology"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Uterus", 
+            "Pro-life"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bean", 
+            "Turkish_general_election,_2002", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Pro-life", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Chastity_belt", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Bond_(finance)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Sex_education", 
+            "Abortion", 
+            "Abortion", 
+            "Abortion", 
+            "Medical_abortion", 
+            "Sex_education", 
+            "Birth_control", 
+            "Birth_control"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Abortion", 
+            "Hysteria", 
+            "Crime", 
+            "Capital_punishment"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Cave", 
+            "Skin_(computing)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Abortion_debate", 
+            "Loaded_question"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Pro-choice"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Propaganda"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Child_abandonment", 
+            "Right-wing_politics", 
+            "Fish", 
+            "Wing", 
+            "Compulsory_sterilization", 
+            "Wing", 
+            "Wing", 
+            "Abortion", 
+            "Abortion", 
+            "Chemical_polarity", 
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Abortion", 
+            "Sterilization_(surgical_procedure)", 
+            "Winger_(ice_hockey)", 
+            "Red_Wing_High_School", 
+            "Abortion", 
+            "Winger_(ice_hockey)", 
+            "Compulsory_sterilization"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Pregnancy"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abortion_in_the_United_States", 
+            "Abortion_debate", 
+            "Pro-choice", 
+            "Pro-choice", 
+            "Crime"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Fetus", 
+            "Zoology"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Uterus", 
+            "Pro-life"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bean", 
+            "Turkish_general_election,_2002", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Pro-life", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Chastity_belt", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Bond_(finance)"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Sex_education", 
+            "Abortion", 
+            "Abortion", 
+            "Abortion", 
+            "Medical_abortion", 
+            "Sex_education", 
+            "Birth_control", 
+            "Birth_control"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Abortion", 
+            "Hysteria", 
+            "Crime", 
+            "Capital_punishment"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Cave", 
+            "Skin_(computing)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Abortion_debate", 
+            "Loaded_question"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Pro-choice"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Propaganda"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Child_abandonment", 
+            "Right-wing_politics", 
+            "Fish", 
+            "Wing", 
+            "Compulsory_sterilization", 
+            "Wing", 
+            "Wing", 
+            "Abortion", 
+            "Abortion", 
+            "Chemical_polarity", 
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Abortion", 
+            "Sterilization_(surgical_procedure)", 
+            "Winger_(ice_hockey)", 
+            "Red_Wing_High_School", 
+            "Abortion", 
+            "Winger_(ice_hockey)", 
+            "Compulsory_sterilization"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Pregnancy"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abortion_in_the_United_States", 
+            "Abortion_debate", 
+            "Pro-choice", 
+            "Pro-choice", 
+            "Crime"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Fetus", 
+            "Zoology"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Uterus", 
+            "Pro-life"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bean", 
+            "Turkish_general_election,_2002", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Pro-life", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Chastity_belt", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Bond_(finance)"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Sex_education", 
+            "Abortion", 
+            "Abortion", 
+            "Abortion", 
+            "Medical_abortion", 
+            "Sex_education", 
+            "Birth_control", 
+            "Birth_control"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Abortion", 
+            "Hysteria", 
+            "Crime", 
+            "Capital_punishment"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Cave", 
+            "Skin_(computing)"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Abortion_debate", 
+            "Loaded_question"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Pro-choice"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Propaganda"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Child_abandonment", 
+            "Right-wing_politics", 
+            "Fish", 
+            "Wing", 
+            "Compulsory_sterilization", 
+            "Wing", 
+            "Wing", 
+            "Abortion", 
+            "Abortion", 
+            "Chemical_polarity", 
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Abortion", 
+            "Sterilization_(surgical_procedure)", 
+            "Winger_(ice_hockey)", 
+            "Red_Wing_High_School", 
+            "Abortion", 
+            "Winger_(ice_hockey)", 
+            "Compulsory_sterilization"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Abortion"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Pregnancy"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Abortion_in_the_United_States", 
+            "Abortion_debate", 
+            "Pro-choice", 
+            "Pro-choice", 
+            "Crime"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Fetus", 
+            "Zoology"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Pro-choice", 
+            "Uterus", 
+            "Pro-life"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Bean", 
+            "Turkish_general_election,_2002", 
+            "Thomas_Jefferson", 
+            "Democratic_Party_(United_States)", 
+            "Pro-life", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Chastity_belt", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Bond_(finance)"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Sex_education", 
+            "Abortion", 
+            "Abortion", 
+            "Abortion", 
+            "Medical_abortion", 
+            "Sex_education", 
+            "Birth_control", 
+            "Birth_control"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Abortion", 
+            "Hysteria", 
+            "Crime", 
+            "Capital_punishment"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "Cave", 
+            "Skin_(computing)"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 95
+    }
+]

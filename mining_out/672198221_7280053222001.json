@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "China", 
+            "Joe_Biden", 
+            "Airliner", 
+            "Quarantine", 
+            "Influenza", 
+            "Farmer", 
+            "Mexico", 
+            "Mexico", 
+            "Hotel", 
+            "Virus", 
+            "Alberta", 
+            "Pig", 
+            "Hong_Kong", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Joe_Biden_presidential_campaign,_2008"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Kiss", 
+            "Farmer", 
+            "Wit", 
+            "Pop_music"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Animal", 
+            "LOL", 
+            "Animal_husbandry", 
+            "Animal_husbandry"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Muslim", 
+            "Baghdad", 
+            "Zoo", 
+            "Babe_(film)", 
+            "Three_Little_Pigs", 
+            "Domestic_sheep", 
+            "Pig", 
+            "Muslim_world", 
+            "Egypt", 
+            "Pig", 
+            "Iraq"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Muslim_world", 
+            "Islam", 
+            "Pig"
+        ], 
+        "postID": 5
+    }
+]

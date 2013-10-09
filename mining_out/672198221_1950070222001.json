@@ -1,0 +1,136 @@
+[
+    {
+        "entity": [
+            "Bank", 
+            "LOL", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Iraq", 
+            "United_States_dollar", 
+            "Democratic_Party_(United_States)", 
+            "Alternative_Minimum_Tax", 
+            "District", 
+            "2014", 
+            "Deficit", 
+            "Economy_of_the_United_States", 
+            "2010", 
+            "Bail_out_(finance)", 
+            "Kentucky", 
+            "United_States_Senate", 
+            "Deficit", 
+            "Recession", 
+            "Gerald_Ford", 
+            "Deficit", 
+            "Government_debt", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Congress", 
+            "United_States_public_debt", 
+            "Mitch_McConnell", 
+            "2011", 
+            "Iraq", 
+            "Government_debt", 
+            "Democratic_Party_(United_States)", 
+            "Economy_of_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Afghanistan", 
+            "Tax", 
+            "Paul_Ryan_(politician)", 
+            "Ford_Motor_Company", 
+            "Mitch_McConnell"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Rational_number", 
+            "Deficit", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Iraq_War"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mitch_McConnell", 
+            "Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Party_leaders_of_the_United_States_Senate", 
+            "Debt", 
+            "Dribbling", 
+            "Tax", 
+            "Partisan_(political)", 
+            "Afghanistan", 
+            "Blah", 
+            "Tax_cut", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Deficit", 
+            "Lemming", 
+            "Placeholder_name", 
+            "District", 
+            "United_States_Senate", 
+            "United_States", 
+            "Up_or_down_vote", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Fat", 
+            "United_States_dollar", 
+            "Ha-ha", 
+            "2011", 
+            "Mitch_McConnell", 
+            "Altar", 
+            "Republican_Party_(United_States)", 
+            "Bloating", 
+            "Health_care", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "2014", 
+            "Placeholder_name", 
+            "Government_debt", 
+            "Placeholder_name", 
+            "Debt", 
+            "Blah", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Deficit", 
+            "Debt", 
+            "Steny_Hoyer", 
+            "Democratic_Party_(United_States)", 
+            "God", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Deficit", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 7
+    }
+]

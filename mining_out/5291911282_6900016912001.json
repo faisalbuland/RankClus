@@ -1,0 +1,41 @@
+[
+    {
+        "entity": [
+            "Estate_agent", 
+            "Real_estate", 
+            "Client_(computing)", 
+            "Trainer_aircraft", 
+            "Real_estate", 
+            "Real_estate", 
+            "Real_estate_broker"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Apprenticeship", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Common_year_starting_on_Thursday", 
+            "April_4", 
+            "Real_estate", 
+            "Real_estate", 
+            "Real_estate_broker", 
+            "Real_estate", 
+            "Real_estate", 
+            "Estate_agent"
+        ], 
+        "postID": 4
+    }
+]

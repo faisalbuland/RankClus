@@ -1,0 +1,80 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Paul_Krugman", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "Working_time", 
+            "Theatre", 
+            "The_New_York_Times", 
+            "New_York", 
+            "Barack_Obama", 
+            "Politics_of_the_United_States", 
+            "Tea"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pork_barrel", 
+            "Pork_barrel"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Earmark", 
+            "Tea_party", 
+            "Tea", 
+            "Earmark", 
+            "Office_supplies"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Dollar"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Chrysler"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Bail_(disambiguation)", 
+            "George_W._Bush", 
+            "American_International_Group", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Bail_(disambiguation)", 
+            "Bail_(disambiguation)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "President_of_the_United_States", 
+            "Tax_protester_(United_States)", 
+            "Pork", 
+            "Sake"
+        ], 
+        "postID": 8
+    }
+]

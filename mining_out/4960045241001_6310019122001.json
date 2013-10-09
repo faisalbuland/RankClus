@@ -1,0 +1,47 @@
+[
+    {
+        "entity": [
+            "DNA", 
+            "DNA", 
+            "DNA", 
+            "Animal", 
+            "Human", 
+            "Humanoid", 
+            "DNA", 
+            "Simian", 
+            "Reptile", 
+            "Reptile"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Female", 
+            "Anima_and_animus", 
+            "DNA", 
+            "Bodhi"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sphere", 
+            "Cerebral_hemisphere", 
+            "EBA", 
+            "Earth"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tropics", 
+            "Feces", 
+            "Fruit"
+        ], 
+        "postID": 5
+    }
+]

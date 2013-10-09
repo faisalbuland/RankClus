@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Medical_record", 
+            "Waiver", 
+            "Anxiety"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Web_page", 
+            "Recruiter", 
+            "May_11"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Orlando,_Florida", 
+            "May_11"
+        ], 
+        "postID": 4
+    }
+]

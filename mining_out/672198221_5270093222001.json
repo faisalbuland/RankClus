@@ -1,0 +1,461 @@
+[
+    {
+        "entity": [
+            "Sun", 
+            "2009", 
+            "Pakistan_Army", 
+            "Pakistan", 
+            "Thread_(computer_science)", 
+            "Indian_Army", 
+            "Pakistan", 
+            "Taliban", 
+            "Thread_(computer_science)", 
+            "Islamabad", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Paks", 
+            "Pain", 
+            "Afghan_refugees", 
+            "Federally_Administered_Tribal_Areas"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "1200", 
+            "Pakistan"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Swat,_Pakistan", 
+            "Taliban"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Genghis_Khan", 
+            "Khan_(title)", 
+            "Mughal_Empire"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Decapitation"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Brotherhood", 
+            "Muslim_Brotherhood", 
+            "Khan_(title)", 
+            "British_Raj", 
+            "Mughal_Empire"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "War_crime", 
+            "Crime", 
+            "Regions_of_France", 
+            "Civilian_casualties", 
+            "World_war", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Taliban", 
+            "Regions_of_France", 
+            "List_of_states_with_nuclear_weapons"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Aircraft", 
+            "Native_Americans_in_the_United_States", 
+            "Chosen_people", 
+            "Bharatiya_Janata_Party", 
+            "Aircraft_carrier", 
+            "General_election", 
+            "Israelis", 
+            "Yahweh"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Regions_of_France", 
+            "Paks", 
+            "Tally_marks", 
+            "Russia", 
+            "Paks", 
+            "Tally_marks", 
+            "Nuclear_weapon", 
+            "Paks", 
+            "Paks"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Durand,_Wisconsin", 
+            "Pakistan", 
+            "Pakistan_Army", 
+            "Durand_Line", 
+            "United_States_Army"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Indian_Army", 
+            "Pakistan_Army", 
+            "Taliban"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "The_Oval"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "2009", 
+            "Pakistan_Army", 
+            "Pakistan", 
+            "Thread_(computer_science)", 
+            "Indian_Army", 
+            "Pakistan", 
+            "Taliban", 
+            "Thread_(computer_science)", 
+            "Islamabad", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Paks", 
+            "Pain", 
+            "Afghan_refugees", 
+            "Federally_Administered_Tribal_Areas"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "1200", 
+            "Pakistan"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Swat,_Pakistan", 
+            "Taliban"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Genghis_Khan", 
+            "Khan_(title)", 
+            "Mughal_Empire"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Decapitation"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Brotherhood", 
+            "Muslim_Brotherhood", 
+            "Khan_(title)", 
+            "British_Raj", 
+            "Mughal_Empire"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "War_crime", 
+            "Crime", 
+            "Regions_of_France", 
+            "Civilian_casualties", 
+            "World_war", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Taliban", 
+            "Regions_of_France", 
+            "List_of_states_with_nuclear_weapons"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Aircraft", 
+            "Native_Americans_in_the_United_States", 
+            "Chosen_people", 
+            "Bharatiya_Janata_Party", 
+            "Aircraft_carrier", 
+            "General_election", 
+            "Israelis", 
+            "Yahweh"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Regions_of_France", 
+            "Paks", 
+            "Tally_marks", 
+            "Russia", 
+            "Paks", 
+            "Tally_marks", 
+            "Nuclear_weapon", 
+            "Paks", 
+            "Paks"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Durand,_Wisconsin", 
+            "Pakistan", 
+            "Pakistan_Army", 
+            "Durand_Line", 
+            "United_States_Army"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Indian_Army", 
+            "Pakistan_Army", 
+            "Taliban"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "The_Oval"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "2009", 
+            "Pakistan_Army", 
+            "Pakistan", 
+            "Thread_(computer_science)", 
+            "Indian_Army", 
+            "Pakistan", 
+            "Taliban", 
+            "Thread_(computer_science)", 
+            "Islamabad", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Paks", 
+            "Pain", 
+            "Afghan_refugees", 
+            "Federally_Administered_Tribal_Areas"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "1200", 
+            "Pakistan"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Swat,_Pakistan", 
+            "Taliban"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Genghis_Khan", 
+            "Khan_(title)", 
+            "Mughal_Empire"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Decapitation"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Brotherhood", 
+            "Muslim_Brotherhood", 
+            "Khan_(title)", 
+            "British_Raj", 
+            "Mughal_Empire"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "War_crime", 
+            "Crime", 
+            "Regions_of_France", 
+            "Civilian_casualties", 
+            "World_war", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Taliban", 
+            "Regions_of_France", 
+            "List_of_states_with_nuclear_weapons"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Aircraft", 
+            "Native_Americans_in_the_United_States", 
+            "Chosen_people", 
+            "Bharatiya_Janata_Party", 
+            "Aircraft_carrier", 
+            "General_election", 
+            "Israelis", 
+            "Yahweh"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Regions_of_France", 
+            "Paks", 
+            "Tally_marks", 
+            "Russia", 
+            "Paks", 
+            "Tally_marks", 
+            "Nuclear_weapon", 
+            "Paks", 
+            "Paks"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Durand,_Wisconsin", 
+            "Pakistan", 
+            "Pakistan_Army", 
+            "Durand_Line", 
+            "United_States_Army"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Indian_Army", 
+            "Pakistan_Army", 
+            "Taliban"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Oval", 
+            "The_Oval"
+        ], 
+        "postID": 57
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "John_Knox", 
+            "Christian_denomination", 
+            "Roman_Catholic_Church", 
+            "Homosexual_orientation", 
+            "John_Knox", 
+            "Barack_Obama", 
+            "Christianity"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "House_of_Saud", 
+            "Saudi_Arabia", 
+            "Prince"
+        ], 
+        "postID": 2
+    }
+]

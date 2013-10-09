@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hamid_Karzai", 
+            "Afghanistan", 
+            "Rape"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rape"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Afghan", 
+            "Demography_of_Afghanistan", 
+            "Member_of_Parliament", 
+            "Law"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fundamentalism", 
+            "Courthouse", 
+            "Country_music", 
+            "Christian", 
+            "Fundamentalist_Christianity"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "Ayman_al-Zawahiri"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Dope_(band)", 
+            "Politics_of_Pakistan", 
+            "Afghanistan", 
+            "Economy", 
+            "Afghanistan", 
+            "Terrorism", 
+            "Brand", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Pakistan", 
+            "E._L._Doctorow", 
+            "India", 
+            "Taliban", 
+            "Iran", 
+            "Barry_Goldwater", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Taliban", 
+            "Rebellion", 
+            "Iran", 
+            "Sahara", 
+            "Barry_Goldwater", 
+            "Pakistan", 
+            "Cutter_(professional_wrestling)", 
+            "Knowhow", 
+            "Taliban", 
+            "Africa", 
+            "Iran", 
+            "Autonomous_area", 
+            "Pakistan", 
+            "Beholder", 
+            "Pakistan", 
+            "Eye", 
+            "Al-Qaeda", 
+            "Al-Qaeda", 
+            "Daisy_(television_advertisement)", 
+            "Barry_Goldwater", 
+            "United_States", 
+            "Stanley_Osher", 
+            "Nuclear_weapon", 
+            "BLU-82", 
+            "Barry_Goldwater", 
+            "Pakistan", 
+            "Iran", 
+            "Afghanistan", 
+            "Iran", 
+            "Brand", 
+            "Pakistan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Penny", 
+            "Dollar", 
+            "Iran", 
+            "Islamic_fundamentalism", 
+            "Afghanistan", 
+            "Stone_Age", 
+            "Dope_(band)", 
+            "Fundamentalist_Christianity", 
+            "Al-Qaeda", 
+            "Self-interest", 
+            "Iraq", 
+            "Afghanistan", 
+            "Iraq"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 10
+    }
+]

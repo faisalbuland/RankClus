@@ -1,0 +1,596 @@
+[
+    {
+        "entity": [
+            "Dog", 
+            "Guard_dog", 
+            "Dog", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Kinda_(Doctor_Who)", 
+            "Animals_(album)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dog"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Animal", 
+            "Point_of_sale"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Dog", 
+            "Dog", 
+            "Afghanistan", 
+            "Iraq", 
+            "Dog"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Spooner,_Wisconsin", 
+            "Tooth", 
+            "Nancy_Pelosi", 
+            "Nancy_Pelosi", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Growling", 
+            "Nancy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Cat"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Doghouse", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Homelessness", 
+            "Cougar", 
+            "Lion", 
+            "Pet", 
+            "Cat"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fur", 
+            "Maine_Coon", 
+            "Chainsaw", 
+            "Maine_Coon", 
+            "Maine", 
+            "Possessive", 
+            "Pound_sterling", 
+            "Mug", 
+            "Backlot", 
+            "Sparrow", 
+            "Shepherd", 
+            "Fur", 
+            "Fur", 
+            "Cat", 
+            "Australia", 
+            "Coon", 
+            "Furry_fandom", 
+            "Australian_Shepherd", 
+            "Cat", 
+            "Missile", 
+            "Cat", 
+            "Dog", 
+            "Cat"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "God", 
+            "Animal_rights", 
+            "Animal", 
+            "Cracker_(band)", 
+            "Clan"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Litter_(animal)", 
+            "God", 
+            "Dog", 
+            "Riley_(car)", 
+            "Kitten", 
+            "Blood", 
+            "Dog", 
+            "Riley_(car)", 
+            "PetSmart", 
+            "Cotton_swab", 
+            "United_States", 
+            "United_States_Army_Rangers", 
+            "Divorce", 
+            "Kitten", 
+            "Zippo"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Dumpster_(term)", 
+            "Truck", 
+            "Dumpster_(term)", 
+            "Waste_collection_vehicle", 
+            "Acre", 
+            "God", 
+            "Dumpster_(term)", 
+            "Farm", 
+            "SOB", 
+            "Australia"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Guard_dog", 
+            "Dog", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Kinda_(Doctor_Who)", 
+            "Animals_(album)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Dog"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Animal", 
+            "Point_of_sale"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Dog", 
+            "Dog", 
+            "Afghanistan", 
+            "Iraq", 
+            "Dog"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Spooner,_Wisconsin", 
+            "Tooth", 
+            "Nancy_Pelosi", 
+            "Nancy_Pelosi", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Growling", 
+            "Nancy"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Cat"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Doghouse", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Homelessness", 
+            "Cougar", 
+            "Lion", 
+            "Pet", 
+            "Cat"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fur", 
+            "Maine_Coon", 
+            "Chainsaw", 
+            "Maine_Coon", 
+            "Maine", 
+            "Possessive", 
+            "Pound_sterling", 
+            "Mug", 
+            "Backlot", 
+            "Sparrow", 
+            "Shepherd", 
+            "Fur", 
+            "Fur", 
+            "Cat", 
+            "Australia", 
+            "Coon", 
+            "Furry_fandom", 
+            "Australian_Shepherd", 
+            "Cat", 
+            "Missile", 
+            "Cat", 
+            "Dog", 
+            "Cat"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "God", 
+            "Animal_rights", 
+            "Animal", 
+            "Cracker_(band)", 
+            "Clan"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Litter_(animal)", 
+            "God", 
+            "Dog", 
+            "Riley_(car)", 
+            "Kitten", 
+            "Blood", 
+            "Dog", 
+            "Riley_(car)", 
+            "PetSmart", 
+            "Cotton_swab", 
+            "United_States", 
+            "United_States_Army_Rangers", 
+            "Divorce", 
+            "Kitten", 
+            "Zippo"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Dumpster_(term)", 
+            "Truck", 
+            "Dumpster_(term)", 
+            "Waste_collection_vehicle", 
+            "Acre", 
+            "God", 
+            "Dumpster_(term)", 
+            "Farm", 
+            "SOB", 
+            "Australia"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Guard_dog", 
+            "Dog", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog", 
+            "Police_dog"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Kinda_(Doctor_Who)", 
+            "Animals_(album)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Dog"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Animal", 
+            "Point_of_sale"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Dog", 
+            "Dog", 
+            "Afghanistan", 
+            "Iraq", 
+            "Dog"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Spooner,_Wisconsin", 
+            "Tooth", 
+            "Nancy_Pelosi", 
+            "Nancy_Pelosi", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Growling", 
+            "Nancy"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Cat"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Doghouse", 
+            "Dog", 
+            "Dog"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Homelessness", 
+            "Cougar", 
+            "Lion", 
+            "Pet", 
+            "Cat"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fur", 
+            "Maine_Coon", 
+            "Chainsaw", 
+            "Maine_Coon", 
+            "Maine", 
+            "Possessive", 
+            "Pound_sterling", 
+            "Mug", 
+            "Backlot", 
+            "Sparrow", 
+            "Shepherd", 
+            "Fur", 
+            "Fur", 
+            "Cat", 
+            "Australia", 
+            "Coon", 
+            "Furry_fandom", 
+            "Australian_Shepherd", 
+            "Cat", 
+            "Missile", 
+            "Cat", 
+            "Dog", 
+            "Cat"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "God", 
+            "Animal_rights", 
+            "Animal", 
+            "Cracker_(band)", 
+            "Clan"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Litter_(animal)", 
+            "God", 
+            "Dog", 
+            "Riley_(car)", 
+            "Kitten", 
+            "Blood", 
+            "Dog", 
+            "Riley_(car)", 
+            "PetSmart", 
+            "Cotton_swab", 
+            "United_States", 
+            "United_States_Army_Rangers", 
+            "Divorce", 
+            "Kitten", 
+            "Zippo"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Dumpster_(term)", 
+            "Truck", 
+            "Dumpster_(term)", 
+            "Waste_collection_vehicle", 
+            "Acre", 
+            "God", 
+            "Dumpster_(term)", 
+            "Farm", 
+            "SOB", 
+            "Australia"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 60
+    }
+]

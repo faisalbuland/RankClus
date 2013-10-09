@@ -1,0 +1,940 @@
+[
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sat_(Sanskrit)", 
+            "Carl_von_Clausewitz", 
+            "Sarah_Palin", 
+            "Ann_Coulter", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Palin_Majere", 
+            "Politics", 
+            "2009", 
+            "Alaska", 
+            "Larry_King_Live", 
+            "Larry_King", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Ann_Coulter"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "The_Rush_Limbaugh_Show", 
+            "Glenn_Beck", 
+            "Rush_(band)", 
+            "Sean_Hannity", 
+            "Glenn_Beck_Program"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Newt_Gingrich", 
+            "Newt", 
+            "Perspiration", 
+            "Ronald_Reagan", 
+            "Conservatism_in_the_United_States", 
+            "Conservatism_in_the_United_States", 
+            "Turkish_general_election,_2002", 
+            "Ronald_Reagan", 
+            "Theonomy", 
+            "Barry_Goldwater", 
+            "Evangelicalism", 
+            "Conservative_Party_(UK)", 
+            "Project_for_the_New_American_Century", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California", 
+            "Conservatism", 
+            "California", 
+            "Hamartia", 
+            "Cow_Palace", 
+            "Water_(molecule)", 
+            "Trivia", 
+            "Republican_Party_(United_States)", 
+            "1964"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Tax", 
+            "Tax_cut", 
+            "2009", 
+            "Barack_Obama", 
+            "2012", 
+            "Barack_Obama", 
+            "Income_tax", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Wager"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Radio_jockey", 
+            "Savage,_Minnesota", 
+            "Radio", 
+            "Rusty_the_Steam_Engine", 
+            "Rusty_Humphries", 
+            "Carl_von_Clausewitz", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Carl_von_Clausewitz", 
+            "3rd_Party", 
+            "Jock_(athlete)", 
+            "Party_Time", 
+            "Michael_Savage", 
+            "Mantra", 
+            "Carl_von_Clausewitz", 
+            "Conservatism_in_the_United_States", 
+            "Savage,_Minnesota", 
+            "Current_Procedural_Terminology", 
+            "Time_(magazine)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Rachel_Maddow", 
+            "Modern_liberalism_in_the_United_States", 
+            "Rachel", 
+            "Keith_Olbermann", 
+            "Nice", 
+            "Keith_Olbermann"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Cow_Palace"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Shotgun", 
+            "Ronald_Reagan", 
+            "Thomas_Paine", 
+            "Lunatic", 
+            "President_of_the_United_States", 
+            "Conservative_Party_(UK)", 
+            "Camera", 
+            "Libertarianism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Get-rich-quick_scheme", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Soviet_Union", 
+            "Barry_Goldwater", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Soviet_Union", 
+            "Barry_Goldwater", 
+            "Franklin_D._Roosevelt", 
+            "Barry_Goldwater", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Conscience", 
+            "Nuclear_weapons_delivery", 
+            "Water_(molecule)", 
+            "Conservative_Party_(UK)", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "Superpower", 
+            "Conscience", 
+            "1960", 
+            "Union_(American_Civil_War)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Avatar"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Liberalism"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Extreme_(band)", 
+            "Conservatism", 
+            "Liberalism"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Ear", 
+            "Patriot_(American_Revolution)", 
+            "Barack_Obama"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security", 
+            "Wind_power", 
+            "Stimulus_(physiology)", 
+            "Communication", 
+            "Speed", 
+            "English_Restoration", 
+            "Credit_freeze", 
+            "Ulysses_S._Grant", 
+            "Veterans_Health_Administration", 
+            "Energy_conservation", 
+            "Energy", 
+            "United_States_Bureau_of_Reclamation", 
+            "Barack_Obama", 
+            "Reclamation", 
+            "Weapon", 
+            "Science", 
+            "Checkpoint", 
+            "Grant_(money)", 
+            "Subdivision_(land)", 
+            "Water", 
+            "Amtrak", 
+            "United_States_Department_of_Energy", 
+            "Economic_growth", 
+            "Barack_Obama", 
+            "Battery_(electricity)", 
+            "Water_supply", 
+            "Water", 
+            "Technology", 
+            "Weatherization", 
+            "Fossil", 
+            "Airport", 
+            "Water_purification", 
+            "Water_treatment", 
+            "Aviation", 
+            "Water", 
+            "Water", 
+            "State", 
+            "Community_Development_Block_Grant", 
+            "Energy", 
+            "Electricity", 
+            "National_Science_Foundation", 
+            "Energy_efficiency", 
+            "United_States", 
+            "Public_transport", 
+            "Alternative_fuel", 
+            "Energy", 
+            "Water", 
+            "Port", 
+            "Energy", 
+            "Energy_efficiency", 
+            "Energy_efficiency", 
+            "National_Science_Foundation", 
+            "Energy", 
+            "Drought", 
+            "Broadband", 
+            "Engineering", 
+            "Infrastructure", 
+            "Fire_station", 
+            "President_of_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Hospital", 
+            "Rail_transport", 
+            "Trucks", 
+            "United_States_Department_of_Defense", 
+            "Renewable_energy", 
+            "United_States_dollar", 
+            "Childcare", 
+            "Waste_management", 
+            "Energy", 
+            "Science", 
+            "Intercity", 
+            "Modernization", 
+            "Drinking_water", 
+            "National_Oceanic_and_Atmospheric_Administration", 
+            "Inter-city_rail", 
+            "Energy_efficiency", 
+            "U.S._state", 
+            "Economic_development", 
+            "Homeland_security", 
+            "Stimulus_(physiology)", 
+            "Infrastructure", 
+            "Science", 
+            "Battery_(electricity)", 
+            "Manufacturing", 
+            "Highway", 
+            "Energy", 
+            "Infrastructure", 
+            "Environmental_remediation", 
+            "United_States_Department_of_Defense", 
+            "Science", 
+            "Oceanic", 
+            "Environmental_remediation", 
+            "Drinking_water"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Talking_point"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Plant_stem", 
+            "Cell_(biology)", 
+            "Administration_(business)", 
+            "Iraq", 
+            "Small_Business_Administration", 
+            "Stem_cell", 
+            "Credit_card", 
+            "Foreclosure", 
+            "Stem_cell"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Moon", 
+            "Election", 
+            "Conservative_Party_(UK)", 
+            "Mole_Valley_Council_election,_1999", 
+            "The_People", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Foreign_policy", 
+            "United_States", 
+            "Liberalism", 
+            "Demos", 
+            "United_States", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Ideology", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Balanced_budget", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "Conservatism_in_the_United_States", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "America_First_Committee", 
+            "United_States", 
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Oval_Office", 
+            "Economy_of_the_United_States", 
+            "United_States", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "United_States", 
+            "Teleprompter", 
+            "Oval", 
+            "President_of_the_United_States", 
+            "Camera", 
+            "The_Oval", 
+            "Iraq", 
+            "Iraq", 
+            "Credit_card"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Bran", 
+            "Cultural_Marxism", 
+            "George_W._Bush", 
+            "Conservatism_in_the_United_States", 
+            "Liberalism", 
+            "Liberalism", 
+            "Barry_Goldwater", 
+            "Fiscal_conservatism", 
+            "Pendulum", 
+            "Headway", 
+            "Small_government", 
+            "Republican_Party_(United_States)", 
+            "Fundamentalism", 
+            "International_Maritime_Organization", 
+            "Democracy", 
+            "Republicanism", 
+            "Conservatism", 
+            "Conservatism", 
+            "God", 
+            "Republican_Party_(United_States)", 
+            "Social_conservatism", 
+            "Social_conservatism", 
+            "Libertarianism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Wow_(recording)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Republicanism", 
+            "Republicanism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Sat_(Sanskrit)", 
+            "Carl_von_Clausewitz", 
+            "Sarah_Palin", 
+            "Ann_Coulter", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Palin_Majere", 
+            "Politics", 
+            "2009", 
+            "Alaska", 
+            "Larry_King_Live", 
+            "Larry_King", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Ann_Coulter"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "The_Rush_Limbaugh_Show", 
+            "Glenn_Beck", 
+            "Rush_(band)", 
+            "Sean_Hannity", 
+            "Glenn_Beck_Program"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Newt_Gingrich", 
+            "Newt", 
+            "Perspiration", 
+            "Ronald_Reagan", 
+            "Conservatism_in_the_United_States", 
+            "Conservatism_in_the_United_States", 
+            "Turkish_general_election,_2002", 
+            "Ronald_Reagan", 
+            "Theonomy", 
+            "Barry_Goldwater", 
+            "Evangelicalism", 
+            "Conservative_Party_(UK)", 
+            "Project_for_the_New_American_Century", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California", 
+            "Conservatism", 
+            "California", 
+            "Hamartia", 
+            "Cow_Palace", 
+            "Water_(molecule)", 
+            "Trivia", 
+            "Republican_Party_(United_States)", 
+            "1964"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Tax", 
+            "Tax_cut", 
+            "2009", 
+            "Barack_Obama", 
+            "2012", 
+            "Barack_Obama", 
+            "Income_tax", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Wager"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Radio_jockey", 
+            "Savage,_Minnesota", 
+            "Radio", 
+            "Rusty_the_Steam_Engine", 
+            "Rusty_Humphries", 
+            "Carl_von_Clausewitz", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Carl_von_Clausewitz", 
+            "3rd_Party", 
+            "Jock_(athlete)", 
+            "Party_Time", 
+            "Michael_Savage", 
+            "Mantra", 
+            "Carl_von_Clausewitz", 
+            "Conservatism_in_the_United_States", 
+            "Savage,_Minnesota", 
+            "Current_Procedural_Terminology", 
+            "Time_(magazine)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Rachel_Maddow", 
+            "Modern_liberalism_in_the_United_States", 
+            "Rachel", 
+            "Keith_Olbermann", 
+            "Nice", 
+            "Keith_Olbermann"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Cow_Palace"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Shotgun", 
+            "Ronald_Reagan", 
+            "Thomas_Paine", 
+            "Lunatic", 
+            "President_of_the_United_States", 
+            "Conservative_Party_(UK)", 
+            "Camera", 
+            "Libertarianism"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barry_Goldwater", 
+            "Get-rich-quick_scheme", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Soviet_Union", 
+            "Barry_Goldwater", 
+            "Conservative_Party_(UK)", 
+            "United_States", 
+            "Soviet_Union", 
+            "Barry_Goldwater", 
+            "Franklin_D._Roosevelt", 
+            "Barry_Goldwater", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Conscience", 
+            "Nuclear_weapons_delivery", 
+            "Water_(molecule)", 
+            "Conservative_Party_(UK)", 
+            "Safety_(American_football)", 
+            "Theodore_Roosevelt", 
+            "Superpower", 
+            "Conscience", 
+            "1960", 
+            "Union_(American_Civil_War)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Avatar"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Liberalism"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Extreme_(band)", 
+            "Conservatism", 
+            "Liberalism"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Ear", 
+            "Patriot_(American_Revolution)", 
+            "Barack_Obama"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Hoss_Cartwright"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security", 
+            "Wind_power", 
+            "Stimulus_(physiology)", 
+            "Communication", 
+            "Speed", 
+            "English_Restoration", 
+            "Credit_freeze", 
+            "Ulysses_S._Grant", 
+            "Veterans_Health_Administration", 
+            "Energy_conservation", 
+            "Energy", 
+            "United_States_Bureau_of_Reclamation", 
+            "Barack_Obama", 
+            "Reclamation", 
+            "Weapon", 
+            "Science", 
+            "Checkpoint", 
+            "Grant_(money)", 
+            "Subdivision_(land)", 
+            "Water", 
+            "Amtrak", 
+            "United_States_Department_of_Energy", 
+            "Economic_growth", 
+            "Barack_Obama", 
+            "Battery_(electricity)", 
+            "Water_supply", 
+            "Water", 
+            "Technology", 
+            "Weatherization", 
+            "Fossil", 
+            "Airport", 
+            "Water_purification", 
+            "Water_treatment", 
+            "Aviation", 
+            "Water", 
+            "Water", 
+            "State", 
+            "Community_Development_Block_Grant", 
+            "Energy", 
+            "Electricity", 
+            "National_Science_Foundation", 
+            "Energy_efficiency", 
+            "United_States", 
+            "Public_transport", 
+            "Alternative_fuel", 
+            "Energy", 
+            "Water", 
+            "Port", 
+            "Energy", 
+            "Energy_efficiency", 
+            "Energy_efficiency", 
+            "National_Science_Foundation", 
+            "Energy", 
+            "Drought", 
+            "Broadband", 
+            "Engineering", 
+            "Infrastructure", 
+            "Fire_station", 
+            "President_of_the_United_States", 
+            "Stimulus_(physiology)", 
+            "Hospital", 
+            "Rail_transport", 
+            "Trucks", 
+            "United_States_Department_of_Defense", 
+            "Renewable_energy", 
+            "United_States_dollar", 
+            "Childcare", 
+            "Waste_management", 
+            "Energy", 
+            "Science", 
+            "Intercity", 
+            "Modernization", 
+            "Drinking_water", 
+            "National_Oceanic_and_Atmospheric_Administration", 
+            "Inter-city_rail", 
+            "Energy_efficiency", 
+            "U.S._state", 
+            "Economic_development", 
+            "Homeland_security", 
+            "Stimulus_(physiology)", 
+            "Infrastructure", 
+            "Science", 
+            "Battery_(electricity)", 
+            "Manufacturing", 
+            "Highway", 
+            "Energy", 
+            "Infrastructure", 
+            "Environmental_remediation", 
+            "United_States_Department_of_Defense", 
+            "Science", 
+            "Oceanic", 
+            "Environmental_remediation", 
+            "Drinking_water"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Talking_point"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Plant_stem", 
+            "Cell_(biology)", 
+            "Administration_(business)", 
+            "Iraq", 
+            "Small_Business_Administration", 
+            "Stem_cell", 
+            "Credit_card", 
+            "Foreclosure", 
+            "Stem_cell"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Moon", 
+            "Election", 
+            "Conservative_Party_(UK)", 
+            "Mole_Valley_Council_election,_1999", 
+            "The_People", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Foreign_policy", 
+            "United_States", 
+            "Liberalism", 
+            "Demos", 
+            "United_States", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Ideology", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Balanced_budget", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "Conservatism_in_the_United_States", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "America_First_Committee", 
+            "United_States", 
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Oval_Office", 
+            "Economy_of_the_United_States", 
+            "United_States", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "United_States", 
+            "Teleprompter", 
+            "Oval", 
+            "President_of_the_United_States", 
+            "Camera", 
+            "The_Oval", 
+            "Iraq", 
+            "Iraq", 
+            "Credit_card"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Conservatism_in_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Bran", 
+            "Cultural_Marxism", 
+            "George_W._Bush", 
+            "Conservatism_in_the_United_States", 
+            "Liberalism", 
+            "Liberalism", 
+            "Barry_Goldwater", 
+            "Fiscal_conservatism", 
+            "Pendulum", 
+            "Headway", 
+            "Small_government", 
+            "Republican_Party_(United_States)", 
+            "Fundamentalism", 
+            "International_Maritime_Organization", 
+            "Democracy", 
+            "Republicanism", 
+            "Conservatism", 
+            "Conservatism", 
+            "God", 
+            "Republican_Party_(United_States)", 
+            "Social_conservatism", 
+            "Social_conservatism", 
+            "Libertarianism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Wow_(recording)"
+        ], 
+        "postID": 58
+    }
+]

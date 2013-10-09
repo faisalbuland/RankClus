@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Press_up", 
+            "Sit-up", 
+            "Project_ARMS", 
+            "Recruiter", 
+            "Water", 
+            "Project_ARMS", 
+            "Member_of_the_European_Parliament", 
+            "ARM_architecture", 
+            "Pound_(mass)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sauna", 
+            "Juice", 
+            "Salt", 
+            "Juice", 
+            "Diuretic", 
+            "Heat", 
+            "Fruit", 
+            "Temperature", 
+            "Wow", 
+            "Jogging", 
+            "Punching_bag", 
+            "Fat", 
+            "Water", 
+            "Hyperthermia", 
+            "Stroke", 
+            "Muscle", 
+            "College", 
+            "Stadium", 
+            "Prostration", 
+            "Hydration", 
+            "Heat", 
+            "Hyperthermia", 
+            "Water", 
+            "Pound_(mass)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Physician", 
+            "Recruiter", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Physician", 
+            "God", 
+            "Derelict", 
+            "Forum_moderator", 
+            "D._V._Gundappa", 
+            "Internet_forum", 
+            "MEPS", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "ASAP_(Bardot_song)", 
+            "Witchcraft"
+        ], 
+        "postID": 4
+    }
+]

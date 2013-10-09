@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "Religion", 
+            "California", 
+            "Equal_Opportunity_Employment", 
+            "Nikola_Tesla", 
+            "Engineer", 
+            "Gender", 
+            "Grinberg", 
+            "2008", 
+            "Discrimination", 
+            "Equal_Employment_Opportunity_Commission", 
+            "Pink_slip", 
+            "Manufacturing", 
+            "Opportunity_rover", 
+            "Test_engineer", 
+            "Discrimination", 
+            "Ford_Motor_Company", 
+            "San_Carlos,_California", 
+            "1965", 
+            "Pink_slip", 
+            "Tesla_Motors", 
+            "Nikola_Tesla", 
+            "Gerald_Ford", 
+            "Tesla_Motors"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fruit", 
+            "1861", 
+            "December_3", 
+            "Scrooge_(1970_film)", 
+            "Australian_Labor_Party", 
+            "Commodity", 
+            "Australian_Labor_Party", 
+            "United_States_Congress", 
+            "Abraham_Lincoln", 
+            "United_States", 
+            "Buck"
+        ], 
+        "postID": 3
+    }
+]

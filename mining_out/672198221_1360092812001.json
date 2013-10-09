@@ -1,0 +1,374 @@
+[
+    {
+        "entity": [
+            "Armchair"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Posttraumatic_stress_disorder", 
+            "Barrack", 
+            "Indoctrination", 
+            "Social_work", 
+            "Population", 
+            "Fashion"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Religion", 
+            "Gaza_Strip", 
+            "Bias", 
+            "Sniper", 
+            "Dead_zone_(ecology)", 
+            "Soldier", 
+            "Rabbi", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Horror_film", 
+            "Space_Shuttle", 
+            "Horror_film"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "Squad", 
+            "Demo_(music)", 
+            "Climate", 
+            "Palestinian_people", 
+            "Infantry", 
+            "Iraq_War"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fair_and_balanced"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Miracle", 
+            "Terrorism", 
+            "Cat"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "!!!", 
+            "Palestinian_people", 
+            "Hamas", 
+            "Fundamentalism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Domestic_duck", 
+            "Domestic_duck", 
+            "Domestic_duck"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Bomber", 
+            "Suicide_attack", 
+            "Suicide"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Reservist", 
+            "Envelope", 
+            "Soldier", 
+            "Palestinian_people", 
+            "Gaza_Strip", 
+            "Mass_(liturgy)", 
+            "Ethics", 
+            "Profession", 
+            "Esotericism", 
+            "Gaza_Strip", 
+            "Major", 
+            "Technology", 
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Palestinian_people", 
+            "Idan", 
+            "Israel_Defense_Forces", 
+            "Morality", 
+            "Givati_Brigade", 
+            "Israel_Defense_Forces", 
+            "Population", 
+            "Military_reserve_force"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Gaza", 
+            "Sniper", 
+            "Rifle", 
+            "March_20", 
+            "Apple", 
+            "Shovel", 
+            "Tank", 
+            "2009"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Sniper", 
+            "Hearsay", 
+            "Soldier", 
+            "Hearsay", 
+            "Israelis"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Bad_apples_excuse", 
+            "Apple"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Somali_people", 
+            "Forensic_science", 
+            "Indictment", 
+            "Forensic_identification", 
+            "Canada", 
+            "1993"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Hand_grenade", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Palestinian_people", 
+            "Israel"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Armchair"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Posttraumatic_stress_disorder", 
+            "Barrack", 
+            "Indoctrination", 
+            "Social_work", 
+            "Population", 
+            "Fashion"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Religion", 
+            "Gaza_Strip", 
+            "Bias", 
+            "Sniper", 
+            "Dead_zone_(ecology)", 
+            "Soldier", 
+            "Rabbi", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Horror_film", 
+            "Space_Shuttle", 
+            "Horror_film"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "Squad", 
+            "Demo_(music)", 
+            "Climate", 
+            "Palestinian_people", 
+            "Infantry", 
+            "Iraq_War"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fair_and_balanced"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Miracle", 
+            "Terrorism", 
+            "Cat"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "!!!", 
+            "Palestinian_people", 
+            "Hamas", 
+            "Fundamentalism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Domestic_duck", 
+            "Domestic_duck", 
+            "Domestic_duck"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Bomber", 
+            "Suicide_attack", 
+            "Suicide"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Reservist", 
+            "Envelope", 
+            "Soldier", 
+            "Palestinian_people", 
+            "Gaza_Strip", 
+            "Mass_(liturgy)", 
+            "Ethics", 
+            "Profession", 
+            "Esotericism", 
+            "Gaza_Strip", 
+            "Major", 
+            "Technology", 
+            "Israel_Defense_Forces", 
+            "Israel", 
+            "Palestinian_people", 
+            "Idan", 
+            "Israel_Defense_Forces", 
+            "Morality", 
+            "Givati_Brigade", 
+            "Israel_Defense_Forces", 
+            "Population", 
+            "Military_reserve_force"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Gaza", 
+            "Sniper", 
+            "Rifle", 
+            "March_20", 
+            "Apple", 
+            "Shovel", 
+            "Tank", 
+            "2009"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Sniper", 
+            "Hearsay", 
+            "Soldier", 
+            "Hearsay", 
+            "Israelis"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Bad_apples_excuse", 
+            "Apple"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "Somali_people", 
+            "Forensic_science", 
+            "Indictment", 
+            "Forensic_identification", 
+            "Canada", 
+            "1993"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Hand_grenade", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Palestinian_people", 
+            "Israel"
+        ], 
+        "postID": 40
+    }
+]

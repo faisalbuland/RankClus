@@ -1,0 +1,162 @@
+[
+    {
+        "entity": [
+            "NBC", 
+            "Democratic_Party_(United_States)", 
+            "Detroit,_Michigan", 
+            "Barack_Obama", 
+            "Exec_(operating_system)", 
+            "CNN", 
+            "Exec_(operating_system)", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama", 
+            "Michigan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Rosie_O'Donnell", 
+            "Sorta", 
+            "Neil_O'Donnell", 
+            "Model_(person)", 
+            "Rosie_O'Donnell", 
+            "United_States", 
+            "Remorse", 
+            "Hangover"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hangover", 
+            "Thong_(clothing)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Black_people", 
+            "Detroit,_Michigan", 
+            "Baseball", 
+            "Basketball", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Association_football", 
+            "Barack_Obama", 
+            "Cap_(sport)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cap_(sport)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tiger_Woods", 
+            "Detroit,_Michigan", 
+            "Net_worth", 
+            "Tiger", 
+            "Tiger"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Ghost", 
+            "The_Ghost_City", 
+            "Detroit,_Michigan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan", 
+            "!!!"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan", 
+            "John_Rich_(musician)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Nostalgia"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "British_and_Irish_Lions"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Dung", 
+            "Cleveland,_Ohio", 
+            "Dude", 
+            "Detroit_Pistons", 
+            "Detroit_Pistons"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan"
+        ], 
+        "postID": 20
+    }
+]

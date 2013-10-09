@@ -1,0 +1,145 @@
+[
+    {
+        "entity": [
+            "Brain", 
+            "Liberalism", 
+            "Neuroscience_and_intelligence", 
+            "Social_liberalism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Adam_and_Eve", 
+            "Ape", 
+            "Cain_and_Abel", 
+            "Cain_and_Abel", 
+            "Adam_and_Eve", 
+            "Cain_and_Abel", 
+            "Cain_and_Abel", 
+            "Adam_and_Eve", 
+            "Cain_and_Abel", 
+            "Cain_and_Abel"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Conservatism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Carbon", 
+            "Dig_(Mudvayne_song)", 
+            "Carbon_credit", 
+            "Atheism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "College", 
+            "Subset", 
+            "College", 
+            "Postgraduate_education", 
+            "Rhetoric", 
+            "Savage,_Minnesota", 
+            "Subgroup", 
+            "Gallup", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Republican_Party_(United_States)", 
+            "One_Nation_(Australia)", 
+            "X-ray"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bar_association", 
+            "Calculator", 
+            "Liberal_arts", 
+            "Spell_checker", 
+            "College", 
+            "Mathematics", 
+            "Indoctrination"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Weasel", 
+            "Extinction"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tree"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Philosophy", 
+            "Age_of_Enlightenment", 
+            "Far_right", 
+            "Wing", 
+            "Philosophy", 
+            "Democracy", 
+            "Extremism", 
+            "Right-wing_politics"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Skin", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Time_(magazine)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Barack_Obama", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Irish_republicanism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 16
+    }
+]

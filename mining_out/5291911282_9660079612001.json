@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Short_subject"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Lump_(song)", 
+            "Legion", 
+            "American_Legion", 
+            "Film", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ear"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "World_War_II"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Lonestar", 
+            "Niles,_Michigan", 
+            "FYI", 
+            "Niles,_Michigan", 
+            "173rd_Airborne_Brigade_Combat_Team_(United_States)", 
+            "Niles_Harris", 
+            "United_States_Marine_Corps", 
+            "Actor", 
+            "MSNBC", 
+            "Water_supply", 
+            "Don_Imus", 
+            "Vietnam_War", 
+            "Don_Imus", 
+            "Big_&amp;_Rich", 
+            "Airborne_forces", 
+            "Big_&amp;_Rich"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "SpongeBob_SquarePants_(season_3)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Ear"
+        ], 
+        "postID": 8
+    }
+]

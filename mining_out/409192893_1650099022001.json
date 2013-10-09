@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [
+            "Jahannam", 
+            "Propaganda", 
+            "Jahannam", 
+            "Undersecretary", 
+            "Journalism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "New_World", 
+            "Barack_Obama", 
+            "New_World_Order_(conspiracy_theory)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thought", 
+            "Tongue"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Momentum"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bail_(disambiguation)", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bail_(disambiguation)", 
+            "CARE_(relief)", 
+            "Crystal_ball", 
+            "Crystal", 
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "American_Broadcasting_Company", 
+            "CNN", 
+            "MSNBC", 
+            "Nationalization", 
+            "CBS", 
+            "NBC"
+        ], 
+        "postID": 8
+    }
+]

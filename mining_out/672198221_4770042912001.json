@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Donald_Rumsfeld", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bias", 
+            "Audit", 
+            "Military_of_the_United_States", 
+            "Auditing_(Scientology)", 
+            "United_States_Department_of_Defense", 
+            "United_States_Air_Force", 
+            "Elitism", 
+            "Accountancy", 
+            "United_States_Department_of_Defense", 
+            "Accountancy", 
+            "Accountancy", 
+            "United_States_Air_Force", 
+            "Defense_Finance_and_Accounting_Service", 
+            "Accountant", 
+            "Finance", 
+            "Audit", 
+            "Procurement"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cold_War", 
+            "Drawdown_(hydrology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "2011", 
+            "Government_Accountability_Office", 
+            "Government_Accountability_Office", 
+            "General_contractor", 
+            "United_States_Department_of_Defense", 
+            "Government_Accountability_Office"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Procurement"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tooth", 
+            "Philosophy", 
+            "Procurement", 
+            "Lobbying", 
+            "Post-Cold_War_era", 
+            "Defense_industry", 
+            "United_States_Department_of_Defense"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Audit"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Reservist", 
+            "WANT", 
+            "M72_LAW", 
+            "Small_Business_Administration", 
+            "United_States_Department_of_Defense", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 9
+    }
+]

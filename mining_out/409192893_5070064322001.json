@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "Blood_sugar", 
+            "Pharyngeal_reflex", 
+            "Blood", 
+            "Reflex", 
+            "Sugar", 
+            "Hypoglycemia", 
+            "Diabetes_mellitus"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Tablet", 
+            "Coffee", 
+            "Water", 
+            "Press_up", 
+            "One_Nation_(Australia)", 
+            "Cafeteria", 
+            "Sugar", 
+            "One_Heart", 
+            "Dog", 
+            "Sugar"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

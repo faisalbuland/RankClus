@@ -1,0 +1,790 @@
+[
+    {
+        "entity": [
+            "American_Legion", 
+            "Legion", 
+            "2009", 
+            "United_States", 
+            "Mon_people", 
+            "March_16"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Veterinarian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "2009", 
+            "Purple_Heart", 
+            "Amputation", 
+            "Barack_Obama", 
+            "Insurance", 
+            "March_16", 
+            "Mon_people", 
+            "Insurance", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "QWERTY", 
+            "Messiah"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Legion"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Universal_health_care"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "United_States", 
+            "Hospital", 
+            "Myocardial_infarction", 
+            "Health_care"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Insurance", 
+            "Monticello", 
+            "Health_care"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Old_age", 
+            "Impotent_poor"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Insurance", 
+            "Root", 
+            "IMHO", 
+            "Insurance"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "Disability"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Alberto_Gonzales", 
+            "United_States_Senate", 
+            "Patty_and_Selma_Bouvier", 
+            "Peter_R._Orszag", 
+            "Murray,_Utah", 
+            "Murray_River", 
+            "Budget", 
+            "Insurance", 
+            "Patty_Murray", 
+            "Office_of_Management_and_Budget", 
+            "Insurance", 
+            "Out-of-pocket_expenses", 
+            "Out-of-pocket_expenses", 
+            "Third_party_(United_States)", 
+            "Hearing_aid", 
+            "Insurance", 
+            "United_States_Senate", 
+            "Prosthesis", 
+            "U.S._state", 
+            "Murray,_Utah", 
+            "Eric_Shinseki", 
+            "United_States_Senate", 
+            "Patty_Murray", 
+            "2010", 
+            "Patty_and_Selma_Bouvier", 
+            "Veterans_Affairs", 
+            "Influenza", 
+            "Murray_River", 
+            "Transparency_(humanities)", 
+            "Military_service", 
+            "Health_insurance", 
+            "Murray,_Utah", 
+            "Disabled_American_Veterans", 
+            "Murray,_Utah", 
+            "Disability"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "Hematophagy", 
+            "Insurance", 
+            "Military_of_the_United_States", 
+            "Blood", 
+            "Health_insurance", 
+            "The_Presidents_(song)", 
+            "Congratulations_(Eurovision)", 
+            "United_States_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Combat_Information_Center"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Insurance"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "American_Legion", 
+            "Legion", 
+            "2009", 
+            "United_States", 
+            "Mon_people", 
+            "March_16"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Veterinarian"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "2009", 
+            "Purple_Heart", 
+            "Amputation", 
+            "Barack_Obama", 
+            "Insurance", 
+            "March_16", 
+            "Mon_people", 
+            "Insurance", 
+            "Soldier"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "QWERTY", 
+            "Messiah"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Legion"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Universal_health_care"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "United_States", 
+            "Hospital", 
+            "Myocardial_infarction", 
+            "Health_care"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Insurance", 
+            "Monticello", 
+            "Health_care"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Old_age", 
+            "Impotent_poor"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Insurance", 
+            "Root", 
+            "IMHO", 
+            "Insurance"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "Disability"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Alberto_Gonzales", 
+            "United_States_Senate", 
+            "Patty_and_Selma_Bouvier", 
+            "Peter_R._Orszag", 
+            "Murray,_Utah", 
+            "Murray_River", 
+            "Budget", 
+            "Insurance", 
+            "Patty_Murray", 
+            "Office_of_Management_and_Budget", 
+            "Insurance", 
+            "Out-of-pocket_expenses", 
+            "Out-of-pocket_expenses", 
+            "Third_party_(United_States)", 
+            "Hearing_aid", 
+            "Insurance", 
+            "United_States_Senate", 
+            "Prosthesis", 
+            "U.S._state", 
+            "Murray,_Utah", 
+            "Eric_Shinseki", 
+            "United_States_Senate", 
+            "Patty_Murray", 
+            "2010", 
+            "Patty_and_Selma_Bouvier", 
+            "Veterans_Affairs", 
+            "Influenza", 
+            "Murray_River", 
+            "Transparency_(humanities)", 
+            "Military_service", 
+            "Health_insurance", 
+            "Murray,_Utah", 
+            "Disabled_American_Veterans", 
+            "Murray,_Utah", 
+            "Disability"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "Hematophagy", 
+            "Insurance", 
+            "Military_of_the_United_States", 
+            "Blood", 
+            "Health_insurance", 
+            "The_Presidents_(song)", 
+            "Congratulations_(Eurovision)", 
+            "United_States_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Combat_Information_Center"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Insurance"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "American_Legion", 
+            "Legion", 
+            "2009", 
+            "United_States", 
+            "Mon_people", 
+            "March_16"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Veterinarian"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "2009", 
+            "Purple_Heart", 
+            "Amputation", 
+            "Barack_Obama", 
+            "Insurance", 
+            "March_16", 
+            "Mon_people", 
+            "Insurance", 
+            "Soldier"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "QWERTY", 
+            "Messiah"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Legion"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Universal_health_care"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "United_States", 
+            "Hospital", 
+            "Myocardial_infarction", 
+            "Health_care"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Insurance", 
+            "Monticello", 
+            "Health_care"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Old_age", 
+            "Impotent_poor"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Insurance", 
+            "Root", 
+            "IMHO", 
+            "Insurance"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "Disability"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Alberto_Gonzales", 
+            "United_States_Senate", 
+            "Patty_and_Selma_Bouvier", 
+            "Peter_R._Orszag", 
+            "Murray,_Utah", 
+            "Murray_River", 
+            "Budget", 
+            "Insurance", 
+            "Patty_Murray", 
+            "Office_of_Management_and_Budget", 
+            "Insurance", 
+            "Out-of-pocket_expenses", 
+            "Out-of-pocket_expenses", 
+            "Third_party_(United_States)", 
+            "Hearing_aid", 
+            "Insurance", 
+            "United_States_Senate", 
+            "Prosthesis", 
+            "U.S._state", 
+            "Murray,_Utah", 
+            "Eric_Shinseki", 
+            "United_States_Senate", 
+            "Patty_Murray", 
+            "2010", 
+            "Patty_and_Selma_Bouvier", 
+            "Veterans_Affairs", 
+            "Influenza", 
+            "Murray_River", 
+            "Transparency_(humanities)", 
+            "Military_service", 
+            "Health_insurance", 
+            "Murray,_Utah", 
+            "Disabled_American_Veterans", 
+            "Murray,_Utah", 
+            "Disability"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "Hematophagy", 
+            "Insurance", 
+            "Military_of_the_United_States", 
+            "Blood", 
+            "Health_insurance", 
+            "The_Presidents_(song)", 
+            "Congratulations_(Eurovision)", 
+            "United_States_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Combat_Information_Center"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Insurance"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "American_Legion", 
+            "Legion", 
+            "2009", 
+            "United_States", 
+            "Mon_people", 
+            "March_16"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Veterinarian"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "2009", 
+            "Purple_Heart", 
+            "Amputation", 
+            "Barack_Obama", 
+            "Insurance", 
+            "March_16", 
+            "Mon_people", 
+            "Insurance", 
+            "Soldier"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "QWERTY", 
+            "Messiah"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Legion"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Health_insurance", 
+            "Health_insurance", 
+            "Universal_health_care"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "United_States", 
+            "Hospital", 
+            "Myocardial_infarction", 
+            "Health_care"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Insurance", 
+            "Monticello", 
+            "Health_care"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Insurance"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Old_age", 
+            "Impotent_poor"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Insurance", 
+            "Root", 
+            "IMHO", 
+            "Insurance"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Insurance", 
+            "Disability"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Alberto_Gonzales", 
+            "United_States_Senate", 
+            "Patty_and_Selma_Bouvier", 
+            "Peter_R._Orszag", 
+            "Murray,_Utah", 
+            "Murray_River", 
+            "Budget", 
+            "Insurance", 
+            "Patty_Murray", 
+            "Office_of_Management_and_Budget", 
+            "Insurance", 
+            "Out-of-pocket_expenses", 
+            "Out-of-pocket_expenses", 
+            "Third_party_(United_States)", 
+            "Hearing_aid", 
+            "Insurance", 
+            "United_States_Senate", 
+            "Prosthesis", 
+            "U.S._state", 
+            "Murray,_Utah", 
+            "Eric_Shinseki", 
+            "United_States_Senate", 
+            "Patty_Murray", 
+            "2010", 
+            "Patty_and_Selma_Bouvier", 
+            "Veterans_Affairs", 
+            "Influenza", 
+            "Murray_River", 
+            "Transparency_(humanities)", 
+            "Military_service", 
+            "Health_insurance", 
+            "Murray,_Utah", 
+            "Disabled_American_Veterans", 
+            "Murray,_Utah", 
+            "Disability"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "Hematophagy", 
+            "Insurance", 
+            "Military_of_the_United_States", 
+            "Blood", 
+            "Health_insurance", 
+            "The_Presidents_(song)", 
+            "Congratulations_(Eurovision)", 
+            "United_States_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Combat_Information_Center"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Canada"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Insurance"
+        ], 
+        "postID": 80
+    }
+]

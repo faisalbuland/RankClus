@@ -1,0 +1,362 @@
+[
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Judicial_activism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Electoral_college", 
+            "College"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "2000"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "LOL", 
+            "Electoral_College_(United_States)", 
+            "College", 
+            "The_Democrats"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Koza", 
+            "Non-profit_organization", 
+            "Board_of_directors", 
+            "Political_campaign", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Non-profit_organization"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "New_York", 
+            "Al_Gore", 
+            "College", 
+            "Electoral_College_(United_States)", 
+            "Rhode_Island", 
+            "Crime", 
+            "Electoral_College_(United_States)", 
+            "Rhode_Island", 
+            "Montana", 
+            "Partition_of_India", 
+            "Electoral_college", 
+            "Montana"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "College", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Electoral_College_(United_States)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Forum", 
+            "Thomas_Paine"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Demos", 
+            "George_W._Bush", 
+            "365", 
+            "538", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Lost_(TV_series)", 
+            "2000"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Non-profit_organization", 
+            "Democratic_Party_(United_States)", 
+            "Ford_Motor_Company", 
+            "Democratic_Party_(United_States)", 
+            "Koza", 
+            "Board_of_directors", 
+            "Political_campaign", 
+            "Non-profit_organization", 
+            "Gerald_Ford"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Electoral_College_(United_States)", 
+            "Ford_Motor_Company", 
+            "College", 
+            "Gerald_Ford", 
+            "College", 
+            "Extinct_language"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Electoral_college", 
+            "Electoral_college"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "College", 
+            "State", 
+            "Australian_Senate", 
+            "Roman_Senate", 
+            "Trade_union", 
+            "Voting_system", 
+            "Australian_Senate", 
+            "Rallying", 
+            "Australian_Senate", 
+            "Trade_union", 
+            "Electoral_College_(United_States)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Senate", 
+            "Trade_union", 
+            "Wisdom", 
+            "College", 
+            "United_States_Senate", 
+            "Rallying", 
+            "State", 
+            "Voting_system", 
+            "United_States_Senate", 
+            "Republic", 
+            "Trade_union", 
+            "Electoral_College_(United_States)", 
+            "Australian_Senate"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Judicial_activism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Electoral_college", 
+            "College"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "2000"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "LOL", 
+            "Electoral_College_(United_States)", 
+            "College", 
+            "The_Democrats"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Koza", 
+            "Non-profit_organization", 
+            "Board_of_directors", 
+            "Political_campaign", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Non-profit_organization"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "New_York", 
+            "Al_Gore", 
+            "College", 
+            "Electoral_College_(United_States)", 
+            "Rhode_Island", 
+            "Crime", 
+            "Electoral_College_(United_States)", 
+            "Rhode_Island", 
+            "Montana", 
+            "Partition_of_India", 
+            "Electoral_college", 
+            "Montana"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "College", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Electoral_College_(United_States)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Forum", 
+            "Thomas_Paine"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Demos", 
+            "George_W._Bush", 
+            "365", 
+            "538", 
+            "George_W._Bush"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Lost_(TV_series)", 
+            "2000"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Non-profit_organization", 
+            "Democratic_Party_(United_States)", 
+            "Ford_Motor_Company", 
+            "Democratic_Party_(United_States)", 
+            "Koza", 
+            "Board_of_directors", 
+            "Political_campaign", 
+            "Non-profit_organization", 
+            "Gerald_Ford"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Electoral_College_(United_States)", 
+            "Ford_Motor_Company", 
+            "College", 
+            "Gerald_Ford", 
+            "College", 
+            "Extinct_language"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "Electoral_college", 
+            "Electoral_college"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "College", 
+            "State", 
+            "Australian_Senate", 
+            "Roman_Senate", 
+            "Trade_union", 
+            "Voting_system", 
+            "Australian_Senate", 
+            "Rallying", 
+            "Australian_Senate", 
+            "Trade_union", 
+            "Electoral_College_(United_States)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Senate", 
+            "Trade_union", 
+            "Wisdom", 
+            "College", 
+            "United_States_Senate", 
+            "Rallying", 
+            "State", 
+            "Voting_system", 
+            "United_States_Senate", 
+            "Republic", 
+            "Trade_union", 
+            "Electoral_College_(United_States)", 
+            "Australian_Senate"
+        ], 
+        "postID": 38
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Vaccine", 
+            "Canada", 
+            "Infectious_disease", 
+            "Infectious_disease", 
+            "Australia", 
+            "Pandemic", 
+            "Air_travel", 
+            "Infectious_disease", 
+            "Infectious_disease", 
+            "Infectious_disease", 
+            "Spanish_flu", 
+            "1918"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pig"
+        ], 
+        "postID": 2
+    }
+]

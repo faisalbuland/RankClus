@@ -1,0 +1,63 @@
+[
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Truck_driver", 
+            "Ford_Motor_Company", 
+            "Truck_driver", 
+            "Police", 
+            "Motel", 
+            "Oklahoma", 
+            "Serial_killer", 
+            "Interstate_40", 
+            "Hitchhiking", 
+            "Truck_stop", 
+            "Crime", 
+            "Truck", 
+            "Trucking_industry_in_the_United_States", 
+            "United_States", 
+            "Prostitution", 
+            "Truck_driver", 
+            "Gerald_Ford", 
+            "Database", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "Serial_(radio_and_television)", 
+            "Database"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Hitchhiking", 
+            "Trucking_industry_in_the_United_States", 
+            "Prostitution", 
+            "Federal_Bureau_of_Investigation", 
+            "States_and_territories_of_India", 
+            "Serial_(film)", 
+            "Ford_Motor_Company", 
+            "Serial_killer"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hitchhiking", 
+            "Vagrancy", 
+            "Truck_driver"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hobo", 
+            "Police", 
+            "Gerald_Ford", 
+            "Truck", 
+            "Ford_Motor_Company", 
+            "Hobo"
+        ], 
+        "postID": 4
+    }
+]

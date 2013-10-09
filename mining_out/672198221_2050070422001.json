@@ -1,0 +1,14 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Mining", 
+            "Alcoholic_beverage", 
+            "Pornography"
+        ], 
+        "postID": 2
+    }
+]

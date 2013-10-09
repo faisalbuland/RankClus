@@ -1,0 +1,416 @@
+[
+    {
+        "entity": [
+            "Income_tax", 
+            "Income_tax", 
+            "Value_added_tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Middle_class"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Class_conflict", 
+            "Income_tax", 
+            "Middle_class", 
+            "Tax", 
+            "Value_added_tax", 
+            "Tax", 
+            "Income_tax", 
+            "Value_added_tax", 
+            "Bench_press", 
+            "FairTax", 
+            "Irish_republicanism", 
+            "Income_tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Income_tax", 
+            "Tax", 
+            "Value_added_tax", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Value_added_tax", 
+            "FairTax", 
+            "Tax"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Flat_tax", 
+            "Nocturnal_emission", 
+            "Tax", 
+            "Income_tax", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Rat", 
+            "Flat_tax", 
+            "Hell", 
+            "Tax"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Joseph_Stalin", 
+            "Tax", 
+            "Tax", 
+            "Joseph_Stalin", 
+            "Value_added_tax", 
+            "Politics"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "Tax", 
+            "President_of_the_United_States", 
+            "Value_added_tax", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "The_Change_(Marie_Fredriksson_album)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "1913"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "George_W._Bush", 
+            "Tax", 
+            "Tax_cut", 
+            "Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "Steve_Forbes", 
+            "CBS_News", 
+            "CBS", 
+            "Forbes", 
+            "Flat_tax", 
+            "CBS", 
+            "Bill_Goldberg", 
+            "Reporter", 
+            "Tax"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Repertory", 
+            "Repertory"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Progressive_tax", 
+            "Tax", 
+            "Franklin_D._Roosevelt", 
+            "Franklin,_Tennessee", 
+            "Progressive_tax", 
+            "Tax", 
+            "Flat_tax", 
+            "Politician", 
+            "Tax", 
+            "Tax", 
+            "Flat_tax", 
+            "Sales_tax", 
+            "Tax", 
+            "Sales_tax", 
+            "Income_tax", 
+            "Welsh_people", 
+            "Value_added_tax", 
+            "Value_added_tax", 
+            "Franklin_D._Roosevelt", 
+            "Tax"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Debt"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Utopia", 
+            "Sales_tax", 
+            "Tax_avoidance_and_tax_evasion", 
+            "Flat_tax", 
+            "Tax", 
+            "Sales_tax", 
+            "Gasoline", 
+            "Tax", 
+            "Income_tax", 
+            "Tax", 
+            "Progressive_tax"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Property_tax", 
+            "Federal_government_of_the_United_States", 
+            "Income_tax", 
+            "Hell"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Communism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Income_tax", 
+            "Value_added_tax"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Middle_class"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Class_conflict", 
+            "Income_tax", 
+            "Middle_class", 
+            "Tax", 
+            "Value_added_tax", 
+            "Tax", 
+            "Income_tax", 
+            "Value_added_tax", 
+            "Bench_press", 
+            "FairTax", 
+            "Irish_republicanism", 
+            "Income_tax"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Income_tax", 
+            "Tax", 
+            "Value_added_tax", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Value_added_tax", 
+            "FairTax", 
+            "Tax"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Flat_tax", 
+            "Nocturnal_emission", 
+            "Tax", 
+            "Income_tax", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Rat", 
+            "Flat_tax", 
+            "Hell", 
+            "Tax"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Joseph_Stalin", 
+            "Tax", 
+            "Tax", 
+            "Joseph_Stalin", 
+            "Value_added_tax", 
+            "Politics"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "Tax", 
+            "President_of_the_United_States", 
+            "Value_added_tax", 
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "The_Change_(Marie_Fredriksson_album)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "1913"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "George_W._Bush", 
+            "Tax", 
+            "Tax_cut", 
+            "Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics", 
+            "Steve_Forbes", 
+            "CBS_News", 
+            "CBS", 
+            "Forbes", 
+            "Flat_tax", 
+            "CBS", 
+            "Bill_Goldberg", 
+            "Reporter", 
+            "Tax"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Repertory", 
+            "Repertory"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Progressive_tax", 
+            "Tax", 
+            "Franklin_D._Roosevelt", 
+            "Franklin,_Tennessee", 
+            "Progressive_tax", 
+            "Tax", 
+            "Flat_tax", 
+            "Politician", 
+            "Tax", 
+            "Tax", 
+            "Flat_tax", 
+            "Sales_tax", 
+            "Tax", 
+            "Sales_tax", 
+            "Income_tax", 
+            "Welsh_people", 
+            "Value_added_tax", 
+            "Value_added_tax", 
+            "Franklin_D._Roosevelt", 
+            "Tax"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Debt"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Utopia", 
+            "Sales_tax", 
+            "Tax_avoidance_and_tax_evasion", 
+            "Flat_tax", 
+            "Tax", 
+            "Sales_tax", 
+            "Gasoline", 
+            "Tax", 
+            "Income_tax", 
+            "Tax", 
+            "Progressive_tax"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Property_tax", 
+            "Federal_government_of_the_United_States", 
+            "Income_tax", 
+            "Hell"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Communism"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

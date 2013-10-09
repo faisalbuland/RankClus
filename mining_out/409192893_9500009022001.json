@@ -1,0 +1,236 @@
+[
+    {
+        "entity": [
+            "National_anthem", 
+            "New_York", 
+            "Reuters", 
+            "Patriotism", 
+            "Alcohol", 
+            "Police", 
+            "Reuters", 
+            "Alcohol", 
+            "Police_officer", 
+            "Washroom", 
+            "Reuters", 
+            "Race_track", 
+            "New_York_Yankees", 
+            "Stadium", 
+            "New_York_Yankees", 
+            "New_York_Yankees", 
+            "United_States", 
+            "New_York", 
+            "New_York_Yankees", 
+            "NASCAR", 
+            "Urination", 
+            "God_Bless_America", 
+            "Concession", 
+            "Theatre", 
+            "New_York_Yankees", 
+            "Movie_theater", 
+            "National_anthem", 
+            "Patriotism", 
+            "God"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Public_opinion", 
+            "Stern", 
+            "Law_enforcement_in_the_United_Kingdom", 
+            "National_anthem", 
+            "National_anthem", 
+            "Police", 
+            "National_anthem", 
+            "National_anthem"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stadium", 
+            "Alcohol", 
+            "New_York_Yankees", 
+            "Poster", 
+            "Yankee_Stadium", 
+            "Alcohol"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "God_Bless_America", 
+            "Washroom", 
+            "Deep_South", 
+            "God_Bless_America", 
+            "Innings", 
+            "New_York_City", 
+            "Law", 
+            "York,_Pennsylvania", 
+            "Stadium", 
+            "Philadelphia", 
+            "New_York", 
+            "Seventh-inning_stretch", 
+            "Law", 
+            "God", 
+            "United_States", 
+            "God", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Alcohol"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Alumnus", 
+            "Hip_flask", 
+            "College_football", 
+            "War_Eagle", 
+            "Keg", 
+            "Eagle", 
+            "American_football", 
+            "Flask", 
+            "Southeastern_Conference", 
+            "Alcoholic_beverage"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Anthem", 
+            "Teh", 
+            "National_anthem"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Jacksonville,_Florida", 
+            "Eagle", 
+            "Cocktail_(film)", 
+            "LOL", 
+            "War_Eagle", 
+            "Hell", 
+            "Detroit_Tigers"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Alcohol", 
+            "Seawitch_(novel)", 
+            "Language", 
+            "Queens", 
+            "New_York_Yankees", 
+            "The_Bronx", 
+            "Alcohol", 
+            "Stadium", 
+            "The_Bronx"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_Steinbrenner", 
+            "Language", 
+            "Alcohol", 
+            "Departments_of_France", 
+            "WCBS-TV", 
+            "Police"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "New_York_Yankees"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "New_York_Yankees", 
+            "Yankee_Stadium", 
+            "Dallas_Cowboys_New_Stadium", 
+            "CC_Sabathia", 
+            "Baseball_park", 
+            "Innings_pitched", 
+            "Yankee_Stadium"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Glare_(vision)", 
+            "Diarrhea", 
+            "National_anthem", 
+            "Anthem", 
+            "National_anthem", 
+            "Prostate", 
+            "Anthem"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "The_Star-Spangled_Banner", 
+            "Banner", 
+            "The_Star-Spangled_Banner", 
+            "Drinking_song"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Muskogee,_Oklahoma", 
+            "The_Star-Spangled_Banner", 
+            "God_Bless_America", 
+            "Banner", 
+            "Police_Story_3", 
+            "Okie", 
+            "National_anthem", 
+            "United_States", 
+            "Hazelwood,_Missouri", 
+            "Service_pistol", 
+            "National_anthem", 
+            "Handgun", 
+            "The_Star_(Malaysia)", 
+            "Lee_Hazlewood", 
+            "Merle_Haggard", 
+            "God"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Tamsulosin"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Hardcore_punk"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Public_intoxication"
+        ], 
+        "postID": 20
+    }
+]

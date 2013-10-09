@@ -1,0 +1,74 @@
+[
+    {
+        "entity": [
+            "Harmonica", 
+            "Nancy", 
+            "Barbra_Streisand", 
+            "Yesterday_(song)", 
+            "Dixie_Chicks", 
+            "Nelson,_New_Zealand", 
+            "Nancy_Pelosi", 
+            "Scotch", 
+            "Dan_Rather", 
+            "National_anthem", 
+            "Truck", 
+            "Al_Gore", 
+            "Drum", 
+            "John_F._Kennedy", 
+            "Tambourine", 
+            "Guitar", 
+            "Ted_Kennedy", 
+            "Dixie_(song)", 
+            "Chevrolet_Silverado", 
+            "Nancy_Pelosi", 
+            "Radio", 
+            "Willie_Nelson", 
+            "Al_Gore", 
+            "Truck", 
+            "Truck", 
+            "John_Kerry", 
+            "GMC_(automobile)", 
+            "John_Kerry", 
+            "Dixie_Chicks", 
+            "Bill_Clinton", 
+            "Mexico", 
+            "Classical_music", 
+            "Bill_Clinton", 
+            "Anthem", 
+            "Spoons", 
+            "Classical_music", 
+            "Harry_Reid", 
+            "Peter_Fonda", 
+            "Michael_Moore", 
+            "Radio", 
+            "Radio", 
+            "Chevrolet_Silverado", 
+            "Georgia_(U.S._state)", 
+            "Saxophone", 
+            "Iran", 
+            "Radio", 
+            "Jane_Fonda"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Mexico"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Mike_Nugent", 
+            "Warranty", 
+            "Ted_Nugent"
+        ], 
+        "postID": 4
+    }
+]

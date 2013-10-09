@@ -1,0 +1,24 @@
+[
+    {
+        "entity": [
+            "Bomb", 
+            "GI_(military)", 
+            "2009", 
+            "Bomb_disposal", 
+            "Iraq", 
+            "Point_Break", 
+            "Film_trailer", 
+            "Film_director", 
+            "Film_trailer", 
+            "EOD", 
+            "Hurt_(Nine_Inch_Nails_song)", 
+            "YouTube", 
+            "The_Hurt_Locker"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }
+]

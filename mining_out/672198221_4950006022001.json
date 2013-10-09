@@ -1,0 +1,171 @@
+[
+    {
+        "entity": [
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Bank", 
+            "Joe_Biden", 
+            "April_13", 
+            "Mon_people", 
+            "Mythology", 
+            "2009", 
+            "Thomas_Jefferson", 
+            "Conservatism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "North_Korea", 
+            "Piracy", 
+            "National_security", 
+            "Somalia", 
+            "Korea", 
+            "Piracy_in_Somalia"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Mon_people", 
+            "April_13", 
+            "Raft", 
+            "National_security", 
+            "2009", 
+            "Mythology"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bainbridge,_Georgia", 
+            "Lifeboat_(film)", 
+            "United_States_Naval_Special_Warfare_Development_Group", 
+            "AKM", 
+            "Operation_Overlord", 
+            "Overlord"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Faux"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "April_13", 
+            "Barack_Obama", 
+            "Cruiser", 
+            "Somali", 
+            "President_of_the_United_States", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Mon_people", 
+            "2009", 
+            "Packet_sniffer", 
+            "Michelle_Obama", 
+            "Messiah", 
+            "Anointing", 
+            "Piracy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "MSNBC", 
+            "CNN"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "The_One_(film)", 
+            "Bo", 
+            "Bo", 
+            "Flatulence", 
+            "Federal_Bureau_of_Investigation", 
+            "Somalia", 
+            "Piracy", 
+            "Bo", 
+            "Navy", 
+            "Quarterback_sack", 
+            "Citizenship", 
+            "Navy", 
+            "Jack_(device)", 
+            "Captain", 
+            "United_States_nationality_law"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "List_of_countries_by_population", 
+            "National_security", 
+            "Korea", 
+            "Monarchy", 
+            "Spacecraft", 
+            "Space_exploration", 
+            "Sovereignty"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Launch_pad", 
+            "UN_Mandate", 
+            "International_waters", 
+            "Missile", 
+            "President_of_the_United_States", 
+            "Advanced_Micro_Devices", 
+            "League_of_Nations_mandate"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Reconnaissance", 
+            "United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "President_of_the_United_States", 
+            "United_States_nationality_law", 
+            "United_States", 
+            "Piracy", 
+            "Korea", 
+            "North_Korea", 
+            "Jury", 
+            "Somalia", 
+            "United_States", 
+            "Citizenship", 
+            "Barack_Obama", 
+            "Theatrical_property", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "John_F._Kennedy", 
+            "Nikita_Khrushchev", 
+            "Korea", 
+            "President_of_the_United_States", 
+            "Conservatism"
+        ], 
+        "postID": 16
+    }
+]

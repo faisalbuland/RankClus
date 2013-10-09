@@ -1,0 +1,846 @@
+[
+    {
+        "entity": [
+            "Manhattan", 
+            "President_of_the_United_States", 
+            "Film_director", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House_Military_Office", 
+            "Louis_Caldera", 
+            "White_House", 
+            "White_House", 
+            "Louis_Caldera", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Statue_of_Liberty", 
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Liberty", 
+            "White_House", 
+            "Fiasco", 
+            "Air_Force_One", 
+            "Air_Force_One", 
+            "Daily_News_(New_York)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Barack_Obama", 
+            "Photo_op"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Desperation", 
+            "Brownie_(mythology)", 
+            "Desperation", 
+            "Quarterback_sack"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Slam_Dunk_Contest", 
+            "York_City_F.C.", 
+            "Dunk", 
+            "New_York", 
+            "George_Tenet", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "Slam_Dunk_Contest", 
+            "Barack_Obama", 
+            "Savage_(rapper)", 
+            "Dunk"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Payroll", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Bonehead"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "177th_Fighter_Wing", 
+            "Alabama", 
+            "New_York_City", 
+            "Alabama", 
+            "New_York", 
+            "Jersey", 
+            "30_Minutes", 
+            "Air_National_Guard", 
+            "Tuskegee,_Alabama", 
+            "Crow", 
+            "Airman", 
+            "York_City_F.C.", 
+            "World_War_II", 
+            "New_Jersey", 
+            "Atlantic_Ocean", 
+            "Escort_fighter", 
+            "Atlantic_City,_New_Jersey"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Comprehension", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dictionary"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Hearing_aid", 
+            "Implant_(medicine)", 
+            "Immigration", 
+            "Breast_implant", 
+            "Terrorism", 
+            "Nancy", 
+            "Illegal_immigration", 
+            "Breast"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Neil_Bush", 
+            "George_H._W._Bush", 
+            "Congressional_district", 
+            "Iraq"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fiscal_year", 
+            "Iraq", 
+            "Ear", 
+            "Appropriation_bill", 
+            "2010", 
+            "2007", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Congress", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Congress_of_the_State_of_M\u00e9xico", 
+            "United_States_Congress"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Quibble_(plot_device)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Scapegoat"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Gee", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Nuclear_weapon", 
+            "Iraq", 
+            "Get_Smart", 
+            "United_States_Senate", 
+            "Dollar", 
+            "Socialism"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Seizure", 
+            "Pastor", 
+            "Nancy_Pelosi", 
+            "Bus"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Manhattan", 
+            "President_of_the_United_States", 
+            "Film_director", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House_Military_Office", 
+            "Louis_Caldera", 
+            "White_House", 
+            "White_House", 
+            "Louis_Caldera", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Statue_of_Liberty", 
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Liberty", 
+            "White_House", 
+            "Fiasco", 
+            "Air_Force_One", 
+            "Air_Force_One", 
+            "Daily_News_(New_York)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Barack_Obama", 
+            "Photo_op"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Desperation", 
+            "Brownie_(mythology)", 
+            "Desperation", 
+            "Quarterback_sack"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Slam_Dunk_Contest", 
+            "York_City_F.C.", 
+            "Dunk", 
+            "New_York", 
+            "George_Tenet", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "Slam_Dunk_Contest", 
+            "Barack_Obama", 
+            "Savage_(rapper)", 
+            "Dunk"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Payroll", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Bonehead"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "177th_Fighter_Wing", 
+            "Alabama", 
+            "New_York_City", 
+            "Alabama", 
+            "New_York", 
+            "Jersey", 
+            "30_Minutes", 
+            "Air_National_Guard", 
+            "Tuskegee,_Alabama", 
+            "Crow", 
+            "Airman", 
+            "York_City_F.C.", 
+            "World_War_II", 
+            "New_Jersey", 
+            "Atlantic_Ocean", 
+            "Escort_fighter", 
+            "Atlantic_City,_New_Jersey"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Comprehension", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dictionary"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Hearing_aid", 
+            "Implant_(medicine)", 
+            "Immigration", 
+            "Breast_implant", 
+            "Terrorism", 
+            "Nancy", 
+            "Illegal_immigration", 
+            "Breast"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Neil_Bush", 
+            "George_H._W._Bush", 
+            "Congressional_district", 
+            "Iraq"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fiscal_year", 
+            "Iraq", 
+            "Ear", 
+            "Appropriation_bill", 
+            "2010", 
+            "2007", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Congress", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Congress_of_the_State_of_M\u00e9xico", 
+            "United_States_Congress"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Quibble_(plot_device)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Scapegoat"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Gee", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Nuclear_weapon", 
+            "Iraq", 
+            "Get_Smart", 
+            "United_States_Senate", 
+            "Dollar", 
+            "Socialism"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Seizure", 
+            "Pastor", 
+            "Nancy_Pelosi", 
+            "Bus"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Manhattan", 
+            "President_of_the_United_States", 
+            "Film_director", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House_Military_Office", 
+            "Louis_Caldera", 
+            "White_House", 
+            "White_House", 
+            "Louis_Caldera", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Statue_of_Liberty", 
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Liberty", 
+            "White_House", 
+            "Fiasco", 
+            "Air_Force_One", 
+            "Air_Force_One", 
+            "Daily_News_(New_York)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Barack_Obama", 
+            "Photo_op"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Desperation", 
+            "Brownie_(mythology)", 
+            "Desperation", 
+            "Quarterback_sack"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Slam_Dunk_Contest", 
+            "York_City_F.C.", 
+            "Dunk", 
+            "New_York", 
+            "George_Tenet", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "Slam_Dunk_Contest", 
+            "Barack_Obama", 
+            "Savage_(rapper)", 
+            "Dunk"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Payroll", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Bonehead"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "177th_Fighter_Wing", 
+            "Alabama", 
+            "New_York_City", 
+            "Alabama", 
+            "New_York", 
+            "Jersey", 
+            "30_Minutes", 
+            "Air_National_Guard", 
+            "Tuskegee,_Alabama", 
+            "Crow", 
+            "Airman", 
+            "York_City_F.C.", 
+            "World_War_II", 
+            "New_Jersey", 
+            "Atlantic_Ocean", 
+            "Escort_fighter", 
+            "Atlantic_City,_New_Jersey"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Comprehension", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Dictionary"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Hearing_aid", 
+            "Implant_(medicine)", 
+            "Immigration", 
+            "Breast_implant", 
+            "Terrorism", 
+            "Nancy", 
+            "Illegal_immigration", 
+            "Breast"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Neil_Bush", 
+            "George_H._W._Bush", 
+            "Congressional_district", 
+            "Iraq"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Fiscal_year", 
+            "Iraq", 
+            "Ear", 
+            "Appropriation_bill", 
+            "2010", 
+            "2007", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Congress", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Congress_of_the_State_of_M\u00e9xico", 
+            "United_States_Congress"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Quibble_(plot_device)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Scapegoat"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Gee", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Nuclear_weapon", 
+            "Iraq", 
+            "Get_Smart", 
+            "United_States_Senate", 
+            "Dollar", 
+            "Socialism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Seizure", 
+            "Pastor", 
+            "Nancy_Pelosi", 
+            "Bus"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Manhattan", 
+            "President_of_the_United_States", 
+            "Film_director", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House_Military_Office", 
+            "Louis_Caldera", 
+            "White_House", 
+            "White_House", 
+            "Louis_Caldera", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Statue_of_Liberty", 
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Liberty", 
+            "White_House", 
+            "Fiasco", 
+            "Air_Force_One", 
+            "Air_Force_One", 
+            "Daily_News_(New_York)", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Caldera", 
+            "Barack_Obama", 
+            "Photo_op"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Red_(disambiguation)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Desperation", 
+            "Brownie_(mythology)", 
+            "Desperation", 
+            "Quarterback_sack"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Slam_Dunk_Contest", 
+            "York_City_F.C.", 
+            "Dunk", 
+            "New_York", 
+            "George_Tenet", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "Slam_Dunk_Contest", 
+            "Barack_Obama", 
+            "Savage_(rapper)", 
+            "Dunk"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Payroll", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Bonehead"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "177th_Fighter_Wing", 
+            "Alabama", 
+            "New_York_City", 
+            "Alabama", 
+            "New_York", 
+            "Jersey", 
+            "30_Minutes", 
+            "Air_National_Guard", 
+            "Tuskegee,_Alabama", 
+            "Crow", 
+            "Airman", 
+            "York_City_F.C.", 
+            "World_War_II", 
+            "New_Jersey", 
+            "Atlantic_Ocean", 
+            "Escort_fighter", 
+            "Atlantic_City,_New_Jersey"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Comprehension", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Dictionary"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Hearing_aid", 
+            "Implant_(medicine)", 
+            "Immigration", 
+            "Breast_implant", 
+            "Terrorism", 
+            "Nancy", 
+            "Illegal_immigration", 
+            "Breast"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Neil_Bush", 
+            "George_H._W._Bush", 
+            "Congressional_district", 
+            "Iraq"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Fiscal_year", 
+            "Iraq", 
+            "Ear", 
+            "Appropriation_bill", 
+            "2010", 
+            "2007", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Congress", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Congress_of_the_State_of_M\u00e9xico", 
+            "United_States_Congress"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Quibble_(plot_device)"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Scapegoat"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Gee", 
+            "Democratic_Party_(United_States)", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Nuclear_weapon", 
+            "Iraq", 
+            "Get_Smart", 
+            "United_States_Senate", 
+            "Dollar", 
+            "Socialism"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "Seizure", 
+            "Pastor", 
+            "Nancy_Pelosi", 
+            "Bus"
+        ], 
+        "postID": 76
+    }
+]

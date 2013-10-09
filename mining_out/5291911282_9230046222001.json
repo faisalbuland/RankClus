@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Recruit_training", 
+            "United_States_Navy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Gilligan_(Gilligan's_Island)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "Duck", 
+            "United_States_Navy", 
+            "God", 
+            "Soldier", 
+            "Soldier"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Hook_(music)", 
+            "Marmot", 
+            "Local_government"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "entity": [
+            "Suspension_(vehicle)", 
+            "Los_Angeles_Dodgers", 
+            "Major_League_Baseball", 
+            "Boston_Red_Sox", 
+            "Los_Angeles_Dodgers", 
+            "Manny_Ramirez", 
+            "Major_League_Baseball", 
+            "Physician", 
+            "National_League_West"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bullpen", 
+            "Cattle", 
+            "Gastrointestinal_tract", 
+            "Legit_(professional_wrestling)", 
+            "New_York_City", 
+            "Los_Angeles_Dodgers", 
+            "Steroid", 
+            "Los_Angeles_Dodgers"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wrigley_Field", 
+            "Wm._Wrigley_Jr._Company"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "The_Bronx", 
+            "Major_League_Baseball", 
+            "New_York_Yankees", 
+            "New_York_Yankees", 
+            "New_York_Yankees", 
+            "Farm_team", 
+            "Farm_team", 
+            "The_Bronx", 
+            "Los_Angeles_Dodgers", 
+            "Fortification"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Jim_Rome", 
+            "2009", 
+            "Rocky_Mountains", 
+            "Rome"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "ESPN", 
+            "Dog", 
+            "Growth_hormone", 
+            "Television", 
+            "Bill_Plaschke", 
+            "Steroid"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Fertility", 
+            "Hormone", 
+            "ESPN", 
+            "Steroid", 
+            "Spermatozoon", 
+            "Testicle", 
+            "Steroid", 
+            "Mask"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Boston,_Massachusetts", 
+            "Los_Angeles_Dodgers", 
+            "Boston_Red_Sox", 
+            "Los_Angeles_Dodgers", 
+            "Boston_Red_Sox", 
+            "Los_Angeles_Dodgers"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "T-shirt"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Political_sleaze_(UK_politics)", 
+            "Vein", 
+            "Time_(magazine)", 
+            "Clown", 
+            "Professional_sports", 
+            "Hairstyle"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Steroid", 
+            "Referee", 
+            "Pea", 
+            "Pea", 
+            "Miracle", 
+            "Testosterone", 
+            "Testicle"
+        ], 
+        "postID": 12
+    }
+]

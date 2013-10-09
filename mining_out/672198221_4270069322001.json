@@ -1,0 +1,106 @@
+[
+    {
+        "entity": [
+            "United_States_Army", 
+            "President_of_the_United_States", 
+            "Police", 
+            "NATO", 
+            "Tank", 
+            "Georgia_(country)", 
+            "Russia", 
+            "Minister_(Christianity)", 
+            "Prime_minister", 
+            "Fiasco", 
+            "Georgia_(country)", 
+            "Georgia_(country)", 
+            "South_Ossetia", 
+            "Military_of_Georgia"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "NATO", 
+            "United_Kingdom", 
+            "Tiny_Tim_(musician)", 
+            "South_Ossetia", 
+            "Wind", 
+            "Rotary", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Army", 
+            "NATO", 
+            "Georgia_(country)", 
+            "NATO", 
+            "Independence,_Missouri", 
+            "Parade", 
+            "Stadium", 
+            "Barack_Obama", 
+            "Independence_Day", 
+            "Army", 
+            "Tbilisi"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Katyusha_rocket_launcher", 
+            "Georgians", 
+            "Train_station", 
+            "English_language", 
+            "Prez_(DC_Comics)", 
+            "Cavalry", 
+            "Charge_(warfare)", 
+            "Dissident", 
+            "Train_station", 
+            "Georgia_(U.S._state)", 
+            "NATO"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Intelligence_(information_gathering)", 
+            "Civil_disorder", 
+            "AT&amp;T_Worldnet", 
+            "Democratic_Party_(United_States)", 
+            "Arms_industry", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "United_States", 
+            "Russia", 
+            "Font", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 8
+    }
+]

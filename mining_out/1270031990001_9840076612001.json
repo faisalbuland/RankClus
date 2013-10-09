@@ -1,0 +1,86 @@
+[
+    {
+        "entity": [
+            "Video_game", 
+            "FYI", 
+            "Apocalypse_(comics)", 
+            "Satire", 
+            "Humour"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Star", 
+            "Video_game", 
+            "Universe"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "New_York_City", 
+            "GOD_(band)", 
+            "The_New_York_Times"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bigotry", 
+            "Misogyny"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Flatulence", 
+            "Clapping", 
+            "Clapping"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Thomas_Paine"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Spit_(landform)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }
+]

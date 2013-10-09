@@ -1,0 +1,611 @@
+[
+    {
+        "entity": [
+            "University", 
+            "Liberty", 
+            "Military.com", 
+            "Liberty_University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Socialism", 
+            "Democratic_Party_(United_States)", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Republican_Party_(United_States)", 
+            "Liberty"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Private_university", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Liberty_University", 
+            "Private_university", 
+            "University", 
+            "University_of_Virginia", 
+            "1971", 
+            "University"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Private_university"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "International_Mathematical_Olympiad", 
+            "Private_school", 
+            "Spiral", 
+            "College", 
+            "International_Mathematical_Olympiad"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jerry_Falwell", 
+            "Christian_school", 
+            "Virginia", 
+            "Public_school", 
+            "Political_party", 
+            "Christian", 
+            "Humble,_Texas", 
+            "Socialism", 
+            "British_Approved_Name", 
+            "Christian", 
+            "Hierarchy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Politics", 
+            "Jerry_Falwell", 
+            "Morality"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Heathen_(album)", 
+            "Politics", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Presidency_of_Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Bob_Jones_University", 
+            "Ronald_Reagan", 
+            "Tax_exemption", 
+            "Racism", 
+            "Precedent", 
+            "Discrimination", 
+            "Republican_Party_(United_States)", 
+            "Bob_Jones"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Cloning", 
+            "Private_school", 
+            "Carbon", 
+            "Carbon_copy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "County", 
+            "State", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Liberty_University", 
+            "Democratic_Party_(United_States)", 
+            "Military.com", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "COMEFROM", 
+            "Land_(band)", 
+            "ACCURATE"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Massachusetts", 
+            "Physical_property", 
+            "Massachusetts", 
+            "Harvard_University", 
+            "Student_activity_center", 
+            "Property_tax", 
+            "Cambridge,_Massachusetts", 
+            "Harvard_University", 
+            "Property_tax"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Liberty", 
+            "Military.com", 
+            "Liberty_University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Socialism", 
+            "Democratic_Party_(United_States)", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Republican_Party_(United_States)", 
+            "Liberty"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Private_university", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Liberty_University", 
+            "Private_university", 
+            "University", 
+            "University_of_Virginia", 
+            "1971", 
+            "University"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Private_university"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "International_Mathematical_Olympiad", 
+            "Private_school", 
+            "Spiral", 
+            "College", 
+            "International_Mathematical_Olympiad"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Jerry_Falwell", 
+            "Christian_school", 
+            "Virginia", 
+            "Public_school", 
+            "Political_party", 
+            "Christian", 
+            "Humble,_Texas", 
+            "Socialism", 
+            "British_Approved_Name", 
+            "Christian", 
+            "Hierarchy"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Politics", 
+            "Jerry_Falwell", 
+            "Morality"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Heathen_(album)", 
+            "Politics", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Presidency_of_Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Bob_Jones_University", 
+            "Ronald_Reagan", 
+            "Tax_exemption", 
+            "Racism", 
+            "Precedent", 
+            "Discrimination", 
+            "Republican_Party_(United_States)", 
+            "Bob_Jones"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Cloning", 
+            "Private_school", 
+            "Carbon", 
+            "Carbon_copy"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "County", 
+            "State", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Liberty_University", 
+            "Democratic_Party_(United_States)", 
+            "Military.com", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "COMEFROM", 
+            "Land_(band)", 
+            "ACCURATE"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Massachusetts", 
+            "Physical_property", 
+            "Massachusetts", 
+            "Harvard_University", 
+            "Student_activity_center", 
+            "Property_tax", 
+            "Cambridge,_Massachusetts", 
+            "Harvard_University", 
+            "Property_tax"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Liberty", 
+            "Military.com", 
+            "Liberty_University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Socialism", 
+            "Democratic_Party_(United_States)", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Republican_Party_(United_States)", 
+            "Liberty"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Private_university", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Liberty_University", 
+            "Private_university", 
+            "University", 
+            "University_of_Virginia", 
+            "1971", 
+            "University"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Private_university"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "International_Mathematical_Olympiad", 
+            "Private_school", 
+            "Spiral", 
+            "College", 
+            "International_Mathematical_Olympiad"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Jerry_Falwell", 
+            "Christian_school", 
+            "Virginia", 
+            "Public_school", 
+            "Political_party", 
+            "Christian", 
+            "Humble,_Texas", 
+            "Socialism", 
+            "British_Approved_Name", 
+            "Christian", 
+            "Hierarchy"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Liberty_University", 
+            "Liberty_University", 
+            "Jerry_Falwell", 
+            "Politics", 
+            "Jerry_Falwell", 
+            "Morality"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Heathen_(album)", 
+            "Politics", 
+            "Ban_(title)", 
+            "Heck"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Presidency_of_Ronald_Reagan", 
+            "Ronald_Reagan", 
+            "Bob_Jones_University", 
+            "Ronald_Reagan", 
+            "Tax_exemption", 
+            "Racism", 
+            "Precedent", 
+            "Discrimination", 
+            "Republican_Party_(United_States)", 
+            "Bob_Jones"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "May_22", 
+            "2009"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "College"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Cloning", 
+            "Private_school", 
+            "Carbon", 
+            "Carbon_copy"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "County", 
+            "State", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "University", 
+            "Liberty_University", 
+            "Liberty", 
+            "Liberty_University", 
+            "Democratic_Party_(United_States)", 
+            "Military.com", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "COMEFROM", 
+            "Land_(band)", 
+            "ACCURATE"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "University", 
+            "Massachusetts", 
+            "Physical_property", 
+            "Massachusetts", 
+            "Harvard_University", 
+            "Student_activity_center", 
+            "Property_tax", 
+            "Cambridge,_Massachusetts", 
+            "Harvard_University", 
+            "Property_tax"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Tax_exemption", 
+            "Tax_exemption", 
+            "Tax", 
+            "Tax", 
+            "Tax_exemption", 
+            "Tax_exemption"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "entity": [
+            "Enhanced_interrogation_techniques", 
+            "U.S._state", 
+            "Quest", 
+            "Air_conditioning", 
+            "Prison", 
+            "Culture", 
+            "Enhanced_interrogation_techniques", 
+            "Airport", 
+            "Culture_shock", 
+            "Member_of_Congress", 
+            "Sheriff", 
+            "Enhanced_interrogation_techniques", 
+            "Prison", 
+            "Interrogation"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Israelis"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tropics", 
+            "Prison", 
+            "Recreation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shower"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Lockdown", 
+            "Agitation", 
+            "Cell_(biology)", 
+            "State", 
+            "Religion", 
+            "Sanity", 
+            "District", 
+            "Prison", 
+            "John_Murtha", 
+            "Pennsylvanian", 
+            "Pork", 
+            "List_of_people_from_Maryland", 
+            "Law", 
+            "Interrogation"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Islam", 
+            "Basketball", 
+            "Texas", 
+            "Supermax", 
+            "Convict", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "News", 
+            "SERE", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Miss_Universe", 
+            "Universe", 
+            "Blog"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Prisoner-of-war_camp", 
+            "Prisoner-of-war_camp", 
+            "Ritz", 
+            "H\u00f4tel_Ritz_Paris", 
+            "Prisoner-of-war_camp", 
+            "Hawaii"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Adolescence", 
+            "Beck", 
+            "News", 
+            "2009", 
+            "Mirror", 
+            "Code_word", 
+            "May_21", 
+            "Harrigan_(song)", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Interrogation", 
+            "SERE"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Crock_(dishware)", 
+            "YouTube", 
+            "Bash", 
+            "Maui", 
+            "Waterboarding", 
+            "Epsom_Derby", 
+            "Brinson,_Georgia", 
+            "Derby", 
+            "Waterboarding", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Torture", 
+            "Bikini", 
+            "Allah"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Drowning", 
+            "Waterboarding", 
+            "Simulation", 
+            "Decency", 
+            "Physician", 
+            "Psychologist", 
+            "Intimidation", 
+            "Waterboarding", 
+            "Military_intelligence", 
+            "Interrogation", 
+            "Human", 
+            "Duress", 
+            "SERE", 
+            "Coercion", 
+            "Torture", 
+            "Testimony", 
+            "2007", 
+            "Nance", 
+            "Ethical_dilemma", 
+            "Nance", 
+            "Drowning", 
+            "United_States", 
+            "Interrogation", 
+            "Waterboard", 
+            "Kinetic_energy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post", 
+            "Taiheiyo_Cement", 
+            "Columbia_University", 
+            "Wallach_Hall", 
+            "Evan_Wallach", 
+            "Vietnam_People's_Army", 
+            "1983", 
+            "World_War_II", 
+            "Yukio_(comics)", 
+            "North_Vietnam", 
+            "United_States", 
+            "1947", 
+            "January_21_(Eastern_Orthodox_liturgics)", 
+            "United_States", 
+            "Textile", 
+            "Soldier", 
+            "The_Washington_Post", 
+            "Washington,_D.C.", 
+            "Waterboarding", 
+            "Court-martial", 
+            "Water", 
+            "War_crime", 
+            "Soil", 
+            "Water", 
+            "United_States_Army", 
+            "Waterboarding", 
+            "Prison", 
+            "Soldier", 
+            "Taiheiyo_Cement", 
+            "Flood", 
+            "Sheriff", 
+            "Japan", 
+            "Japan", 
+            "United_States", 
+            "1968", 
+            "United_States", 
+            "Drowning", 
+            "Texas", 
+            "Soldier", 
+            "Penal_labour", 
+            "Vietnamese_language", 
+            "James_Parker", 
+            "Sheriff", 
+            "Asphyxia"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Prisoner-of-war_camp", 
+            "Vietnamese_language", 
+            "Water", 
+            "Lung", 
+            "Prison", 
+            "Sheriff", 
+            "1968", 
+            "Japan", 
+            "Waterboarding", 
+            "Washington,_D.C.", 
+            "Nose", 
+            "Wow", 
+            "Fifth_Amendment_to_the_United_States_Constitution", 
+            "The_Washington_Post", 
+            "Foot_(length)", 
+            "The_Washington_Post", 
+            "Waterboarding", 
+            "Soldier", 
+            "Confession", 
+            "Photograph", 
+            "South_Vietnam", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Water", 
+            "United_States", 
+            "Soldier", 
+            "Club_(weapon)", 
+            "South_Vietnam", 
+            "United_States", 
+            "Court-martial", 
+            "Gastrointestinal_tract", 
+            "Drowning", 
+            "Military_of_the_United_States", 
+            "Photograph", 
+            "Asano_clan", 
+            "North_Vietnam", 
+            "Japan", 
+            "Vietnam", 
+            "Hydrotherapy", 
+            "Photograph", 
+            "Grunt", 
+            "Prisoner_of_war", 
+            "Asano_clan", 
+            "Ho_Chi_Minh", 
+            "Vietnamese_language", 
+            "South_Vietnam", 
+            "United_States_Army", 
+            "January_21", 
+            "Water", 
+            "Military_tribunal", 
+            "United_States", 
+            "Cigarette", 
+            "Gastrointestinal_tract", 
+            "War_Remnants_Museum_(Ho_Chi_Minh_City)", 
+            "Wiki"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Terrorism", 
+            "Soil"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Waterboard"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Torture", 
+            "Law", 
+            "United_States", 
+            "Tyrant", 
+            "Torture", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Terrorism", 
+            "Pacific_Ocean", 
+            "Barack_Obama", 
+            "Europe", 
+            "Judaism", 
+            "Al-Qaeda", 
+            "Witchcraft", 
+            "Interrogation"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Patriotism", 
+            "0_(number)", 
+            "Dick_Cheney", 
+            "Torture"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Jab", 
+            "El_Presidente_(band)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "SERE", 
+            "Major_(manga)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Blogosphere", 
+            "Nudity", 
+            "Miss_California", 
+            "California", 
+            "California", 
+            "Miss_California", 
+            "Miss_California", 
+            "Lingerie"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Vietnamese_language", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Russian_language", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "Bulgarian_language", 
+            "Vietnamese_language", 
+            "Cong,_County_Mayo", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "East_Germany", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "North_Vietnam", 
+            "Interrogation", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Poland", 
+            "Vietnam", 
+            "Enhanced_interrogation_techniques", 
+            "Viet_Cong", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "KGB"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Airhead", 
+            "Donald_Trump", 
+            "Trump"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Koreans"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Aviator", 
+            "Chopper", 
+            "Torture", 
+            "Interrogation", 
+            "1st_Brigade_(Australia)", 
+            "Aviator", 
+            "Korean_language", 
+            "Helicopter", 
+            "Aviator", 
+            "Enhanced_interrogation_techniques", 
+            "Helicopter", 
+            "Internal_combustion_engine", 
+            "Enhanced_interrogation_techniques", 
+            "Mechanics", 
+            "Open_secret", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "United_States", 
+            "Helicopter", 
+            "United_States", 
+            "United_States", 
+            "Chopper", 
+            "Helicopter", 
+            "Interrogation"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Extinct_language", 
+            "Battle_of_Khe_Sanh", 
+            "United_States_Marine_Corps", 
+            "Rifle", 
+            "Rocket-propelled_grenade", 
+            "Return_on_equity", 
+            "Grunt", 
+            "Nut_(fruit)", 
+            "Ton", 
+            "Sahn", 
+            "No_quarter", 
+            "Vietnam_People's_Army", 
+            "Pay_grade"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Newsletter", 
+            "Interrogation", 
+            "Town", 
+            "Left-wing_politics", 
+            "Dormitory", 
+            "Mile", 
+            "Pond", 
+            "Freshman", 
+            "United_States", 
+            "Donkey", 
+            "College"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Enhanced_interrogation_techniques", 
+            "U.S._state", 
+            "Quest", 
+            "Air_conditioning", 
+            "Prison", 
+            "Culture", 
+            "Enhanced_interrogation_techniques", 
+            "Airport", 
+            "Culture_shock", 
+            "Member_of_Congress", 
+            "Sheriff", 
+            "Enhanced_interrogation_techniques", 
+            "Prison", 
+            "Interrogation"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Israelis"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Tropics", 
+            "Prison", 
+            "Recreation"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Shower"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Lockdown", 
+            "Agitation", 
+            "Cell_(biology)", 
+            "State", 
+            "Religion", 
+            "Sanity", 
+            "District", 
+            "Prison", 
+            "John_Murtha", 
+            "Pennsylvanian", 
+            "Pork", 
+            "List_of_people_from_Maryland", 
+            "Law", 
+            "Interrogation"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Prison", 
+            "Islam", 
+            "Basketball", 
+            "Texas", 
+            "Supermax", 
+            "Convict", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "News", 
+            "SERE", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Miss_Universe", 
+            "Universe", 
+            "Blog"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Prisoner-of-war_camp", 
+            "Prisoner-of-war_camp", 
+            "Ritz", 
+            "H\u00f4tel_Ritz_Paris", 
+            "Prisoner-of-war_camp", 
+            "Hawaii"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Adolescence", 
+            "Beck", 
+            "News", 
+            "2009", 
+            "Mirror", 
+            "Code_word", 
+            "May_21", 
+            "Harrigan_(song)", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Interrogation", 
+            "SERE"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Crock_(dishware)", 
+            "YouTube", 
+            "Bash", 
+            "Maui", 
+            "Waterboarding", 
+            "Epsom_Derby", 
+            "Brinson,_Georgia", 
+            "Derby", 
+            "Waterboarding", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Torture", 
+            "Bikini", 
+            "Allah"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "CPO", 
+            "Drowning", 
+            "Waterboarding", 
+            "Simulation", 
+            "Decency", 
+            "Physician", 
+            "Psychologist", 
+            "Intimidation", 
+            "Waterboarding", 
+            "Military_intelligence", 
+            "Interrogation", 
+            "Human", 
+            "Duress", 
+            "SERE", 
+            "Coercion", 
+            "Torture", 
+            "Testimony", 
+            "2007", 
+            "Nance", 
+            "Ethical_dilemma", 
+            "Nance", 
+            "Drowning", 
+            "United_States", 
+            "Interrogation", 
+            "Waterboard", 
+            "Kinetic_energy"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "The_Washington_Post", 
+            "Taiheiyo_Cement", 
+            "Columbia_University", 
+            "Wallach_Hall", 
+            "Evan_Wallach", 
+            "Vietnam_People's_Army", 
+            "1983", 
+            "World_War_II", 
+            "Yukio_(comics)", 
+            "North_Vietnam", 
+            "United_States", 
+            "1947", 
+            "January_21_(Eastern_Orthodox_liturgics)", 
+            "United_States", 
+            "Textile", 
+            "Soldier", 
+            "The_Washington_Post", 
+            "Washington,_D.C.", 
+            "Waterboarding", 
+            "Court-martial", 
+            "Water", 
+            "War_crime", 
+            "Soil", 
+            "Water", 
+            "United_States_Army", 
+            "Waterboarding", 
+            "Prison", 
+            "Soldier", 
+            "Taiheiyo_Cement", 
+            "Flood", 
+            "Sheriff", 
+            "Japan", 
+            "Japan", 
+            "United_States", 
+            "1968", 
+            "United_States", 
+            "Drowning", 
+            "Texas", 
+            "Soldier", 
+            "Penal_labour", 
+            "Vietnamese_language", 
+            "James_Parker", 
+            "Sheriff", 
+            "Asphyxia"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Prisoner-of-war_camp", 
+            "Vietnamese_language", 
+            "Water", 
+            "Lung", 
+            "Prison", 
+            "Sheriff", 
+            "1968", 
+            "Japan", 
+            "Waterboarding", 
+            "Washington,_D.C.", 
+            "Nose", 
+            "Wow", 
+            "Fifth_Amendment_to_the_United_States_Constitution", 
+            "The_Washington_Post", 
+            "Foot_(length)", 
+            "The_Washington_Post", 
+            "Waterboarding", 
+            "Soldier", 
+            "Confession", 
+            "Photograph", 
+            "South_Vietnam", 
+            "International_Red_Cross_and_Red_Crescent_Movement", 
+            "Water", 
+            "United_States", 
+            "Soldier", 
+            "Club_(weapon)", 
+            "South_Vietnam", 
+            "United_States", 
+            "Court-martial", 
+            "Gastrointestinal_tract", 
+            "Drowning", 
+            "Military_of_the_United_States", 
+            "Photograph", 
+            "Asano_clan", 
+            "North_Vietnam", 
+            "Japan", 
+            "Vietnam", 
+            "Hydrotherapy", 
+            "Photograph", 
+            "Grunt", 
+            "Prisoner_of_war", 
+            "Asano_clan", 
+            "Ho_Chi_Minh", 
+            "Vietnamese_language", 
+            "South_Vietnam", 
+            "United_States_Army", 
+            "January_21", 
+            "Water", 
+            "Military_tribunal", 
+            "United_States", 
+            "Cigarette", 
+            "Gastrointestinal_tract", 
+            "War_Remnants_Museum_(Ho_Chi_Minh_City)", 
+            "Wiki"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Terrorism", 
+            "Soil"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Waterboard"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Torture", 
+            "Law", 
+            "United_States", 
+            "Tyrant", 
+            "Torture", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Terrorism", 
+            "Pacific_Ocean", 
+            "Barack_Obama", 
+            "Europe", 
+            "Judaism", 
+            "Al-Qaeda", 
+            "Witchcraft", 
+            "Interrogation"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Patriotism", 
+            "0_(number)", 
+            "Dick_Cheney", 
+            "Torture"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Jab", 
+            "El_Presidente_(band)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "SERE", 
+            "Major_(manga)"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Blogosphere", 
+            "Nudity", 
+            "Miss_California", 
+            "California", 
+            "California", 
+            "Miss_California", 
+            "Miss_California", 
+            "Lingerie"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Vietnamese_language", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Russian_language", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "Bulgarian_language", 
+            "Vietnamese_language", 
+            "Cong,_County_Mayo", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "East_Germany", 
+            "Enhanced_interrogation_techniques", 
+            "Germany", 
+            "North_Vietnam", 
+            "Interrogation", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Poland", 
+            "Vietnam", 
+            "Enhanced_interrogation_techniques", 
+            "Viet_Cong", 
+            "Interrogation", 
+            "Military_intelligence", 
+            "Military_intelligence", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "KGB"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Airhead", 
+            "Donald_Trump", 
+            "Trump"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Koreans"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Aviator", 
+            "Chopper", 
+            "Torture", 
+            "Interrogation", 
+            "1st_Brigade_(Australia)", 
+            "Aviator", 
+            "Korean_language", 
+            "Helicopter", 
+            "Aviator", 
+            "Enhanced_interrogation_techniques", 
+            "Helicopter", 
+            "Internal_combustion_engine", 
+            "Enhanced_interrogation_techniques", 
+            "Mechanics", 
+            "Open_secret", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "United_States", 
+            "Helicopter", 
+            "United_States", 
+            "United_States", 
+            "Chopper", 
+            "Helicopter", 
+            "Interrogation"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Extinct_language", 
+            "Battle_of_Khe_Sanh", 
+            "United_States_Marine_Corps", 
+            "Rifle", 
+            "Rocket-propelled_grenade", 
+            "Return_on_equity", 
+            "Grunt", 
+            "Nut_(fruit)", 
+            "Ton", 
+            "Sahn", 
+            "No_quarter", 
+            "Vietnam_People's_Army", 
+            "Pay_grade"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Newsletter", 
+            "Interrogation", 
+            "Town", 
+            "Left-wing_politics", 
+            "Dormitory", 
+            "Mile", 
+            "Pond", 
+            "Freshman", 
+            "United_States", 
+            "Donkey", 
+            "College"
+        ], 
+        "postID": 60
+    }
+]

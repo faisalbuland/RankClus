@@ -1,0 +1,364 @@
+[
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Classified_information", 
+            "Selective_memory_loss"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Public_interest", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Wow_(recording)", 
+            "MasterCard"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Speaker_(politics)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Outlaw", 
+            "Refrigerator", 
+            "Democracy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Rocket_science", 
+            "Bob_Graham", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Faux", 
+            "Rocket", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Florida", 
+            "Chair_(official)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Senate", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Election", 
+            "Central_Intelligence_Agency", 
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Scientist", 
+            "United_States", 
+            "Central_Intelligence_Agency", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Confidence_trick", 
+            "Deception", 
+            "Bank", 
+            "Speaker_(politics)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Senate", 
+            "Torture", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "Dick_Cheney"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Dictator", 
+            "U.S._state", 
+            "Nancy_Pelosi", 
+            "Demographics_of_Syria", 
+            "Israel", 
+            "Israelis", 
+            "Syria", 
+            "May_23", 
+            "Syria", 
+            "Nancy_Pelosi", 
+            "Nut_(fruit)", 
+            "Dam", 
+            "California", 
+            "Soul_music", 
+            "Sat_(Sanskrit)", 
+            "United_States"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Intelligence", 
+            "Torture", 
+            "Cherry_picking", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Bob_Graham", 
+            "Fatw\u0101"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "11_Commission", 
+            "Mootness", 
+            "Barack_Obama", 
+            "September_11,_2001_attacks", 
+            "Yesterday_(song)", 
+            "Petition", 
+            "Politics", 
+            "Tunnel", 
+            "Guilt"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Classified_information", 
+            "Selective_memory_loss"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Public_interest", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Wow_(recording)", 
+            "MasterCard"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Speaker_(politics)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Outlaw", 
+            "Refrigerator", 
+            "Democracy"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Political_suicide", 
+            "Suicide"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Rocket_science", 
+            "Bob_Graham", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Faux", 
+            "Rocket", 
+            "Dick_Cheney", 
+            "Republican_Party_(United_States)", 
+            "Florida", 
+            "Chair_(official)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Senate", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Election", 
+            "Central_Intelligence_Agency", 
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Scientist", 
+            "United_States", 
+            "Central_Intelligence_Agency", 
+            "United_States_Senate_Select_Committee_on_Intelligence", 
+            "Confidence_trick", 
+            "Deception", 
+            "Bank", 
+            "Speaker_(politics)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "United_States_Senate", 
+            "Torture", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)", 
+            "Dick_Cheney"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Dictator", 
+            "U.S._state", 
+            "Nancy_Pelosi", 
+            "Demographics_of_Syria", 
+            "Israel", 
+            "Israelis", 
+            "Syria", 
+            "May_23", 
+            "Syria", 
+            "Nancy_Pelosi", 
+            "Nut_(fruit)", 
+            "Dam", 
+            "California", 
+            "Soul_music", 
+            "Sat_(Sanskrit)", 
+            "United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Intelligence", 
+            "Torture", 
+            "Cherry_picking", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Bob_Graham", 
+            "Fatw\u0101"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "11_Commission", 
+            "Mootness", 
+            "Barack_Obama", 
+            "September_11,_2001_attacks", 
+            "Yesterday_(song)", 
+            "Petition", 
+            "Politics", 
+            "Tunnel", 
+            "Guilt"
+        ], 
+        "postID": 38
+    }
+]

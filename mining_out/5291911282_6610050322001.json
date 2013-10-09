@@ -1,0 +1,66 @@
+[
+    {
+        "entity": [
+            "TAD", 
+            "U.S._state", 
+            "Washington", 
+            "U.S._state"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Duck", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "God", 
+            "United_States_Navy", 
+            "Navy", 
+            "Soldier"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Ordre_des_Arts_et_des_Lettres", 
+            "Memory_cell", 
+            "One_Nation_(Australia)", 
+            "Boss_(video_games)", 
+            "2009", 
+            "Boss_(video_games)", 
+            "May_11", 
+            "Mon_people", 
+            "Cell_(biology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Civil_service"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Internet"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 7
+    }
+]

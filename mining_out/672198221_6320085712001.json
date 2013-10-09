@@ -1,0 +1,641 @@
+[
+    {
+        "entity": [
+            "Stock_market", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Government_spending", 
+            "Stock_market", 
+            "Doom_(video_game)", 
+            "Universal_health_care", 
+            "Common_sense", 
+            "Stimulus_(physiology)", 
+            "Deficit", 
+            "George_W._Bush", 
+            "Correlation", 
+            "Ford_Motor_Company", 
+            "Debt", 
+            "Stock_market", 
+            "Economic_equilibrium", 
+            "Health_care", 
+            "Stock_market", 
+            "Barack_Obama", 
+            "Fannie_Mae", 
+            "Deficit_spending", 
+            "Mae", 
+            "Chilling_effect", 
+            "Economy", 
+            "List_of_Cosmic_Era_factions", 
+            "Barack_Obama", 
+            "Money", 
+            "Equilibrium", 
+            "Stock_market"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Champagne,_France", 
+            "Stock_market"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Economy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Nerve", 
+            "Stampede", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bloodletting", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "George_W._Bush", 
+            "Jackass", 
+            "Economy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Ronald_Reagan", 
+            "Reagan_assassination_attempt", 
+            "Economy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "Huh_(god)", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Bill_Clinton"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Stock_market", 
+            "Bail_(disambiguation)", 
+            "Barack_Obama", 
+            "Stock_market", 
+            "Mortgage", 
+            "Money"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gutter", 
+            "Good_News_(films)", 
+            "Sven_Erik_Kristiansen"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "Unemployment", 
+            "Carton", 
+            "Hell", 
+            "2009", 
+            "March_11"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Speculation", 
+            "Composite_material", 
+            "NASDAQ", 
+            "1600", 
+            "Stock", 
+            "Gambling", 
+            "Investment"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Dun_gene", 
+            "Terrorism", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Dun_gene", 
+            "Stock_market", 
+            "Stock_market", 
+            "Real_estate", 
+            "Barney_Frank", 
+            "Barney_Gumble", 
+            "TARP", 
+            "Dun_gene", 
+            "September_11,_2001_attacks", 
+            "Stimulus", 
+            "Stock_market", 
+            "Common_sense"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Government_spending", 
+            "Stock_market", 
+            "Doom_(video_game)", 
+            "Universal_health_care", 
+            "Common_sense", 
+            "Stimulus_(physiology)", 
+            "Deficit", 
+            "George_W._Bush", 
+            "Correlation", 
+            "Ford_Motor_Company", 
+            "Debt", 
+            "Stock_market", 
+            "Economic_equilibrium", 
+            "Health_care", 
+            "Stock_market", 
+            "Barack_Obama", 
+            "Fannie_Mae", 
+            "Deficit_spending", 
+            "Mae", 
+            "Chilling_effect", 
+            "Economy", 
+            "List_of_Cosmic_Era_factions", 
+            "Barack_Obama", 
+            "Money", 
+            "Equilibrium", 
+            "Stock_market"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Champagne,_France", 
+            "Stock_market"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Economy"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Nerve", 
+            "Stampede", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Bloodletting", 
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "George_W._Bush", 
+            "Jackass", 
+            "Economy"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Ronald_Reagan", 
+            "Reagan_assassination_attempt", 
+            "Economy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "Huh_(god)", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Bill_Clinton"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Stock_market", 
+            "Bail_(disambiguation)", 
+            "Barack_Obama", 
+            "Stock_market", 
+            "Mortgage", 
+            "Money"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gutter", 
+            "Good_News_(films)", 
+            "Sven_Erik_Kristiansen"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "Unemployment", 
+            "Carton", 
+            "Hell", 
+            "2009", 
+            "March_11"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Speculation", 
+            "Composite_material", 
+            "NASDAQ", 
+            "1600", 
+            "Stock", 
+            "Gambling", 
+            "Investment"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Dun_gene", 
+            "Terrorism", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Dun_gene", 
+            "Stock_market", 
+            "Stock_market", 
+            "Real_estate", 
+            "Barney_Frank", 
+            "Barney_Gumble", 
+            "TARP", 
+            "Dun_gene", 
+            "September_11,_2001_attacks", 
+            "Stimulus", 
+            "Stock_market", 
+            "Common_sense"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Barack_Obama"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Stock_market", 
+            "Government_spending", 
+            "Stock_market", 
+            "Doom_(video_game)", 
+            "Universal_health_care", 
+            "Common_sense", 
+            "Stimulus_(physiology)", 
+            "Deficit", 
+            "George_W._Bush", 
+            "Correlation", 
+            "Ford_Motor_Company", 
+            "Debt", 
+            "Stock_market", 
+            "Economic_equilibrium", 
+            "Health_care", 
+            "Stock_market", 
+            "Barack_Obama", 
+            "Fannie_Mae", 
+            "Deficit_spending", 
+            "Mae", 
+            "Chilling_effect", 
+            "Economy", 
+            "List_of_Cosmic_Era_factions", 
+            "Barack_Obama", 
+            "Money", 
+            "Equilibrium", 
+            "Stock_market"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Champagne,_France", 
+            "Stock_market"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Economy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Nerve", 
+            "Stampede", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Bloodletting", 
+            "Barack_Obama"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "George_W._Bush", 
+            "Jackass", 
+            "Economy"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Ronald_Reagan", 
+            "Reagan_assassination_attempt", 
+            "Economy"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "Huh_(god)", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Bill_Clinton"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Stock_market", 
+            "Bail_(disambiguation)", 
+            "Barack_Obama", 
+            "Stock_market", 
+            "Mortgage", 
+            "Money"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gutter", 
+            "Good_News_(films)", 
+            "Sven_Erik_Kristiansen"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Cigarette", 
+            "Unemployment", 
+            "Carton", 
+            "Hell", 
+            "2009", 
+            "March_11"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Glasses"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Speculation", 
+            "Composite_material", 
+            "NASDAQ", 
+            "1600", 
+            "Stock", 
+            "Gambling", 
+            "Investment"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Dun_gene", 
+            "Terrorism", 
+            "Bill_Clinton", 
+            "George_W._Bush", 
+            "Dun_gene", 
+            "Stock_market", 
+            "Stock_market", 
+            "Real_estate", 
+            "Barney_Frank", 
+            "Barney_Gumble", 
+            "TARP", 
+            "Dun_gene", 
+            "September_11,_2001_attacks", 
+            "Stimulus", 
+            "Stock_market", 
+            "Common_sense"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Barack_Obama"
+        ], 
+        "postID": 60
+    }
+]

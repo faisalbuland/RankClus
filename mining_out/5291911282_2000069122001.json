@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Mercenary", 
+            "United_States_Navy", 
+            "Uganda", 
+            "United_States_Army", 
+            "United_States_Air_Force"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Back-story", 
+            "Sergeant"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

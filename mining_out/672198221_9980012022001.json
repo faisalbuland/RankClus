@@ -1,0 +1,193 @@
+[
+    {
+        "entity": [
+            "Water"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Orion_Bus_Industries", 
+            "Canadian_Forces", 
+            "United_Kingdom", 
+            "Aurora,_Colorado", 
+            "Submarine", 
+            "Aurora,_Colorado", 
+            "Screw_thread", 
+            "Canada", 
+            "Screw_thread", 
+            "Illegal_drug_trade", 
+            "P-3_Orion", 
+            "Canada", 
+            "Commonwealth_of_Nations"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Interdiction", 
+            "War_on_Drugs", 
+            "Drug"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Coast_Guard", 
+            "Anti-submarine_warfare"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Concur"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Ocean", 
+            "Haystack", 
+            "Intel_Corporation", 
+            "Needle"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bone"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Search_and_rescue", 
+            "Technology", 
+            "Illegal_drug_trade", 
+            "Water", 
+            "Contraband"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Air_interdiction", 
+            "War_on_Drugs"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Interrogation", 
+            "Drug", 
+            "Illegal_drug_trade"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Cat", 
+            "Cutter_(ship)", 
+            "Submersible", 
+            "LOL", 
+            "United_States_Coast_Guard"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Smuggling", 
+            "United_States_Navy", 
+            "China", 
+            "People_smuggling", 
+            "China", 
+            "Ming_Dynasty", 
+            "Romeo_class_submarine", 
+            "Sonar", 
+            "Pacific_coast"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Weapon", 
+            "Objective_Individual_Combat_Weapon_program", 
+            "Objective_Individual_Combat_Weapon_program", 
+            "Objective_Individual_Combat_Weapon_program", 
+            "Law_enforcement_agency", 
+            "Infantry", 
+            "Infantry", 
+            "E-mail", 
+            "Technology", 
+            "Soldier", 
+            "Shooting", 
+            "Precision-guided_munition", 
+            "Advanced_Individual_Combat_Weapon", 
+            "Advanced_Individual_Combat_Weapon", 
+            "Bullet", 
+            "Objective_Individual_Combat_Weapon_program", 
+            "Advanced_Individual_Combat_Weapon", 
+            "Infantry", 
+            "Conventional_weapon", 
+            "E-mail", 
+            "Weapon", 
+            "Special_forces", 
+            "Infantry", 
+            "Weapon", 
+            "Law", 
+            "Personal_weapon"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Naval_mine", 
+            "Chase,_British_Columbia", 
+            "United_States_Coast_Guard_Cutter", 
+            "Sonar", 
+            "United_States_Coast_Guard"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "The_Hunt_(The_Wire_episode)", 
+            "Maxim_(magazine)", 
+            "2009", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Magazine", 
+            "FYI"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Ground_effects"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Shipyard", 
+            "Documentary_film", 
+            "United_States", 
+            "Underground_economy", 
+            "Rust", 
+            "Russian_language", 
+            "Stinger", 
+            "Soviet_Union", 
+            "Russia", 
+            "Psychoactive_drug", 
+            "Soviet_Union"
+        ], 
+        "postID": 18
+    }
+]

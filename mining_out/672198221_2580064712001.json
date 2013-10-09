@@ -1,0 +1,458 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Goat"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Social_welfare_provision", 
+            "Tiger", 
+            "Recession", 
+            "As_(coin)", 
+            "Ireland", 
+            "Recession", 
+            "Fault_(geology)", 
+            "Garden", 
+            "Welfare_(financial_aid)", 
+            "Immigration", 
+            "Celtic_Tiger", 
+            "Prudence_Leighton", 
+            "Ireland", 
+            "Celtic_F.C.", 
+            "Ireland"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Convention_Relating_to_the_Status_of_Refugees", 
+            "Refugee", 
+            "Canada", 
+            "Pensioner", 
+            "Czechoslovakia", 
+            "Canada", 
+            "Roma_people", 
+            "Refugee", 
+            "Roma_people", 
+            "Subsidized_housing", 
+            "Newspaper"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Economy", 
+            "Economy", 
+            "United_Kingdom", 
+            "Siggie_Nordstrom", 
+            "Immigration_to_Argentina", 
+            "Hotel", 
+            "Eastern_Europe", 
+            "Cheltenham", 
+            "Arkle", 
+            "Economy", 
+            "Ireland", 
+            "State", 
+            "Cross_country_running", 
+            "Guinness", 
+            "National_Hunt_racing", 
+            "Ireland", 
+            "Ireland", 
+            "Economy_of_the_Republic_of_Ireland", 
+            "Irish_Sea", 
+            "Poland", 
+            "Ireland"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bathroom", 
+            "Dentistry", 
+            "Ireland"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sarcasm"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Euro", 
+            "United_Kingdom", 
+            "Republic_of_Ireland"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Provisional_Irish_Republican_Army", 
+            "Economy", 
+            "Permeable_paving"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Sarcasm"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Eastern_Europe", 
+            "Immigration", 
+            "Ireland", 
+            "Crime", 
+            "Spike"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pint", 
+            "Immigration", 
+            "Carney,_Maryland", 
+            "Health_care", 
+            "Gurney", 
+            "St._Louis,_Missouri", 
+            "Republic_of_Ireland", 
+            "Limerick", 
+            "Dublin", 
+            "Radical_(chemistry)", 
+            "Crime", 
+            "Ireland", 
+            "Paris", 
+            "!!!", 
+            "Cork_(city)", 
+            "Northern_Ireland", 
+            "Ireland", 
+            "Provisional_Irish_Republican_Army", 
+            "Limerick", 
+            "Cartel", 
+            "Dublin", 
+            "Cork_(city)", 
+            "Ireland", 
+            "Health_minister"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Republic_of_Ireland", 
+            "Racism", 
+            "World_Taekwondo_Federation", 
+            "Irish_people", 
+            "Republic_of_Ireland", 
+            "Irish_people", 
+            "Echo_(mythology)", 
+            "Paradise", 
+            "Celtic_Tiger", 
+            "Crime", 
+            "Boyo", 
+            "Celts", 
+            "Right_of_asylum", 
+            "Republic_of_Ireland", 
+            "Tiger"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Cork_(city)", 
+            "Garda_S\u00edoch\u00e1na", 
+            "County_Cork", 
+            "Illegal_drug_trade", 
+            "Crime"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Echo_(mythology)", 
+            "Hurley,_Wisconsin", 
+            "The_Echo", 
+            "Echo_(mythology)", 
+            "LOL"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "The_Quiet", 
+            "Prudence_Leighton", 
+            "Ireland", 
+            "The_Quiet_Man", 
+            "Ireland", 
+            "Shame", 
+            "Crime"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "1990"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Tiger", 
+            "80-85", 
+            "Celtic_Tiger", 
+            "Celtic_F.C.", 
+            "Ferry", 
+            "Mansion", 
+            "Culture_shock", 
+            "Victorian_architecture"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Goat"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Social_welfare_provision", 
+            "Tiger", 
+            "Recession", 
+            "As_(coin)", 
+            "Ireland", 
+            "Recession", 
+            "Fault_(geology)", 
+            "Garden", 
+            "Welfare_(financial_aid)", 
+            "Immigration", 
+            "Celtic_Tiger", 
+            "Prudence_Leighton", 
+            "Ireland", 
+            "Celtic_F.C.", 
+            "Ireland"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Convention_Relating_to_the_Status_of_Refugees", 
+            "Refugee", 
+            "Canada", 
+            "Pensioner", 
+            "Czechoslovakia", 
+            "Canada", 
+            "Roma_people", 
+            "Refugee", 
+            "Roma_people", 
+            "Subsidized_housing", 
+            "Newspaper"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Immigration", 
+            "Economy", 
+            "Economy", 
+            "United_Kingdom", 
+            "Siggie_Nordstrom", 
+            "Immigration_to_Argentina", 
+            "Hotel", 
+            "Eastern_Europe", 
+            "Cheltenham", 
+            "Arkle", 
+            "Economy", 
+            "Ireland", 
+            "State", 
+            "Cross_country_running", 
+            "Guinness", 
+            "National_Hunt_racing", 
+            "Ireland", 
+            "Ireland", 
+            "Economy_of_the_Republic_of_Ireland", 
+            "Irish_Sea", 
+            "Poland", 
+            "Ireland"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Bathroom", 
+            "Dentistry", 
+            "Ireland"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Sarcasm"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Euro", 
+            "United_Kingdom", 
+            "Republic_of_Ireland"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Provisional_Irish_Republican_Army", 
+            "Economy", 
+            "Permeable_paving"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Sarcasm"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Eastern_Europe", 
+            "Immigration", 
+            "Ireland", 
+            "Crime", 
+            "Spike"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Pint", 
+            "Immigration", 
+            "Carney,_Maryland", 
+            "Health_care", 
+            "Gurney", 
+            "St._Louis,_Missouri", 
+            "Republic_of_Ireland", 
+            "Limerick", 
+            "Dublin", 
+            "Radical_(chemistry)", 
+            "Crime", 
+            "Ireland", 
+            "Paris", 
+            "!!!", 
+            "Cork_(city)", 
+            "Northern_Ireland", 
+            "Ireland", 
+            "Provisional_Irish_Republican_Army", 
+            "Limerick", 
+            "Cartel", 
+            "Dublin", 
+            "Cork_(city)", 
+            "Ireland", 
+            "Health_minister"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Republic_of_Ireland", 
+            "Racism", 
+            "World_Taekwondo_Federation", 
+            "Irish_people", 
+            "Republic_of_Ireland", 
+            "Irish_people", 
+            "Echo_(mythology)", 
+            "Paradise", 
+            "Celtic_Tiger", 
+            "Crime", 
+            "Boyo", 
+            "Celts", 
+            "Right_of_asylum", 
+            "Republic_of_Ireland", 
+            "Tiger"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Cork_(city)", 
+            "Garda_S\u00edoch\u00e1na", 
+            "County_Cork", 
+            "Illegal_drug_trade", 
+            "Crime"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Echo_(mythology)", 
+            "Hurley,_Wisconsin", 
+            "The_Echo", 
+            "Echo_(mythology)", 
+            "LOL"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "The_Quiet", 
+            "Prudence_Leighton", 
+            "Ireland", 
+            "The_Quiet_Man", 
+            "Ireland", 
+            "Shame", 
+            "Crime"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "1990"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Tiger", 
+            "80-85", 
+            "Celtic_Tiger", 
+            "Celtic_F.C.", 
+            "Ferry", 
+            "Mansion", 
+            "Culture_shock", 
+            "Victorian_architecture"
+        ], 
+        "postID": 40
+    }
+]

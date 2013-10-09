@@ -1,0 +1,197 @@
+[
+    {
+        "entity": [
+            "Trade_union"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Michigan", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "2010"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Detroit,_Michigan"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Stupidity", 
+            "Donkey", 
+            "40th_Canadian_federal_election", 
+            "Economy", 
+            "Laughter", 
+            "Christian_apologetics", 
+            "Michigan", 
+            "Christian_apologetics"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "United_Auto_Workers", 
+            "State", 
+            "Trade_union", 
+            "United_Auto_Workers", 
+            "Barack_Obama", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Federal_government_of_the_United_States", 
+            "State", 
+            "Automobile", 
+            "United_States_Environmental_Protection_Agency", 
+            "Extinction", 
+            "IBM_POWER", 
+            "Trade_union", 
+            "Fault_(geology)", 
+            "Political_party", 
+            "California", 
+            "State", 
+            "Electricity_retailing"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Dance", 
+            "Trade_union", 
+            "Tap_dance"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Intrusion"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Aesculus_glabra", 
+            "American_football", 
+            "Routing_Information_Protocol", 
+            "Planet", 
+            "RRR", 
+            "Sheriff_Woody", 
+            "University_of_Michigan", 
+            "Sand", 
+            "Rutherford_B._Hayes", 
+            "LOL_(film)", 
+            "Thread_(computer_science)", 
+            "College_football", 
+            "Woody_Hayes", 
+            "Sheriff_Woody", 
+            "LOL", 
+            "Ohio_State_University", 
+            "Aesculus_glabra", 
+            "College_football", 
+            "University_of_Michigan"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Ohio", 
+            "Association_football", 
+            "Goodwife", 
+            "Sheriff_Woody"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Chit_(board_wargames)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Michigan", 
+            "Michigan", 
+            "Michigan", 
+            "U.S._state", 
+            "Muck,_Scotland", 
+            "U.S._state", 
+            "Woody_Hayes", 
+            "Poop_deck", 
+            "Sheriff_Woody", 
+            "Count", 
+            "Hayes,_Hillingdon", 
+            "Routing_Information_Protocol", 
+            "LOL", 
+            "Michigan", 
+            "U.S._state", 
+            "Facts", 
+            "U.S._state"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Michigan_Wolverines", 
+            "Michigan_Wolverines", 
+            "1969", 
+            "NCAA_Men's_Division_I_Basketball_Championship", 
+            "National_Collegiate_Athletic_Association"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Right-to-work_law"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Rubber_stamp", 
+            "Rubber_stamp", 
+            "Rubber"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "UAW"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "State_law", 
+            "Secession", 
+            "U.S._state", 
+            "Tenth_Amendment_to_the_United_States_Constitution", 
+            "Law"
+        ], 
+        "postID": 20
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "entity": [
+            "Collin_Peterson", 
+            "United_States_House_Committee_on_Agriculture", 
+            "Minnesota", 
+            "Collin_County,_Texas", 
+            "Minnesota_Democratic-Farmer-Labor_Party", 
+            "United_States_House_Committee_on_Agriculture", 
+            "United_States_House_Committee_on_Agriculture"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "North_American_Free_Trade_Agreement", 
+            "Scientist", 
+            "Subsidy", 
+            "North_American_Free_Trade_Agreement", 
+            "Barack_Obama", 
+            "Kyoto_Protocol", 
+            "English_language", 
+            "Global_warming"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Emissions_trading", 
+            "Horse", 
+            "Cap_(sport)"
+        ], 
+        "postID": 3
+    }
+]

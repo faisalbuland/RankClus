@@ -1,0 +1,65 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wildfire", 
+            "Downtown", 
+            "Santa_Barbara,_California", 
+            "Brush_Traction"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pacific_Time_Zone"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Celebrity", 
+            "Soil_horizon", 
+            "Wildfire", 
+            "California", 
+            "Wildfire", 
+            "Orange_(fruit)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Swallow", 
+            "San_Juan_Capistrano,_California", 
+            "California", 
+            "Arson"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Neverland_Ranch", 
+            "Michael_Jackson", 
+            "Jackson,_Mississippi"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Traffic_congestion", 
+            "California", 
+            "Fog", 
+            "Bill_Brown_(cricketer)", 
+            "California", 
+            "Sheriff", 
+            "Santa_Barbara_County,_California", 
+            "Cheers", 
+            "Santa_Barbara,_California", 
+            "Wildfire", 
+            "California"
+        ], 
+        "postID": 7
+    }
+]

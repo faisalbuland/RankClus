@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "United_States_Congress", 
+            "2009", 
+            "Job_(Bible)", 
+            "April_20", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "Job_(Bible)", 
+            "Gerald_Ford"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Congress", 
+            "United_States", 
+            "Barack_Obama", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tuff"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "USS_Jimmy_Carter_(SSN-23)", 
+            "Jimmy_Carter", 
+            "LOL"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Fence", 
+            "2010", 
+            "United_States", 
+            "Deficit", 
+            "Partisan_(military)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_refund", 
+            "George_W._Bush", 
+            "Tax_refund"
+        ], 
+        "postID": 8
+    }
+]

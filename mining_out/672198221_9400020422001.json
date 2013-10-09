@@ -1,0 +1,67 @@
+[
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Lustre_(mineralogy)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Reporter", 
+            "George_H._W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_nationality_law", 
+            "Commander-in-chief"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Food_chain", 
+            "Id,_ego,_and_super-ego"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_Israel", 
+            "Private_Life_(song)", 
+            "George_Washington", 
+            "President_of_the_United_States", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Washington,_D.C.", 
+            "William_Howard_Taft", 
+            "Supreme_Court_of_the_United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 9
+    }
+]

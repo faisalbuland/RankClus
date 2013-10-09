@@ -1,0 +1,91 @@
+[
+    {
+        "entity": [
+            "Killed_in_action", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Travelling_salesman_problem"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Solar_deity", 
+            "Solar_deity"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Persona", 
+            "Carl_von_Clausewitz", 
+            "John_Wayne", 
+            "Carl_von_Clausewitz", 
+            "Psyche_(psychology)", 
+            "Appeasement", 
+            "Carl_von_Clausewitz", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Retroactive", 
+            "!!!_(album)", 
+            "Tax_cut", 
+            "!!!_(album)", 
+            "Tax", 
+            "Tax", 
+            "Marriage", 
+            "Marriage_penalty", 
+            "!!!_(album)", 
+            "Bill_Clinton", 
+            "Social_security", 
+            "Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003", 
+            "Olfaction", 
+            "Sunset", 
+            "!!!_(album)", 
+            "George_W._Bush", 
+            "!!!_(album)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Health_care_in_Mexico", 
+            "Mortgage", 
+            "Barack_Obama", 
+            "Universal_health_care", 
+            "God", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Homosexuality", 
+            "College", 
+            "Health_care", 
+            "Judge", 
+            "United_States", 
+            "Education", 
+            "Central_Intelligence_Agency", 
+            "Health_care_systems", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Health_care", 
+            "Nancy", 
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 7
+    }
+]

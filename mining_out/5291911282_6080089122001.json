@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "April_7", 
+            "Jackson,_Mississippi", 
+            "Fort_Jackson"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Military_Occupational_Specialty", 
+            "United_States_Army"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Build-Operate-Transfer", 
+            "Duck", 
+            "Ordre_des_Arts_et_des_Lettres"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "AIT"
+        ], 
+        "postID": 4
+    }
+]

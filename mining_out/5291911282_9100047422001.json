@@ -1,0 +1,86 @@
+[
+    {
+        "entity": [
+            "Bread", 
+            "Shepherd", 
+            "Dog", 
+            "Soup_kitchen", 
+            "Yea,_Victoria", 
+            "Unemployment", 
+            "God", 
+            "United_States", 
+            "Bubbles_(band)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Hunger", 
+            "Tree", 
+            "Faith", 
+            "Barack_Obama", 
+            "Bail_out_(finance)", 
+            "Valley", 
+            "Sake", 
+            "2009", 
+            "Barack_Obama", 
+            "Poverty"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "!!!_(album)", 
+            "Michelle_Obama", 
+            "!!!_(album)", 
+            "Barack_Obama", 
+            "Sun", 
+            "May_31", 
+            "Time_(magazine)", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "Bicycle"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "God", 
+            "United_States_Army", 
+            "Artery", 
+            "Obesity", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Fast_food", 
+            "Clog_(shoe)", 
+            "English_language"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Pinko", 
+            "Cigar", 
+            "Jet_aircraft", 
+            "Irony", 
+            "Communism", 
+            "New_York"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Messiah"
+        ], 
+        "postID": 7
+    }
+]

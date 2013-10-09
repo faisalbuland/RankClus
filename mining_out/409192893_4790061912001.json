@@ -1,0 +1,125 @@
+[
+    {
+        "entity": [
+            "Mail", 
+            "Junk", 
+            "Junk", 
+            "Exec_(operating_system)", 
+            "Direct_marketing", 
+            "United_States_Postal_Service", 
+            "United_States_Postal_Service", 
+            "United_States_Postal_Service", 
+            "Water", 
+            "Letter_box"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ton"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mail"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Chair_(official)", 
+            "United_States_Postal_Service", 
+            "DHL", 
+            "DHL", 
+            "List_of_United_States_federal_agencies", 
+            "United_States_Postmaster_General", 
+            "Kessler_(TV_series)", 
+            "Mail", 
+            "Postmaster", 
+            "2006", 
+            "United_States_Postal_Service", 
+            "Mail", 
+            "2008", 
+            "Fiscal_year", 
+            "Independent_agencies_of_the_United_States_government", 
+            "The_Postal_Service", 
+            "United_States", 
+            "Kessler_(TV_series)", 
+            "E-mail", 
+            "Electronic_music", 
+            "September_30", 
+            "United_States_Postal_Service", 
+            "United_States_Postal_Service", 
+            "FedEx", 
+            "Cost_of_living", 
+            "Internet", 
+            "Jasmin", 
+            "United_States", 
+            "John_Potter,_Archbishop_of_Canterbury", 
+            "Deutsche_Post", 
+            "Deutsche_Post", 
+            "Mail", 
+            "United_Parcel_Service", 
+            "United_States_Postal_Service", 
+            "United_States_Postal_Service", 
+            "First-class_cricket", 
+            "Mail", 
+            "Mail", 
+            "United_States_Postal_Service", 
+            "Fiscal_year", 
+            "United_States_Postal_Service", 
+            "United_States_Congress", 
+            "Reuters", 
+            "2008", 
+            "United_States_Postal_Service", 
+            "Retirement", 
+            "Legislation", 
+            "Jasmin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fiscal_year", 
+            "Retirement", 
+            "Government_agency"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Donkey", 
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Junk", 
+            "E-mail_spam", 
+            "Mail", 
+            "Prison"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

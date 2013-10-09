@@ -1,0 +1,97 @@
+[
+    {
+        "entity": [
+            "Hello_(Lionel_Richie_song)", 
+            "Hospital", 
+            "Sexually_transmitted_disease"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sexually_transmitted_disease"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hoedown", 
+            "Medical_record", 
+            "Internet_forum", 
+            "United_States_Army", 
+            "United_States_Air_Force", 
+            "Troglodyte"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Medical_record", 
+            "Iraq", 
+            "Gonorrhea", 
+            "Medical_record"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Island", 
+            "Pacific_Ocean", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Hope,_Arkansas", 
+            "Hope_Island"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Hope_Island", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum", 
+            "Controllers_(DC_Comics)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Sexually_transmitted_disease", 
+            "Combined_oral_contraceptive_pill", 
+            "Honey"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Honey", 
+            "Condom", 
+            "Ruth_Westheimer", 
+            "Theres", 
+            "Sexual_intercourse"
+        ], 
+        "postID": 12
+    }
+]

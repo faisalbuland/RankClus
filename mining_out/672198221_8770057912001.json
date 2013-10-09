@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Constitutional_right"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tea_party", 
+            "Tea"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Governor_of_California", 
+            "Devil", 
+            "Second_Spanish_Republic", 
+            "Republican_Party_(United_States)", 
+            "Mark_Sanford", 
+            "Stimulus", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Sanford,_Florida"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "IMHO", 
+            "Democracy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Thank_You_(Dido_song)", 
+            "George_W._Bush"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "George_W._Bush"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "George_W._Bush", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Pope", 
+            "Nazism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "LOL", 
+            "Stalinism"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Fiscal_conservatism", 
+            "George_W._Bush", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "IMHO"
+        ], 
+        "postID": 17
+    }
+]

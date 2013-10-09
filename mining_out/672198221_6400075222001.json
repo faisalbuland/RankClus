@@ -1,0 +1,101 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States_Department_of_Justice", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Presidency_of_George_W._Bush", 
+            "Barack_Obama", 
+            "Associated_Press", 
+            "Steven_G._Bradbury", 
+            "Bybee,_Kentucky", 
+            "Bird", 
+            "United_States_Department_of_Justice", 
+            "Torture", 
+            "George_W._Bush", 
+            "Ray_Bradbury", 
+            "Washington,_D.C.", 
+            "Bar_association", 
+            "Ethics", 
+            "The_Washington_Post", 
+            "Bybee_memo", 
+            "George_W._Bush", 
+            "Jay_Bybee", 
+            "Ford_Probe", 
+            "Office_of_Legal_Counsel", 
+            "Enhanced_interrogation_techniques", 
+            "Bybee,_Kentucky", 
+            "Departments_of_France", 
+            "Bar_association", 
+            "Planet", 
+            "Bar_association", 
+            "Torture", 
+            "Bar_association", 
+            "Enhanced_interrogation_techniques", 
+            "U.S._state", 
+            "Office_of_Legal_Counsel", 
+            "Jay_Bybee", 
+            "Torture", 
+            "Lawyer", 
+            "George_W._Bush", 
+            "John_Yoo", 
+            "The_Washington_Post", 
+            "Presidency_of_George_W._Bush", 
+            "Interrogation", 
+            "Lobbying", 
+            "NFL_Draft", 
+            "United_States_Department_of_Justice", 
+            "Associated_Press", 
+            "Galaxy", 
+            "Update_(SQL)", 
+            "Guessing_game", 
+            "Conscription_in_the_United_States", 
+            "United_States_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "Accomplice", 
+            "Radio", 
+            "Chat_show"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "CNN"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Crime"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }
+]

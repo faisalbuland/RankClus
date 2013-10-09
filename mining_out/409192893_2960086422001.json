@@ -1,0 +1,959 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_York_City"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Town", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Police", 
+            "President_of_the_United_States", 
+            "New_York_Central_Railroad"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Sam_Crawford", 
+            "Police", 
+            "Economy", 
+            "Overtime_(sports)", 
+            "George_W._Bush", 
+            "New_York_City"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Empathy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Ketchup"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tab", 
+            "Stream"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bikini", 
+            "Thread_(computer_science)", 
+            "Outlaws"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Limousine", 
+            "Hypocrisy", 
+            "Helicopter", 
+            "Syndrome", 
+            "United_States", 
+            "Ton", 
+            "Altitude", 
+            "Pound_(mass)", 
+            "Ford_Motor_Company", 
+            "Jet_aircraft", 
+            "Alaska", 
+            "Diesel"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Anti-aircraft_warfare", 
+            "Hypocrisy", 
+            "Elitism", 
+            "Automotive_industry", 
+            "Business_jet", 
+            "Jet_aircraft"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "SNAFU", 
+            "White_House", 
+            "Liberty,_Missouri", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Theatre"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Cake", 
+            "Theatre", 
+            "Washington"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Tax", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "New_York_City", 
+            "Aircraft", 
+            "New_York", 
+            "Broadway_theatre", 
+            "Broadway_theatre", 
+            "York_City_F.C.", 
+            "Theatre", 
+            "President_of_the_United_States", 
+            "New_York_City"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Crawford,_Texas", 
+            "George_W._Bush", 
+            "Public_transport", 
+            "Whitehouse_(band)", 
+            "Texas", 
+            "First_Family_of_the_United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States_Secret_Service"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Crawford,_Texas", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Mayor", 
+            "Blumberg", 
+            "Broadway_theatre", 
+            "Mayor", 
+            "Association_football", 
+            "Ground_zero"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "October_6", 
+            "Actor", 
+            "Sheriff", 
+            "Arcadia,_California", 
+            "Los_Angeles_County_Board_of_Supervisors", 
+            "Chandler,_Arizona", 
+            "2006", 
+            "Airport", 
+            "Bruce_Boxleitner", 
+            "Los_Angeles_County,_California", 
+            "Mike_Antonovich", 
+            "George_W._Bush", 
+            "Los_Angeles,_California", 
+            "California", 
+            "George_W._Bush", 
+            "Limited_overs_cricket", 
+            "Theodore_Gill", 
+            "President_of_the_United_States", 
+            "Day_Fire", 
+            "San_Diego_Padres", 
+            "United_States_Air_Force", 
+            "Los_Padres_National_Forest", 
+            "United_States_National_Forest", 
+            "Fundraising", 
+            "Baca_County,_Colorado", 
+            "Tarmac", 
+            "George_W._Bush", 
+            "Lee_Baca", 
+            "Los_Padres_National_Forest", 
+            "Mayor", 
+            "Firefighter", 
+            "George_W._Bush"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Telegraphy", 
+            "Telephone", 
+            "Benzedrine", 
+            "Toilet", 
+            "Toilet_paper", 
+            "Soap"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "World_Series", 
+            "2001", 
+            "Aircraft", 
+            "New_York_Yankees", 
+            "Flight_dynamics", 
+            "Yankee_Stadium", 
+            "Marine_One", 
+            "Yankee_Stadium", 
+            "New_York_Yankees", 
+            "Ceremonial_first_pitch", 
+            "October_31", 
+            "President_of_the_United_States", 
+            "Baseball_park", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Dust", 
+            "Helicopter"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Crawford,_Texas"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Wash", 
+            "Florida", 
+            "Joe_Biden", 
+            "Orlando,_Florida", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Theatre", 
+            "Gosh", 
+            "Walt_Disney_World_Resort", 
+            "Never_Ever", 
+            "Barack_Obama", 
+            "Crawford,_Texas", 
+            "Hack_(technology)", 
+            "News_broadcasting", 
+            "The_Walt_Disney_Company", 
+            "Joe_Biden", 
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_York_City"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Town", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Police", 
+            "President_of_the_United_States", 
+            "New_York_Central_Railroad"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Sam_Crawford", 
+            "Police", 
+            "Economy", 
+            "Overtime_(sports)", 
+            "George_W._Bush", 
+            "New_York_City"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Empathy"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Ketchup"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Tab", 
+            "Stream"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Bikini", 
+            "Thread_(computer_science)", 
+            "Outlaws"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Limousine", 
+            "Hypocrisy", 
+            "Helicopter", 
+            "Syndrome", 
+            "United_States", 
+            "Ton", 
+            "Altitude", 
+            "Pound_(mass)", 
+            "Ford_Motor_Company", 
+            "Jet_aircraft", 
+            "Alaska", 
+            "Diesel"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Anti-aircraft_warfare", 
+            "Hypocrisy", 
+            "Elitism", 
+            "Automotive_industry", 
+            "Business_jet", 
+            "Jet_aircraft"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "SNAFU", 
+            "White_House", 
+            "Liberty,_Missouri", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Theatre"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Cake", 
+            "Theatre", 
+            "Washington"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Tax", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "New_York_City", 
+            "Aircraft", 
+            "New_York", 
+            "Broadway_theatre", 
+            "Broadway_theatre", 
+            "York_City_F.C.", 
+            "Theatre", 
+            "President_of_the_United_States", 
+            "New_York_City"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Crawford,_Texas", 
+            "George_W._Bush", 
+            "Public_transport", 
+            "Whitehouse_(band)", 
+            "Texas", 
+            "First_Family_of_the_United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States_Secret_Service"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Crawford,_Texas", 
+            "George_W._Bush"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Mayor", 
+            "Blumberg", 
+            "Broadway_theatre", 
+            "Mayor", 
+            "Association_football", 
+            "Ground_zero"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "October_6", 
+            "Actor", 
+            "Sheriff", 
+            "Arcadia,_California", 
+            "Los_Angeles_County_Board_of_Supervisors", 
+            "Chandler,_Arizona", 
+            "2006", 
+            "Airport", 
+            "Bruce_Boxleitner", 
+            "Los_Angeles_County,_California", 
+            "Mike_Antonovich", 
+            "George_W._Bush", 
+            "Los_Angeles,_California", 
+            "California", 
+            "George_W._Bush", 
+            "Limited_overs_cricket", 
+            "Theodore_Gill", 
+            "President_of_the_United_States", 
+            "Day_Fire", 
+            "San_Diego_Padres", 
+            "United_States_Air_Force", 
+            "Los_Padres_National_Forest", 
+            "United_States_National_Forest", 
+            "Fundraising", 
+            "Baca_County,_Colorado", 
+            "Tarmac", 
+            "George_W._Bush", 
+            "Lee_Baca", 
+            "Los_Padres_National_Forest", 
+            "Mayor", 
+            "Firefighter", 
+            "George_W._Bush"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Telegraphy", 
+            "Telephone", 
+            "Benzedrine", 
+            "Toilet", 
+            "Toilet_paper", 
+            "Soap"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "World_Series", 
+            "2001", 
+            "Aircraft", 
+            "New_York_Yankees", 
+            "Flight_dynamics", 
+            "Yankee_Stadium", 
+            "Marine_One", 
+            "Yankee_Stadium", 
+            "New_York_Yankees", 
+            "Ceremonial_first_pitch", 
+            "October_31", 
+            "President_of_the_United_States", 
+            "Baseball_park", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Dust", 
+            "Helicopter"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Crawford,_Texas"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Wash", 
+            "Florida", 
+            "Joe_Biden", 
+            "Orlando,_Florida", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Theatre", 
+            "Gosh", 
+            "Walt_Disney_World_Resort", 
+            "Never_Ever", 
+            "Barack_Obama", 
+            "Crawford,_Texas", 
+            "Hack_(technology)", 
+            "News_broadcasting", 
+            "The_Walt_Disney_Company", 
+            "Joe_Biden", 
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_York_City"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Town", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Police", 
+            "President_of_the_United_States", 
+            "New_York_Central_Railroad"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Bachelor_of_Science"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Sam_Crawford", 
+            "Police", 
+            "Economy", 
+            "Overtime_(sports)", 
+            "George_W._Bush", 
+            "New_York_City"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Empathy"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Ketchup"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Tab", 
+            "Stream"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Bikini", 
+            "Thread_(computer_science)", 
+            "Outlaws"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Hypocrisy", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Limousine", 
+            "Hypocrisy", 
+            "Helicopter", 
+            "Syndrome", 
+            "United_States", 
+            "Ton", 
+            "Altitude", 
+            "Pound_(mass)", 
+            "Ford_Motor_Company", 
+            "Jet_aircraft", 
+            "Alaska", 
+            "Diesel"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Anti-aircraft_warfare", 
+            "Hypocrisy", 
+            "Elitism", 
+            "Automotive_industry", 
+            "Business_jet", 
+            "Jet_aircraft"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "SNAFU", 
+            "White_House", 
+            "Liberty,_Missouri", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Theatre"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Cake", 
+            "Theatre", 
+            "Washington"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Tax", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "New_York_City", 
+            "Aircraft", 
+            "New_York", 
+            "Broadway_theatre", 
+            "Broadway_theatre", 
+            "York_City_F.C.", 
+            "Theatre", 
+            "President_of_the_United_States", 
+            "New_York_City"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Crawford,_Texas", 
+            "George_W._Bush", 
+            "Public_transport", 
+            "Whitehouse_(band)", 
+            "Texas", 
+            "First_Family_of_the_United_States"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "United_States_Secret_Service"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Crawford,_Texas", 
+            "Prairie_Chapel_Ranch", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Crawford,_Texas", 
+            "George_W._Bush"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Mayor", 
+            "Blumberg", 
+            "Broadway_theatre", 
+            "Mayor", 
+            "Association_football", 
+            "Ground_zero"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "October_6", 
+            "Actor", 
+            "Sheriff", 
+            "Arcadia,_California", 
+            "Los_Angeles_County_Board_of_Supervisors", 
+            "Chandler,_Arizona", 
+            "2006", 
+            "Airport", 
+            "Bruce_Boxleitner", 
+            "Los_Angeles_County,_California", 
+            "Mike_Antonovich", 
+            "George_W._Bush", 
+            "Los_Angeles,_California", 
+            "California", 
+            "George_W._Bush", 
+            "Limited_overs_cricket", 
+            "Theodore_Gill", 
+            "President_of_the_United_States", 
+            "Day_Fire", 
+            "San_Diego_Padres", 
+            "United_States_Air_Force", 
+            "Los_Padres_National_Forest", 
+            "United_States_National_Forest", 
+            "Fundraising", 
+            "Baca_County,_Colorado", 
+            "Tarmac", 
+            "George_W._Bush", 
+            "Lee_Baca", 
+            "Los_Padres_National_Forest", 
+            "Mayor", 
+            "Firefighter", 
+            "George_W._Bush"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Telegraphy", 
+            "Telephone", 
+            "Benzedrine", 
+            "Toilet", 
+            "Toilet_paper", 
+            "Soap"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "World_Series", 
+            "2001", 
+            "Aircraft", 
+            "New_York_Yankees", 
+            "Flight_dynamics", 
+            "Yankee_Stadium", 
+            "Marine_One", 
+            "Yankee_Stadium", 
+            "New_York_Yankees", 
+            "Ceremonial_first_pitch", 
+            "October_31", 
+            "President_of_the_United_States", 
+            "Baseball_park", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Dust", 
+            "Helicopter"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Crawford,_Texas"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Wash", 
+            "Florida", 
+            "Joe_Biden", 
+            "Orlando,_Florida", 
+            "40th_Canadian_federal_election", 
+            "George_W._Bush", 
+            "Theatre", 
+            "Gosh", 
+            "Walt_Disney_World_Resort", 
+            "Never_Ever", 
+            "Barack_Obama", 
+            "Crawford,_Texas", 
+            "Hack_(technology)", 
+            "News_broadcasting", 
+            "The_Walt_Disney_Company", 
+            "Joe_Biden", 
+            "George_W._Bush", 
+            "Barack_Obama"
+        ], 
+        "postID": 90
+    }
+]

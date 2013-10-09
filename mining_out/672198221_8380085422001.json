@@ -1,0 +1,123 @@
+[
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Routing_Information_Protocol"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Wire", 
+            "T-shirt", 
+            "Prez_(DC_Comics)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Hay", 
+            "Nuclear_weapon", 
+            "Dope_(band)", 
+            "Tragedy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Drug_addiction", 
+            "Joseph_Stalin", 
+            "Police_officer", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Weapon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Santiago,_Chile", 
+            "Santiago,_Chile", 
+            "Ellen_(TV_series)", 
+            "Police", 
+            "Police_car", 
+            "Police", 
+            "Police", 
+            "Larceny", 
+            "Weapon", 
+            "Lung", 
+            "Weapon", 
+            "Weapon", 
+            "Drug_addiction", 
+            "Dunton,_Norfolk", 
+            "Dunton,_Norfolk", 
+            "Bullet", 
+            "Dunton,_Norfolk", 
+            "Harlem", 
+            "Harlem_Hospital_Center", 
+            "Harlem_Hospital_Center", 
+            "Police", 
+            "Coroner", 
+            "Police_officer"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Shame", 
+            "Prison", 
+            "Villain", 
+            "Bullet", 
+            "Villain", 
+            "Supreme_Court_of_the_United_States", 
+            "Villain"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Neighbourhood", 
+            "Illegal_drug_trade", 
+            "Crime", 
+            "Crime", 
+            "Illegal_drug_trade", 
+            "Violent_crime"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Morality", 
+            "Oath", 
+            "Oath", 
+            "Tragedy", 
+            "FINE", 
+            "M72_LAW", 
+            "Tragedy", 
+            "God", 
+            "God", 
+            "Heaven"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Felony"
+        ], 
+        "postID": 11
+    }
+]

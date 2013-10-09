@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "State", 
+            "State", 
+            "Statute", 
+            "Cannabis_(drug)", 
+            "Marriage", 
+            "Hampshire", 
+            "Texas", 
+            "Public_defender", 
+            "Medical_cannabis", 
+            "Prison", 
+            "New_Hampshire", 
+            "Capital_punishment", 
+            "Same-sex_marriage", 
+            "Tax", 
+            "Capital_punishment", 
+            "Gasoline", 
+            "Fuel_tax"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "New_Hampshire", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "Legislator", 
+            "Conservatism_in_the_United_States", 
+            "Hampshire", 
+            "Legislature"
+        ], 
+        "postID": 3
+    }
+]

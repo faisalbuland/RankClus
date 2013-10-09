@@ -1,0 +1,147 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Cap_(sport)", 
+            "Law", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Interest", 
+            "Usury", 
+            "Interest", 
+            "2010", 
+            "Mail"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Barack_Obama", 
+            "Bank", 
+            "Credit_limit", 
+            "Interest", 
+            "Mail"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fine_print", 
+            "Credit_card", 
+            "Trade_union", 
+            "Grits", 
+            "Credit_union"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bail"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Citigroup", 
+            "Bail_(disambiguation)", 
+            "American_International_Group", 
+            "Economy", 
+            "BoA"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Dividend", 
+            "Dividend", 
+            "Faux", 
+            "Interest"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Arses_of_Persia", 
+            "BOA_(band)", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Credit_card", 
+            "Politics"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "May_26", 
+            "2009", 
+            "Unemployment"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Lease", 
+            "Credit_card", 
+            "Domestic_sheep", 
+            "Credit_card", 
+            "Credit_card", 
+            "Credit_card", 
+            "United_States", 
+            "Bank_of_America"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gang", 
+            "Contraction_(grammar)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Credit_card_fraud", 
+            "United_States", 
+            "Fraud", 
+            "Credit_card", 
+            "Nipple"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "United_States", 
+            "Bank_of_America", 
+            "Credit_card", 
+            "Interest", 
+            "Credit_card"
+        ], 
+        "postID": 16
+    }
+]

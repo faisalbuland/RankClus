@@ -1,0 +1,638 @@
+[
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "American_International_Group", 
+            "Wow", 
+            "United_States", 
+            "Bank", 
+            "Novel", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "George_W._Bush"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Intestine", 
+            "Courage"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Liberal_Party_of_Canada", 
+            "George_W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Harvey", 
+            "Paul_Harvey", 
+            "Wow_(recording)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Harry_S._Truman", 
+            "United_States_Senate", 
+            "Buck"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "U.S._state", 
+            "George_W._Bush", 
+            "Buck", 
+            "International_Maritime_Organization", 
+            "Partisan_(military)", 
+            "Rhetoric", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Jack_(device)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bingo"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Shame", 
+            "American_International_Group", 
+            "Buck", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Bail_(disambiguation)", 
+            "United_States_Senate", 
+            "Executive_compensation", 
+            "Fault_(geology)", 
+            "Stimulus_(physiology)", 
+            "United_States_Department_of_the_Treasury", 
+            "TARP", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "TARP", 
+            "Barack_Obama", 
+            "Henry_Paulson", 
+            "Federal_Reserve_System", 
+            "Bail_out_(finance)", 
+            "Rhetoric", 
+            "President_of_the_United_States", 
+            "Bail_(disambiguation)", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "TARP", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Congress", 
+            "Rhetoric", 
+            "TARP", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fingerprint_(disambiguation)", 
+            "Fault_(geology)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fork_(software_development)", 
+            "Tongue", 
+            "Forked_tongue", 
+            "Big_Chief"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Cabinet"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Courage", 
+            "Stimulus_(physiology)", 
+            "Contract", 
+            "American_International_Group", 
+            "Intestine", 
+            "Law", 
+            "Camera"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Authoritarianism", 
+            "Rush_(band)", 
+            "United_States_Department_of_Transportation", 
+            "Teleprompter", 
+            "Idiot", 
+            "Nonsense"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Capitalism", 
+            "Chinese_financial_system", 
+            "Socialism", 
+            "Chinese_financial_system", 
+            "Infusion", 
+            "Ideology"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "American_International_Group", 
+            "Wow", 
+            "United_States", 
+            "Bank", 
+            "Novel", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "George_W._Bush"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Intestine", 
+            "Courage"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Liberal_Party_of_Canada", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Harvey", 
+            "Paul_Harvey", 
+            "Wow_(recording)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Harry_S._Truman", 
+            "United_States_Senate", 
+            "Buck"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "U.S._state", 
+            "George_W._Bush", 
+            "Buck", 
+            "International_Maritime_Organization", 
+            "Partisan_(military)", 
+            "Rhetoric", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Jack_(device)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bingo"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Shame", 
+            "American_International_Group", 
+            "Buck", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Bail_(disambiguation)", 
+            "United_States_Senate", 
+            "Executive_compensation", 
+            "Fault_(geology)", 
+            "Stimulus_(physiology)", 
+            "United_States_Department_of_the_Treasury", 
+            "TARP", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "TARP", 
+            "Barack_Obama", 
+            "Henry_Paulson", 
+            "Federal_Reserve_System", 
+            "Bail_out_(finance)", 
+            "Rhetoric", 
+            "President_of_the_United_States", 
+            "Bail_(disambiguation)", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "TARP", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Congress", 
+            "Rhetoric", 
+            "TARP", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fingerprint_(disambiguation)", 
+            "Fault_(geology)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fork_(software_development)", 
+            "Tongue", 
+            "Forked_tongue", 
+            "Big_Chief"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Cabinet"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Courage", 
+            "Stimulus_(physiology)", 
+            "Contract", 
+            "American_International_Group", 
+            "Intestine", 
+            "Law", 
+            "Camera"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Authoritarianism", 
+            "Rush_(band)", 
+            "United_States_Department_of_Transportation", 
+            "Teleprompter", 
+            "Idiot", 
+            "Nonsense"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Capitalism", 
+            "Chinese_financial_system", 
+            "Socialism", 
+            "Chinese_financial_system", 
+            "Infusion", 
+            "Ideology"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "American_International_Group", 
+            "Wow", 
+            "United_States", 
+            "Bank", 
+            "Novel", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "George_W._Bush"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Intestine", 
+            "Courage"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Liberal_Party_of_Canada", 
+            "George_W._Bush"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Harvey", 
+            "Paul_Harvey", 
+            "Wow_(recording)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Teleprompter"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Harry_S._Truman", 
+            "United_States_Senate", 
+            "Buck"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "U.S._state", 
+            "George_W._Bush", 
+            "Buck", 
+            "International_Maritime_Organization", 
+            "Partisan_(military)", 
+            "Rhetoric", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Jack_(device)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bingo"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Shame", 
+            "American_International_Group", 
+            "Buck", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Bail_(disambiguation)", 
+            "United_States_Senate", 
+            "Executive_compensation", 
+            "Fault_(geology)", 
+            "Stimulus_(physiology)", 
+            "United_States_Department_of_the_Treasury", 
+            "TARP", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "TARP", 
+            "Barack_Obama", 
+            "Henry_Paulson", 
+            "Federal_Reserve_System", 
+            "Bail_out_(finance)", 
+            "Rhetoric", 
+            "President_of_the_United_States", 
+            "Bail_(disambiguation)", 
+            "Fault_(geology)", 
+            "George_W._Bush", 
+            "Fault_(geology)", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "TARP", 
+            "United_States_Department_of_the_Treasury", 
+            "United_States_Congress", 
+            "Rhetoric", 
+            "TARP", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Fingerprint_(disambiguation)", 
+            "Fault_(geology)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Fork_(software_development)", 
+            "Tongue", 
+            "Forked_tongue", 
+            "Big_Chief"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Cabinet"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Courage", 
+            "Stimulus_(physiology)", 
+            "Contract", 
+            "American_International_Group", 
+            "Intestine", 
+            "Law", 
+            "Camera"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Authoritarianism", 
+            "Rush_(band)", 
+            "United_States_Department_of_Transportation", 
+            "Teleprompter", 
+            "Idiot", 
+            "Nonsense"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Capitalism", 
+            "Chinese_financial_system", 
+            "Socialism", 
+            "Chinese_financial_system", 
+            "Infusion", 
+            "Ideology"
+        ], 
+        "postID": 60
+    }
+]

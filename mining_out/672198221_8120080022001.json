@@ -1,0 +1,103 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Minor_league_baseball"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Athletic_shoe", 
+            "Light_fixture", 
+            "Hat", 
+            "Aluminium", 
+            "Street_light", 
+            "Thread_(computer_science)", 
+            "New_York", 
+            "New_York", 
+            "Telephone", 
+            "Plain_old_telephone_service", 
+            "New_York_City"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shoe", 
+            "Airport"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Hudson_River"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "News_conference", 
+            "Airport"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Shame", 
+            "Test_tube", 
+            "Spot_welding", 
+            "WTC", 
+            "Welding", 
+            "Antenna_(radio)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Freedom_fighter", 
+            "Shoe"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bashing_(film)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Shoemaking", 
+            "Shoemaking"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Myocardial_infarction", 
+            "Neil_Bush", 
+            "He_(letter)", 
+            "George_H._W._Bush", 
+            "Neil_Bush", 
+            "Thread_(computer_science)", 
+            "!!!", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 12
+    }
+]

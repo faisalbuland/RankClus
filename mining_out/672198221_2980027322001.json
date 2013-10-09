@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Archer_Daniels_Midland", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "Police", 
+            "Osama_bin_Laden", 
+            "Police_action", 
+            "Stay_(2005_film)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dogfight", 
+            "Aerial_warfare", 
+            "Pakistan"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "All_India_Radio", 
+            "KNOW-FM"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Collateral_(film)", 
+            "Damage_(film)", 
+            "Collateral_damage", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Osama_bin_Laden", 
+            "Osama_(film)", 
+            "Ladin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Presidential_Medal_of_Freedom", 
+            "Admiral", 
+            "Osama_bin_Laden", 
+            "Chemical_polarity", 
+            "Afghanistan"
+        ], 
+        "postID": 8
+    }
+]

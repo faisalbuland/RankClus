@@ -1,0 +1,926 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hayden_(musician)", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Surveillance", 
+            "Terrorism", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Dick_Cheney", 
+            "Central_Intelligence_Agency", 
+            "Law", 
+            "NSA_electronic_surveillance_program", 
+            "Surveillance", 
+            "Enhanced_interrogation_techniques", 
+            "M72_LAW", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "United_States", 
+            "Khalid_Sheikh_Mohammed", 
+            "United_States", 
+            "United_States_Intelligence_Community", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "2003", 
+            "Enhanced_interrogation_techniques", 
+            "2003", 
+            "Dick_Cheney", 
+            "United_States_Foreign_Intelligence_Surveillance_Court", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "2008", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Intelligence_(information_gathering)", 
+            "Sheikh", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Abu_Zubaydah", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States", 
+            "Terrorism", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Terrorism", 
+            "Compassion", 
+            "Interrogation"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Internet_caf\u00e9", 
+            "Law_school", 
+            "Wing", 
+            "Law", 
+            "May_15", 
+            "Law_School_Admission_Test", 
+            "Harvard_Law_School", 
+            "United_States", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Ivy", 
+            "Weed", 
+            "Left-wing_politics", 
+            "Ivy_League", 
+            "United_States", 
+            "Law", 
+            "Terrorism", 
+            "Dick_Cheney", 
+            "2009", 
+            "Torture"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nancy", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Deadeye_Dick", 
+            "Deadeye", 
+            "Chalkboard", 
+            "Nail_(fastener)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Water", 
+            "Water", 
+            "Weapon_of_mass_destruction", 
+            "Waterboarding"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "The_News_International", 
+            "Editorial"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "United_States_Congressional_committee", 
+            "Espionage", 
+            "Presidency_of_Bill_Clinton", 
+            "United_Nations_Security_Council", 
+            "United_Nations_Security_Council", 
+            "Water", 
+            "United_States_Senate"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Google", 
+            "Dick_Cheney_hunting_incident"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Parking_space", 
+            "Crime", 
+            "Biological_warfare"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Weapon_of_mass_destruction", 
+            "Weapon_of_mass_destruction", 
+            "John_Kerry", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "John_Kerry"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Robbery", 
+            "Safety_(American_football)", 
+            "United_States", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Kool-Aid", 
+            "Rendition_(law)", 
+            "England", 
+            "Nazism", 
+            "Winston_Churchill", 
+            "Bachelor_of_Science", 
+            "Safety_(American_football)", 
+            "Blindness", 
+            "World_War_II"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Mother_Teresa", 
+            "Winston_Churchill"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Federal_Bureau_of_Investigation", 
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Arabian_Peninsula", 
+            "Waterboarding", 
+            "Saudi_Arabia", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "Torture", 
+            "Al-Qaeda", 
+            "Saudi_Arabia", 
+            "Waterboarding", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "May_2008", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "United_States", 
+            "Hayden_(musician)", 
+            "2008", 
+            "Torture", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "President_of_the_United_States", 
+            "Torture", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "United_States", 
+            "Al-Qaeda", 
+            "Waterboarding", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "Torture", 
+            "United_States", 
+            "Egypt", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Dick_Cheney", 
+            "Barack_Obama"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Guilt"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "May_1"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Google", 
+            "Guard_(American_football)", 
+            "Winston_Churchill", 
+            "Heres_Municipality"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hayden_(musician)", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Surveillance", 
+            "Terrorism", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Dick_Cheney", 
+            "Central_Intelligence_Agency", 
+            "Law", 
+            "NSA_electronic_surveillance_program", 
+            "Surveillance", 
+            "Enhanced_interrogation_techniques", 
+            "M72_LAW", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "United_States", 
+            "Khalid_Sheikh_Mohammed", 
+            "United_States", 
+            "United_States_Intelligence_Community", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "2003", 
+            "Enhanced_interrogation_techniques", 
+            "2003", 
+            "Dick_Cheney", 
+            "United_States_Foreign_Intelligence_Surveillance_Court", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "2008", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Intelligence_(information_gathering)", 
+            "Sheikh", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Abu_Zubaydah", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States", 
+            "Terrorism", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Terrorism", 
+            "Compassion", 
+            "Interrogation"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Internet_caf\u00e9", 
+            "Law_school", 
+            "Wing", 
+            "Law", 
+            "May_15", 
+            "Law_School_Admission_Test", 
+            "Harvard_Law_School", 
+            "United_States", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Ivy", 
+            "Weed", 
+            "Left-wing_politics", 
+            "Ivy_League", 
+            "United_States", 
+            "Law", 
+            "Terrorism", 
+            "Dick_Cheney", 
+            "2009", 
+            "Torture"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nancy", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Deadeye_Dick", 
+            "Deadeye", 
+            "Chalkboard", 
+            "Nail_(fastener)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Water", 
+            "Water", 
+            "Weapon_of_mass_destruction", 
+            "Waterboarding"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "The_News_International", 
+            "Editorial"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "United_States_Congressional_committee", 
+            "Espionage", 
+            "Presidency_of_Bill_Clinton", 
+            "United_Nations_Security_Council", 
+            "United_Nations_Security_Council", 
+            "Water", 
+            "United_States_Senate"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Google", 
+            "Dick_Cheney_hunting_incident"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Parking_space", 
+            "Crime", 
+            "Biological_warfare"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Weapon_of_mass_destruction", 
+            "Weapon_of_mass_destruction", 
+            "John_Kerry", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "John_Kerry"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Robbery", 
+            "Safety_(American_football)", 
+            "United_States", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Kool-Aid", 
+            "Rendition_(law)", 
+            "England", 
+            "Nazism", 
+            "Winston_Churchill", 
+            "Bachelor_of_Science", 
+            "Safety_(American_football)", 
+            "Blindness", 
+            "World_War_II"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Mother_Teresa", 
+            "Winston_Churchill"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Federal_Bureau_of_Investigation", 
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Arabian_Peninsula", 
+            "Waterboarding", 
+            "Saudi_Arabia", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "Torture", 
+            "Al-Qaeda", 
+            "Saudi_Arabia", 
+            "Waterboarding", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "May_2008", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "United_States", 
+            "Hayden_(musician)", 
+            "2008", 
+            "Torture", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "President_of_the_United_States", 
+            "Torture", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "United_States", 
+            "Al-Qaeda", 
+            "Waterboarding", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "Torture", 
+            "United_States", 
+            "Egypt", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Dick_Cheney", 
+            "Barack_Obama"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Guilt"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "May_1"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Google", 
+            "Guard_(American_football)", 
+            "Winston_Churchill", 
+            "Heres_Municipality"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hayden_(musician)", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "United_States_Congress", 
+            "Surveillance", 
+            "Terrorism", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Dick_Cheney", 
+            "Central_Intelligence_Agency", 
+            "Law", 
+            "NSA_electronic_surveillance_program", 
+            "Surveillance", 
+            "Enhanced_interrogation_techniques", 
+            "M72_LAW", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "United_States", 
+            "Khalid_Sheikh_Mohammed", 
+            "United_States", 
+            "United_States_Intelligence_Community", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "2003", 
+            "Enhanced_interrogation_techniques", 
+            "2003", 
+            "Dick_Cheney", 
+            "United_States_Foreign_Intelligence_Surveillance_Court", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "2008", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Interrogation", 
+            "Enhanced_interrogation_techniques", 
+            "Intelligence_(information_gathering)", 
+            "Sheikh", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Enhanced_interrogation_techniques", 
+            "Abu_Zubaydah", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States", 
+            "Terrorism", 
+            "United_States", 
+            "Enhanced_interrogation_techniques", 
+            "Barack_Obama", 
+            "Intelligence_(information_gathering)", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Terrorism", 
+            "Compassion", 
+            "Interrogation"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Internet_caf\u00e9", 
+            "Law_school", 
+            "Wing", 
+            "Law", 
+            "May_15", 
+            "Law_School_Admission_Test", 
+            "Harvard_Law_School", 
+            "United_States", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Ivy", 
+            "Weed", 
+            "Left-wing_politics", 
+            "Ivy_League", 
+            "United_States", 
+            "Law", 
+            "Terrorism", 
+            "Dick_Cheney", 
+            "2009", 
+            "Torture"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Nancy", 
+            "Barry,_Vale_of_Glamorgan"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Deadeye_Dick", 
+            "Deadeye", 
+            "Chalkboard", 
+            "Nail_(fastener)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "United_States", 
+            "Water", 
+            "Water", 
+            "Weapon_of_mass_destruction", 
+            "Waterboarding"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "The_News_International", 
+            "Editorial"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "United_States_Congressional_committee", 
+            "Espionage", 
+            "Presidency_of_Bill_Clinton", 
+            "United_Nations_Security_Council", 
+            "United_Nations_Security_Council", 
+            "Water", 
+            "United_States_Senate"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Google", 
+            "Dick_Cheney_hunting_incident"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Parking_space", 
+            "Crime", 
+            "Biological_warfare"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Weapon_of_mass_destruction", 
+            "Weapon_of_mass_destruction", 
+            "John_Kerry", 
+            "George_W._Bush", 
+            "Bill_Clinton", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Weapon_of_mass_destruction", 
+            "2003_invasion_of_Iraq", 
+            "George_W._Bush", 
+            "2003_invasion_of_Iraq", 
+            "Bill_Clinton", 
+            "John_Kerry"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Robbery", 
+            "Safety_(American_football)", 
+            "United_States", 
+            "Torture", 
+            "Intelligence_(information_gathering)", 
+            "Kool-Aid", 
+            "Rendition_(law)", 
+            "England", 
+            "Nazism", 
+            "Winston_Churchill", 
+            "Bachelor_of_Science", 
+            "Safety_(American_football)", 
+            "Blindness", 
+            "World_War_II"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Mother_Teresa", 
+            "Winston_Churchill"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Federal_Bureau_of_Investigation", 
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Arabian_Peninsula", 
+            "Waterboarding", 
+            "Saudi_Arabia", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Interrogation", 
+            "Torture", 
+            "Al-Qaeda", 
+            "Saudi_Arabia", 
+            "Waterboarding", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "May_2008", 
+            "George_W._Bush", 
+            "Rush_(band)", 
+            "United_States", 
+            "Hayden_(musician)", 
+            "2008", 
+            "Torture", 
+            "Enhanced_interrogation_techniques", 
+            "Dick_Cheney", 
+            "Director_of_the_Central_Intelligence_Agency", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "President_of_the_United_States", 
+            "Torture", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "United_States", 
+            "Al-Qaeda", 
+            "Waterboarding", 
+            "Interrogation", 
+            "Central_Intelligence_Agency", 
+            "Torture", 
+            "United_States", 
+            "Egypt", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Dick_Cheney", 
+            "Barack_Obama"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney", 
+            "Guilt"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "May_1"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Google", 
+            "Guard_(American_football)", 
+            "Winston_Churchill", 
+            "Heres_Municipality"
+        ], 
+        "postID": 60
+    }
+]

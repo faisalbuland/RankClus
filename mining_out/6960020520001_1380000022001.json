@@ -1,0 +1,182 @@
+[
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Jack_Nicholson", 
+            "Eric_Shinseki"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Eric_Shinseki"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Budget_constraint", 
+            "Sorry_(Madonna_song)", 
+            "Cat", 
+            "Flash_(photography)", 
+            "Insurance", 
+            "Native_Americans_in_the_United_States", 
+            "Breathing", 
+            "Food_Stamp_Program", 
+            "Postage_stamp", 
+            "United_States_Army", 
+            "United_States", 
+            "Saw_(film)", 
+            "1970", 
+            "Fat", 
+            "Population"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Kudos", 
+            "Barack_Obama", 
+            "Eric_Shinseki", 
+            "Joe_Biden", 
+            "Vietnam", 
+            "Eric_Shinseki", 
+            "Kudos", 
+            "Eric_Shinseki"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "2010", 
+            "United_States", 
+            "Environmental_technology", 
+            "United_States", 
+            "Product_(chemistry)", 
+            "Eric_Shinseki", 
+            "Energy", 
+            "2009", 
+            "Energy_efficiency", 
+            "Real_property", 
+            "Technology", 
+            "Stewardship"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Eric_Shinseki", 
+            "Interference", 
+            "Salute"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Commissary", 
+            "Playing_field", 
+            "Mid-American_Conference", 
+            "Disabled_American_Veterans", 
+            "Disability", 
+            "Disabled_American_Veterans", 
+            "Disability", 
+            "Health_care", 
+            "Disability", 
+            "Veteran", 
+            "Government_budget", 
+            "Retirement"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Semper_fidelis", 
+            "Cat", 
+            "Fat", 
+            "Fidelis"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Soviet_Union", 
+            "Insurance", 
+            "Eric_Shinseki"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Presidency_of_Bill_Clinton", 
+            "Deficit", 
+            "Boss_(video_games)", 
+            "Combat_Information_Center", 
+            "Bill_Clinton", 
+            "United_States_Department_of_Defense", 
+            "Eric_Shinseki", 
+            "Class_of_service", 
+            "President_of_the_United_States", 
+            "Citizenship", 
+            "Health_care", 
+            "Barack_Obama", 
+            "Epiphany_(feeling)", 
+            "Fashion"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Eric_Shinseki", 
+            "Arthur_William_Baden_Powell", 
+            "Sake", 
+            "Patriotism", 
+            "Colin_Powell", 
+            "Pasture", 
+            "Fiasco", 
+            "Iraq"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Eric_Shinseki"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "General_officer", 
+            "W\u00fcrzburg", 
+            "Humour", 
+            "Aide-de-camp", 
+            "1992-93_in_English_football", 
+            "Captain"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Beret", 
+            "Green_beret"
+        ], 
+        "postID": 17
+    }
+]

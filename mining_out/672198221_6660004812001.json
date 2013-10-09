@@ -1,0 +1,514 @@
+[
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Chat_show", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Olympic_Games", 
+            "Jay_Leno", 
+            "Alley", 
+            "Bowling", 
+            "Special_Olympics", 
+            "President_of_the_United_States", 
+            "Bowling", 
+            "The_Pat_Sajak_Show", 
+            "129", 
+            "Disability", 
+            "White_House", 
+            "Bowling", 
+            "Special_Olympics", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Olympic_Games", 
+            "Barack_Obama", 
+            "The_Tonight_Show"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Deception", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Special_Olympics", 
+            "Tongue", 
+            "Olympic_Games", 
+            "Idiot", 
+            "Constitution"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Moron_(psychology)", 
+            "Liberalism", 
+            "President_of_the_United_States", 
+            "Idiot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Volunteer", 
+            "Idiot", 
+            "Deception", 
+            "Rush_(band)", 
+            "Constitution", 
+            "Olympic_Games", 
+            "George_H._W._Bush", 
+            "Gerald_Ford", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Population"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Everyday_(Dave_Matthews_Band_album)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Correctness", 
+            "LOL", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Political_correctness", 
+            "Barack_Obama", 
+            "Pssst"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Jimmy_Carter", 
+            "United_States", 
+            "Bank", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Utopia", 
+            "Political_corruption", 
+            "Illuminati", 
+            "Wind"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bubble", 
+            "Bust_(sculpture)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Tongue", 
+            "President", 
+            "Neoconservatism", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "George_W._Bush", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "U.S._state", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Franklin_D._Roosevelt", 
+            "2008", 
+            "Joe_Biden", 
+            "Joe_Biden", 
+            "Hillary_Rodham_Clinton", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Columbia_University", 
+            "George_W._Bush", 
+            "Hillary_Rodham_Clinton", 
+            "Joe_Biden", 
+            "Planned_economy", 
+            "Franklin_D._Roosevelt", 
+            "Franklin,_Tennessee", 
+            "Television", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "New_Hampshire", 
+            "Greed", 
+            "Missouri", 
+            "Stock_market", 
+            "Wheelchair", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Nashua,_New_Hampshire", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Video_clip", 
+            "United_States", 
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "September_12", 
+            "Town_hall_meeting", 
+            "Stock_market", 
+            "Vice_president", 
+            "Franklin_D._Roosevelt", 
+            "Chuck_Graham", 
+            "Joe_Biden", 
+            "Middle_class", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "George_W._Bush", 
+            "Town", 
+            "Joe_Biden", 
+            "City_and_town_halls", 
+            "Hampshire", 
+            "Missouri", 
+            "United_States", 
+            "1929", 
+            "United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Nixonian"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Joe's_Own_Editor", 
+            "Average_Joe"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "129", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Deficit", 
+            "FED_(camera)", 
+            "Open_market", 
+            "Deficit_spending", 
+            "Economic_policy", 
+            "Voodoo", 
+            "Treasury_security", 
+            "Hyperbole", 
+            "Credit_card", 
+            "United_States_Department_of_the_Treasury", 
+            "Jack_(device)", 
+            "Mystery_(fiction)", 
+            "United_States", 
+            "Mathematics", 
+            "Economics", 
+            "Reaganomics", 
+            "Burn_(Usher_song)", 
+            "Credit_card"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Chat_show", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Olympic_Games", 
+            "Jay_Leno", 
+            "Alley", 
+            "Bowling", 
+            "Special_Olympics", 
+            "President_of_the_United_States", 
+            "Bowling", 
+            "The_Pat_Sajak_Show", 
+            "129", 
+            "Disability", 
+            "White_House", 
+            "Bowling", 
+            "Special_Olympics", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Olympic_Games", 
+            "Barack_Obama", 
+            "The_Tonight_Show"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Deception", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Special_Olympics", 
+            "Tongue", 
+            "Olympic_Games", 
+            "Idiot", 
+            "Constitution"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Moron_(psychology)", 
+            "Liberalism", 
+            "President_of_the_United_States", 
+            "Idiot"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Volunteer", 
+            "Idiot", 
+            "Deception", 
+            "Rush_(band)", 
+            "Constitution", 
+            "Olympic_Games", 
+            "George_H._W._Bush", 
+            "Gerald_Ford", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Population"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Everyday_(Dave_Matthews_Band_album)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Correctness", 
+            "LOL", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "Political_correctness", 
+            "Barack_Obama", 
+            "Pssst"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Jimmy_Carter", 
+            "United_States", 
+            "Bank", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Utopia", 
+            "Political_corruption", 
+            "Illuminati", 
+            "Wind"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Left-wing_politics"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Bubble", 
+            "Bust_(sculpture)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Tongue", 
+            "President", 
+            "Neoconservatism", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "George_W._Bush", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "U.S._state", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Franklin_D._Roosevelt", 
+            "2008", 
+            "Joe_Biden", 
+            "Joe_Biden", 
+            "Hillary_Rodham_Clinton", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Columbia_University", 
+            "George_W._Bush", 
+            "Hillary_Rodham_Clinton", 
+            "Joe_Biden", 
+            "Planned_economy", 
+            "Franklin_D._Roosevelt", 
+            "Franklin,_Tennessee", 
+            "Television", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "New_Hampshire", 
+            "Greed", 
+            "Missouri", 
+            "Stock_market", 
+            "Wheelchair", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Nashua,_New_Hampshire", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Video_clip", 
+            "United_States", 
+            "Joe_Biden", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "September_12", 
+            "Town_hall_meeting", 
+            "Stock_market", 
+            "Vice_president", 
+            "Franklin_D._Roosevelt", 
+            "Chuck_Graham", 
+            "Joe_Biden", 
+            "Middle_class", 
+            "Joe_Biden_presidential_campaign,_2008", 
+            "George_W._Bush", 
+            "Town", 
+            "Joe_Biden", 
+            "City_and_town_halls", 
+            "Hampshire", 
+            "Missouri", 
+            "United_States", 
+            "1929", 
+            "United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Nixonian"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Joe's_Own_Editor", 
+            "Average_Joe"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "129", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Deficit", 
+            "FED_(camera)", 
+            "Open_market", 
+            "Deficit_spending", 
+            "Economic_policy", 
+            "Voodoo", 
+            "Treasury_security", 
+            "Hyperbole", 
+            "Credit_card", 
+            "United_States_Department_of_the_Treasury", 
+            "Jack_(device)", 
+            "Mystery_(fiction)", 
+            "United_States", 
+            "Mathematics", 
+            "Economics", 
+            "Reaganomics", 
+            "Burn_(Usher_song)", 
+            "Credit_card"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "entity": [
+            "Koryo-saram", 
+            "Nuclear_weapon", 
+            "!!!", 
+            "United_States", 
+            "Nuclear_family", 
+            "Koreans", 
+            "Nuclear_weapon", 
+            "Metal", 
+            "Nuclear_family", 
+            "Stone_Age", 
+            "Grammatical_mood", 
+            "Koreans", 
+            "Amplitude-shift_keying", 
+            "International_sanctions", 
+            "Cuba", 
+            "Good_Luck", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Neutral_country", 
+            "Puppy", 
+            "Nuclear_power", 
+            "Nuclear_weapon", 
+            "Nuclear_proliferation", 
+            "Nuclear_weapon", 
+            "Dog"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Nuclear_weapon", 
+            "Carl_Jung", 
+            "Arthur_William_Baden_Powell", 
+            "Technology", 
+            "Weapon_of_mass_destruction", 
+            "United_States", 
+            "Kim_Jong-il", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "Kim_Jong-il", 
+            "Barack_Obama", 
+            "Carl_Jung", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_Nations_resolution", 
+            "United_Nations", 
+            "United_Nations", 
+            "United_Nations_resolution", 
+            "United_Nations_resolution", 
+            "Appeasement", 
+            "Appeasement", 
+            "Bribery", 
+            "United_Nations", 
+            "Flash_(photography)"
+        ], 
+        "postID": 5
+    }
+]

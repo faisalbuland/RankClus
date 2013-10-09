@@ -1,0 +1,120 @@
+[
+    {
+        "entity": [
+            "Snake", 
+            "Tucson,_Arizona", 
+            "Tucson,_Arizona", 
+            "CBS", 
+            "Daily_Star", 
+            "Arizona", 
+            "General_Motors", 
+            "Channel_13", 
+            "KOLD-TV", 
+            "Tucson,_Arizona", 
+            "Arizona_Daily_Star"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Desert", 
+            "Memphis,_Tennessee", 
+            "Metro"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pontiac", 
+            "Franchising", 
+            "Jeep", 
+            "Franchising", 
+            "Thomas_Paine", 
+            "Franchising", 
+            "Toyota", 
+            "Franchising", 
+            "BUNCH", 
+            "Pontiac", 
+            "Franchising", 
+            "Buick", 
+            "Thomas_Paine", 
+            "Chrysler", 
+            "Brand", 
+            "Chrysler", 
+            "Buick"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Chrysler", 
+            "Hope,_British_Columbia", 
+            "Mercury_(automobile)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Coffee", 
+            "States_and_territories_of_India", 
+            "Cake", 
+            "Point_of_sale", 
+            "Balloon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Numerical_digit", 
+            "Chrysler"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Hell", 
+            "Nightmare", 
+            "Automobile"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Wisdom", 
+            "Quantum"
+        ], 
+        "postID": 13
+    }
+]

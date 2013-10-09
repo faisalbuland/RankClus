@@ -1,0 +1,117 @@
+[
+    {
+        "entity": [
+            "F._Scott_Fitzgerald", 
+            "University", 
+            "Gerald_Ford", 
+            "Fault_(geology)", 
+            "Blog", 
+            "F._Scott_Fitzgerald", 
+            "Maurice_Jarre", 
+            "Maurice_(emperor)", 
+            "The_Guardian", 
+            "Fraud", 
+            "Maurice_Jarre", 
+            "Australia", 
+            "F._Scott_Fitzgerald", 
+            "India", 
+            "Composer", 
+            "Wikipedia", 
+            "Dublin", 
+            "Newspaper", 
+            "United_Kingdom", 
+            "Ford_Motor_Company", 
+            "France", 
+            "Wikipedia", 
+            "Wikipedia", 
+            "Wikipedia", 
+            "Newspaper", 
+            "United_States", 
+            "E-mail", 
+            "Encyclopedia", 
+            "Globalization", 
+            "Experiment", 
+            "Maurice_(emperor)", 
+            "Shane_Fitzgerald", 
+            "United_Kingdom", 
+            "Sociology", 
+            "Report_card", 
+            "Journalism", 
+            "Internet_encyclopedia_project", 
+            "F._Scott_Fitzgerald", 
+            "March_28", 
+            "Accountability", 
+            "The_Guardian", 
+            "Shane_(film)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "MSNBC", 
+            "Ironic_(song)", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "LOL", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gospel", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Wiki"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Disability", 
+            "President_of_the_United_States", 
+            "Vietnam_War", 
+            "Posttraumatic_stress_disorder", 
+            "Vietnam_veteran"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 10
+    }
+]

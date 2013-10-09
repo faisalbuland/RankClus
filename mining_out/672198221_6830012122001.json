@@ -1,0 +1,170 @@
+[
+    {
+        "entity": [
+            "Interest", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Credit_card", 
+            "United_States_House_of_Representatives", 
+            "Bail_out_(finance)", 
+            "United_States", 
+            "White_House", 
+            "Interest", 
+            "United_States_Congress", 
+            "Addiction", 
+            "Film_director", 
+            "United_States_Senate", 
+            "Credit_card", 
+            "Chat_show", 
+            "Credit_card", 
+            "Barack_Obama", 
+            "Chairman_of_the_Federal_Reserve", 
+            "Ben_Bernanke", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Television", 
+            "Consumer_lending", 
+            "Federal_Reserve_System", 
+            "White_House", 
+            "Lawrence_Summers", 
+            "White_House", 
+            "Lawrence,_Kansas", 
+            "Marketing", 
+            "United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Credit_card", 
+            "Chairman_of_the_Federal_Reserve", 
+            "Interest", 
+            "Credit_card", 
+            "National_Economic_Council", 
+            "United_States", 
+            "NBC", 
+            "Credit_card"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Internal_Revenue_Code", 
+            "Consumer_lending", 
+            "United_States_Congress"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "The_Outlaw", 
+            "Outlaw", 
+            "Capital_One"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Loan_shark", 
+            "Fine_print"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Visa_Debit", 
+            "Navy", 
+            "Visa_Debit", 
+            "Annual_percentage_rate", 
+            "Visa_Inc.", 
+            "Annual_percentage_rate", 
+            "Navy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Legal_tender", 
+            "Car_rental", 
+            "George_Washington", 
+            "Washington"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Credit_union", 
+            "United_States", 
+            "Town", 
+            "Union_(American_Civil_War)", 
+            "American_International_Group", 
+            "Credit_card", 
+            "ASAP_(variety_show)", 
+            "Debt", 
+            "Bank_of_America"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Clown", 
+            "LOL"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Fork_(software_development)", 
+            "Bear", 
+            "Credit_card"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cash_and_carry"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bubonic_plague", 
+            "Thread_(computer_science)", 
+            "Internet_service_provider", 
+            "Credit_card", 
+            "Internet", 
+            "Towel", 
+            "Insurance", 
+            "Period_(geology)", 
+            "Insurance", 
+            "Vehicle_insurance"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Hero"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Credit_card"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Mutual_Admiration_Society", 
+            "LOL"
+        ], 
+        "postID": 16
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [
+            "Brassiere"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Boot_Camp_(software)", 
+            "Duck", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Broadband_Remote_Access_Server", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Build-Operate-Transfer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

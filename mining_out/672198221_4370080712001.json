@@ -1,0 +1,352 @@
+[
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Wichita,_Kansas", 
+            "Flatulence"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Shamu", 
+            "Pizzicato"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Pizzicato", 
+            "Flatulence", 
+            "LOL", 
+            "Shamu", 
+            "Bank"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Michael_Moore"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Incumbent", 
+            "Michigan", 
+            "Extremism", 
+            "Television_advertisement", 
+            "Michael_Moore", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "United_States_presidential_election,_1996", 
+            "Barack_Obama", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Wing", 
+            "George_W._Bush", 
+            "Villain", 
+            "Spin_(physics)", 
+            "Bank", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Television_advertisement", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Communism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Obesity", 
+            "United_States", 
+            "Gerald_Ford", 
+            "Adipose_tissue", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Michael_Moore", 
+            "England", 
+            "English_major", 
+            "Michael_Moore"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Republican_National_Committee", 
+            "Michael_Moore", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Rush_Limbaugh", 
+            "Michael_Moore", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Thread_(computer_science)", 
+            "Rush_(band)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Universality_(philosophy)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Horse", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Ralph_Nader", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)", 
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Stalking_horse", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Stalking", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Wichita,_Kansas", 
+            "Flatulence"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Shamu", 
+            "Pizzicato"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Pizzicato", 
+            "Flatulence", 
+            "LOL", 
+            "Shamu", 
+            "Bank"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Michael_Moore"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Incumbent", 
+            "Michigan", 
+            "Extremism", 
+            "Television_advertisement", 
+            "Michael_Moore", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "United_States_presidential_election,_1996", 
+            "Barack_Obama", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Wing", 
+            "George_W._Bush", 
+            "Villain", 
+            "Spin_(physics)", 
+            "Bank", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Television_advertisement", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Communism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Rush_(band)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Obesity", 
+            "United_States", 
+            "Gerald_Ford", 
+            "Adipose_tissue", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Michael_Moore", 
+            "England", 
+            "English_major", 
+            "Michael_Moore"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Republican_National_Committee", 
+            "Michael_Moore", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Rush_Limbaugh", 
+            "Michael_Moore", 
+            "Bank", 
+            "Thomas_Jefferson", 
+            "Thread_(computer_science)", 
+            "Rush_(band)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Universality_(philosophy)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Horse", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Ralph_Nader", 
+            "Rush_(band)", 
+            "Democratic_Party_(United_States)", 
+            "Politics_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Stalking_horse", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Stalking", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 39
+    }
+]

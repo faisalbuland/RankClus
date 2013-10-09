@@ -1,0 +1,77 @@
+[
+    {
+        "entity": [
+            "Family_Jewels_(Central_Intelligence_Agency)", 
+            "Magician_(fantasy)", 
+            "Buck", 
+            "Law", 
+            "Rubber_glove", 
+            "Rubber", 
+            "Glove"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thud_(game)", 
+            "Playbook"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Playbook"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prank", 
+            "Dust_(comics)", 
+            "First_responder", 
+            "Police", 
+            "Phencyclidine", 
+            "Detective", 
+            "Angel_Dust_(album)", 
+            "Angel_(TV_series)", 
+            "Homicide", 
+            "Adolescence"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Repurchase_agreement"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Tort", 
+            "Repurchase_agreement", 
+            "Police_academy", 
+            "Police", 
+            "Finance", 
+            "Bank", 
+            "Taser"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "entity": [
+            "Chinese_language", 
+            "Chinese_language"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Fuel_economy_in_automobiles", 
+            "Toyota", 
+            "2010", 
+            "United_States", 
+            "Building_integrated_photovoltaics", 
+            "Toyota_Prius", 
+            "Toyota"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pet_food", 
+            "Venom", 
+            "Drywall", 
+            "Infant_formula", 
+            "Venom", 
+            "Venom", 
+            "Venom", 
+            "Chemical_formula", 
+            "Pet", 
+            "Venom"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Junk_(ship)", 
+            "China", 
+            "Mexico", 
+            "Canada", 
+            "Junk_(ship)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "National_Health_Service", 
+            "Health_care"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Dog_harness", 
+            "United_States_Army", 
+            "Man_hour", 
+            "China", 
+            "Greed", 
+            "Feedback"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Liberalism", 
+            "Corporate_America", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "United_States", 
+            "Town", 
+            "Buck"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Ford_Motor_Company", 
+            "Politics", 
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Model_(person)", 
+            "2009", 
+            "Bail_out_(finance)", 
+            "Ford_Motor_Company", 
+            "Ford_Ranger", 
+            "Bankruptcy", 
+            "Bankruptcy", 
+            "United_States", 
+            "Ford_Motor_Company", 
+            "Ford_Ranger", 
+            "Chink", 
+            "Ford_Motor_Company", 
+            "Four-wheel_drive"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Driveway", 
+            "China", 
+            "China", 
+            "United_States", 
+            "Canada"
+        ], 
+        "postID": 12
+    }
+]

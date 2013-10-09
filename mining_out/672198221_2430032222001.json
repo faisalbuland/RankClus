@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "Vector_(biology)", 
+            "Virus", 
+            "Infectious_disease", 
+            "Aircraft", 
+            "HIV", 
+            "Disease", 
+            "Mexico", 
+            "Transmission_(medicine)", 
+            "2009", 
+            "Infectious_disease", 
+            "AIDS", 
+            "Vector_(biology)", 
+            "Aircraft", 
+            "Aircraft", 
+            "Joe_Biden", 
+            "Aviation", 
+            "Virus"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Joe_Biden", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Horn_(instrument)", 
+            "Server_(computing)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Hotseat_(multiplayer_mode)", 
+            "Joe_Biden"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Fault_(geology)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Credit_history", 
+            "Disease", 
+            "Pandemic", 
+            "Aircraft", 
+            "Joe_Biden", 
+            "Influenza", 
+            "Rapid_transit"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Lock_(water_transport)", 
+            "Trismus", 
+            "Jaw", 
+            "Joe_Biden", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "HHS", 
+            "Pig", 
+            "Democracy", 
+            "Pop_music", 
+            "Joe_Biden"
+        ], 
+        "postID": 9
+    }
+]

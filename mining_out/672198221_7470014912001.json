@@ -1,0 +1,51 @@
+[
+    {
+        "entity": [
+            "Washington", 
+            "Taliban", 
+            "Pakistan", 
+            "Stomp_(dance_troupe)", 
+            "Internet_forum", 
+            "Cockroach"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Welfare_(financial_aid)", 
+            "Bus", 
+            "Hell"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nursing", 
+            "Taliban", 
+            "Hospital", 
+            "Veterans_Health_Administration", 
+            "Nursing_home"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Nuclear_physics", 
+            "Medicine", 
+            "Nuclear_medicine", 
+            "Departments_of_France"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "President_of_Pakistan", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Pakistan", 
+            "White_House"
+        ], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Diaper", 
+            "Republican_Party_(United_States)", 
+            "LOL"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "List_of_national_founding_fathers", 
+            "Rome", 
+            "Shyster", 
+            "Liberalism"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Comedian"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Electoral_fraud", 
+            "Al_Franken", 
+            "Fraud", 
+            "Population", 
+            "Coleman_Company"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Coleman_Company"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Conservative_Party_(UK)", 
+            "Electoral_fraud"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Republican_Party_(United_States)", 
+            "Independent_(politician)", 
+            "Ventura_County,_California", 
+            "Pendulum", 
+            "Maggie_Simpson"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Franken", 
+            "County"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Franken"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Book_of_Judges"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Cleland,_North_Lanarkshire", 
+            "Max_Cleland", 
+            "Politics_of_the_United_States", 
+            "2003_invasion_of_Iraq", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Hero", 
+            "Cowardice", 
+            "Treason", 
+            "Republican_Party_(United_States)", 
+            "Cowardice"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Al_Franken", 
+            "Coleman_Company", 
+            "Al_Franken", 
+            "Gentleman", 
+            "United_States_Senate", 
+            "Judge", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Chris_Chambliss", 
+            "Torture", 
+            "Cowardice", 
+            "2000", 
+            "Saxby_Chambliss", 
+            "John_McCain", 
+            "Chickenhawk_(politics)", 
+            "Neoconservatism", 
+            "Shrub", 
+            "Treason", 
+            "Saxby"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Celebrity", 
+            "Republican_Party_(United_States)", 
+            "Ted_Nugent", 
+            "Al_Franken", 
+            "Toby_Keith", 
+            "Drew_Carey", 
+            "Iraq", 
+            "Iraq", 
+            "Trace_Adkins", 
+            "Doughnut", 
+            "Jessica_Simpson", 
+            "Jessica_Simpson", 
+            "Chuck_Norris", 
+            "Michael_Vaughn", 
+            "Vince_Vaughn", 
+            "Al_Franken", 
+            "Dunn_County,_Wisconsin", 
+            "Ted_Nugent", 
+            "Toby_Ziegler", 
+            "Trace", 
+            "Bruce_Willis", 
+            "Kid_Rock", 
+            "Brooks,_Alberta"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "George_Clooney", 
+            "Summit,_New_Jersey", 
+            "War_in_Darfur", 
+            "Tom_Arnold_(actor)", 
+            "Bill_O'Reilly_(commentator)", 
+            "Edmund_Pevensie", 
+            "Bill_O'Reilly_(commentator)", 
+            "Al_Franken", 
+            "Connie_Stevens", 
+            "United_Service_Organizations", 
+            "Al_Franken", 
+            "Bill_O'Reilly_(commentator)", 
+            "Afghanistan", 
+            "Don_Cheadle", 
+            "United_Service_Organizations", 
+            "Tom_Arnold_(actor)", 
+            "Al_Franken", 
+            "Bill_O'Reilly_(commentator)", 
+            "Don_Cheadle", 
+            "2007", 
+            "Bill_O'Reilly_(commentator)", 
+            "Al_Franken", 
+            "Tom_Arnold_(actor)", 
+            "Bill_O'Reilly_(commentator)", 
+            "United_Service_Organizations", 
+            "Afghanistan", 
+            "Bill_O'Reilly_(commentator)", 
+            "United_Service_Organizations", 
+            "Al_Franken", 
+            "Bye_(sports)", 
+            "Arthur_William_Baden_Powell", 
+            "George_Clooney", 
+            "Afghanistan", 
+            "Iraq", 
+            "Al_Franken", 
+            "Connie_Stevens", 
+            "President_of_the_United_States", 
+            "Jessica_Simpson", 
+            "2006", 
+            "Al_Franken", 
+            "Jessica_Simpson", 
+            "Bill_O'Reilly_(commentator)", 
+            "Double_act", 
+            "Darfur", 
+            "2003"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Diaper", 
+            "Republican_Party_(United_States)", 
+            "LOL"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "List_of_national_founding_fathers", 
+            "Rome", 
+            "Shyster", 
+            "Liberalism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Comedian"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Electoral_fraud", 
+            "Al_Franken", 
+            "Fraud", 
+            "Population", 
+            "Coleman_Company"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Coleman_Company"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Conservative_Party_(UK)", 
+            "Electoral_fraud"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Fraud", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "U.S._state", 
+            "Republican_Party_(United_States)", 
+            "Independent_(politician)", 
+            "Ventura_County,_California", 
+            "Pendulum", 
+            "Maggie_Simpson"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Franken", 
+            "County"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Franken"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Minnesota", 
+            "Book_of_Judges"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Cleland,_North_Lanarkshire", 
+            "Max_Cleland", 
+            "Politics_of_the_United_States", 
+            "2003_invasion_of_Iraq", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Hero", 
+            "Cowardice", 
+            "Treason", 
+            "Republican_Party_(United_States)", 
+            "Cowardice"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Al_Franken", 
+            "Coleman_Company", 
+            "Al_Franken", 
+            "Gentleman", 
+            "United_States_Senate", 
+            "Judge", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "John_McCain", 
+            "Chris_Chambliss", 
+            "Torture", 
+            "Cowardice", 
+            "2000", 
+            "Saxby_Chambliss", 
+            "John_McCain", 
+            "Chickenhawk_(politics)", 
+            "Neoconservatism", 
+            "Shrub", 
+            "Treason", 
+            "Saxby"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Celebrity", 
+            "Republican_Party_(United_States)", 
+            "Ted_Nugent", 
+            "Al_Franken", 
+            "Toby_Keith", 
+            "Drew_Carey", 
+            "Iraq", 
+            "Iraq", 
+            "Trace_Adkins", 
+            "Doughnut", 
+            "Jessica_Simpson", 
+            "Jessica_Simpson", 
+            "Chuck_Norris", 
+            "Michael_Vaughn", 
+            "Vince_Vaughn", 
+            "Al_Franken", 
+            "Dunn_County,_Wisconsin", 
+            "Ted_Nugent", 
+            "Toby_Ziegler", 
+            "Trace", 
+            "Bruce_Willis", 
+            "Kid_Rock", 
+            "Brooks,_Alberta"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "George_Clooney", 
+            "Summit,_New_Jersey", 
+            "War_in_Darfur", 
+            "Tom_Arnold_(actor)", 
+            "Bill_O'Reilly_(commentator)", 
+            "Edmund_Pevensie", 
+            "Bill_O'Reilly_(commentator)", 
+            "Al_Franken", 
+            "Connie_Stevens", 
+            "United_Service_Organizations", 
+            "Al_Franken", 
+            "Bill_O'Reilly_(commentator)", 
+            "Afghanistan", 
+            "Don_Cheadle", 
+            "United_Service_Organizations", 
+            "Tom_Arnold_(actor)", 
+            "Al_Franken", 
+            "Bill_O'Reilly_(commentator)", 
+            "Don_Cheadle", 
+            "2007", 
+            "Bill_O'Reilly_(commentator)", 
+            "Al_Franken", 
+            "Tom_Arnold_(actor)", 
+            "Bill_O'Reilly_(commentator)", 
+            "United_Service_Organizations", 
+            "Afghanistan", 
+            "Bill_O'Reilly_(commentator)", 
+            "United_Service_Organizations", 
+            "Al_Franken", 
+            "Bye_(sports)", 
+            "Arthur_William_Baden_Powell", 
+            "George_Clooney", 
+            "Afghanistan", 
+            "Iraq", 
+            "Al_Franken", 
+            "Connie_Stevens", 
+            "President_of_the_United_States", 
+            "Jessica_Simpson", 
+            "2006", 
+            "Al_Franken", 
+            "Jessica_Simpson", 
+            "Bill_O'Reilly_(commentator)", 
+            "Double_act", 
+            "Darfur", 
+            "2003"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

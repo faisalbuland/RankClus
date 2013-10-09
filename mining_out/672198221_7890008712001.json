@@ -1,0 +1,275 @@
+[
+    {
+        "entity": [
+            "Alaska", 
+            "Palin_Majere", 
+            "Road", 
+            "Infrastructure"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Nice"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Infrastructure", 
+            "Road", 
+            "Palin_Majere", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "Alaska", 
+            "Barack_Obama", 
+            "Palin_Majere"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Placeholder_name", 
+            "Blah", 
+            "Barack_Obama", 
+            "Blah", 
+            "Palin_Majere", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Placeholder_name", 
+            "Placeholder_name", 
+            "Law"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Rock_music"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Gerald_Ford", 
+            "Scots_law", 
+            "Law", 
+            "Ford_Motor_Company", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Double_standard"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Palin_Majere", 
+            "Infrastructure", 
+            "Palin_Majere", 
+            "Palin_Majere", 
+            "Democratic_Party_(United_States)", 
+            "United_States_House_of_Representatives", 
+            "Video_clip", 
+            "Google", 
+            "Stimulus", 
+            "Susteren", 
+            "Alaska", 
+            "Aircraft_Data_Network", 
+            "Barack_Obama", 
+            "Palin_Majere", 
+            "President_of_the_United_States", 
+            "Aircraft_Data_Network"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Criterium"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Sara_Sidle", 
+            "Palin_Majere", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Pork_barrel", 
+            "Island", 
+            "Earmark", 
+            "Palin_Majere", 
+            "Odor", 
+            "Palin_Majere", 
+            "John_McCain_presidential_campaign,_2008", 
+            "Native_Americans_in_the_United_States", 
+            "Alyeska_Pipeline_Service_Company", 
+            "Crab", 
+            "Indian_Village,_Chicago", 
+            "Australian_Labor_Party", 
+            "John_McCain", 
+            "Pork", 
+            "Barrel", 
+            "Palin_Majere", 
+            "Petroleum", 
+            "United_States", 
+            "Earmark", 
+            "Earmark", 
+            "Earmark_(politics)", 
+            "Earmark", 
+            "Bureau_of_Labor_Statistics", 
+            "Common_Sense_(pamphlet)", 
+            "Alaska", 
+            "Alaska", 
+            "Palin_Majere", 
+            "John_McCain", 
+            "Pork", 
+            "Minneapolis,_Minnesota", 
+            "Earmark", 
+            "Political_corruption", 
+            "Alaska", 
+            "Government_budget", 
+            "2008", 
+            "United_States_Congress", 
+            "Airport", 
+            "U.S._state", 
+            "Genetics", 
+            "Pig", 
+            "Ink", 
+            "Pen", 
+            "Akutan,_Alaska", 
+            "United_States_Senate", 
+            "Grape", 
+            "Petroleum", 
+            "Palin_Majere", 
+            "Earmark", 
+            "Frank_Murkowski", 
+            "Ted_Stevens", 
+            "Alaska", 
+            "Fashion", 
+            "Washington", 
+            "Bus", 
+            "New_Zealand_general_election,_2008", 
+            "Legislator", 
+            "United_States", 
+            "Earmark", 
+            "Frank_Murkowski", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Citizenship", 
+            "Frank_Murkowski", 
+            "United_States_Senate", 
+            "Island", 
+            "Medical_emergency", 
+            "Republican_Party_(United_States)", 
+            "Chilkat_River", 
+            "United_States", 
+            "Legislator", 
+            "Republican_National_Convention", 
+            "Election", 
+            "U.S._state", 
+            "Omnibus_spending_bill", 
+            "Fishery", 
+            "King_crab", 
+            "Statistics", 
+            "Akutan_Island", 
+            "Iowa", 
+            "Airport", 
+            "Orl\u00e9ans", 
+            "Hawaii", 
+            "Pork_barrel", 
+            "Seaplane", 
+            "2008", 
+            "Termite", 
+            "Earmark", 
+            "Earmark", 
+            "The_Coast", 
+            "Frank_Murkowski", 
+            "New_Orleans,_Louisiana", 
+            "New_York", 
+            "Criterium", 
+            "Airport", 
+            "Alaska", 
+            "Earmark", 
+            "Ted_Stevens", 
+            "United_States_Coast_Guard", 
+            "Alaska", 
+            "Dollar", 
+            "United_States_Senate", 
+            "Alaska", 
+            "U.S._state"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Omnibus_bill", 
+            "Omnibus_bill", 
+            "Barack_Obama", 
+            "Omnibus", 
+            "Omnibus_spending_bill", 
+            "Stimulus_(physiology)", 
+            "Barack_Obama", 
+            "Thread_(computer_science)", 
+            "Stimulus_(physiology)", 
+            "Omnibus_bill", 
+            "Omnibus_spending_bill", 
+            "United_States_Senate", 
+            "Pork", 
+            "Republican_Party_(United_States)", 
+            "Earmark", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Horse", 
+            "Stimulus_(physiology)", 
+            "Palin_Majere", 
+            "Alaska", 
+            "U.S._state", 
+            "Feds", 
+            "Governor", 
+            "U.S._state", 
+            "Thread_(computer_science)", 
+            "Carrot", 
+            "Alaska", 
+            "State_legislature_(United_States)", 
+            "Hockey", 
+            "U.S._state", 
+            "Palin_Majere"
+        ], 
+        "postID": 17
+    }
+]

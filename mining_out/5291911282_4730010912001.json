@@ -1,0 +1,424 @@
+[
+    {
+        "entity": [
+            "Greed", 
+            "Tomato", 
+            "Gasoline", 
+            "Tomato", 
+            "Gasoline", 
+            "Pound_sterling", 
+            "Natural_gas", 
+            "Oil_price_increases_since_2003"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Supply_and_demand", 
+            "Capitalism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Tomato_juice", 
+            "Five_gallon_bucket", 
+            "Tomato", 
+            "Gallon", 
+            "Quantum_Corp.", 
+            "Tomato", 
+            "Tomato_juice", 
+            "Marmot", 
+            "Water", 
+            "Soil", 
+            "Pest_(organism)", 
+            "Marmot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Seed", 
+            "Acre", 
+            "Bumper_(automobile)", 
+            "Flavor", 
+            "Software_bug", 
+            "Rail_transport", 
+            "Vegetable", 
+            "Dollar", 
+            "Fertilizer", 
+            "Sun", 
+            "Seed", 
+            "Cash_crop", 
+            "Bumper_(automobile)", 
+            "Fertilizer", 
+            "Plant", 
+            "Farm", 
+            "Harvest", 
+            "Christmas"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Family_farm", 
+            "Subsidy", 
+            "Agricultural_subsidy", 
+            "Agribusiness"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Tomato", 
+            "Lemon", 
+            "Tree", 
+            "Grocery_store", 
+            "Frog", 
+            "Tomato"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hereford", 
+            "Great_Depression", 
+            "Beef", 
+            "Feds", 
+            "Subsidy", 
+            "Grandad", 
+            "Cattle", 
+            "Insanity", 
+            "United_States_dollar", 
+            "Ranch", 
+            "Desert", 
+            "Pump", 
+            "Funk", 
+            "Great_Depression"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Trailer_park", 
+            "Mobile_home", 
+            "Mexico"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Vegetable", 
+            "Potato"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "Soil", 
+            "Sarge_(band)", 
+            "Gallon", 
+            "Potting_soil", 
+            "Miracle", 
+            "Tomato", 
+            "Soil", 
+            "Tomato", 
+            "Tomato", 
+            "Fertilizer", 
+            "Soil", 
+            "Garden"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Hole_(band)", 
+            "Finger", 
+            "Inch", 
+            "Soil", 
+            "Film", 
+            "Plant_stem", 
+            "Plastic", 
+            "Soil", 
+            "Water", 
+            "Plant_stem", 
+            "Plastic", 
+            "Marmot", 
+            "Tomato", 
+            "Frost", 
+            "Soil", 
+            "Marmot", 
+            "Potting_soil", 
+            "Quantum", 
+            "Soil"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "Tomato"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Battlefield_promotion", 
+            "Plymouth_Duster", 
+            "Sarge_(band)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Garden"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Greed", 
+            "Tomato", 
+            "Gasoline", 
+            "Tomato", 
+            "Gasoline", 
+            "Pound_sterling", 
+            "Natural_gas", 
+            "Oil_price_increases_since_2003"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Supply_and_demand", 
+            "Capitalism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Tomato_juice", 
+            "Five_gallon_bucket", 
+            "Tomato", 
+            "Gallon", 
+            "Quantum_Corp.", 
+            "Tomato", 
+            "Tomato_juice", 
+            "Marmot", 
+            "Water", 
+            "Soil", 
+            "Pest_(organism)", 
+            "Marmot"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Seed", 
+            "Acre", 
+            "Bumper_(automobile)", 
+            "Flavor", 
+            "Software_bug", 
+            "Rail_transport", 
+            "Vegetable", 
+            "Dollar", 
+            "Fertilizer", 
+            "Sun", 
+            "Seed", 
+            "Cash_crop", 
+            "Bumper_(automobile)", 
+            "Fertilizer", 
+            "Plant", 
+            "Farm", 
+            "Harvest", 
+            "Christmas"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Family_farm", 
+            "Subsidy", 
+            "Agricultural_subsidy", 
+            "Agribusiness"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Tomato", 
+            "Lemon", 
+            "Tree", 
+            "Grocery_store", 
+            "Frog", 
+            "Tomato"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Hereford", 
+            "Great_Depression", 
+            "Beef", 
+            "Feds", 
+            "Subsidy", 
+            "Grandad", 
+            "Cattle", 
+            "Insanity", 
+            "United_States_dollar", 
+            "Ranch", 
+            "Desert", 
+            "Pump", 
+            "Funk", 
+            "Great_Depression"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Trailer_park", 
+            "Mobile_home", 
+            "Mexico"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Vegetable", 
+            "Potato"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "Soil", 
+            "Sarge_(band)", 
+            "Gallon", 
+            "Potting_soil", 
+            "Miracle", 
+            "Tomato", 
+            "Soil", 
+            "Tomato", 
+            "Tomato", 
+            "Fertilizer", 
+            "Soil", 
+            "Garden"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Hole_(band)", 
+            "Finger", 
+            "Inch", 
+            "Soil", 
+            "Film", 
+            "Plant_stem", 
+            "Plastic", 
+            "Soil", 
+            "Water", 
+            "Plant_stem", 
+            "Plastic", 
+            "Marmot", 
+            "Tomato", 
+            "Frost", 
+            "Soil", 
+            "Marmot", 
+            "Potting_soil", 
+            "Quantum", 
+            "Soil"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Wow_(recording)", 
+            "Tomato"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Battlefield_promotion", 
+            "Plymouth_Duster", 
+            "Sarge_(band)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Garden"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 93
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 100
+    }, 
+    {
+        "entity": [
+            "Egg_(food)", 
+            "Chicken"
+        ], 
+        "postID": 101
+    }, 
+    {
+        "entity": [
+            "Egg_(biology)", 
+            "Porcelain"
+        ], 
+        "postID": 102
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "Chicken", 
+            "Chicken", 
+            "2008", 
+            "China", 
+            "2009", 
+            "Chicken", 
+            "Southern_United_States", 
+            "Chicken"
+        ], 
+        "postID": 103
+    }, 
+    {
+        "entity": [
+            "KFC", 
+            "Porcelain"
+        ], 
+        "postID": 104
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "John_Knox", 
+            "Chicken_Man"
+        ], 
+        "postID": 105
+    }, 
+    {
+        "entity": [], 
+        "postID": 106
+    }, 
+    {
+        "entity": [
+            "Sunset", 
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 107
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 108
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Tullos,_Louisiana"
+        ], 
+        "postID": 109
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 110
+    }, 
+    {
+        "entity": [
+            "Chicken", 
+            "Chicken_Man", 
+            "Red_Bull", 
+            "Papal_bull"
+        ], 
+        "postID": 111
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 112
+    }, 
+    {
+        "entity": [
+            "Energizer_Holdings", 
+            "Rabbit", 
+            "JP-4"
+        ], 
+        "postID": 113
+    }, 
+    {
+        "entity": [
+            "FMI"
+        ], 
+        "postID": 114
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 115
+    }, 
+    {
+        "entity": [
+            "Chicken_Man", 
+            "Chicken"
+        ], 
+        "postID": 116
+    }, 
+    {
+        "entity": [
+            "Obsessive-compulsive_disorder", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 117
+    }, 
+    {
+        "entity": [
+            "Chicken_(food)", 
+            "Playground", 
+            "Chicken_(food)"
+        ], 
+        "postID": 118
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken", 
+            "Chicken", 
+            "Chickenman_(radio_series)"
+        ], 
+        "postID": 119
+    }, 
+    {
+        "entity": [
+            "Chickenman_(radio_series)", 
+            "Chicken"
+        ], 
+        "postID": 120
+    }
+]

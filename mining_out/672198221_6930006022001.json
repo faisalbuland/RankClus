@@ -1,0 +1,358 @@
+[
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "People's_Republic_of_China", 
+            "Russia", 
+            "Cuba", 
+            "Cold_War"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Cubans", 
+            "Havana", 
+            "Mariel_boatlift", 
+            "Boat_lift", 
+            "United_States_embargo_against_Cuba", 
+            "Port", 
+            "Cuba", 
+            "Mariel"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Goat", 
+            "Expatriate", 
+            "Cuba", 
+            "Miami,_Florida"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cuba"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Mat", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Cuba"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Cuba", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cigar", 
+            "Havana", 
+            "Havana", 
+            "Rum", 
+            "Flood"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "!!!", 
+            "Classic_car", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Protectionism", 
+            "Barack_Obama", 
+            "Sovereignty", 
+            "New_World_Order_(conspiracy_theory)", 
+            "Communism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Colonial", 
+            "Photograph", 
+            "Ernest_Hemingway", 
+            "Rum", 
+            "Garden"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Cuba", 
+            "Law", 
+            "Expatriate", 
+            "Cuba", 
+            "Fulgencio_Batista", 
+            "Communism", 
+            "United_States_embargo_against_Cuba"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Caribbean", 
+            "Port"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Refugee", 
+            "Mat", 
+            "Cubans", 
+            "Convention_Relating_to_the_Status_of_Refugees", 
+            "Right_of_asylum"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Open_Door_Policy"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Cubans", 
+            "Cuban_American", 
+            "United_States", 
+            "Foot_(length)", 
+            "Cubans", 
+            "Cuba", 
+            "Cuba", 
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Cuba", 
+            "United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "People's_Republic_of_China", 
+            "Russia", 
+            "Cuba", 
+            "Cold_War"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Cubans", 
+            "Havana", 
+            "Mariel_boatlift", 
+            "Boat_lift", 
+            "United_States_embargo_against_Cuba", 
+            "Port", 
+            "Cuba", 
+            "Mariel"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Goat", 
+            "Expatriate", 
+            "Cuba", 
+            "Miami,_Florida"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Cuba"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Mat", 
+            "Barack_Obama"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Cuba"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Cuba", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Cigar", 
+            "Havana", 
+            "Havana", 
+            "Rum", 
+            "Flood"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "!!!", 
+            "Classic_car", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Protectionism", 
+            "Barack_Obama", 
+            "Sovereignty", 
+            "New_World_Order_(conspiracy_theory)", 
+            "Communism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Colonial", 
+            "Photograph", 
+            "Ernest_Hemingway", 
+            "Rum", 
+            "Garden"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Cuba", 
+            "Law", 
+            "Expatriate", 
+            "Cuba", 
+            "Fulgencio_Batista", 
+            "Communism", 
+            "United_States_embargo_against_Cuba"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Caribbean", 
+            "Port"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Refugee", 
+            "Mat", 
+            "Cubans", 
+            "Convention_Relating_to_the_Status_of_Refugees", 
+            "Right_of_asylum"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Open_Door_Policy"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Cubans", 
+            "Cuban_American", 
+            "United_States", 
+            "Foot_(length)", 
+            "Cubans", 
+            "Cuba", 
+            "Cuba", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Cuba", 
+            "United_States"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "Coma", 
+            "Corporal_punishment", 
+            "Ford_Motor_Company", 
+            "Autopsy", 
+            "News_broadcasting", 
+            "Teacher", 
+            "Renuka", 
+            "Gerald_Ford", 
+            "Schoolgirl", 
+            "Renuka_Chowdhury", 
+            "Principal_(school)", 
+            "India", 
+            "Baking", 
+            "Corporal", 
+            "Heat", 
+            "India", 
+            "Criminal_law", 
+            "Police", 
+            "India", 
+            "NDTV", 
+            "Homework", 
+            "Teacher", 
+            "Hospital", 
+            "Delhi", 
+            "Nose", 
+            "Tragedy", 
+            "Child_development", 
+            "Sun", 
+            "Khan_(title)", 
+            "New_Delhi"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Teacher", 
+            "Sun"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "Education", 
+            "Education"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Executioner", 
+            "Jury", 
+            "Judge"
+        ], 
+        "postID": 4
+    }
+]

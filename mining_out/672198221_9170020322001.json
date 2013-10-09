@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Dynamo", 
+            "Poker", 
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Poker", 
+            "World_Series_of_Poker_bracelet", 
+            "Annie_Duke", 
+            "Annie", 
+            "Celebrity", 
+            "World_Series_of_Poker_bracelet", 
+            "Duke_University", 
+            "!!!", 
+            "World_Series_of_Poker"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Annie_(film)", 
+            "Annie", 
+            "Annie_(film)", 
+            "Boot", 
+            "Annie_(film)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bombers_(Gary_Numan_song)", 
+            "Los_Angeles_Memorial_Sports_Arena", 
+            "Bay_City,_Michigan", 
+            "Los_Angeles_Memorial_Sports_Arena", 
+            "Arena", 
+            "Staples_Center"
+        ], 
+        "postID": 4
+    }
+]

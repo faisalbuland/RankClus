@@ -1,0 +1,448 @@
+[
+    {
+        "entity": [
+            "Recreational_drug_use", 
+            "Alcohol", 
+            "Recreational_drug_use", 
+            "Opium_poppy", 
+            "United_States_Navy", 
+            "Poppy", 
+            "Cocaine", 
+            "Protein", 
+            "Engagement", 
+            "MEPS", 
+            "Engagement", 
+            "Recreational_drug_use", 
+            "Drug_test", 
+            "Drug_test", 
+            "Recreational_drug_use", 
+            "Recreational_drug_use"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "MEPS", 
+            "Sampling_(music)", 
+            "Blood", 
+            "Fat", 
+            "Toxin", 
+            "Hair", 
+            "Fat", 
+            "Sampling_(music)", 
+            "Stream", 
+            "Cell_(biology)", 
+            "Drug", 
+            "Physician", 
+            "Tissue_(biology)", 
+            "Adipose_tissue"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Poppy", 
+            "Drug_test", 
+            "Drug", 
+            "Opium_poppy", 
+            "Psychoactive_drug"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Psychoactive_drug", 
+            "Drug_test"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gatorade", 
+            "Kool-Aid", 
+            "Allergy", 
+            "Medicine", 
+            "Water", 
+            "Water", 
+            "Juice"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Allergy", 
+            "Antidepressant", 
+            "Medicine", 
+            "Over-the-counter_drug", 
+            "Adipose_tissue", 
+            "Bubble", 
+            "Cell_(biology)", 
+            "Methamphetamine", 
+            "Drug_test", 
+            "Cannabis_(drug)", 
+            "Fat", 
+            "Methadone", 
+            "Benzodiazepine", 
+            "Psychoactive_drug", 
+            "Medication", 
+            "Cocaine", 
+            "Phencyclidine", 
+            "Cannabis", 
+            "Tricyclic_antidepressant", 
+            "Amphetamine", 
+            "Organ_(anatomy)", 
+            "Barbiturate", 
+            "Opiate"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Protein", 
+            "Medical_prescription", 
+            "Bodybuilding", 
+            "Protein", 
+            "Medication", 
+            "Barbiturate", 
+            "Allergy", 
+            "Renal_function", 
+            "Drug_test", 
+            "Kidney", 
+            "Drug"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Recreational_drug_use", 
+            "Macintosh", 
+            "Cocaine", 
+            "Cannabis_(drug)", 
+            "Teh"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Drug", 
+            "Stepfamily", 
+            "God"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Allergy", 
+            "Antidepressant", 
+            "Medicine", 
+            "Over-the-counter_drug", 
+            "Adipose_tissue", 
+            "Bubble", 
+            "Cell_(biology)", 
+            "Methamphetamine", 
+            "Fat", 
+            "Drug_test", 
+            "Cannabis_(drug)", 
+            "Fat", 
+            "Methadone", 
+            "Benzodiazepine", 
+            "Psychoactive_drug", 
+            "Water", 
+            "Medication", 
+            "Truck", 
+            "Truck_stop", 
+            "Cocaine", 
+            "Phencyclidine", 
+            "Psychoactive_drug", 
+            "Cannabis", 
+            "Toxin", 
+            "Tricyclic_antidepressant", 
+            "Amphetamine", 
+            "Head_shop", 
+            "Organ_(anatomy)", 
+            "Barbiturate", 
+            "Opiate"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Stoned_(film)", 
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Cognitive_psychology", 
+            "Cognitive_psychology", 
+            "Smoke"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Recreational_drug_use", 
+            "Alcohol", 
+            "Recreational_drug_use", 
+            "Opium_poppy", 
+            "United_States_Navy", 
+            "Poppy", 
+            "Cocaine", 
+            "Protein", 
+            "Engagement", 
+            "MEPS", 
+            "Engagement", 
+            "Recreational_drug_use", 
+            "Drug_test", 
+            "Drug_test", 
+            "Recreational_drug_use", 
+            "Recreational_drug_use"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "MEPS", 
+            "Sampling_(music)", 
+            "Blood", 
+            "Fat", 
+            "Toxin", 
+            "Hair", 
+            "Fat", 
+            "Sampling_(music)", 
+            "Stream", 
+            "Cell_(biology)", 
+            "Drug", 
+            "Physician", 
+            "Tissue_(biology)", 
+            "Adipose_tissue"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Poppy", 
+            "Drug_test", 
+            "Drug", 
+            "Opium_poppy", 
+            "Psychoactive_drug"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Psychoactive_drug", 
+            "Drug_test"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Gatorade", 
+            "Kool-Aid", 
+            "Allergy", 
+            "Medicine", 
+            "Water", 
+            "Water", 
+            "Juice"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Allergy", 
+            "Antidepressant", 
+            "Medicine", 
+            "Over-the-counter_drug", 
+            "Adipose_tissue", 
+            "Bubble", 
+            "Cell_(biology)", 
+            "Methamphetamine", 
+            "Drug_test", 
+            "Cannabis_(drug)", 
+            "Fat", 
+            "Methadone", 
+            "Benzodiazepine", 
+            "Psychoactive_drug", 
+            "Medication", 
+            "Cocaine", 
+            "Phencyclidine", 
+            "Cannabis", 
+            "Tricyclic_antidepressant", 
+            "Amphetamine", 
+            "Organ_(anatomy)", 
+            "Barbiturate", 
+            "Opiate"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Protein", 
+            "Medical_prescription", 
+            "Bodybuilding", 
+            "Protein", 
+            "Medication", 
+            "Barbiturate", 
+            "Allergy", 
+            "Renal_function", 
+            "Drug_test", 
+            "Kidney", 
+            "Drug"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Water", 
+            "Recreational_drug_use", 
+            "Macintosh", 
+            "Cocaine", 
+            "Cannabis_(drug)", 
+            "Teh"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Drug", 
+            "Stepfamily", 
+            "God"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Allergy", 
+            "Antidepressant", 
+            "Medicine", 
+            "Over-the-counter_drug", 
+            "Adipose_tissue", 
+            "Bubble", 
+            "Cell_(biology)", 
+            "Methamphetamine", 
+            "Fat", 
+            "Drug_test", 
+            "Cannabis_(drug)", 
+            "Fat", 
+            "Methadone", 
+            "Benzodiazepine", 
+            "Psychoactive_drug", 
+            "Water", 
+            "Medication", 
+            "Truck", 
+            "Truck_stop", 
+            "Cocaine", 
+            "Phencyclidine", 
+            "Psychoactive_drug", 
+            "Cannabis", 
+            "Toxin", 
+            "Tricyclic_antidepressant", 
+            "Amphetamine", 
+            "Head_shop", 
+            "Organ_(anatomy)", 
+            "Barbiturate", 
+            "Opiate"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Stoned_(film)", 
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Cognitive_psychology", 
+            "Cognitive_psychology", 
+            "Smoke"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 38
+    }
+]

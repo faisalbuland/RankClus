@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "Military.com", 
+            "Baby_boomer", 
+            "Google", 
+            "Videocassette_recorder"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Uniform_Resource_Locator", 
+            "Bookmark_(disambiguation)", 
+            "Internet_bookmark", 
+            "Internet_bookmark", 
+            "Control-C", 
+            "Thomas_Paine", 
+            "Uniform_Resource_Locator"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "DVD", 
+            "DVD_player", 
+            "Videocassette_recorder"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Country_music", 
+            "Videocassette_recorder", 
+            "BOY"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

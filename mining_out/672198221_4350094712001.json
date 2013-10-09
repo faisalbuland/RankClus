@@ -1,0 +1,169 @@
+[
+    {
+        "entity": [
+            "Crime", 
+            "Predation", 
+            "Sex"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Suicide_attack", 
+            "Central_Intelligence_Agency", 
+            "Bagram", 
+            "Bomber", 
+            "Suicide", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Taliban"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pseudonym", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States", 
+            "Liberal_Party_of_Canada", 
+            "The_Pentagon", 
+            "United_States", 
+            "Detainee", 
+            "George_W._Bush", 
+            "Vietnam_War", 
+            "Barack_Obama", 
+            "Moderator", 
+            "Blog", 
+            "Vietnam_veteran", 
+            "The_Triangle_(North_Carolina)", 
+            "Guantanamo_Bay_Naval_Base", 
+            "George_W._Bush", 
+            "Abdullah_(Afghanistan)", 
+            "Battlefield_(Doctor_Who)", 
+            "Mullah", 
+            "Liberal_Party_of_Canada", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Terrorism", 
+            "Afghanistan", 
+            "Taliban", 
+            "Afghanistan", 
+            "Liberal_Party_of_Canada", 
+            "United_States", 
+            "United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Thing_(comics)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Fault_(geology)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Grit", 
+            "Planet", 
+            "Rotation"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "LOL", 
+            "Liberalism_in_the_United_States", 
+            "Screwjob_(professional_wrestling)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base", 
+            "One_Heart", 
+            "Barack_Obama", 
+            "Taliban", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dope_(band)", 
+            "Afghanistan", 
+            "Thread_(computer_science)", 
+            "Secularism", 
+            "Afghanistan", 
+            "Warlord_era", 
+            "Taliban", 
+            "Heartbeat", 
+            "Fundamentalism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "War_crime", 
+            "Bagram_Theater_Internment_Facility", 
+            "Barack_Obama", 
+            "2004", 
+            "Kos", 
+            "District_court", 
+            "Bagram_Theater_Internment_Facility", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "United_States_district_court", 
+            "George_W._Bush", 
+            "Prison", 
+            "Guantanamo_Bay_detention_camp", 
+            "Presidency_of_George_W._Bush", 
+            "Taliban", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Guantanamo_Bay_detention_camp", 
+            "Bagram_Theater_Internment_Facility", 
+            "Presidency_of_George_W._Bush", 
+            "Bagram_Theater_Internment_Facility", 
+            "United_States_Senate", 
+            "Military_of_the_United_States", 
+            "Daily_Kos", 
+            "Afghanistan", 
+            "United_States", 
+            "United_States", 
+            "Supreme_Court_of_the_United_States", 
+            "Bagram_Theater_Internment_Facility", 
+            "Bagram_Theater_Internment_Facility", 
+            "Lawsuit"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "United_States_Court_for_China", 
+            "United_States"
+        ], 
+        "postID": 14
+    }
+]

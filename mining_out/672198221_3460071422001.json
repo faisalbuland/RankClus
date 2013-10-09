@@ -1,0 +1,172 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Torture"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Earthquake", 
+            "George_W._Bush", 
+            "Liberalism_in_the_United_States", 
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "President_of_the_United_States", 
+            "Tropical_cyclone"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Government_debt", 
+            "Fault_(geology)", 
+            "Recession", 
+            "George_W._Bush", 
+            "Snow"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tire", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Recession", 
+            "Bill_Clinton"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Animated_cartoon", 
+            "Debt", 
+            "Animated_cartoon"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "National_Collegiate_Athletic_Association", 
+            "President_of_the_United_States", 
+            "Basketball", 
+            "Bracketology", 
+            "Economy", 
+            "Basketball", 
+            "Basketball", 
+            "Brunch", 
+            "Barack_Obama", 
+            "National_Collegiate_Athletic_Association", 
+            "England", 
+            "President_of_the_United_States", 
+            "Unemployment", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Pastor", 
+            "Biblical_studies", 
+            "Bible"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Editorial_cartoon", 
+            "International_Maritime_Organization", 
+            "United_States", 
+            "Cartoon"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Time_(magazine)", 
+            "News_(band)", 
+            "Browser_Helper_Object"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "Natural_disaster", 
+            "United_States", 
+            "Apologetics", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Education", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Class_conflict"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Middle_class", 
+            "Ronald_Reagan", 
+            "Presidency_of_Ronald_Reagan"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }
+]

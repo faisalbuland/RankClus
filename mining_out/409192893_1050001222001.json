@@ -1,0 +1,746 @@
+[
+    {
+        "entity": [
+            "Drill", 
+            "Drill_instructor"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Recruit_training", 
+            "Boot", 
+            "Phil_McGraw", 
+            "Oprah_Winfrey", 
+            "Cable_television", 
+            "Cable_television", 
+            "Infantry", 
+            "Internet"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Reel_(dance)", 
+            "Boot", 
+            "Jack_Webb", 
+            "Film", 
+            "Recruit_training", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Dragnet_(series)", 
+            "Joseph_McCarthy", 
+            "Principal_photography", 
+            "Celluloid", 
+            "Jack_Webb", 
+            "Don_Dubbins", 
+            "Film_director", 
+            "Photography", 
+            "Mythology", 
+            "Pony", 
+            "United_States_Marine_Corps", 
+            "Warner_Bros.", 
+            "Film", 
+            "1957"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California", 
+            "Model_(person)", 
+            "Radio_programming", 
+            "1982", 
+            "Stomach", 
+            "Police", 
+            "Radio", 
+            "Jack_Webb", 
+            "Detective", 
+            "Police", 
+            "Police", 
+            "United_States_Marine_Corps", 
+            "Marine_(military)", 
+            "Butterfly", 
+            "Television_program", 
+            "Jack_Webb", 
+            "Dragnet_(series)", 
+            "Roman_legion"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Wheal", 
+            "Counseling", 
+            "FTX", 
+            "Bird", 
+            "Guard_(American_football)", 
+            "Camouflage", 
+            "Special_Service_Group", 
+            "Military_service", 
+            "Boot", 
+            "Non-sufficient_funds", 
+            "Special_Service_Group", 
+            "Special_Service_Group", 
+            "Special_Service_Group", 
+            "Equipment_room", 
+            "Elbow"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Earth", 
+            "Boot_camp", 
+            "RDC", 
+            "Boot", 
+            "Laundry", 
+            "Boot_camp", 
+            "Chief_Justice_of_the_United_States", 
+            "GMC_(automobile)", 
+            "GMC_(automobile)", 
+            "Salmon", 
+            "Boot", 
+            "1867", 
+            "Ice_cream", 
+            "Salmon_P._Chase", 
+            "Secession", 
+            "Quarterback_sack", 
+            "Law", 
+            "Full_metal_jacket_bullet", 
+            "Treason", 
+            "Blanket", 
+            "Jefferson_Davis", 
+            "Cream", 
+            "Orbital_motion", 
+            "Orbit", 
+            "United_States_Constitution", 
+            "Boot_camp", 
+            "Chase,_British_Columbia", 
+            "Boot", 
+            "Stunt", 
+            "Boot"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Electronic_learning"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Salmon_P._Chase", 
+            "Treason", 
+            "Jefferson_Davis", 
+            "1867", 
+            "Fire_support_base", 
+            "Salmon_P._Chase", 
+            "Secession", 
+            "Salmon", 
+            "Electronic_learning", 
+            "United_States_Constitution", 
+            "Navy", 
+            "Desert", 
+            "Chief_Justice_of_the_United_States", 
+            "Submarine"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "College", 
+            "High_school"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Jefferson_Davis", 
+            "Secession", 
+            "Bow_(weapon)", 
+            "Sentry", 
+            "Salmon", 
+            "Salmon_P._Chase", 
+            "Chief_Justice_of_the_United_States", 
+            "Treason", 
+            "Deadly_force", 
+            "Firearm", 
+            "Engine", 
+            "United_States_Constitution", 
+            "G.I._Bill", 
+            "High_school", 
+            "Chase,_British_Columbia", 
+            "Norfolk", 
+            "Auto_mechanic", 
+            "Mechanic", 
+            "1867", 
+            "Counter-terrorism", 
+            "Navigation", 
+            "College", 
+            "College", 
+            "Korea", 
+            "Police", 
+            "Police_officer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Counterpoint"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "Drill_instructor", 
+            "Drill_instructor", 
+            "Drill", 
+            "Lahaina,_Hawaii", 
+            "Drill_instructor", 
+            "John_Singer_Sargent", 
+            "John_Singer_Sargent", 
+            "Sharks", 
+            "Drill", 
+            "Angle", 
+            "MAN_AG", 
+            "Water", 
+            "United_States_Marine_Corps", 
+            "SKULL_(DC_Comics)", 
+            "Drill", 
+            "WilliamsF1"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Boot", 
+            "Boot_camp", 
+            "Arse"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Ice_cream", 
+            "Cream"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Officer_Candidate", 
+            "United_States_Air_Force", 
+            "United_States_Army", 
+            "Toe", 
+            "Sergeant", 
+            "Drill"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Plat", 
+            "1961", 
+            "United_States_Army", 
+            "World_War_II", 
+            "Mule", 
+            "Table_of_Organization_and_Equipment", 
+            "Conscription_in_the_United_States", 
+            "United_States_Army", 
+            "Mule", 
+            "Concrete", 
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Life_imprisonment"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "2006"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Friedrich_Nietzsche"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Squad_leader", 
+            "Boot_camp", 
+            "Boot"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "M-1_(Michigan_highway)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Barracks", 
+            "Strategic_Defense_Initiative", 
+            "Full_metal_jacket_bullet", 
+            "Staff_Sergeant", 
+            "Recruit", 
+            "M16_rifle", 
+            "Drill", 
+            "Jack_Webb", 
+            "Drill_instructor", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Weapon", 
+            "United_States_Marine_Corps", 
+            "Platoon", 
+            "M1_Garand_rifle", 
+            "1969"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Perch", 
+            "California", 
+            "Marine_(ocean)", 
+            "Boot_camp", 
+            "Alameda,_California", 
+            "1970"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_Kingdom", 
+            "Barrack", 
+            "Full_metal_jacket_bullet", 
+            "British_Army", 
+            "United_States_Army", 
+            "United_States_Marine_Corps", 
+            "Barracks"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "RDC", 
+            "United_States_Constitution", 
+            "Salmon_P._Chase", 
+            "Salmon", 
+            "Treason", 
+            "Salmon_P._Chase", 
+            "D.I.", 
+            "1867", 
+            "Secession", 
+            "Jefferson_Davis", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Drill", 
+            "Drill_instructor"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Recruit_training", 
+            "Boot", 
+            "Phil_McGraw", 
+            "Oprah_Winfrey", 
+            "Cable_television", 
+            "Cable_television", 
+            "Infantry", 
+            "Internet"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Reel_(dance)", 
+            "Boot", 
+            "Jack_Webb", 
+            "Film", 
+            "Recruit_training", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Dragnet_(series)", 
+            "Joseph_McCarthy", 
+            "Principal_photography", 
+            "Celluloid", 
+            "Jack_Webb", 
+            "Don_Dubbins", 
+            "Film_director", 
+            "Photography", 
+            "Mythology", 
+            "Pony", 
+            "United_States_Marine_Corps", 
+            "Warner_Bros.", 
+            "Film", 
+            "1957"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California", 
+            "Model_(person)", 
+            "Radio_programming", 
+            "1982", 
+            "Stomach", 
+            "Police", 
+            "Radio", 
+            "Jack_Webb", 
+            "Detective", 
+            "Police", 
+            "Police", 
+            "United_States_Marine_Corps", 
+            "Marine_(military)", 
+            "Butterfly", 
+            "Television_program", 
+            "Jack_Webb", 
+            "Dragnet_(series)", 
+            "Roman_legion"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Wheal", 
+            "Counseling", 
+            "FTX", 
+            "Bird", 
+            "Guard_(American_football)", 
+            "Camouflage", 
+            "Special_Service_Group", 
+            "Military_service", 
+            "Boot", 
+            "Non-sufficient_funds", 
+            "Special_Service_Group", 
+            "Special_Service_Group", 
+            "Special_Service_Group", 
+            "Equipment_room", 
+            "Elbow"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Earth", 
+            "Boot_camp", 
+            "RDC", 
+            "Boot", 
+            "Laundry", 
+            "Boot_camp", 
+            "Chief_Justice_of_the_United_States", 
+            "GMC_(automobile)", 
+            "GMC_(automobile)", 
+            "Salmon", 
+            "Boot", 
+            "1867", 
+            "Ice_cream", 
+            "Salmon_P._Chase", 
+            "Secession", 
+            "Quarterback_sack", 
+            "Law", 
+            "Full_metal_jacket_bullet", 
+            "Treason", 
+            "Blanket", 
+            "Jefferson_Davis", 
+            "Cream", 
+            "Orbital_motion", 
+            "Orbit", 
+            "United_States_Constitution", 
+            "Boot_camp", 
+            "Chase,_British_Columbia", 
+            "Boot", 
+            "Stunt", 
+            "Boot"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Electronic_learning"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Salmon_P._Chase", 
+            "Treason", 
+            "Jefferson_Davis", 
+            "1867", 
+            "Fire_support_base", 
+            "Salmon_P._Chase", 
+            "Secession", 
+            "Salmon", 
+            "Electronic_learning", 
+            "United_States_Constitution", 
+            "Navy", 
+            "Desert", 
+            "Chief_Justice_of_the_United_States", 
+            "Submarine"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "College", 
+            "High_school"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Jefferson_Davis", 
+            "Secession", 
+            "Bow_(weapon)", 
+            "Sentry", 
+            "Salmon", 
+            "Salmon_P._Chase", 
+            "Chief_Justice_of_the_United_States", 
+            "Treason", 
+            "Deadly_force", 
+            "Firearm", 
+            "Engine", 
+            "United_States_Constitution", 
+            "G.I._Bill", 
+            "High_school", 
+            "Chase,_British_Columbia", 
+            "Norfolk", 
+            "Auto_mechanic", 
+            "Mechanic", 
+            "1867", 
+            "Counter-terrorism", 
+            "Navigation", 
+            "College", 
+            "College", 
+            "Korea", 
+            "Police", 
+            "Police_officer"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Counterpoint"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Brinson,_Georgia", 
+            "Drill_instructor", 
+            "Drill_instructor", 
+            "Drill", 
+            "Lahaina,_Hawaii", 
+            "Drill_instructor", 
+            "John_Singer_Sargent", 
+            "John_Singer_Sargent", 
+            "Sharks", 
+            "Drill", 
+            "Angle", 
+            "MAN_AG", 
+            "Water", 
+            "United_States_Marine_Corps", 
+            "SKULL_(DC_Comics)", 
+            "Drill", 
+            "WilliamsF1"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Boot", 
+            "Boot_camp", 
+            "Arse"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Ice_cream", 
+            "Cream"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Officer_Candidate", 
+            "United_States_Air_Force", 
+            "United_States_Army", 
+            "Toe", 
+            "Sergeant", 
+            "Drill"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Plat", 
+            "1961", 
+            "United_States_Army", 
+            "World_War_II", 
+            "Mule", 
+            "Table_of_Organization_and_Equipment", 
+            "Conscription_in_the_United_States", 
+            "United_States_Army", 
+            "Mule", 
+            "Concrete", 
+            "United_States_Army", 
+            "Conscription_in_the_United_States", 
+            "Life_imprisonment"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "2006"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Friedrich_Nietzsche"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Squad_leader", 
+            "Boot_camp", 
+            "Boot"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "M-1_(Michigan_highway)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Barracks", 
+            "Strategic_Defense_Initiative", 
+            "Full_metal_jacket_bullet", 
+            "Staff_Sergeant", 
+            "Recruit", 
+            "M16_rifle", 
+            "Drill", 
+            "Jack_Webb", 
+            "Drill_instructor", 
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Weapon", 
+            "United_States_Marine_Corps", 
+            "Platoon", 
+            "M1_Garand_rifle", 
+            "1969"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Perch", 
+            "California", 
+            "Marine_(ocean)", 
+            "Boot_camp", 
+            "Alameda,_California", 
+            "1970"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "United_Kingdom", 
+            "Barrack", 
+            "Full_metal_jacket_bullet", 
+            "British_Army", 
+            "United_States_Army", 
+            "United_States_Marine_Corps", 
+            "Barracks"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "RDC", 
+            "United_States_Constitution", 
+            "Salmon_P._Chase", 
+            "Salmon", 
+            "Treason", 
+            "Salmon_P._Chase", 
+            "D.I.", 
+            "1867", 
+            "Secession", 
+            "Jefferson_Davis", 
+            "Chief_Justice_of_the_United_States"
+        ], 
+        "postID": 60
+    }
+]

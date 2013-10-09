@@ -1,0 +1,50 @@
+[
+    {
+        "entity": [
+            "Gilead", 
+            "Inoculation", 
+            "Influenza", 
+            "Anthrax_(band)", 
+            "DNA", 
+            "Stocks", 
+            "Constitutional_right", 
+            "Conspiracy_(crime)", 
+            "Virus", 
+            "Antivirus_software", 
+            "Drug"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Conspiracy_(crime)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "T._rex", 
+            "Volcano"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Conspiracy", 
+            "Threaded_discussion", 
+            "Internet_forum"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Natural_health"
+        ], 
+        "postID": 6
+    }
+]

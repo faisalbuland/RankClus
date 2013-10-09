@@ -1,0 +1,210 @@
+[
+    {
+        "entity": [
+            "Fertility", 
+            "Los_Angeles,_California", 
+            "Film_director", 
+            "Human_hair_color", 
+            "Fertility", 
+            "Fertility_clinic", 
+            "BBC", 
+            "Designer_baby", 
+            "2009", 
+            "Clinic", 
+            "R102_(Western_Cape)", 
+            "Clinic", 
+            "Eye", 
+            "Steinberg", 
+            "BBC"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "MSNBC", 
+            "Okay"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Gene", 
+            "Regression_Analysis_of_Time_Series"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Professional_sports", 
+            "Genetics", 
+            "Eugenics", 
+            "Eugenics", 
+            "Athletics_(track_and_field)", 
+            "Profit"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Cocker_Spaniel", 
+            "Genetics", 
+            "Dalmatian_(dog)", 
+            "Spaniel", 
+            "Gene"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Gene", 
+            "Genetics"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bible", 
+            "New_International_Version", 
+            "Mat_Cauthon", 
+            "God", 
+            "Rash", 
+            "Second_Epistle_to_Timothy", 
+            "Self_control"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Gattaca"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Class_conflict", 
+            "Designer_baby"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "History_of_technology", 
+            "History_of_technology"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Figs_in_the_Bible", 
+            "Technology", 
+            "Tree", 
+            "Unintended", 
+            "Ficus", 
+            "Unintended_Consequences", 
+            "Parables_of_Jesus", 
+            "God", 
+            "Pandora", 
+            "Frankenstein", 
+            "Victor_Frankenstein", 
+            "Ficus"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Disability", 
+            "Designer_baby"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Sweden", 
+            "Hessian", 
+            "Horsemen_of_Apocalypse", 
+            "Barbarian", 
+            "Iron"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nazism", 
+            "Nocturnal_emission"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Adolf_Hitler"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Genetic_testing", 
+            "Sex", 
+            "Genetic_disorder", 
+            "Spermatozoon", 
+            "Spinning_(textiles)", 
+            "International_Vale_Tudo_Championships", 
+            "In_vitro_fertilisation"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Breed", 
+            "Egg_(biology)", 
+            "God", 
+            "God", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Laboratory", 
+            "Genetics", 
+            "Teratology", 
+            "Genetics", 
+            "Sperm", 
+            "Lottery"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Genetics", 
+            "Egg_(biology)", 
+            "Genetic_disorder", 
+            "Sex", 
+            "Sperm", 
+            "Gene"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Breed", 
+            "Animal"
+        ], 
+        "postID": 23
+    }
+]

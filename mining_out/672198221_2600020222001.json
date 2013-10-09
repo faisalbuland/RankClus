@@ -1,0 +1,54 @@
+[
+    {
+        "entity": [
+            "The_Boston_Globe", 
+            "Mass_(liturgy)", 
+            "Tridentine_Mass", 
+            "United_States_House_of_Representatives", 
+            "Boston,_Massachusetts", 
+            "Veto", 
+            "The_Boston_Globe", 
+            "Tax", 
+            "The_Boston_Globe", 
+            "Sales_tax", 
+            "Tridentine_Mass", 
+            "Sales_tax", 
+            "New_Haven-Springfield_Line", 
+            "Deval", 
+            "Tridentine_Mass", 
+            "Tax", 
+            "Sales_tax", 
+            "United_States_Senate", 
+            "Income_tax", 
+            "Monday_Night_Football", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "North_Carolina", 
+            "Fuel_tax", 
+            "Tax", 
+            "Gasoline"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Excise", 
+            "Income_tax", 
+            "Income_tax", 
+            "Excise", 
+            "Tax", 
+            "Hell", 
+            "Tax"
+        ], 
+        "postID": 4
+    }
+]

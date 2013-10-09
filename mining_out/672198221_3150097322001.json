@@ -1,0 +1,56 @@
+[
+    {
+        "entity": [
+            "Military_recruitment", 
+            "Junior_college", 
+            "Theft", 
+            "Privacy", 
+            "Identity_theft", 
+            "Y'all", 
+            "Sigh_(band)", 
+            "High_school", 
+            "Helicopter"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Grad_(Slavic_settlement)", 
+            "Grad_(Slavic_settlement)", 
+            "College", 
+            "High_school", 
+            "College"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Military_recruitment", 
+            "National_Guard_of_the_United_States", 
+            "Military_recruitment", 
+            "Blizzard", 
+            "Natural_disaster", 
+            "National_Guard_of_the_United_States", 
+            "College", 
+            "Administration_of_federal_assistance_in_the_United_States", 
+            "School_counselor", 
+            "Power_outage", 
+            "High_school"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

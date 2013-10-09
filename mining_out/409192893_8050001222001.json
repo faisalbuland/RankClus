@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Airport", 
+            "Turkey", 
+            "Greece", 
+            "South_Korea", 
+            "Arab", 
+            "Korea", 
+            "Japan", 
+            "Lebanon", 
+            "Virus", 
+            "Thermographic_camera", 
+            "Hope,_British_Columbia", 
+            "Airline"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Mexico_City", 
+            "Mexico_City"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Nest", 
+            "Influenza_vaccine", 
+            "Swine_flu", 
+            "Influenza", 
+            "Rat", 
+            "Influenza", 
+            "Avian_influenza", 
+            "Washington"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bathtub", 
+            "Swine_flu", 
+            "Influenza", 
+            "Pig"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Avian_influenza", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }
+]

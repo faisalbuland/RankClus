@@ -1,0 +1,96 @@
+[
+    {
+        "entity": [
+            "United_States_Army_Airborne_School", 
+            "United_States_Army_Airborne_School", 
+            "Law", 
+            "Law", 
+            "High_school", 
+            "United_States_Military_Academy", 
+            "Military_academy", 
+            "United_States_Military_Academy", 
+            "Law", 
+            "United_States_Naval_Academy", 
+            "United_States_Navy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Infantry"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cannon", 
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Bait_(luring_substance)", 
+            "Shark"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Space_Precinct"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Reserve_Officers'_Training_Corps", 
+            "College"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States_Coast_Guard", 
+            "Internet_forum", 
+            "United_States_Coast_Guard", 
+            "United_States_Department_of_Defense", 
+            "Uniform_Code_of_Military_Justice"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Reserve_Officers'_Training_Corps", 
+            "Law"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Piracy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Federal_law", 
+            "Law", 
+            "Airborne_forces", 
+            "Poster", 
+            "Scots_law"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Law", 
+            "Master_of_Arts_(Oxbridge_and_Dublin)", 
+            "United_States_Navy"
+        ], 
+        "postID": 11
+    }
+]

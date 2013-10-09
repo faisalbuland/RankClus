@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Extended_family"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Divorcee", 
+            "Orphan"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barbed_wire", 
+            "Wire"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Abyss_(religion)", 
+            "Friedrich_Nietzsche", 
+            "Friedrich_Nietzsche", 
+            "Social_welfare_provision", 
+            "Tax", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

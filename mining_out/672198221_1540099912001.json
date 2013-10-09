@@ -1,0 +1,310 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hearing_impairment", 
+            "Blindness"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wig"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bomb", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Saudi_Arabia", 
+            "Royal_family", 
+            "House_of_Saud"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Rock_music"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Rock_music"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hype", 
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bullseye_(comics)", 
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Economy", 
+            "New_York_City", 
+            "The_New_York_Times", 
+            "Barack_Obama", 
+            "Piggybacking", 
+            "Reuters", 
+            "CBS_News", 
+            "CBS", 
+            "Barack_Obama"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Standard-bearer", 
+            "Republican_Party_(United_States)", 
+            "Wig", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Wild_Turkey", 
+            "Wild_Turkey", 
+            "Barack_Obama"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Turkey"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Huh_(god)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "GI_(military)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Gerald_Ford"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Turkey_(bird)", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Palin_Majere", 
+            "Fish_and_chips", 
+            "Sarah_Palin", 
+            "Ottoman_Empire", 
+            "Sarah_Palin", 
+            "Ottoman_Empire", 
+            "Palin_Majere"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Turkey_(bird)", 
+            "Brain"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Hearing_impairment", 
+            "Blindness"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Wig"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Bomb", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Saudi_Arabia", 
+            "Royal_family", 
+            "House_of_Saud"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Rock_music"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Rock_music"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hype", 
+            "Barack_Obama"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bullseye_(comics)", 
+            "Barack_Obama", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Economy", 
+            "New_York_City", 
+            "The_New_York_Times", 
+            "Barack_Obama", 
+            "Piggybacking", 
+            "Reuters", 
+            "CBS_News", 
+            "CBS", 
+            "Barack_Obama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Standard-bearer", 
+            "Republican_Party_(United_States)", 
+            "Wig", 
+            "Republican_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Wild_Turkey", 
+            "Wild_Turkey", 
+            "Barack_Obama"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Turkey"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Huh_(god)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "2003_invasion_of_Iraq", 
+            "GI_(military)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Gerald_Ford"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Turkey_(bird)", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Palin_Majere", 
+            "Fish_and_chips", 
+            "Sarah_Palin", 
+            "Ottoman_Empire", 
+            "Sarah_Palin", 
+            "Ottoman_Empire", 
+            "Palin_Majere"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Turkey_(bird)", 
+            "Brain"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 40
+    }
+]

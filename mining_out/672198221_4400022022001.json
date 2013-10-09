@@ -1,0 +1,59 @@
+[
+    {
+        "entity": [
+            "Diet_(nutrition)", 
+            "Vehicle_registration_plate", 
+            "Colorado", 
+            "Profanity", 
+            "Vehicle_registration_plate", 
+            "Department_of_Motor_Vehicles", 
+            "Tofu", 
+            "Sex", 
+            "Obscenity", 
+            "Sport_utility_vehicle", 
+            "Language", 
+            "Tofu", 
+            "Veganism", 
+            "Soybean", 
+            "Tofu", 
+            "Curd", 
+            "Tofu", 
+            "Drug", 
+            "Slang", 
+            "Gang", 
+            "U.S._state", 
+            "Department_of_Motor_Vehicles", 
+            "April_8", 
+            "Colo,_Iowa", 
+            "Couch", 
+            "Vehicle_registration_plate", 
+            "U.S._state"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "States_and_territories_of_India", 
+            "States_and_territories_of_India", 
+            "Vanity_plate"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chinese_martial_arts"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 5
+    }
+]

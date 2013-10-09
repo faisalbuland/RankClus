@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [
+            "Recruit_training", 
+            "April_9", 
+            "Marriage", 
+            "Lackland_Air_Force_Base", 
+            "Marriage_licence"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ministry_of_Defence_(United_Kingdom)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tank"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Judge", 
+            "Town", 
+            "Furniture"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Ruck", 
+            "Chaplain", 
+            "Rifle", 
+            "Chapel", 
+            "Vanir"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Cat_litter", 
+            "Cat", 
+            "Litter_box"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

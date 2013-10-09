@@ -1,0 +1,382 @@
+[
+    {
+        "entity": [
+            "Mayor", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Aviation_Administration", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States_Secret_Service", 
+            "New_York_City_Police_Department"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Devils", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Terrorism", 
+            "Devil's_advocate", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Adobe_Photoshop"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "National_Guard_of_the_United_States", 
+            "Air_National_Guard"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Photo_op", 
+            "Barack_Obama", 
+            "Fixed-wing_aircraft", 
+            "White_House", 
+            "Flyover", 
+            "Federal_Aviation_Administration"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Executive_Office_of_the_President_of_the_United_States", 
+            "White_House", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Liberty", 
+            "United_States_Air_Force", 
+            "Air_Force_One", 
+            "Federal_Aviation_Administration", 
+            "Flyover", 
+            "Souvenir"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Air_force"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Sic", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "Joe_Biden"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Stunt", 
+            "Fixed-wing_aircraft"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Small-stuff", 
+            "Bureaucracy", 
+            "Film_director", 
+            "United_States_Air_Force", 
+            "President_of_the_United_States", 
+            "Fry"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bonehead", 
+            "Messiah", 
+            "Left-wing_politics", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Federal_Aviation_Administration"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Fault_(geology)", 
+            "Angel"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "New_York", 
+            "Dick_Cheney", 
+            "George_W._Bush"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Farce", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Louis_Caldera", 
+            "Executive_Office_of_the_President_of_the_United_States", 
+            "Flyover", 
+            "United_States_Air_Force", 
+            "Souvenir", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Office_(U.S._TV_series)", 
+            "Air_Force_One", 
+            "Caldera", 
+            "White_House"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "Movie_theater"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "Adobe_Photoshop", 
+            "Graphic_designer", 
+            "Photograph", 
+            "Liberty", 
+            "United_States_Air_Force", 
+            "Air_Force_One"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Mayor", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Aviation_Administration", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "United_States_Secret_Service", 
+            "New_York_City_Police_Department"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Devils", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Terrorism", 
+            "Devil's_advocate", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Adobe_Photoshop"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "National_Guard_of_the_United_States", 
+            "Air_National_Guard"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Photo_op", 
+            "Barack_Obama", 
+            "Fixed-wing_aircraft", 
+            "White_House", 
+            "Flyover", 
+            "Federal_Aviation_Administration"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Executive_Office_of_the_President_of_the_United_States", 
+            "White_House", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Liberty", 
+            "United_States_Air_Force", 
+            "Air_Force_One", 
+            "Federal_Aviation_Administration", 
+            "Flyover", 
+            "Souvenir"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Air_force"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Sic", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "Joe_Biden"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Stunt", 
+            "Fixed-wing_aircraft"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Small-stuff", 
+            "Bureaucracy", 
+            "Film_director", 
+            "United_States_Air_Force", 
+            "President_of_the_United_States", 
+            "Fry"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bonehead", 
+            "Messiah", 
+            "Left-wing_politics", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Federal_Aviation_Administration"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Fault_(geology)", 
+            "Fault_(geology)", 
+            "Angel"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "New_York", 
+            "Dick_Cheney", 
+            "George_W._Bush"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Farce", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Louis_Caldera", 
+            "Executive_Office_of_the_President_of_the_United_States", 
+            "Flyover", 
+            "United_States_Air_Force", 
+            "Souvenir", 
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "The_Office_(U.S._TV_series)", 
+            "Air_Force_One", 
+            "Caldera", 
+            "White_House"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "Movie_theater"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "Adobe_Photoshop", 
+            "Graphic_designer", 
+            "Photograph", 
+            "Liberty", 
+            "United_States_Air_Force", 
+            "Air_Force_One"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

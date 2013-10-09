@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Guantanamo_Bay_detention_camp", 
+            "Geneva", 
+            "Geneva_Conference_(1954)", 
+            "Enemy_combatant", 
+            "David_Petraeus", 
+            "Guantanamo_Bay_detention_camp", 
+            "David_Petraeus"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wicket", 
+            "General_officer", 
+            "Partisan_(military)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

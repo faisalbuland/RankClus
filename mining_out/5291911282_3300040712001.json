@@ -1,0 +1,85 @@
+[
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Assisted_suicide", 
+            "Suicide", 
+            "Homicide"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "Motorcycle", 
+            "Divorce", 
+            "Cave", 
+            "Yamaha_Motor_Company", 
+            "High_school", 
+            "Exoskeleton", 
+            "EBay", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Thomas_Paine", 
+            "Malice_(legal_term)", 
+            "Computer_worm", 
+            "Thomas_Paine", 
+            "Property_caretaker"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Scots_law", 
+            "Eternity", 
+            "Parable_of_the_Good_Samaritan", 
+            "Samaritan", 
+            "Law", 
+            "Samaritan", 
+            "Florida", 
+            "Minister_(government)", 
+            "Parable_of_the_Good_Samaritan", 
+            "Scots_law", 
+            "Samaritan", 
+            "Parable_of_the_Good_Samaritan", 
+            "Internet", 
+            "Ear", 
+            "Conscience"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Feedback", 
+            "Crime"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Emergency_medical_technician", 
+            "First_responder", 
+            "Michigan", 
+            "Low_Earth_orbit", 
+            "Firefighter", 
+            "Thomas_Paine"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Drinking_water", 
+            "Lawsuit", 
+            "Drinking_water", 
+            "Horse", 
+            "Horse"
+        ], 
+        "postID": 7
+    }
+]

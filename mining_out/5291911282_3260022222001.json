@@ -1,0 +1,69 @@
+[
+    {
+        "entity": [
+            "Afghanistan", 
+            "Continent", 
+            "United_States", 
+            "Iraq", 
+            "Iraq", 
+            "United_States", 
+            "Africa", 
+            "Post-invasion_Iraq,_2003\u2013present", 
+            "Osama_bin_Laden", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Troll"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Peter_Fonda", 
+            "Jane_Fonda"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Suicide_attack", 
+            "Suicide"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Vigilante", 
+            "Jeans", 
+            "Vigilante"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Code_Pink", 
+            "Pink_(singer)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Maroon_(color)", 
+            "Panties", 
+            "Lace", 
+            "Preppy", 
+            "MAN_AG"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Idiot"
+        ], 
+        "postID": 11
+    }
+]

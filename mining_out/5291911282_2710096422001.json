@@ -1,0 +1,175 @@
+[
+    {
+        "entity": [
+            "Background_check", 
+            "Drug_rehabilitation", 
+            "Alcohol"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Credit_score_(United_States)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Teacher"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Full_disclosure", 
+            "Debt", 
+            "Credit_score_(United_States)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Flint"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Background_check"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot", 
+            "Informant"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Discipline", 
+            "Drug", 
+            "Obedience", 
+            "Criminal_record", 
+            "Alcohol", 
+            "Police"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Parole", 
+            "Quantum", 
+            "Prison", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Trustworthiness", 
+            "Damage_(film)", 
+            "Adultery", 
+            "Get-rich-quick_scheme", 
+            "Honesty", 
+            "Extortion", 
+            "Mantra", 
+            "Substance_abuse", 
+            "Security_clearance", 
+            "Addiction", 
+            "Prostitution", 
+            "Highland_Clearances", 
+            "Extortion", 
+            "Nortel_Security_Manager", 
+            "Law"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "George_Orwell", 
+            "TRAIL", 
+            "George_Orwell", 
+            "Big_Brother_(Nineteen_Eighty-Four)", 
+            "September_11,_2001_attacks", 
+            "Arrow", 
+            "Money_(magazine)", 
+            "Sergeant", 
+            "Nineteen_Eighty-Four", 
+            "Credit_bureau", 
+            "Military_intelligence", 
+            "TRAIL"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Breed", 
+            "Marmot", 
+            "Marmot", 
+            "1970s", 
+            "1980s"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Public_records", 
+            "Abyss_(religion)", 
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Boot", 
+            "Security_clearance", 
+            "Lowland_Clearances", 
+            "Opera", 
+            "Soap_opera", 
+            "Lowland_Clearances", 
+            "Soap_(TV_series)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Medical_record", 
+            "Debt", 
+            "Debt", 
+            "Health_care", 
+            "Security_clearance", 
+            "Credit_(finance)"
+        ], 
+        "postID": 18
+    }
+]

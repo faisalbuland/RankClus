@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "Prince_(musician)", 
+            "Empire", 
+            "State", 
+            "Europe", 
+            "Ossetians", 
+            "2000", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "2009", 
+            "Communism", 
+            "George_H._W._Bush", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Legislature"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Neat_(TV_series)", 
+            "40th_Canadian_federal_election", 
+            "Canadian_federal_election,_1980", 
+            "Ossetians", 
+            "History_of_the_United_States_Republican_Party", 
+            "Georgie_Jones", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }
+]

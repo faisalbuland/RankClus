@@ -1,0 +1,448 @@
+[
+    {
+        "entity": [
+            "Debt", 
+            "Chrysler", 
+            "Chrysler", 
+            "General_Motors", 
+            "General_Motors", 
+            "Limited_liability_company", 
+            "Barack_Obama", 
+            "Bond_(finance)", 
+            "Retirement", 
+            "Bankruptcy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bankruptcy", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Fox_News_Channel", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Tax", 
+            "United_States", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Barack_Obama", 
+            "Bankruptcy", 
+            "Bankruptcy_in_the_United_States", 
+            "Bankruptcy", 
+            "Federal_government_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Joseph_Stalin", 
+            "Nathan_Banks", 
+            "Barack_Obama", 
+            "Chief_executive_officer", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bankruptcy", 
+            "Double_standard"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Political_campaign"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOA", 
+            "United_Auto_Workers", 
+            "Wow", 
+            "LOA"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hewlett,_New_York", 
+            "Jackson,_Mississippi", 
+            "Profit"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Chrysler", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bankruptcy", 
+            "Dust", 
+            "White_House", 
+            "Election_promise"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "Rome"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Equation", 
+            "Rome"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Dodge_Durango", 
+            "Jeep_Wrangler", 
+            "Minivan", 
+            "Economy", 
+            "Sport_utility_vehicle", 
+            "The_Ram", 
+            "Chrysler", 
+            "Jeep", 
+            "Daimler_AG", 
+            "Pickup_truck", 
+            "Model_(person)", 
+            "2001", 
+            "Chrysler_Voyager", 
+            "Fuel_economy_in_automobiles", 
+            "Dodge", 
+            "Dodge", 
+            "Brand", 
+            "Pickup_truck", 
+            "Dodge_Ram", 
+            "Product_(chemistry)", 
+            "2004", 
+            "Plymouth_(automobile)", 
+            "Cerberus_Capital_Management", 
+            "Dodge_Durango", 
+            "Ecological_niche", 
+            "Chrysler", 
+            "Jeep_Wrangler", 
+            "Dodge_Charger", 
+            "Flagship", 
+            "Jeep", 
+            "Chrysler", 
+            "Jeep", 
+            "Chrysler", 
+            "Dodge_Ram", 
+            "Model_car", 
+            "Ford_Motor_Company", 
+            "Dodge", 
+            "Dodge", 
+            "Dodge_Ram", 
+            "Chrysler"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Mail", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Empire", 
+            "Obama,_Fukui", 
+            "George_W._Bush"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Nose", 
+            "Ford_Motor_Company", 
+            "Stock_market"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "Double_standard", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Barack_Obama", 
+            "American_International_Group", 
+            "George_W._Bush"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Insurance", 
+            "Murder", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Insurance"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Chrysler", 
+            "Chrysler", 
+            "General_Motors", 
+            "General_Motors", 
+            "Limited_liability_company", 
+            "Barack_Obama", 
+            "Bond_(finance)", 
+            "Retirement", 
+            "Bankruptcy"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Bankruptcy", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Fox_News_Channel", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company", 
+            "Tax", 
+            "United_States", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Barack_Obama", 
+            "Bankruptcy", 
+            "Bankruptcy_in_the_United_States", 
+            "Bankruptcy", 
+            "Federal_government_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "American_International_Group", 
+            "Joseph_Stalin", 
+            "Nathan_Banks", 
+            "Barack_Obama", 
+            "Chief_executive_officer", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Bankruptcy", 
+            "Double_standard"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Political_campaign"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "LOA", 
+            "United_Auto_Workers", 
+            "Wow", 
+            "LOA"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Hewlett,_New_York", 
+            "Jackson,_Mississippi", 
+            "Profit"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Chrysler", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bankruptcy", 
+            "Dust", 
+            "White_House", 
+            "Election_promise"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "Rome"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Equation", 
+            "Rome"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Dodge_Durango", 
+            "Jeep_Wrangler", 
+            "Minivan", 
+            "Economy", 
+            "Sport_utility_vehicle", 
+            "The_Ram", 
+            "Chrysler", 
+            "Jeep", 
+            "Daimler_AG", 
+            "Pickup_truck", 
+            "Model_(person)", 
+            "2001", 
+            "Chrysler_Voyager", 
+            "Fuel_economy_in_automobiles", 
+            "Dodge", 
+            "Dodge", 
+            "Brand", 
+            "Pickup_truck", 
+            "Dodge_Ram", 
+            "Product_(chemistry)", 
+            "2004", 
+            "Plymouth_(automobile)", 
+            "Cerberus_Capital_Management", 
+            "Dodge_Durango", 
+            "Ecological_niche", 
+            "Chrysler", 
+            "Jeep_Wrangler", 
+            "Dodge_Charger", 
+            "Flagship", 
+            "Jeep", 
+            "Chrysler", 
+            "Jeep", 
+            "Chrysler", 
+            "Dodge_Ram", 
+            "Model_car", 
+            "Ford_Motor_Company", 
+            "Dodge", 
+            "Dodge", 
+            "Dodge_Ram", 
+            "Chrysler"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Mail", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Empire", 
+            "Obama,_Fukui", 
+            "George_W._Bush"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Nose", 
+            "Ford_Motor_Company", 
+            "Stock_market"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "Double_standard", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "IMHO", 
+            "Barack_Obama", 
+            "American_International_Group", 
+            "George_W._Bush"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Insurance", 
+            "Murder", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Insurance"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 40
+    }
+]

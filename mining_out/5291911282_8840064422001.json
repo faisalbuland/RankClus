@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "Alaska", 
+            "Personal_Communications_Service", 
+            "PCS"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "International_Data_Encryption_Algorithm"
+        ], 
+        "postID": 5
+    }
+]

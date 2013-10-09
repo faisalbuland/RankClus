@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "God", 
+            "United_States", 
+            "TARGET", 
+            "Stay_(Maurice_Williams_song)", 
+            "Iran"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Iranian_peoples", 
+            "Probation"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Fijian_general_election,_2006", 
+            "Park_ranger", 
+            "Politics", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

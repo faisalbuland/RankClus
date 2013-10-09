@@ -1,0 +1,742 @@
+[
+    {
+        "entity": [
+            "Trade_union", 
+            "United_States", 
+            "Pension", 
+            "Journalism", 
+            "Journalism", 
+            "Long_Island_Rail_Road", 
+            "Radar", 
+            "County", 
+            "United_States", 
+            "Long_Island_Rail_Road", 
+            "County", 
+            "Pension", 
+            "Fraud", 
+            "State's_Attorney", 
+            "Attorney_General", 
+            "Disability", 
+            "Sentence_(law)", 
+            "Pension", 
+            "Nassau_County,_New_York", 
+            "County", 
+            "County", 
+            "U.S._state", 
+            "Nassau_County,_New_York", 
+            "Disability", 
+            "Nassau_County,_New_York", 
+            "United_States", 
+            "Radar", 
+            "Nassau_County,_New_York"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "MSNBC", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "TiVo", 
+            "Testicle", 
+            "United_States", 
+            "Miss_USA", 
+            "Faux"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Government_agency"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "Beck", 
+            "News_media", 
+            "Fair_and_balanced", 
+            "President_of_the_United_States", 
+            "Fox_Broadcasting_Company", 
+            "Glenn_Beck"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Al_Franken", 
+            "Tabloid", 
+            "Democratic_Party_(United_States)", 
+            "Al_Franken", 
+            "Keith_Olbermann", 
+            "Fox_News_Channel", 
+            "Environmentalism", 
+            "Fox_News_Channel", 
+            "Pundit_(expert)", 
+            "Instinct", 
+            "Rachel", 
+            "Bill_O'Reilly_(commentator)", 
+            "Liberalism", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Bill_O'Reilly_(commentator)", 
+            "NFL_Draft", 
+            "Bill_O'Reilly_(commentator)", 
+            "Liberalism", 
+            "New_York_City", 
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "The_New_York_Times", 
+            "Haha_(entertainer)", 
+            "Union_(American_Civil_War)", 
+            "Sean_Hannity", 
+            "Bureaucrat", 
+            "Fox_News_Channel", 
+            "Bill_O'Reilly_(commentator)", 
+            "NBC", 
+            "Keith_Olbermann", 
+            "Honesty", 
+            "Journalism", 
+            "Pundit_(expert)", 
+            "Liberalism", 
+            "Conspiracy_(crime)", 
+            "Fox_Broadcasting_Company", 
+            "Islamism", 
+            "Journalism", 
+            "Breathing", 
+            "Journalism", 
+            "United_States", 
+            "MSNBC", 
+            "Liberalism", 
+            "Atheism", 
+            "Fox_News_Channel", 
+            "Rush_(band)", 
+            "Rush_Limbaugh", 
+            "Journalism", 
+            "Brand", 
+            "Anti-war", 
+            "MSNBC", 
+            "Rachel_Maddow", 
+            "Pundit_(expert)", 
+            "Socialism", 
+            "Muslim", 
+            "Fox_News_Channel", 
+            "Conspiracy_theory", 
+            "MSNBC"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Journalism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pension", 
+            "Trade_union", 
+            "Tax", 
+            "Duty-free_shop", 
+            "Pension", 
+            "Disability", 
+            "Retirement", 
+            "Disability", 
+            "Fraud", 
+            "Trade_union", 
+            "Pension"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Rainbow"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fair_and_balanced", 
+            "Screw", 
+            "Balance"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "2008", 
+            "Radar"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Journalism", 
+            "Fox_Broadcasting_Company", 
+            "2009", 
+            "MSNBC", 
+            "Swill", 
+            "Apologetics", 
+            "Chris_Matthews", 
+            "Decency", 
+            "Keith_Olbermann"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Ill_(France)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "CNN", 
+            "MSNBC"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Wolf_Blitzer", 
+            "Swine_flu", 
+            "Greta,_New_South_Wales", 
+            "MSNBC", 
+            "Influenza", 
+            "Pig", 
+            "Pig", 
+            "Influenza", 
+            "Larry_King", 
+            "United_States", 
+            "Iraq", 
+            "Iraq", 
+            "Gray_Wolf", 
+            "O'Reilly_Media", 
+            "Fox_News_Channel", 
+            "Afghanistan", 
+            "United_States\u2013Mexico_border", 
+            "Political_agenda", 
+            "Swine_flu", 
+            "Britney_Spears", 
+            "Britney_(album)", 
+            "Mexico"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Brian_Williams", 
+            "Fox_Broadcasting_Company", 
+            "WilliamsF1", 
+            "Fox_News_Channel", 
+            "Member_of_Congress", 
+            "CBS", 
+            "News", 
+            "Wing", 
+            "Reporter", 
+            "United_States_Senate", 
+            "Tabloid_television", 
+            "United_States_Congress", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Pet", 
+            "Language", 
+            "Cancer"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "News_broadcasting", 
+            "Turbine", 
+            "Liberal_Party_of_Canada", 
+            "Barack_Obama", 
+            "MSNBC", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Wind", 
+            "Bias", 
+            "2009", 
+            "Wind_turbine", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Radio", 
+            "Fox_Broadcasting_Company", 
+            "Talk_radio", 
+            "Internet", 
+            "Wilderness", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Socialism", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Communism", 
+            "Socialism", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Mass_media", 
+            "Mass"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Globe", 
+            "Boston_Common", 
+            "Boston,_Massachusetts"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Montgomery_Scott", 
+            "Hardtack", 
+            "Fox_Broadcasting_Company", 
+            "Biscuit", 
+            "Pipe_(material)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Non-profit_organization", 
+            "Conservatism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Student_newspaper", 
+            "Student_newspaper", 
+            "Mark_Twain"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "United_States", 
+            "Pension", 
+            "Journalism", 
+            "Journalism", 
+            "Long_Island_Rail_Road", 
+            "Radar", 
+            "County", 
+            "United_States", 
+            "Long_Island_Rail_Road", 
+            "County", 
+            "Pension", 
+            "Fraud", 
+            "State's_Attorney", 
+            "Attorney_General", 
+            "Disability", 
+            "Sentence_(law)", 
+            "Pension", 
+            "Nassau_County,_New_York", 
+            "County", 
+            "County", 
+            "U.S._state", 
+            "Nassau_County,_New_York", 
+            "Disability", 
+            "Nassau_County,_New_York", 
+            "United_States", 
+            "Radar", 
+            "Nassau_County,_New_York"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "MSNBC", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "TiVo", 
+            "Testicle", 
+            "United_States", 
+            "Miss_USA", 
+            "Faux"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Government_agency"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "Beck", 
+            "News_media", 
+            "Fair_and_balanced", 
+            "President_of_the_United_States", 
+            "Fox_Broadcasting_Company", 
+            "Glenn_Beck"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Al_Franken", 
+            "Tabloid", 
+            "Democratic_Party_(United_States)", 
+            "Al_Franken", 
+            "Keith_Olbermann", 
+            "Fox_News_Channel", 
+            "Environmentalism", 
+            "Fox_News_Channel", 
+            "Pundit_(expert)", 
+            "Instinct", 
+            "Rachel", 
+            "Bill_O'Reilly_(commentator)", 
+            "Liberalism", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "Bill_O'Reilly_(commentator)", 
+            "NFL_Draft", 
+            "Bill_O'Reilly_(commentator)", 
+            "Liberalism", 
+            "New_York_City", 
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "The_New_York_Times", 
+            "Haha_(entertainer)", 
+            "Union_(American_Civil_War)", 
+            "Sean_Hannity", 
+            "Bureaucrat", 
+            "Fox_News_Channel", 
+            "Bill_O'Reilly_(commentator)", 
+            "NBC", 
+            "Keith_Olbermann", 
+            "Honesty", 
+            "Journalism", 
+            "Pundit_(expert)", 
+            "Liberalism", 
+            "Conspiracy_(crime)", 
+            "Fox_Broadcasting_Company", 
+            "Islamism", 
+            "Journalism", 
+            "Breathing", 
+            "Journalism", 
+            "United_States", 
+            "MSNBC", 
+            "Liberalism", 
+            "Atheism", 
+            "Fox_News_Channel", 
+            "Rush_(band)", 
+            "Rush_Limbaugh", 
+            "Journalism", 
+            "Brand", 
+            "Anti-war", 
+            "MSNBC", 
+            "Rachel_Maddow", 
+            "Pundit_(expert)", 
+            "Socialism", 
+            "Muslim", 
+            "Fox_News_Channel", 
+            "Conspiracy_theory", 
+            "MSNBC"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Journalism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Pension", 
+            "Trade_union", 
+            "Tax", 
+            "Duty-free_shop", 
+            "Pension", 
+            "Disability", 
+            "Retirement", 
+            "Disability", 
+            "Fraud", 
+            "Trade_union", 
+            "Pension"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rainbow"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Fair_and_balanced", 
+            "Screw", 
+            "Balance"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Social_Security_(United_States)", 
+            "2008", 
+            "Radar"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Journalism", 
+            "Fox_Broadcasting_Company", 
+            "2009", 
+            "MSNBC", 
+            "Swill", 
+            "Apologetics", 
+            "Chris_Matthews", 
+            "Decency", 
+            "Keith_Olbermann"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Ill_(France)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "MSNBC", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "CNN", 
+            "MSNBC"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Wolf_Blitzer", 
+            "Swine_flu", 
+            "Greta,_New_South_Wales", 
+            "MSNBC", 
+            "Influenza", 
+            "Pig", 
+            "Pig", 
+            "Influenza", 
+            "Larry_King", 
+            "United_States", 
+            "Iraq", 
+            "Iraq", 
+            "Gray_Wolf", 
+            "O'Reilly_Media", 
+            "Fox_News_Channel", 
+            "Afghanistan", 
+            "United_States\u2013Mexico_border", 
+            "Political_agenda", 
+            "Swine_flu", 
+            "Britney_Spears", 
+            "Britney_(album)", 
+            "Mexico"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Brian_Williams", 
+            "Fox_Broadcasting_Company", 
+            "WilliamsF1", 
+            "Fox_News_Channel", 
+            "Member_of_Congress", 
+            "CBS", 
+            "News", 
+            "Wing", 
+            "Reporter", 
+            "United_States_Senate", 
+            "Tabloid_television", 
+            "United_States_Congress", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Pet", 
+            "Language", 
+            "Cancer"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "News_broadcasting", 
+            "Turbine", 
+            "Liberal_Party_of_Canada", 
+            "Barack_Obama", 
+            "MSNBC", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Wind", 
+            "Bias", 
+            "2009", 
+            "Wind_turbine", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Radio", 
+            "Fox_Broadcasting_Company", 
+            "Talk_radio", 
+            "Internet", 
+            "Wilderness", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Socialism", 
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "Fox_Broadcasting_Company", 
+            "Communism", 
+            "Socialism", 
+            "Fox_News_Channel"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "United_States"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Mass_media", 
+            "Mass"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Globe", 
+            "Boston_Common", 
+            "Boston,_Massachusetts"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Montgomery_Scott", 
+            "Hardtack", 
+            "Fox_Broadcasting_Company", 
+            "Biscuit", 
+            "Pipe_(material)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Non-profit_organization", 
+            "Conservatism"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Student_newspaper", 
+            "Student_newspaper", 
+            "Mark_Twain"
+        ], 
+        "postID": 58
+    }
+]

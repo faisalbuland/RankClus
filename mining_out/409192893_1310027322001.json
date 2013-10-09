@@ -1,0 +1,604 @@
+[
+    {
+        "entity": [
+            "Roe_v._Wade", 
+            "Contradiction", 
+            "Law", 
+            "Norma_McCorvey", 
+            "Education", 
+            "Abortion", 
+            "Abortion", 
+            "Persuasion"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Pro-life", 
+            "Abortion", 
+            "Philosophical_realism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Abortion", 
+            "Abortion"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Academic_term", 
+            "Physician"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "Physician", 
+            "Abortion", 
+            "U.S._state", 
+            "Academic_term"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Norma_McCorvey", 
+            "Abortion", 
+            "Roe", 
+            "Cattle", 
+            "Knee", 
+            "Bin_bag", 
+            "Fetus", 
+            "Contradiction", 
+            "Duh_(album)", 
+            "Intact_dilation_and_extraction", 
+            "Jerk"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Abortion", 
+            "Law", 
+            "VAST"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Plant_stem", 
+            "Brain_stem"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Human_rights", 
+            "Abortion", 
+            "Common_sense", 
+            "Fundamental_right", 
+            "Incest", 
+            "Child_sexual_abuse"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Skin"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Euthanasia", 
+            "Veteran", 
+            "United_States", 
+            "The_Holocaust", 
+            "Abortion", 
+            "Tax", 
+            "Jungle", 
+            "United_States_Department_of_Homeland_Security", 
+            "Abortion", 
+            "Habitat", 
+            "Left-wing_politics", 
+            "Bureaucracy", 
+            "1973"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Academic_term", 
+            "Abortion", 
+            "Abortion_in_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Pro-life", 
+            "Planet", 
+            "Wildlife", 
+            "Abortion", 
+            "Abortion", 
+            "Sin", 
+            "God", 
+            "Abortion", 
+            "Dominion", 
+            "Bible", 
+            "Jesus", 
+            "Bible"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Olive_(fruit)", 
+            "Common_sense", 
+            "Jesus"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Abortion", 
+            "Coercion", 
+            "Ethics"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Torah", 
+            "Jesus", 
+            "Abortion", 
+            "God"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol", 
+            "Prayer", 
+            "Woody_Hayes", 
+            "Hayes,_Hillingdon"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Church", 
+            "Abortion_in_the_United_States", 
+            "God", 
+            "Fox_News_Channel", 
+            "Alcohol", 
+            "Abortion_in_the_United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Temple", 
+            "Olive_(fruit)", 
+            "Peter_Singer", 
+            "George_Tiller", 
+            "Christianity", 
+            "Singing", 
+            "Jesus", 
+            "Lockstep_(computing)", 
+            "Liberalism", 
+            "Bust_(sculpture)", 
+            "Sake", 
+            "Gospel", 
+            "Tiller,_Norway", 
+            "Common_sense", 
+            "Liberalism", 
+            "Logic", 
+            "Toleration"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Universe", 
+            "Moral_panic", 
+            "Binary_numeral_system", 
+            "United_States", 
+            "Geek", 
+            "Binary_system_(astronomy)", 
+            "God", 
+            "Universe", 
+            "Geek"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "GOD_(band)", 
+            "Money_(magazine)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Intrusion", 
+            "Reproduction", 
+            "Abortion", 
+            "Misnomer", 
+            "Blindness"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "HEALTH_(band)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Hayes,_Hillingdon", 
+            "Entitlement", 
+            "Tax", 
+            "Porch", 
+            "Woody_Hayes", 
+            "Liberalism", 
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Entitlement", 
+            "Work_Records", 
+            "Liberal", 
+            "Liberal", 
+            "Icon"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Roe_v._Wade", 
+            "Contradiction", 
+            "Law", 
+            "Norma_McCorvey", 
+            "Education", 
+            "Abortion", 
+            "Abortion", 
+            "Persuasion"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Pro-life", 
+            "Abortion", 
+            "Philosophical_realism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Abortion", 
+            "Abortion"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Academic_term", 
+            "Physician"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "Physician", 
+            "Abortion", 
+            "U.S._state", 
+            "Academic_term"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Pregnancy", 
+            "Norma_McCorvey", 
+            "Abortion", 
+            "Roe", 
+            "Cattle", 
+            "Knee", 
+            "Bin_bag", 
+            "Fetus", 
+            "Contradiction", 
+            "Duh_(album)", 
+            "Intact_dilation_and_extraction", 
+            "Jerk"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Abortion", 
+            "Abortion", 
+            "Pro-life", 
+            "Abortion", 
+            "Law", 
+            "VAST"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Brain", 
+            "Plant_stem", 
+            "Brain_stem"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Rape", 
+            "Human_rights", 
+            "Abortion", 
+            "Common_sense", 
+            "Fundamental_right", 
+            "Incest", 
+            "Child_sexual_abuse"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Blood", 
+            "Skin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Euthanasia", 
+            "Veteran", 
+            "United_States", 
+            "The_Holocaust", 
+            "Abortion", 
+            "Tax", 
+            "Jungle", 
+            "United_States_Department_of_Homeland_Security", 
+            "Abortion", 
+            "Habitat", 
+            "Left-wing_politics", 
+            "Bureaucracy", 
+            "1973"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Medical_emergency", 
+            "Academic_term", 
+            "Abortion", 
+            "Abortion_in_the_United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Pro-life", 
+            "Planet", 
+            "Wildlife", 
+            "Abortion", 
+            "Abortion", 
+            "Sin", 
+            "God", 
+            "Abortion", 
+            "Dominion", 
+            "Bible", 
+            "Jesus", 
+            "Bible"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Olive_(fruit)", 
+            "Common_sense", 
+            "Jesus"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Abortion", 
+            "Coercion", 
+            "Ethics"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Torah", 
+            "Jesus", 
+            "Abortion", 
+            "God"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol", 
+            "Prayer", 
+            "Woody_Hayes", 
+            "Hayes,_Hillingdon"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Church", 
+            "Abortion_in_the_United_States", 
+            "God", 
+            "Fox_News_Channel", 
+            "Alcohol", 
+            "Abortion_in_the_United_States"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Temple", 
+            "Olive_(fruit)", 
+            "Peter_Singer", 
+            "George_Tiller", 
+            "Christianity", 
+            "Singing", 
+            "Jesus", 
+            "Lockstep_(computing)", 
+            "Liberalism", 
+            "Bust_(sculpture)", 
+            "Sake", 
+            "Gospel", 
+            "Tiller,_Norway", 
+            "Common_sense", 
+            "Liberalism", 
+            "Logic", 
+            "Toleration"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Universe", 
+            "Moral_panic", 
+            "Binary_numeral_system", 
+            "United_States", 
+            "Geek", 
+            "Binary_system_(astronomy)", 
+            "God", 
+            "Universe", 
+            "Geek"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "God"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "GOD_(band)", 
+            "Money_(magazine)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Intrusion", 
+            "Reproduction", 
+            "Abortion", 
+            "Misnomer", 
+            "Blindness"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "HEALTH_(band)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Hayes,_Hillingdon", 
+            "Entitlement", 
+            "Tax", 
+            "Porch", 
+            "Woody_Hayes", 
+            "Liberalism", 
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Entitlement", 
+            "Work_Records", 
+            "Liberal", 
+            "Liberal", 
+            "Icon"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 58
+    }
+]

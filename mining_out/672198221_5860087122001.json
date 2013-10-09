@@ -1,0 +1,141 @@
+[
+    {
+        "entity": [
+            "Commander", 
+            "Enhanced_interrogation_techniques", 
+            "Enhanced_interrogation_techniques", 
+            "Spouse", 
+            "Stars_and_Stripes_(newspaper)", 
+            "Commander", 
+            "Ala_(Roman_military)", 
+            "Enhanced_interrogation_techniques", 
+            "Yesterday_(song)", 
+            "Active_duty", 
+            "Interrogation", 
+            "Stripes_(film)", 
+            "Abu_Ghraib_torture_and_prisoner_abuse"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Spouse", 
+            "Commander-in-chief", 
+            "Active_Duty", 
+            "George_W._Bush", 
+            "Michelle_Fowler", 
+            "Fault_(geology)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Regions_of_France"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Hypocrisy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fundraiser", 
+            "First_Lady_of_the_United_States", 
+            "Spouse", 
+            "First_Lady_of_the_United_States", 
+            "Lawn", 
+            "Mehlman", 
+            "Laura_Bush", 
+            "RNC", 
+            "Galveston,_Texas", 
+            "Ken_Mehlman", 
+            "Laura_Bush", 
+            "Tee_Ball", 
+            "Dallas,_Texas", 
+            "President_of_the_United_States", 
+            "United_States_Air_Force", 
+            "Chair_(official)", 
+            "George_W._Bush", 
+            "First_Family", 
+            "Texas", 
+            "Republican_National_Committee", 
+            "Picnic", 
+            "Dallas,_Texas", 
+            "Fundraiser", 
+            "George_W._Bush", 
+            "First_Lady", 
+            "Ball_game", 
+            "Houston,_Texas"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Andrew_Sullivan", 
+            "Iraq", 
+            "Torture", 
+            "President_of_the_United_States", 
+            "Intelligence_(information_gathering)", 
+            "Purge", 
+            "Sullivan_County,_New_York", 
+            "Reflection_(physics)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Computer_worm", 
+            "United_States_Congress", 
+            "Muslim", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Health_care", 
+            "Health_care_systems", 
+            "Economy"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "First_Lady", 
+            "President_of_the_United_States", 
+            "Spouse", 
+            "Courage", 
+            "Soldier"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "Education"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "EIT", 
+            "Guantanamo_Bay_Naval_Base"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Chaves", 
+            "Nancy_Pelosi", 
+            "Barack_Obama", 
+            "Fidel_Castro"
+        ], 
+        "postID": 12
+    }
+]

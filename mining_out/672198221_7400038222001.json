@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Nudity", 
+            "Nudity", 
+            "Florida", 
+            "Pornography", 
+            "Prison", 
+            "Background_check", 
+            "Plea_bargain", 
+            "Florida", 
+            "Florida", 
+            "Social_welfare_provision", 
+            "Background_check", 
+            "Florida", 
+            "Child_protection", 
+            "Child_pornography"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Background_check"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Background_check"
+        ], 
+        "postID": 3
+    }
+]

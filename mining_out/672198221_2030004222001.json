@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Influenza", 
+            "Influenza", 
+            "Mexico", 
+            "Toddler", 
+            "California", 
+            "Brownsville,_Texas"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Immunodeficiency", 
+            "Immune_system"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "May_3", 
+            "Sun", 
+            "2009", 
+            "God", 
+            "Eternity"
+        ], 
+        "postID": 3
+    }
+]

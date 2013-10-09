@@ -1,0 +1,49 @@
+[
+    {
+        "entity": [
+            "Food_chain", 
+            "Roman_Catholic_Church", 
+            "International_Maritime_Organization", 
+            "Illegal_drug_trade", 
+            "Pedophilia", 
+            "Catholic", 
+            "Mexico", 
+            "Rape", 
+            "Ancient_Rome", 
+            "Drug"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Frisco,_Texas"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Oath"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Cartel"
+        ], 
+        "postID": 7
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "entity": [
+            "Tumor", 
+            "John_Calvin", 
+            "Foot_(length)", 
+            "Infection", 
+            "War_Veteran", 
+            "Brain_tumor", 
+            "Gulf_War", 
+            "Brain", 
+            "Brain_tumor", 
+            "1993", 
+            "Cancer", 
+            "Brain_tumor", 
+            "Gulf_War", 
+            "Tumor", 
+            "Bacteria", 
+            "Foot_(length)", 
+            "United_States_Marine_Corps", 
+            "Bacteria", 
+            "2008", 
+            "Tumor", 
+            "Cyberathlete_Professional_League", 
+            "Vaccination", 
+            "Family_history"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Hippie"
+        ], 
+        "postID": 2
+    }
+]

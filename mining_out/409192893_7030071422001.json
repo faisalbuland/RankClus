@@ -1,0 +1,122 @@
+[
+    {
+        "entity": [
+            "Iran", 
+            "Iran", 
+            "Afghanistan", 
+            "Afghanistan", 
+            "Conservatism", 
+            "Missile", 
+            "Pakistan", 
+            "Pakistan", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "Ballistic_missile", 
+            "Ballistic_missile"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "French_fries", 
+            "United_States", 
+            "Pakistan", 
+            "Abstract_art", 
+            "Sharia", 
+            "Sharia", 
+            "Taliban", 
+            "Pakistan", 
+            "Taliban", 
+            "Taliban", 
+            "Worm", 
+            "Iran", 
+            "Law", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Israel"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "Bad_cop", 
+            "Israel", 
+            "Dividend", 
+            "Israel", 
+            "Bad_cop", 
+            "United_States", 
+            "Resurrection", 
+            "Genie", 
+            "Iranian_peoples", 
+            "National_interest", 
+            "Caliph", 
+            "Iran"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "French_fries", 
+            "Fanaticism", 
+            "The_Godfather", 
+            "The_Godfather", 
+            "States_and_territories_of_India", 
+            "Soviet_Union", 
+            "Nuke", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "Dynamics_(physics)", 
+            "Iran", 
+            "Pakistan", 
+            "Nuclear_weapon", 
+            "Real_versus_nominal_value", 
+            "United_States", 
+            "Soviet_Union", 
+            "Nuclear_weapon", 
+            "States_and_territories_of_India", 
+            "Terrorism", 
+            "Pragmatism", 
+            "Nuke"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nuke"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Weapon", 
+            "Fox_Broadcasting_Company", 
+            "United_States", 
+            "Nuclear_weapon", 
+            "Pakistan", 
+            "2001", 
+            "Fox", 
+            "2001", 
+            "Benjamin_Netanyahu", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Taliban", 
+            "Nuclear_power"
+        ], 
+        "postID": 8
+    }
+]

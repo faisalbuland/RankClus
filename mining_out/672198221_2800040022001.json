@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mace_(club)", 
+            "Saturday_night_special", 
+            "Crime", 
+            "Persuasion", 
+            "Weapon"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Common_land", 
+            "Barack_Obama", 
+            "Fault_(geology)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Pain", 
+            "Bullet", 
+            "Pittsburgh,_Pennsylvania"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Ditto"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pup", 
+            "Cat", 
+            "AK-47", 
+            "Bozo", 
+            "Cupboard"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Meds"
+        ], 
+        "postID": 9
+    }
+]

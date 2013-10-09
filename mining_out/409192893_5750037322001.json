@@ -1,0 +1,126 @@
+[
+    {
+        "entity": [
+            "Common_sense", 
+            "Speaker_(politics)", 
+            "Decency"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Brit", 
+            "Common_sense", 
+            "Supreme_Court_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Internet_forum", 
+            "Wi-Fi", 
+            "Common_sense", 
+            "Bar_association"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_House_of_Commons_(UK)", 
+            "Computer_worm", 
+            "Telegraphy", 
+            "Mortgage", 
+            "Moat", 
+            "House_of_Commons_of_the_United_Kingdom", 
+            "Member_of_Parliament", 
+            "United_Kingdom", 
+            "!!!", 
+            "Political_party", 
+            "Politics", 
+            "Member_of_Parliament"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Party_system", 
+            "Labour_Party_(UK)", 
+            "Parliament_of_the_United_Kingdom", 
+            "United_Kingdom", 
+            "Tony_Blair", 
+            "Politics_of_the_United_Kingdom", 
+            "Two-party_system", 
+            "Politics_of_the_United_Kingdom", 
+            "Speaker_of_the_House_of_Commons_(UK)", 
+            "Political_party", 
+            "Politics_of_the_United_Kingdom", 
+            "Member_of_Parliament", 
+            "Judge", 
+            "Tony_Blair", 
+            "Partisan_(political)", 
+            "Labour_Party_(UK)", 
+            "Partisan_(military)", 
+            "Ethos", 
+            "Member_of_Parliament", 
+            "Barrister", 
+            "Supreme_Court_of_the_United_States", 
+            "United_States", 
+            "Supreme_court", 
+            "Political_party", 
+            "Member_of_Parliament", 
+            "Judge", 
+            "Lord_of_Appeal_in_Ordinary", 
+            "Tony_Blair", 
+            "Tony_Blair", 
+            "Independent_(politician)", 
+            "House_of_Lords"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Agriculture", 
+            "Shame", 
+            "Douglas_Aircraft_Company", 
+            "Douglas_Hogg,_3rd_Viscount_Hailsham", 
+            "Scots_language", 
+            "Minister_(Christianity)", 
+            "Moat", 
+            "Lincolnshire"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Malik", 
+            "Member_of_Parliament", 
+            "Council_Tax", 
+            "Sphincter", 
+            "Trough_(meteorology)", 
+            "Accountancy", 
+            "!!!", 
+            "Bladensburg,_Maryland", 
+            "Telegraphy", 
+            "Shahid_Malik", 
+            "Urine", 
+            "Buck", 
+            "!!!"
+        ], 
+        "postID": 10
+    }
+]

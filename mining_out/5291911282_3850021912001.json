@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Bank_run", 
+            "Dude", 
+            "Soap", 
+            "Bank"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "!!!", 
+            "9_to_5"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Civil_war", 
+            "Marmot", 
+            "Esox"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Serbian_presidential_election,_2004", 
+            "Barack_Obama", 
+            "United_States_presidential_election,_2008"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Olympic_Games", 
+            "Special_Olympics"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Barack_Obama", 
+            "Marmot", 
+            "Typographical_error", 
+            "Marmot"
+        ], 
+        "postID": 7
+    }
+]

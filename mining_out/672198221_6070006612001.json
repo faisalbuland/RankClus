@@ -1,0 +1,252 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "IMHO"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "United_States_Secretary_of_the_Navy", 
+            "United_States_Navy", 
+            "GWB", 
+            "GWB", 
+            "2008", 
+            "Barack_Obama", 
+            "Fault_(geology)", 
+            "United_States_Secretary_of_Defense"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "World_Taekwondo_Federation", 
+            "Shipyard", 
+            "Interest_group"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Semantics"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Buck", 
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Defense", 
+            "Defense_budget_of_Japan", 
+            "GWB", 
+            "Deficit", 
+            "Iraq_War", 
+            "Deficit", 
+            "GWB", 
+            "Defense_budget_of_Japan", 
+            "Helicopter", 
+            "Defense_budget_of_Japan", 
+            "GWB", 
+            "Afghanistan"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Submarine", 
+            "Automobile", 
+            "Marine_(military)", 
+            "United_States_Navy", 
+            "Oceanography", 
+            "Warship", 
+            "Submarine", 
+            "Aircraft_carrier", 
+            "Aircraft"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "GWB", 
+            "Ring_of_Honor", 
+            "Navy", 
+            "GWB", 
+            "Navy", 
+            "Surface", 
+            "Military_budget", 
+            "XXXX", 
+            "Navy", 
+            "2000", 
+            "GWB", 
+            "Yorktown,_Virginia", 
+            "SSN_(hull_classification_symbol)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Republicanism", 
+            "Safety_(American_football)", 
+            "IMHO", 
+            "Face_(disambiguation)", 
+            "Premenstrual_syndrome"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Hell", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "Lever", 
+            "President_of_the_United_States", 
+            "Port_Royal", 
+            "Vietnam_War", 
+            "2009", 
+            "United_States_Congress", 
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "The_Defense", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "2009"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Radar", 
+            "NLT_(band)", 
+            "Radio", 
+            "Radio", 
+            "Remote_control_vehicle", 
+            "International_Maritime_Organization", 
+            "SLEP", 
+            "A-4_Skyhawk", 
+            "Cessna", 
+            "Roh_Moo-hyun", 
+            "Premenstrual_syndrome", 
+            "Yorktown,_Virginia", 
+            "Philly_(TV_series)", 
+            "Pony", 
+            "Paper_trail", 
+            "Oil_burner_(engine)", 
+            "Air_filter", 
+            "Ingalls_Shipbuilding", 
+            "Oil", 
+            "Radio", 
+            "EGL_Programming_Language", 
+            "Cessna", 
+            "Premenstrual_syndrome", 
+            "Premenstrual_syndrome", 
+            "Yorktown,_Virginia", 
+            "New_Threat_Upgrade", 
+            "Premenstrual_syndrome", 
+            "Radio", 
+            "New_Hellenic_Television", 
+            "BIW", 
+            "Span_and_div", 
+            "Thread_(computer_science)", 
+            "Database", 
+            "Arleigh_Burke_class_destroyer", 
+            "Filter_(chemistry)", 
+            "Dog", 
+            "Premenstrual_syndrome", 
+            "Water", 
+            "Water"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Collar", 
+            "Iowa", 
+            "Nut_(fruit)", 
+            "Bridge", 
+            "Premenstrual_syndrome", 
+            "Khaki", 
+            "Aircraft", 
+            "Hit_(baseball)", 
+            "Shell_(projectile)", 
+            "Aircraft_carrier", 
+            "Engineering", 
+            "Glass", 
+            "Insanity", 
+            "United_States_Navy", 
+            "Aircraft", 
+            "Water", 
+            "Anchor", 
+            "United_States_Navy", 
+            "Turret", 
+            "2009", 
+            "United_States_Navy", 
+            "Cockpit", 
+            "Hull_(watercraft)", 
+            "Aircraft", 
+            "Cockpit", 
+            "God", 
+            "Penny"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States_Navy", 
+            "United_States", 
+            "Insanity", 
+            "United_States_Navy", 
+            "Navy", 
+            "United_States_Navy"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Trade_union"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Trade_union"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Onion"
+        ], 
+        "postID": 20
+    }
+]

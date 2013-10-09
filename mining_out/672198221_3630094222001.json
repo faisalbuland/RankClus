@@ -1,0 +1,26 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Social_sciences", 
+            "Science", 
+            "Science", 
+            "Afghanistan", 
+            "Social_sciences", 
+            "Osama_bin_Laden", 
+            "Osama_bin_Laden"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 3
+    }
+]

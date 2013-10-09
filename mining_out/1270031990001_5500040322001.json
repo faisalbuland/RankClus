@@ -1,0 +1,130 @@
+[
+    {
+        "entity": [
+            "Sex_education", 
+            "Barack_Obama", 
+            "Ideology", 
+            "Religious_belief"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Abstinence"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Abstinence-only_sex_education", 
+            "Money_(magazine)", 
+            "Sex_education", 
+            "Sex_education", 
+            "SEX_(boutique)", 
+            "WASTE", 
+            "Human_sexual_behavior", 
+            "Lesson_plan", 
+            "Sex_education"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Absinthe", 
+            "Wilde_(film)", 
+            "Academy_Award", 
+            "Tart", 
+            "Oscar_Wilde"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Sexually_transmitted_disease", 
+            "Tax", 
+            "Dime_(United_States_coin)", 
+            "Sexual_abstinence"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Birth_control", 
+            "Sexual_abstinence", 
+            "Mom_(disambiguation)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tumbler", 
+            "Sugar", 
+            "Sugar", 
+            "Absinthe", 
+            "Absinthe", 
+            "Absinthe", 
+            "Water", 
+            "Honda", 
+            "Distilled_beverage", 
+            "Honda", 
+            "Fart", 
+            "Sugar", 
+            "Spoon", 
+            "Teaspoon", 
+            "Sugar", 
+            "Absinthe", 
+            "World_Taekwondo_Federation", 
+            "Glass", 
+            "Absinthe", 
+            "Spoon", 
+            "Dip_(Catalan_myth)", 
+            "Absinthe", 
+            "Czech_Republic", 
+            "Absinthe", 
+            "Teaspoon", 
+            "Recipe"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Lemon", 
+            "Rum", 
+            "Absinthe", 
+            "Rum", 
+            "Decorum"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Moderation"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Forum_moderator", 
+            "Forum_moderator"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Sambuca", 
+            "Ounce", 
+            "Buca", 
+            "Absinthe", 
+            "Wow"
+        ], 
+        "postID": 13
+    }
+]

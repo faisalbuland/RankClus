@@ -1,0 +1,27 @@
+[
+    {
+        "entity": [
+            "Nudity", 
+            "Diamond", 
+            "ITN", 
+            "Pornography", 
+            "MySpace", 
+            "Pornographic_actor", 
+            "Pornographic_actor"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Caboose"
+        ], 
+        "postID": 3
+    }
+]

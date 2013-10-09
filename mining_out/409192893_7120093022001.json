@@ -1,0 +1,62 @@
+[
+    {
+        "entity": [
+            "Nut_(fruit)", 
+            "WTKK", 
+            "Corn_flakes", 
+            "Radio", 
+            "Radio", 
+            "Maize", 
+            "Severian", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "1985", 
+            "United_States_Marine_Corps", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Corn_flakes", 
+            "Barack_Obama", 
+            "Maize"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Corn_flakes", 
+            "Maize", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_Church_of_Canada", 
+            "Fundamentalism", 
+            "Al_Capp", 
+            "God", 
+            "Communism", 
+            "Mammy_archetype", 
+            "Trinity_United_Church_of_Christ", 
+            "Barack_Obama", 
+            "Trinity", 
+            "Jesus"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 7
+    }
+]

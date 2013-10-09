@@ -1,0 +1,90 @@
+[
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Vietnam_War", 
+            "Thread_(computer_science)", 
+            "Vietnam_veteran"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "United_States_Congress", 
+            "Barack_Obama", 
+            "Thread_(computer_science)", 
+            "United_States_Senate", 
+            "Cover_letter", 
+            "Fax", 
+            "Fax"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Stock", 
+            "Bond_(finance)", 
+            "Medical_record", 
+            "Marmot"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Computer_software", 
+            "Quantum", 
+            "Marmot", 
+            "Content-control_software", 
+            "Parental_controls"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Dentistry", 
+            "Texas", 
+            "Okay,_Oklahoma", 
+            "Weatherford,_Texas", 
+            "Repertory", 
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "St._Louis,_Missouri", 
+            "U.S._state"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

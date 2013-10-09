@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [
+            "Weed", 
+            "Arse", 
+            "Canada", 
+            "Cannabis_(drug)", 
+            "Tab"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Grass", 
+            "Barack_Obama", 
+            "Canada", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rum"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pound_(mass)", 
+            "Reflection_(physics)", 
+            "Tab", 
+            "Cent_(music)", 
+            "Weed,_California"
+        ], 
+        "postID": 4
+    }
+]

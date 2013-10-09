@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "China"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "British_Raj", 
+            "Machine_code", 
+            "People's_Republic_of_China", 
+            "Hardware", 
+            "British_Raj", 
+            "Israel"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "French_fries", 
+            "Potato", 
+            "Nachos", 
+            "Potato_chip"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Salsa_(sauce)", 
+            "Hot_sauce", 
+            "Tapat\u00edo_hot_sauce", 
+            "Nachos", 
+            "Jalape\u00f1o"
+        ], 
+        "postID": 5
+    }
+]

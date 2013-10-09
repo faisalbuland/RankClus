@@ -1,0 +1,466 @@
+[
+    {
+        "entity": [
+            "Texas", 
+            "2009", 
+            "June_11", 
+            "Thread_(computer_science)", 
+            "California"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Spinach", 
+            "Vaccination", 
+            "Infectious_disease", 
+            "Tomato", 
+            "Mexico", 
+            "Lettuce"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sukhoi_Su-27", 
+            "Immigration", 
+            "Mexico", 
+            "Illegal_immigration"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Immigration_to_the_United_States", 
+            "Immigration", 
+            "Immigration", 
+            "Double_layer_(plasma)", 
+            "Screening_(medicine)", 
+            "Illegal_immigration", 
+            "Separation_barrier"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Black_Death", 
+            "Fruit", 
+            "New_York", 
+            "Ukraine", 
+            "Bubonic_plague", 
+            "Aspirin", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Juice", 
+            "Disease", 
+            "Second_Coming", 
+            "Immigration"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Canc\u00fan", 
+            "Immigration", 
+            "New_York_City", 
+            "Private_school", 
+            "Disease"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Health_care_systems", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Health_care"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Influenza"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "United_States", 
+            "Influenza", 
+            "Public_health", 
+            "Hospital", 
+            "Immunization", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Geraldo_Rivera"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mexican_peso", 
+            "One_Heart", 
+            "Mexico", 
+            "Economy", 
+            "Influenza", 
+            "Drug", 
+            "One_Nation_(Australia)", 
+            "Prayer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Conspiracy_theory", 
+            "Universal_health_care", 
+            "Demographics", 
+            "Health_care", 
+            "United_States", 
+            "Health_care_systems", 
+            "Drug", 
+            "Influenza", 
+            "Health_care_systems", 
+            "United_States", 
+            "Pandemic", 
+            "Pig", 
+            "Swine_flu", 
+            "Influenza", 
+            "Conspiracy", 
+            "Avian_influenza", 
+            "Health_care_systems", 
+            "Avian", 
+            "Disease", 
+            "Health_care", 
+            "Pandemic", 
+            "Health_care", 
+            "Severe_acute_respiratory_syndrome", 
+            "Disease"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Socialism", 
+            "Vaccination", 
+            "Common_sense", 
+            "Epidemic", 
+            "1918", 
+            "Pandemic", 
+            "Pandemic", 
+            "Political_agenda", 
+            "Influenza", 
+            "Influenza", 
+            "Socialism", 
+            "Poliomyelitis"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Pandemic", 
+            "Political_agenda", 
+            "Apparent_magnitude", 
+            "Mexico"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Motto", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Virus"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "AIDS"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "New_Zealand", 
+            "United_Kingdom", 
+            "Mexico", 
+            "Spain", 
+            "Virus", 
+            "Swine_flu", 
+            "Israel", 
+            "Germany", 
+            "Pig", 
+            "Information_processing", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Mexico", 
+            "159", 
+            "Influenza", 
+            "United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "2009", 
+            "June_11", 
+            "Thread_(computer_science)", 
+            "California"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Spinach", 
+            "Vaccination", 
+            "Infectious_disease", 
+            "Tomato", 
+            "Mexico", 
+            "Lettuce"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Sukhoi_Su-27", 
+            "Immigration", 
+            "Mexico", 
+            "Illegal_immigration"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Immigration_to_the_United_States", 
+            "Immigration", 
+            "Immigration", 
+            "Double_layer_(plasma)", 
+            "Screening_(medicine)", 
+            "Illegal_immigration", 
+            "Separation_barrier"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Disease", 
+            "Black_Death", 
+            "Fruit", 
+            "New_York", 
+            "Ukraine", 
+            "Bubonic_plague", 
+            "Aspirin", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Juice", 
+            "Disease", 
+            "Second_Coming", 
+            "Immigration"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Canc\u00fan", 
+            "Immigration", 
+            "New_York_City", 
+            "Private_school", 
+            "Disease"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Mexico", 
+            "Mexico", 
+            "United_States"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Health_care_systems", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Health_care"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Influenza"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "United_States", 
+            "Influenza", 
+            "Public_health", 
+            "Hospital", 
+            "Immunization", 
+            "Barack_Obama", 
+            "Health_care", 
+            "United_States", 
+            "Geraldo_Rivera"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mexican_peso", 
+            "One_Heart", 
+            "Mexico", 
+            "Economy", 
+            "Influenza", 
+            "Drug", 
+            "One_Nation_(Australia)", 
+            "Prayer"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Conspiracy_theory", 
+            "Universal_health_care", 
+            "Demographics", 
+            "Health_care", 
+            "United_States", 
+            "Health_care_systems", 
+            "Drug", 
+            "Influenza", 
+            "Health_care_systems", 
+            "United_States", 
+            "Pandemic", 
+            "Pig", 
+            "Swine_flu", 
+            "Influenza", 
+            "Conspiracy", 
+            "Avian_influenza", 
+            "Health_care_systems", 
+            "Avian", 
+            "Disease", 
+            "Health_care", 
+            "Pandemic", 
+            "Health_care", 
+            "Severe_acute_respiratory_syndrome", 
+            "Disease"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "New_York", 
+            "Socialism", 
+            "Vaccination", 
+            "Common_sense", 
+            "Epidemic", 
+            "1918", 
+            "Pandemic", 
+            "Pandemic", 
+            "Political_agenda", 
+            "Influenza", 
+            "Influenza", 
+            "Socialism", 
+            "Poliomyelitis"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Pandemic", 
+            "Political_agenda", 
+            "Apparent_magnitude", 
+            "Mexico"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "White_House", 
+            "Motto", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Virus"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Pandemic", 
+            "AIDS"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "New_Zealand", 
+            "United_Kingdom", 
+            "Mexico", 
+            "Spain", 
+            "Virus", 
+            "Swine_flu", 
+            "Israel", 
+            "Germany", 
+            "Pig", 
+            "Information_processing", 
+            "Influenza_A_virus_subtype_H1N1", 
+            "Mexico", 
+            "159", 
+            "Influenza", 
+            "United_States"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "entity": [
+            "Physician", 
+            "MEPS", 
+            "National_Guard_of_the_United_States", 
+            "Medical_history"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Birth_certificate", 
+            "Insurance", 
+            "Telephone_number", 
+            "International_Maritime_Organization", 
+            "Physician", 
+            "Tenth_Doctor", 
+            "Medical_history", 
+            "Physician", 
+            "Doctor_(Doctor_Who)", 
+            "Health_insurance"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Strategic_Simulations", 
+            "Physician"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Immunization"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "MEPS", 
+            "Recruiter"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Godspeed"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Drill_instructor", 
+            "Recruit_training", 
+            "Drill", 
+            "Sergeant", 
+            "Recruit"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cough"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Kindergarten", 
+            "Good_Luck", 
+            "Hospital", 
+            "Nurse", 
+            "Reading,_Berkshire"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Sill_(geology)", 
+            "Military_Occupational_Specialty", 
+            "Recruiter", 
+            "New_Orleans,_Louisiana", 
+            "June_26", 
+            "Fort_Sill", 
+            "Orl\u00e9ans", 
+            "Rana_Sura_Padakkama", 
+            "MEPS"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Physician"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Stay_(2005_film)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Sill_(geology)", 
+            "Congratulations_(Eurovision)", 
+            "Artillery", 
+            "Recruit_training"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Recruiter"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States_Army_Basic_Training", 
+            "Artillery", 
+            "Recruit_training", 
+            "Sill_(geology)"
+        ], 
+        "postID": 19
+    }
+]

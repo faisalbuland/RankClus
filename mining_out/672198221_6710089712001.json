@@ -1,0 +1,354 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Accountability", 
+            "Neurosurgery", 
+            "Hamas", 
+            "Common_sense", 
+            "Surgery", 
+            "Brain"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Palestinian_people", 
+            "Israel", 
+            "Gaza_Strip"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fellow_traveler", 
+            "Durban", 
+            "Hamas", 
+            "Papal_bull", 
+            "African_American", 
+            "Ku_Klux_Klan"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Camouflage", 
+            "Camouflage", 
+            "Hamas"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Israel"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Israel"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Police"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Apologetics"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Cloud", 
+            "Arab_world", 
+            "10th_century", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Arab_League", 
+            "Jew", 
+            "Europe", 
+            "Arab", 
+            "Russia", 
+            "Israel", 
+            "Palestine", 
+            "Arab", 
+            "Israel", 
+            "Israel", 
+            "Iran", 
+            "Arab", 
+            "Equation", 
+            "Neighbourhood", 
+            "Harbor", 
+            "Population", 
+            "Yasser_Arafat", 
+            "Popcorn", 
+            "Propaganda", 
+            "Rwanda", 
+            "Bill_Clinton", 
+            "Somalia", 
+            "Regions_of_France"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "2000_Camp_David_Summit", 
+            "Camp_David", 
+            "Summit,_New_Jersey", 
+            "Illusion", 
+            "2009", 
+            "March_19"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Gaza", 
+            "Law", 
+            "Human_rights", 
+            "Gaza_Strip", 
+            "Libya", 
+            "Israel"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Eritrea", 
+            "Saudi_Arabia", 
+            "China", 
+            "Burma", 
+            "Libya", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "North_Korea", 
+            "Cuba", 
+            "Arabian_Peninsula", 
+            "Human_Rights_Watch", 
+            "Vietnam", 
+            "Human_rights"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "1971", 
+            "191", 
+            "Republic_of_China", 
+            "United_Nations_member_states"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Benignity", 
+            "Oppression"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Accountability", 
+            "Neurosurgery", 
+            "Hamas", 
+            "Common_sense", 
+            "Surgery", 
+            "Brain"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Israel_Defense_Forces", 
+            "Palestinian_people", 
+            "Israel", 
+            "Gaza_Strip"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Fellow_traveler", 
+            "Durban", 
+            "Hamas", 
+            "Papal_bull", 
+            "African_American", 
+            "Ku_Klux_Klan"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Camouflage", 
+            "Camouflage", 
+            "Hamas"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Israel"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Israel"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Police"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Apologetics"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Cloud", 
+            "Arab_world", 
+            "10th_century", 
+            "Bill_Clinton", 
+            "President_of_the_United_States", 
+            "Arab_League", 
+            "Jew", 
+            "Europe", 
+            "Arab", 
+            "Russia", 
+            "Israel", 
+            "Palestine", 
+            "Arab", 
+            "Israel", 
+            "Israel", 
+            "Iran", 
+            "Arab", 
+            "Equation", 
+            "Neighbourhood", 
+            "Harbor", 
+            "Population", 
+            "Yasser_Arafat", 
+            "Popcorn", 
+            "Propaganda", 
+            "Rwanda", 
+            "Bill_Clinton", 
+            "Somalia", 
+            "Regions_of_France"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "2000_Camp_David_Summit", 
+            "Camp_David", 
+            "Summit,_New_Jersey", 
+            "Illusion", 
+            "2009", 
+            "March_19"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Gaza", 
+            "Law", 
+            "Human_rights", 
+            "Gaza_Strip", 
+            "Libya", 
+            "Israel"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Eritrea", 
+            "Saudi_Arabia", 
+            "China", 
+            "Burma", 
+            "Libya", 
+            "Saudi_Arabia", 
+            "Korea", 
+            "North_Korea", 
+            "Cuba", 
+            "Arabian_Peninsula", 
+            "Human_Rights_Watch", 
+            "Vietnam", 
+            "Human_rights"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "1971", 
+            "191", 
+            "Republic_of_China", 
+            "United_Nations_member_states"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Human_rights", 
+            "Benignity", 
+            "Oppression"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

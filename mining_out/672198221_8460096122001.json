@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Common_year_starting_on_Thursday", 
+            "April_25", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Laser"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hose_(tubing)", 
+            "Water", 
+            "Laser", 
+            "Energy", 
+            "Laser", 
+            "Laser", 
+            "Earth's_atmosphere", 
+            "Garden_hose"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Radar", 
+            "Reflection_(physics)", 
+            "Sonar", 
+            "Earth's_atmosphere", 
+            "Refraction"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Particulate", 
+            "Atmosphere", 
+            "Directed-energy_weapon", 
+            "Energy", 
+            "Energy", 
+            "Pollution", 
+            "Dust", 
+            "Water", 
+            "Atmosphere", 
+            "Atmosphere", 
+            "Molecule"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Fog", 
+            "Fast_Draw"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Particle_beam", 
+            "Elementary_particle", 
+            "Directed-energy_weapon"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Reliability"
+        ], 
+        "postID": 9
+    }
+]

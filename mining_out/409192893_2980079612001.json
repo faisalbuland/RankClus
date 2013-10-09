@@ -1,0 +1,623 @@
+[
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Star"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Prez_(DC_Comics)", 
+            "Bundesautobahn_4", 
+            "United_States", 
+            "AFL-CIO", 
+            "Political_corruption", 
+            "Clown", 
+            "Hypocrisy", 
+            "Corporation", 
+            "Tax", 
+            "Trade_union", 
+            "Thread_(computer_science)", 
+            "Star"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "French_Revolution"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wisdom"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Wiz", 
+            "Religion", 
+            "Supernatural", 
+            "Sorry_(Madonna_song)", 
+            "Intelligence", 
+            "Domain_(mathematics)", 
+            "Wisdom", 
+            "Trial_and_error", 
+            "Reason"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Limited_liability_company", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Friar", 
+            "Friar_Tuck", 
+            "Common_sense"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Springtime", 
+            "United_States_Army", 
+            "Sorry_(Madonna_song)", 
+            "E-8_Joint_STARS", 
+            "Politics"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Blanket"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "DD_Form_214", 
+            "County_Recorder", 
+            "County", 
+            "Recorder"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Pawn_(chess)", 
+            "Jimmy_Carter", 
+            "Bill_Clinton", 
+            "Ken_Johnson_(wrestling)", 
+            "Soldier", 
+            "President_of_the_United_States", 
+            "Politician", 
+            "Jimmy_Carter", 
+            "Civilian"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "2001", 
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Soldier"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Food_Stamp_Program"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Inflation"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Star"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Prez_(DC_Comics)", 
+            "Bundesautobahn_4", 
+            "United_States", 
+            "AFL-CIO", 
+            "Political_corruption", 
+            "Clown", 
+            "Hypocrisy", 
+            "Corporation", 
+            "Tax", 
+            "Trade_union", 
+            "Thread_(computer_science)", 
+            "Star"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "French_Revolution"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Wisdom"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Wiz", 
+            "Religion", 
+            "Supernatural", 
+            "Sorry_(Madonna_song)", 
+            "Intelligence", 
+            "Domain_(mathematics)", 
+            "Wisdom", 
+            "Trial_and_error", 
+            "Reason"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Limited_liability_company", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Friar", 
+            "Friar_Tuck", 
+            "Common_sense"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Springtime", 
+            "United_States_Army", 
+            "Sorry_(Madonna_song)", 
+            "E-8_Joint_STARS", 
+            "Politics"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Blanket"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "DD_Form_214", 
+            "County_Recorder", 
+            "County", 
+            "Recorder"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Pawn_(chess)", 
+            "Jimmy_Carter", 
+            "Bill_Clinton", 
+            "Ken_Johnson_(wrestling)", 
+            "Soldier", 
+            "President_of_the_United_States", 
+            "Politician", 
+            "Jimmy_Carter", 
+            "Civilian"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "2001", 
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Soldier"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Food_Stamp_Program"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Inflation"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Star"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Prez_(DC_Comics)", 
+            "Bundesautobahn_4", 
+            "United_States", 
+            "AFL-CIO", 
+            "Political_corruption", 
+            "Clown", 
+            "Hypocrisy", 
+            "Corporation", 
+            "Tax", 
+            "Trade_union", 
+            "Thread_(computer_science)", 
+            "Star"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "United_States_Congress"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "French_Revolution"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Wisdom"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Wiz", 
+            "Religion", 
+            "Supernatural", 
+            "Sorry_(Madonna_song)", 
+            "Intelligence", 
+            "Domain_(mathematics)", 
+            "Wisdom", 
+            "Trial_and_error", 
+            "Reason"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Limited_liability_company", 
+            "United_Auto_Workers"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Friar", 
+            "Friar_Tuck", 
+            "Common_sense"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "Springtime", 
+            "United_States_Army", 
+            "Sorry_(Madonna_song)", 
+            "E-8_Joint_STARS", 
+            "Politics"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Blanket"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "DD_Form_214", 
+            "County_Recorder", 
+            "County", 
+            "Recorder"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Pawn_(chess)", 
+            "Jimmy_Carter", 
+            "Bill_Clinton", 
+            "Ken_Johnson_(wrestling)", 
+            "Soldier", 
+            "President_of_the_United_States", 
+            "Politician", 
+            "Jimmy_Carter", 
+            "Civilian"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "2001", 
+            "Independent_(politician)", 
+            "Democratic_Party_(United_States)", 
+            "Soldier"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Postage_stamp", 
+            "Food_Stamp_Program"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Inflation"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Jimmy_Carter"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [], 
+        "postID": 89
+    }, 
+    {
+        "entity": [], 
+        "postID": 90
+    }
+]

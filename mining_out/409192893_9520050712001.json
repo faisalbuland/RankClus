@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [
+            "Washington", 
+            "President_of_the_United_States", 
+            "Mayor", 
+            "2012", 
+            "Chuck_Berry", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Marion_Berry", 
+            "Marion,_Indiana"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ronald_Reagan", 
+            "List_of_Presidents_of_the_Philippines", 
+            "1985", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hollywood,_Los_Angeles,_California", 
+            "Dallas,_Texas", 
+            "Dallas_Cowboys", 
+            "Thomas_&quot;Hollywood&quot;_Henderson", 
+            "Dallas_Cowboys", 
+            "Henderson,_Nevada", 
+            "Chuck_Berry"
+        ], 
+        "postID": 3
+    }
+]

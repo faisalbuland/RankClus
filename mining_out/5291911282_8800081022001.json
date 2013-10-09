@@ -1,0 +1,171 @@
+[
+    {
+        "entity": [
+            "Washing_machine", 
+            "LOL", 
+            "Clothes_dryer", 
+            "Grandparent", 
+            "Laundry"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Marmot"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "DVD_player", 
+            "Gift_card", 
+            "Skateboard", 
+            "Ethics", 
+            "Bank", 
+            "DVD"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ranch"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tractor", 
+            "370", 
+            "Matin\u00e9e", 
+            "Farm", 
+            "Swimming_pool", 
+            "Rexall", 
+            "Fruit", 
+            "Movie_theater", 
+            "Swimming", 
+            "Concession", 
+            "Great_Depression", 
+            "Great_Depression", 
+            "Pharmacy", 
+            "Swimming", 
+            "Hay", 
+            "Lifeguard", 
+            "Necessary_and_sufficient_conditions", 
+            "United_States_dollar", 
+            "Time_(magazine)", 
+            "Apple", 
+            "Orchard", 
+            "Pop_music"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Babysitting", 
+            "Bathroom", 
+            "Kitchen", 
+            "Work_ethic", 
+            "Ethics"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Laundry"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Safety_(American_football)", 
+            "United_States", 
+            "Wallet", 
+            "Get-rich-quick_scheme", 
+            "Tithe", 
+            "Franklin_D._Roosevelt", 
+            "Theodore_Roosevelt"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Extra_(actor)", 
+            "United_States_Navy"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Transactional_account", 
+            "Bank", 
+            "Plastic", 
+            "ATM_card", 
+            "Automated_teller_machine"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Leo_(constellation)", 
+            "Gentleness"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Calender", 
+            "Line_number", 
+            "Marmot", 
+            "Marmot", 
+            "Nada", 
+            "Smiley", 
+            "Quantum_Corp.", 
+            "!!!", 
+            "Calender", 
+            "Pay_Day_(1972_film)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Church", 
+            "Duck", 
+            "High_school", 
+            "Church", 
+            "House_work", 
+            "Derelict", 
+            "Soldier", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "God", 
+            "Clothing", 
+            "Charitable_organization", 
+            "High_school", 
+            "Charitable_organization"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "75_cents", 
+            "Cent_(music)", 
+            "Cent_(music)"
+        ], 
+        "postID": 17
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "entity": [
+            "Canadian_federal_budget", 
+            "United_States_federal_judge", 
+            "Barack_Obama", 
+            "United_States_Department_of_Health_and_Human_Services", 
+            "Trillion", 
+            "Economy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "John_McCain", 
+            "April_1", 
+            "Thomas_Jefferson", 
+            "John_McCain", 
+            "Sarah_Palin", 
+            "Michael_Palin", 
+            "Thomas_Jefferson", 
+            "2009"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Monticello", 
+            "Jefferson_County,_New_York"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Scrubland"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jefferson_County,_New_York", 
+            "Monticello"
+        ], 
+        "postID": 7
+    }
+]

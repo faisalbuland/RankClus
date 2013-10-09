@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Stearns_County,_Minnesota", 
+            "Layman", 
+            "Finger", 
+            "Subprime_mortgage_crisis", 
+            "Lehman_Brothers", 
+            "Bear_Stearns", 
+            "Attention_span"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dial-up_internet_access", 
+            "56k_modem", 
+            "John_F._Kennedy", 
+            "John_F._Kennedy", 
+            "Attention_span", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "56k_modem", 
+            "Surf_music", 
+            "Broadband"
+        ], 
+        "postID": 3
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "entity": [
+            "Air_Force_Specialty_Code", 
+            "Bop"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Thread_(Pern)", 
+            "Wondering_(Dirty_Pretty_Things_song)", 
+            "Air_Force_Specialty_Code"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "Air_Force_Specialty_Code", 
+            "Air_Force_Specialty_Code", 
+            "Bop", 
+            "Bop"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "Non-commissioned_officer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Sorry_(Madonna_song)", 
+            "United_States_Air_Force"
+        ], 
+        "postID": 5
+    }
+]

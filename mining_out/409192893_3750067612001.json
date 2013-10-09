@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Hospital", 
+            "R102_(Western_Cape)", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bible", 
+            "New_International_Version", 
+            "Mat_Cauthon", 
+            "God", 
+            "Rash", 
+            "Second_Epistle_to_Timothy", 
+            "Self_control"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Designer_baby", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 4
+    }
+]

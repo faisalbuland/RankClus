@@ -1,0 +1,23 @@
+[
+    {
+        "entity": [
+            "Federal_funds_rate", 
+            "Interest"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Government_bond", 
+            "Bond_(finance)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Federal_Deposit_Insurance_Corporation", 
+            "Credit_card"
+        ], 
+        "postID": 3
+    }
+]

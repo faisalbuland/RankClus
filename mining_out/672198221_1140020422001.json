@@ -1,0 +1,762 @@
+[
+    {
+        "entity": [
+            "Commencement", 
+            "United_States", 
+            "Barack_Obama", 
+            "Annapolis,_Maryland"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dory", 
+            "Debt", 
+            "Hunky"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Orator"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Politician", 
+            "Oath"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Tube"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Thread_(computer_science)", 
+            "Blog", 
+            "United_States", 
+            "Newspaper", 
+            "Taliban", 
+            "Law", 
+            "Al-Qaeda", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Wing", 
+            "Osama_bin_Laden", 
+            "Right-wing_politics"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Politics", 
+            "Just_War", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Bench_press"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Appropriation", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Military_budget", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Iraq", 
+            "Iraq", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "United_States", 
+            "Iraq", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "War_crime", 
+            "Iran", 
+            "Bomb", 
+            "Afghanistan", 
+            "Democratic_Party_(United_States)", 
+            "Intelligence_(information_gathering)", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Iraq", 
+            "Liberalism_in_the_United_States", 
+            "Hummer", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Weak_operator_topology", 
+            "Democratic_Party_(United_States)", 
+            "War_crime", 
+            "Democratic_Party_(United_States)", 
+            "Houghton_Mifflin", 
+            "Houghton", 
+            "Accountancy", 
+            "United_States", 
+            "D-Day", 
+            "Iraq", 
+            "Afghanistan", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "Democratic_peace_theory", 
+            "Riverside,_California", 
+            "Rational_number", 
+            "2005", 
+            "Progressivism", 
+            "Muslim", 
+            "Dislocation", 
+            "Casus_belli", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein", 
+            "International_Maritime_Organization", 
+            "Weak_operator_topology", 
+            "Saddam_Hussein", 
+            "Dollar", 
+            "Impeachment", 
+            "Paraphrase", 
+            "Overtime_(sports)", 
+            "Multifaith", 
+            "Sectarianism", 
+            "Iraq", 
+            "Military_strategy", 
+            "Muslim", 
+            "Soviet_Union", 
+            "Islamic_terrorism", 
+            "United_States_Army", 
+            "Afghanistan", 
+            "Houghton_Mifflin", 
+            "Donald_Rumsfeld", 
+            "Mifflin_County,_Pennsylvania", 
+            "Politics", 
+            "Prescience", 
+            "Magnet", 
+            "Clock", 
+            "Status_quo", 
+            "Strategic_Studies_Institute", 
+            "Democracy", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States_Army", 
+            "Wisdom", 
+            "New_College,_Oxford", 
+            "Risk_assessment", 
+            "Donald_Rumsfeld", 
+            "Iraq", 
+            "Experiment", 
+            "Tobacco_smoking", 
+            "Democracy", 
+            "Iraq", 
+            "Iran", 
+            "George_W._Bush", 
+            "Soviet_war_in_Afghanistan", 
+            "Afghanistan", 
+            "Iraq", 
+            "Sunni_Islam", 
+            "Strategic_Studies_Institute", 
+            "Export", 
+            "Risk_aversion", 
+            "George_W._Bush", 
+            "Tribalism", 
+            "Nationalism", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "President_of_the_United_States", 
+            "Risk_(game)", 
+            "Iran", 
+            "Republican_Party_(United_States)", 
+            "Colonel", 
+            "Iran", 
+            "Iran", 
+            "Iraq", 
+            "Iraqi_insurgency", 
+            "Liberalism_in_the_United_States", 
+            "Lieutenant", 
+            "Lieutenant_Colonel", 
+            "2003", 
+            "National_security", 
+            "Sectarianism", 
+            "State", 
+            "Iraq", 
+            "Strategy_game", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Muslim", 
+            "United_States", 
+            "Iraq", 
+            "Developing_country", 
+            "Soviet_Union", 
+            "Vacuum", 
+            "Governance", 
+            "United_States_Department_of_Defense", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Democratic_Party_(United_States)", 
+            "Precedent", 
+            "Accountancy", 
+            "United_States", 
+            "Iraq", 
+            "Accountancy", 
+            "Iraq", 
+            "March_18", 
+            "United_States", 
+            "Straw_man", 
+            "Extremism", 
+            "Mushroom", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Risk", 
+            "Bomb", 
+            "George_W._Bush", 
+            "Hummer", 
+            "1941", 
+            "Stable", 
+            "Iraq_War", 
+            "Democratic_Party_(United_States)", 
+            "Iraq", 
+            "Risk_assessment", 
+            "Iraq", 
+            "Iraq", 
+            "Engineering", 
+            "Civil_war", 
+            "Iraq", 
+            "Kurdish_people", 
+            "Iraq", 
+            "Stable", 
+            "Anti-imperialism", 
+            "Risk_(disambiguation)", 
+            "Shia_Islam"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld", 
+            "Jargon", 
+            "LOL", 
+            "MoveOn.org", 
+            "Humour", 
+            "Complex_analysis"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States_general_elections,_2006", 
+            "George_W._Bush", 
+            "Haitian_general_election,_2006", 
+            "George_W._Bush", 
+            "Cronyism", 
+            "George_W._Bush", 
+            "Donald_Rumsfeld", 
+            "2006"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "United_States_Army", 
+            "Terrorism", 
+            "United_States_Military_Academy", 
+            "Dog", 
+            "Terrorism", 
+            "Lackey", 
+            "Dog_breed", 
+            "United_States_Army", 
+            "Humour", 
+            "Counter-terrorism"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Weed", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Al-Qaeda", 
+            "Fidel_Castro", 
+            "Jimmy_Carter", 
+            "Sri_Lanka", 
+            "Russia", 
+            "Osama_bin_Laden", 
+            "Evil_empire", 
+            "Pakistan", 
+            "Afghanistan", 
+            "John_F._Kennedy", 
+            "Yugoslavia", 
+            "Vietnam", 
+            "Iraq", 
+            "Taliban", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Africa", 
+            "Lanka", 
+            "Bono", 
+            "Empire", 
+            "Gang", 
+            "Bill_Clinton", 
+            "North_Vietnam", 
+            "George_W._Bush", 
+            "John_F._Kennedy", 
+            "Iraq", 
+            "Bay_of_Pigs", 
+            "Lyndon_B._Johnson", 
+            "Gulf_War", 
+            "Bill_Maher", 
+            "Lyndon_B._Johnson", 
+            "Fidel_Castro", 
+            "Terrorism", 
+            "Fidel_Castro", 
+            "Slobodan_Milo\u0161evi\u0107", 
+            "Gang", 
+            "Darfur", 
+            "Vietnam", 
+            "Ho_Chi_Minh"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Ideology", 
+            "Summation"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Commencement", 
+            "United_States", 
+            "Barack_Obama", 
+            "Annapolis,_Maryland"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Dory", 
+            "Debt", 
+            "Hunky"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Orator"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Politician", 
+            "Oath"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "Tube"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Torture", 
+            "Thread_(computer_science)", 
+            "Blog", 
+            "United_States", 
+            "Newspaper", 
+            "Taliban", 
+            "Law", 
+            "Al-Qaeda", 
+            "Thread_(computer_science)", 
+            "Thread_(computer_science)", 
+            "Wing", 
+            "Osama_bin_Laden", 
+            "Right-wing_politics"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Politics", 
+            "Just_War", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Bench_press"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Appropriation", 
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Military_budget", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Iran", 
+            "Iraq", 
+            "Iraq", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "United_States", 
+            "Iraq", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "War_crime", 
+            "Iran", 
+            "Bomb", 
+            "Afghanistan", 
+            "Democratic_Party_(United_States)", 
+            "Intelligence_(information_gathering)", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Iraq", 
+            "Liberalism_in_the_United_States", 
+            "Hummer", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Weak_operator_topology", 
+            "Democratic_Party_(United_States)", 
+            "War_crime", 
+            "Democratic_Party_(United_States)", 
+            "Houghton_Mifflin", 
+            "Houghton", 
+            "Accountancy", 
+            "United_States", 
+            "D-Day", 
+            "Iraq", 
+            "Afghanistan", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "Democratic_peace_theory", 
+            "Riverside,_California", 
+            "Rational_number", 
+            "2005", 
+            "Progressivism", 
+            "Muslim", 
+            "Dislocation", 
+            "Casus_belli", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein", 
+            "International_Maritime_Organization", 
+            "Weak_operator_topology", 
+            "Saddam_Hussein", 
+            "Dollar", 
+            "Impeachment", 
+            "Paraphrase", 
+            "Overtime_(sports)", 
+            "Multifaith", 
+            "Sectarianism", 
+            "Iraq", 
+            "Military_strategy", 
+            "Muslim", 
+            "Soviet_Union", 
+            "Islamic_terrorism", 
+            "United_States_Army", 
+            "Afghanistan", 
+            "Houghton_Mifflin", 
+            "Donald_Rumsfeld", 
+            "Mifflin_County,_Pennsylvania", 
+            "Politics", 
+            "Prescience", 
+            "Magnet", 
+            "Clock", 
+            "Status_quo", 
+            "Strategic_Studies_Institute", 
+            "Democracy", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States_Army", 
+            "Wisdom", 
+            "New_College,_Oxford", 
+            "Risk_assessment", 
+            "Donald_Rumsfeld", 
+            "Iraq", 
+            "Experiment", 
+            "Tobacco_smoking", 
+            "Democracy", 
+            "Iraq", 
+            "Iran", 
+            "George_W._Bush", 
+            "Soviet_war_in_Afghanistan", 
+            "Afghanistan", 
+            "Iraq", 
+            "Sunni_Islam", 
+            "Strategic_Studies_Institute", 
+            "Export", 
+            "Risk_aversion", 
+            "George_W._Bush", 
+            "Tribalism", 
+            "Nationalism", 
+            "George_W._Bush", 
+            "September_11,_2001_attacks", 
+            "President_of_the_United_States", 
+            "Risk_(game)", 
+            "Iran", 
+            "Republican_Party_(United_States)", 
+            "Colonel", 
+            "Iran", 
+            "Iran", 
+            "Iraq", 
+            "Iraqi_insurgency", 
+            "Liberalism_in_the_United_States", 
+            "Lieutenant", 
+            "Lieutenant_Colonel", 
+            "2003", 
+            "National_security", 
+            "Sectarianism", 
+            "State", 
+            "Iraq", 
+            "Strategy_game", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Muslim", 
+            "United_States", 
+            "Iraq", 
+            "Developing_country", 
+            "Soviet_Union", 
+            "Vacuum", 
+            "Governance", 
+            "United_States_Department_of_Defense", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Democratic_Party_(United_States)", 
+            "Precedent", 
+            "Accountancy", 
+            "United_States", 
+            "Iraq", 
+            "Accountancy", 
+            "Iraq", 
+            "March_18", 
+            "United_States", 
+            "Straw_man", 
+            "Extremism", 
+            "Mushroom", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Risk", 
+            "Bomb", 
+            "George_W._Bush", 
+            "Hummer", 
+            "1941", 
+            "Stable", 
+            "Iraq_War", 
+            "Democratic_Party_(United_States)", 
+            "Iraq", 
+            "Risk_assessment", 
+            "Iraq", 
+            "Iraq", 
+            "Engineering", 
+            "Civil_war", 
+            "Iraq", 
+            "Kurdish_people", 
+            "Iraq", 
+            "Stable", 
+            "Anti-imperialism", 
+            "Risk_(disambiguation)", 
+            "Shia_Islam"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Donald_Rumsfeld", 
+            "Jargon", 
+            "LOL", 
+            "MoveOn.org", 
+            "Humour", 
+            "Complex_analysis"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "United_States_general_elections,_2006", 
+            "George_W._Bush", 
+            "Haitian_general_election,_2006", 
+            "George_W._Bush", 
+            "Cronyism", 
+            "George_W._Bush", 
+            "Donald_Rumsfeld", 
+            "2006"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Humour", 
+            "United_States_Army", 
+            "Terrorism", 
+            "United_States_Military_Academy", 
+            "Dog", 
+            "Terrorism", 
+            "Lackey", 
+            "Dog_breed", 
+            "United_States_Army", 
+            "Humour", 
+            "Counter-terrorism"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein", 
+            "Saddam_Hussein", 
+            "Weed", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Al-Qaeda", 
+            "Fidel_Castro", 
+            "Jimmy_Carter", 
+            "Sri_Lanka", 
+            "Russia", 
+            "Osama_bin_Laden", 
+            "Evil_empire", 
+            "Pakistan", 
+            "Afghanistan", 
+            "John_F._Kennedy", 
+            "Yugoslavia", 
+            "Vietnam", 
+            "Iraq", 
+            "Taliban", 
+            "Saddam_Hussein", 
+            "George_W._Bush", 
+            "Africa", 
+            "Lanka", 
+            "Bono", 
+            "Empire", 
+            "Gang", 
+            "Bill_Clinton", 
+            "North_Vietnam", 
+            "George_W._Bush", 
+            "John_F._Kennedy", 
+            "Iraq", 
+            "Bay_of_Pigs", 
+            "Lyndon_B._Johnson", 
+            "Gulf_War", 
+            "Bill_Maher", 
+            "Lyndon_B._Johnson", 
+            "Fidel_Castro", 
+            "Terrorism", 
+            "Fidel_Castro", 
+            "Slobodan_Milo\u0161evi\u0107", 
+            "Gang", 
+            "Darfur", 
+            "Vietnam", 
+            "Ho_Chi_Minh"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Ideology", 
+            "Summation"
+        ], 
+        "postID": 40
+    }
+]

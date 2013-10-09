@@ -1,0 +1,520 @@
+[
+    {
+        "entity": [
+            "United_States_Army", 
+            "Hello", 
+            "Secondary_education", 
+            "Secondary_education", 
+            "Secondary_education", 
+            "Education", 
+            "Student_newspaper"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Marmot", 
+            "Thread_(computer_science)", 
+            "Patience_(opera)", 
+            "Quantum", 
+            "Marmot", 
+            "Grasshopper-Club_Z\u00fcrich"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Medical_technologist", 
+            "Eskimo", 
+            "1979", 
+            "Technologist", 
+            "High_school", 
+            "Recruiter", 
+            "Quincy_College", 
+            "Academic_term", 
+            "College", 
+            "Blindness", 
+            "Community_college"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Caf\u00e9", 
+            "Sarge_(band)", 
+            "Pop_music", 
+            "Coffeehouse"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Data_Execution_Prevention", 
+            "High_school", 
+            "E2", 
+            "Teh"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "GI_(military)", 
+            "United_States_Army", 
+            "College", 
+            "Norm_(mathematics)", 
+            "English_language", 
+            "College", 
+            "Active_Duty", 
+            "Platoon", 
+            "English_major", 
+            "Plumber", 
+            "Intelligence_(information_gathering)", 
+            "High_school", 
+            "Electrician", 
+            "Military_intelligence", 
+            "G.I._Bill", 
+            "Student_loan", 
+            "Tuition", 
+            "G.I._Bill", 
+            "College", 
+            "United_States_Army", 
+            "Bachelor's_degree", 
+            "College"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Armour", 
+            "Rocky_Mountains", 
+            "2009", 
+            "World_War_II", 
+            "G.I._Bill", 
+            "April_1", 
+            "Germany", 
+            "Vertebral_column", 
+            "College", 
+            "Human", 
+            "Teacher", 
+            "Vietnam_War", 
+            "Vietnam", 
+            "Town", 
+            "1970", 
+            "English_language", 
+            "Tank", 
+            "Soldier", 
+            "High_school"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Heavy_equipment_operator", 
+            "Engineering_vehicle", 
+            "Korea", 
+            "Engineering_vehicle", 
+            "1971", 
+            "General_Educational_Development", 
+            "Armour", 
+            "United_States_Army"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "E3_(disambiguation)", 
+            "United_States_Army", 
+            "Recruiter", 
+            "E2"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Boot", 
+            "Young-adult_fiction", 
+            "First-class_cricket", 
+            "Stern", 
+            "Marksman", 
+            "United_States_Army", 
+            "High_school"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Advanced_Placement_Program", 
+            "Young-adult_fiction", 
+            "AP_United_States_History"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "D._V._Gundappa", 
+            "United_States_Coast_Guard", 
+            "College", 
+            "Minister_(Christianity)", 
+            "Derelict", 
+            "God"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "Captain_America", 
+            "Pensacola,_Florida", 
+            "United_States_Navy", 
+            "Submarine", 
+            "Autopilot", 
+            "June_27", 
+            "April_2007", 
+            "2007", 
+            "Navy", 
+            "United_States_Navy", 
+            "1941", 
+            "Candy", 
+            "Treason", 
+            "Confectionery_store", 
+            "Captain_(naval)", 
+            "1867", 
+            "April_6", 
+            "Navy", 
+            "United_States_Navy", 
+            "Nuclear_weapon", 
+            "Education", 
+            "Jefferson_Davis", 
+            "United_States", 
+            "2001", 
+            "Flight_training", 
+            "Rack_railway", 
+            "Discipline", 
+            "Education", 
+            "Delayed_Entry_Program", 
+            "Signing_bonus", 
+            "Navy", 
+            "Secession", 
+            "Flag", 
+            "United_States_Constitution", 
+            "College", 
+            "2002", 
+            "Royal_Navy", 
+            "Chief_Justice_of_the_United_States", 
+            "Salmon_P._Chase", 
+            "Chase,_British_Columbia", 
+            "Salmon", 
+            "June_2002", 
+            "College", 
+            "Navy", 
+            "Blues", 
+            "Illinois", 
+            "World_war", 
+            "World_War_II", 
+            "Beach", 
+            "United_States_Navy", 
+            "Captain_(naval)", 
+            "Navy", 
+            "Dress_uniform", 
+            "Great_Lakes"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Hello", 
+            "Secondary_education", 
+            "Secondary_education", 
+            "Secondary_education", 
+            "Education", 
+            "Student_newspaper"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Marmot", 
+            "Thread_(computer_science)", 
+            "Patience_(opera)", 
+            "Quantum", 
+            "Marmot", 
+            "Grasshopper-Club_Z\u00fcrich"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Medical_technologist", 
+            "Eskimo", 
+            "1979", 
+            "Technologist", 
+            "High_school", 
+            "Recruiter", 
+            "Quincy_College", 
+            "Academic_term", 
+            "College", 
+            "Blindness", 
+            "Community_college"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Caf\u00e9", 
+            "Sarge_(band)", 
+            "Pop_music", 
+            "Coffeehouse"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Data_Execution_Prevention", 
+            "High_school", 
+            "E2", 
+            "Teh"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "GI_(military)", 
+            "United_States_Army", 
+            "College", 
+            "Norm_(mathematics)", 
+            "English_language", 
+            "College", 
+            "Active_Duty", 
+            "Platoon", 
+            "English_major", 
+            "Plumber", 
+            "Intelligence_(information_gathering)", 
+            "High_school", 
+            "Electrician", 
+            "Military_intelligence", 
+            "G.I._Bill", 
+            "Student_loan", 
+            "Tuition", 
+            "G.I._Bill", 
+            "College", 
+            "United_States_Army", 
+            "Bachelor's_degree", 
+            "College"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Armour", 
+            "Rocky_Mountains", 
+            "2009", 
+            "World_War_II", 
+            "G.I._Bill", 
+            "April_1", 
+            "Germany", 
+            "Vertebral_column", 
+            "College", 
+            "Human", 
+            "Teacher", 
+            "Vietnam_War", 
+            "Vietnam", 
+            "Town", 
+            "1970", 
+            "English_language", 
+            "Tank", 
+            "Soldier", 
+            "High_school"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Heavy_equipment_operator", 
+            "Engineering_vehicle", 
+            "Korea", 
+            "Engineering_vehicle", 
+            "1971", 
+            "General_Educational_Development", 
+            "Armour", 
+            "United_States_Army"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Recruiter", 
+            "E3_(disambiguation)", 
+            "United_States_Army", 
+            "Recruiter", 
+            "E2"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Marine_Corps_Recruit_Depot_Parris_Island", 
+            "Boot", 
+            "Young-adult_fiction", 
+            "First-class_cricket", 
+            "Stern", 
+            "Marksman", 
+            "United_States_Army", 
+            "High_school"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "World_War_II", 
+            "Advanced_Placement_Program", 
+            "Young-adult_fiction", 
+            "AP_United_States_History"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "D._V._Gundappa", 
+            "United_States_Coast_Guard", 
+            "College", 
+            "Minister_(Christianity)", 
+            "Derelict", 
+            "God"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "Captain_America", 
+            "Pensacola,_Florida", 
+            "United_States_Navy", 
+            "Submarine", 
+            "Autopilot", 
+            "June_27", 
+            "April_2007", 
+            "2007", 
+            "Navy", 
+            "United_States_Navy", 
+            "1941", 
+            "Candy", 
+            "Treason", 
+            "Confectionery_store", 
+            "Captain_(naval)", 
+            "1867", 
+            "April_6", 
+            "Navy", 
+            "United_States_Navy", 
+            "Nuclear_weapon", 
+            "Education", 
+            "Jefferson_Davis", 
+            "United_States", 
+            "2001", 
+            "Flight_training", 
+            "Rack_railway", 
+            "Discipline", 
+            "Education", 
+            "Delayed_Entry_Program", 
+            "Signing_bonus", 
+            "Navy", 
+            "Secession", 
+            "Flag", 
+            "United_States_Constitution", 
+            "College", 
+            "2002", 
+            "Royal_Navy", 
+            "Chief_Justice_of_the_United_States", 
+            "Salmon_P._Chase", 
+            "Chase,_British_Columbia", 
+            "Salmon", 
+            "June_2002", 
+            "College", 
+            "Navy", 
+            "Blues", 
+            "Illinois", 
+            "World_war", 
+            "World_War_II", 
+            "Beach", 
+            "United_States_Navy", 
+            "Captain_(naval)", 
+            "Navy", 
+            "Dress_uniform", 
+            "Great_Lakes"
+        ], 
+        "postID": 38
+    }
+]

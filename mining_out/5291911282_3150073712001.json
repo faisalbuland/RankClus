@@ -1,0 +1,61 @@
+[
+    {
+        "entity": [
+            "Battery_(electricity)", 
+            "Trousers", 
+            "Registered_nurse", 
+            "Nurse", 
+            "American_Automobile_Association", 
+            "Registered_nurse", 
+            "AAA_battery", 
+            "Registered_nurse", 
+            "Registered_nurse", 
+            "Registered_nurse"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Object_Management_Group"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Nurse"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "!!!"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "Nurse"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Huh_(god)", 
+            "Huh_(god)"
+        ], 
+        "postID": 9
+    }
+]

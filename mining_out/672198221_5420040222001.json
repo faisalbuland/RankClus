@@ -1,0 +1,64 @@
+[
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Russia", 
+            "Gulag"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Russia"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Piracy", 
+            "Judiciary_of_Russia", 
+            "Chum", 
+            "United_Kingdom", 
+            "Judiciary", 
+            "Russia"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Somalia", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_Naval_Base", 
+            "Russia", 
+            "Guantanamo_Bay_Naval_Base", 
+            "United_States_Navy", 
+            "Cuba", 
+            "United_States", 
+            "Fence", 
+            "United_States_Navy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Russians", 
+            "Hell"
+        ], 
+        "postID": 7
+    }
+]

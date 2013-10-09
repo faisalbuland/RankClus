@@ -1,0 +1,284 @@
+[
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Stocks", 
+            "Profit", 
+            "September_11,_2001_attacks", 
+            "Barack_Obama", 
+            "The_Walt_Disney_Company", 
+            "Walt_Disney_World_Resort", 
+            "George_W._Bush", 
+            "Stocks", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "1400", 
+            "Florida", 
+            "September_11,_2001_attacks", 
+            "Dow_Jones_Industrial_Average", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dot-com_company", 
+            "Dot-com_company", 
+            "Economic_bubble"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Political_corruption", 
+            "Terrorism", 
+            "Barack_Obama", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Blues", 
+            "Gold", 
+            "Energy", 
+            "Barack_Obama", 
+            "Investor", 
+            "Blues", 
+            "Hurt_(band)", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "RICE_(medicine)", 
+            "Hell", 
+            "Uptick_rule", 
+            "Contrarian_investing", 
+            "Gain", 
+            "Tax", 
+            "Spoonerism", 
+            "BOY"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Switzerland", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Ted_Kennedy", 
+            "Democratic_Party_(United_States)", 
+            "John_F._Kennedy", 
+            "Liberal_Party_(UK)", 
+            "Liberal_Democrats"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Windmill", 
+            "Energy", 
+            "Renewable_energy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Jim_Cramer", 
+            "Pieter_Cramer", 
+            "Curry", 
+            "Ann_Curry", 
+            "Pieter_Cramer"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Blindness", 
+            "Pieter_Cramer", 
+            "Jim_Cramer", 
+            "Curry", 
+            "Ann_Curry"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Natural_gas", 
+            "Petroleum", 
+            "Natural_gas", 
+            "Drilling_mud", 
+            "Pieter_Cramer", 
+            "Dyrehavsbakken", 
+            "Stock", 
+            "Natural_gas", 
+            "MIM-23_Hawk", 
+            "Canada", 
+            "Diversification_(finance)", 
+            "Dyrehavsbakken", 
+            "Drilling_mud", 
+            "Dyrehavsbakken", 
+            "Universe", 
+            "Natural_gas", 
+            "Bakken_Formation", 
+            "Contrarian_investing", 
+            "Canada", 
+            "Pipeline_transport", 
+            "Williston,_North_Dakota", 
+            "Williston_Basin"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Profit_margin", 
+            "Stock", 
+            "Stock_market", 
+            "Profit", 
+            "Economy", 
+            "Philosophy", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Debt", 
+            "Stock_market", 
+            "Debt", 
+            "Tank"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Funeral_director", 
+            "Stocks", 
+            "Recession", 
+            "Funeral", 
+            "Cosmetics", 
+            "Stocks"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Condom"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Cosmetics", 
+            "Funeral", 
+            "Funeral_director"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Goldman_Sachs", 
+            "Derivative_(finance)", 
+            "United_States", 
+            "General_Electric", 
+            "Mass", 
+            "Yardstick", 
+            "Derivative_(finance)", 
+            "Esotericism", 
+            "Symbiosis", 
+            "Sexually_transmitted_disease", 
+            "Beta_particle", 
+            "Financial_institution", 
+            "Debt", 
+            "Preferred_stock", 
+            "Berkshire_Hathaway", 
+            "Security_(finance)", 
+            "Harley-Davidson", 
+            "Tiffany_(singer)", 
+            "Disease", 
+            "Priesthood_(Catholic_Church)", 
+            "ZF_Sachs", 
+            "Berkshire", 
+            "Credit_rating_agency", 
+            "Derivative_(finance)", 
+            "Sigma", 
+            "Buffet", 
+            "Gamma_ray", 
+            "Warren_Buffett", 
+            "2009", 
+            "Warren_County,_Ohio", 
+            "Mathematics", 
+            "Mathematical_model"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Provisional_Irish_Republican_Army", 
+            "Gold"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Porcelain"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Inflation"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Economic_bubble", 
+            "Bubble"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }
+]

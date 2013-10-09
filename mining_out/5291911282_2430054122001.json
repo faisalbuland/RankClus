@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Waiver", 
+            "Driving_under_the_influence", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "God", 
+            "Derelict", 
+            "Soldier", 
+            "Soldier", 
+            "God", 
+            "Duck"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Waiver"
+        ], 
+        "postID": 3
+    }
+]

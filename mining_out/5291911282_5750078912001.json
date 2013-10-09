@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Law", 
+            "DAV", 
+            "Senate", 
+            "Teh", 
+            "DAV", 
+            "States_and_territories_of_India", 
+            "American_Civil_Liberties_Union"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sun", 
+            "2009"
+        ], 
+        "postID": 3
+    }
+]

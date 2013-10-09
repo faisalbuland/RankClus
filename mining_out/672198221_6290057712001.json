@@ -1,0 +1,548 @@
+[
+    {
+        "entity": [
+            "Food_Stamp_Program", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Barack_Obama", 
+            "Michelle_Obama", 
+            "Inauguration", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Television", 
+            "United_States_Army", 
+            "Army_Times", 
+            "Fort_Bragg,_North_Carolina", 
+            "Food_Stamp_Program", 
+            "Michelle_Obama", 
+            "Good_Morning_America", 
+            "Shell_(projectile)", 
+            "Sacrifice", 
+            "Barack_Obama", 
+            "Good_Morning_(New_Zealand_show)", 
+            "United_States", 
+            "Oconaluftee_Indian_Village", 
+            "American_Broadcasting_Company", 
+            "White_House", 
+            "William_Henry_Bragg", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Americas", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Michelle_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "IMHO"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Fodder", 
+            "Stunt", 
+            "Political_agenda"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Peanut", 
+            "Peanut_gallery"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "KBR_(company)", 
+            "Blackwater_Worldwide", 
+            "Military_police", 
+            "Cola_(disambiguation)", 
+            "United_States_Congress", 
+            "Federal_Bureau_of_Investigation", 
+            "United_States_Congress"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Militia", 
+            "United_States_Congress", 
+            "Hell"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Gospel", 
+            "Blasphemy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "First_Lady"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Empathy", 
+            "Cafeteria", 
+            "Barracks", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Little_Egypt_(region)", 
+            "Photograph_album", 
+            "Illinois", 
+            "Veteran", 
+            "Tet_Offensive", 
+            "Paratrooper", 
+            "Album", 
+            "World_War_II", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "United_States_Congress", 
+            "Tet"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "New_York's_19th_congressional_district", 
+            "Little_Egypt_(region)", 
+            "Jerry_Costello", 
+            "United_States_House_of_Representatives", 
+            "Illinois'_12th_congressional_district", 
+            "John_Shimkus", 
+            "Glenn_Poshard", 
+            "Charles_Melvin_Price", 
+            "John_Shimkus", 
+            "1988", 
+            "Illinois", 
+            "1944", 
+            "Phelps_(village),_New_York"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Food_Stamp_Program", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Barack_Obama", 
+            "Michelle_Obama", 
+            "Inauguration", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Television", 
+            "United_States_Army", 
+            "Army_Times", 
+            "Fort_Bragg,_North_Carolina", 
+            "Food_Stamp_Program", 
+            "Michelle_Obama", 
+            "Good_Morning_America", 
+            "Shell_(projectile)", 
+            "Sacrifice", 
+            "Barack_Obama", 
+            "Good_Morning_(New_Zealand_show)", 
+            "United_States", 
+            "Oconaluftee_Indian_Village", 
+            "American_Broadcasting_Company", 
+            "White_House", 
+            "William_Henry_Bragg", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Americas", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Michelle_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "IMHO"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Fodder", 
+            "Stunt", 
+            "Political_agenda"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Peanut", 
+            "Peanut_gallery"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "KBR_(company)", 
+            "Blackwater_Worldwide", 
+            "Military_police", 
+            "Cola_(disambiguation)", 
+            "United_States_Congress", 
+            "Federal_Bureau_of_Investigation", 
+            "United_States_Congress"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Militia", 
+            "United_States_Congress", 
+            "Hell"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Gospel", 
+            "Blasphemy"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "First_Lady"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Empathy", 
+            "Cafeteria", 
+            "Barracks", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Little_Egypt_(region)", 
+            "Photograph_album", 
+            "Illinois", 
+            "Veteran", 
+            "Tet_Offensive", 
+            "Paratrooper", 
+            "Album", 
+            "World_War_II", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "United_States_Congress", 
+            "Tet"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "New_York's_19th_congressional_district", 
+            "Little_Egypt_(region)", 
+            "Jerry_Costello", 
+            "United_States_House_of_Representatives", 
+            "Illinois'_12th_congressional_district", 
+            "John_Shimkus", 
+            "Glenn_Poshard", 
+            "Charles_Melvin_Price", 
+            "John_Shimkus", 
+            "1988", 
+            "Illinois", 
+            "1944", 
+            "Phelps_(village),_New_York"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Food_Stamp_Program", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Barack_Obama", 
+            "Michelle_Obama", 
+            "Inauguration", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Television", 
+            "United_States_Army", 
+            "Army_Times", 
+            "Fort_Bragg,_North_Carolina", 
+            "Food_Stamp_Program", 
+            "Michelle_Obama", 
+            "Good_Morning_America", 
+            "Shell_(projectile)", 
+            "Sacrifice", 
+            "Barack_Obama", 
+            "Good_Morning_(New_Zealand_show)", 
+            "United_States", 
+            "Oconaluftee_Indian_Village", 
+            "American_Broadcasting_Company", 
+            "White_House", 
+            "William_Henry_Bragg", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Americas", 
+            "Michelle_Obama", 
+            "Barack_Obama", 
+            "Michelle_Obama"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "IMHO"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Fodder", 
+            "Stunt", 
+            "Political_agenda"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Peanut", 
+            "Peanut_gallery"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Police", 
+            "KBR_(company)", 
+            "Blackwater_Worldwide", 
+            "Military_police", 
+            "Cola_(disambiguation)", 
+            "United_States_Congress", 
+            "Federal_Bureau_of_Investigation", 
+            "United_States_Congress"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Militia", 
+            "United_States_Congress", 
+            "Hell"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Gospel", 
+            "Blasphemy"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Politics"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "First_Lady"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Empathy", 
+            "Cafeteria", 
+            "Barracks", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Little_Egypt_(region)", 
+            "Photograph_album", 
+            "Illinois", 
+            "Veteran", 
+            "Tet_Offensive", 
+            "Paratrooper", 
+            "Album", 
+            "World_War_II", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "Vietnam_War", 
+            "United_States_Congress", 
+            "Tet"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Conservative_Party_(UK)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "New_York's_19th_congressional_district", 
+            "Little_Egypt_(region)", 
+            "Jerry_Costello", 
+            "United_States_House_of_Representatives", 
+            "Illinois'_12th_congressional_district", 
+            "John_Shimkus", 
+            "Glenn_Poshard", 
+            "Charles_Melvin_Price", 
+            "John_Shimkus", 
+            "1988", 
+            "Illinois", 
+            "1944", 
+            "Phelps_(village),_New_York"
+        ], 
+        "postID": 60
+    }
+]

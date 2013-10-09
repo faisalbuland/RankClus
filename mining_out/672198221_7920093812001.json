@@ -1,0 +1,130 @@
+[
+    {
+        "entity": [
+            "Military_operation", 
+            "Economic_policy", 
+            "Nicolas_Sarkozy", 
+            "Economy", 
+            "NATO", 
+            "Pols", 
+            "France", 
+            "France", 
+            "President_of_France", 
+            "Nicolas_Sarkozy", 
+            "Sake", 
+            "Afghanistan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Cheese"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Table_wine", 
+            "Pain", 
+            "Argent", 
+            "Romanian_wine"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Labor_rights", 
+            "Language", 
+            "Bank", 
+            "France", 
+            "French_people", 
+            "France", 
+            "United_States", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Universal_health_care", 
+            "Language", 
+            "Medicare_(Canada)", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Lahaina,_Hawaii", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "George_W._Bush", 
+            "Thomas_Jefferson", 
+            "United_States", 
+            "Barack_Obama", 
+            "Bank", 
+            "Socialism", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Insurance", 
+            "Socialism", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "!!!", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Deal,_Kent", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Integrin-linked_kinase", 
+            "Brinson,_Georgia", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Exterminator", 
+            "Barack_Obama", 
+            "Iraq"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Universal_health_care", 
+            "2003", 
+            "Health_care", 
+            "Language"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Cemetery"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Anthony_Blunt"
+        ], 
+        "postID": 12
+    }
+]

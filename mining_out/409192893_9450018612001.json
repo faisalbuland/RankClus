@@ -1,0 +1,652 @@
+[
+    {
+        "entity": [
+            "Mr._President_(musical)", 
+            "Bloomberg_L.P.", 
+            "Stock", 
+            "Barack_Obama", 
+            "Stock_market", 
+            "Feds", 
+            "Slow_motion", 
+            "President_of_the_United_States", 
+            "Capitalism", 
+            "Vortex"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chicken"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Economy", 
+            "Chicken", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Wall_Street"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Stocks"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Booyah", 
+            "Pieter_Cramer", 
+            "Anthony_Santelli", 
+            "Pieter_Cramer"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Pieter_Cramer", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "2009"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Wall_Street", 
+            "Pieter_Cramer"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Economic_system", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Economic_system", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Recession"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Money_(magazine)", 
+            "Barack_Obama", 
+            "Money_(magazine)", 
+            "Economics", 
+            "Liberalism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Barack_Obama", 
+            "Lou_Dobbs", 
+            "Capitalism", 
+            "Barack_Obama", 
+            "Journalist", 
+            "Folly", 
+            "Conservatism", 
+            "CNN", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Surrey_Iron_Railway", 
+            "Mr._President_(film)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Circus"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Pieter_Cramer"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bar_association", 
+            "Lou_Dobbs", 
+            "Television", 
+            "Microphone", 
+            "Lou_Dobbs", 
+            "Parade", 
+            "Television_program", 
+            "Camera"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Marxism", 
+            "CNN", 
+            "CNBC", 
+            "Liberalism", 
+            "Plumber", 
+            "Fox_News_Channel", 
+            "Lou_Dobbs", 
+            "Oval_Office", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "United_States", 
+            "1968", 
+            "United_States", 
+            "Liberalism", 
+            "Socialism", 
+            "United_States", 
+            "Norman_architecture", 
+            "Socialism", 
+            "President_of_the_United_States", 
+            "Mattoon,_Illinois", 
+            "New_Zealand_Democrat_Party", 
+            "Socialist_Party_of_America", 
+            "Pacifism", 
+            "The_Socialist_(UK_newspaper)", 
+            "December_19", 
+            "Democratic_Party_(United_States)", 
+            "Socialist_Party_of_America", 
+            "Socialism", 
+            "Norman_Thomas", 
+            "Socialism", 
+            "1944", 
+            "Socialist_Party_of_America", 
+            "1884", 
+            "Norman_architecture", 
+            "Norman_Thomas", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Socialism", 
+            "United_States", 
+            "Socialist_Party_of_America", 
+            "Socialism", 
+            "November_20"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Internet_forum", 
+            "Blog"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Politics", 
+            "Pundit_(expert)", 
+            "Pundit_(expert)", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "Partisan_(political)", 
+            "NBC", 
+            "Partisan_(military)", 
+            "Noise", 
+            "284", 
+            "Noise_level", 
+            "Television", 
+            "Prognosis_(disambiguation)", 
+            "Self-esteem", 
+            "MSNBC", 
+            "CBS", 
+            "American_Broadcasting_Company"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Tax_cut", 
+            "Economy", 
+            "The_One_(film)", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mod_(lifestyle)", 
+            "Body_odor", 
+            "Authoritarianism", 
+            "Socialism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Finance", 
+            "Socialism", 
+            "Socialism", 
+            "Honesty", 
+            "Legislation", 
+            "President_of_the_United_States", 
+            "Memory_hole", 
+            "Planet", 
+            "Philosophy", 
+            "Finance", 
+            "Rationality", 
+            "LOL_(film)", 
+            "Legislation", 
+            "Barack_Obama", 
+            "LOL"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "Bo", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Gospel", 
+            "Body_odor", 
+            "Prez_(DC_Comics)", 
+            "Socialism"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_cut", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Canada_Revenue_Agency", 
+            "George_W._Bush"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Sic", 
+            "Daily_Kos", 
+            "The_Daily_Show", 
+            "Genius", 
+            "The_Daily_Show", 
+            "Economy", 
+            "The_One_(film)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Mr._President_(musical)", 
+            "Bloomberg_L.P.", 
+            "Stock", 
+            "Barack_Obama", 
+            "Stock_market", 
+            "Feds", 
+            "Slow_motion", 
+            "President_of_the_United_States", 
+            "Capitalism", 
+            "Vortex"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Chicken"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Barack_Obama_presidential_campaign,_2008", 
+            "Economy", 
+            "Chicken", 
+            "Barack_Obama"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Wall_Street"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Stocks"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Booyah", 
+            "Pieter_Cramer", 
+            "Anthony_Santelli", 
+            "Pieter_Cramer"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Pieter_Cramer", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "2009"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Wall_Street", 
+            "Wall_Street", 
+            "Pieter_Cramer"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Economic_system", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Economic_system", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Recession"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Money_(magazine)", 
+            "Barack_Obama", 
+            "Money_(magazine)", 
+            "Economics", 
+            "Liberalism"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "CNN", 
+            "Barack_Obama", 
+            "Lou_Dobbs", 
+            "Capitalism", 
+            "Barack_Obama", 
+            "Journalist", 
+            "Folly", 
+            "Conservatism", 
+            "CNN", 
+            "Fox_Broadcasting_Company", 
+            "Barack_Obama"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Surrey_Iron_Railway", 
+            "Mr._President_(film)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Circus"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Pieter_Cramer"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Bar_association", 
+            "Lou_Dobbs", 
+            "Television", 
+            "Microphone", 
+            "Lou_Dobbs", 
+            "Parade", 
+            "Television_program", 
+            "Camera"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Marxism", 
+            "CNN", 
+            "CNBC", 
+            "Liberalism", 
+            "Plumber", 
+            "Fox_News_Channel", 
+            "Lou_Dobbs", 
+            "Oval_Office", 
+            "Barack_Obama", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "United_States", 
+            "1968", 
+            "United_States", 
+            "Liberalism", 
+            "Socialism", 
+            "United_States", 
+            "Norman_architecture", 
+            "Socialism", 
+            "President_of_the_United_States", 
+            "Mattoon,_Illinois", 
+            "New_Zealand_Democrat_Party", 
+            "Socialist_Party_of_America", 
+            "Pacifism", 
+            "The_Socialist_(UK_newspaper)", 
+            "December_19", 
+            "Democratic_Party_(United_States)", 
+            "Socialist_Party_of_America", 
+            "Socialism", 
+            "Norman_Thomas", 
+            "Socialism", 
+            "1944", 
+            "Socialist_Party_of_America", 
+            "1884", 
+            "Norman_architecture", 
+            "Norman_Thomas", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Socialism", 
+            "United_States", 
+            "Socialist_Party_of_America", 
+            "Socialism", 
+            "November_20"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Internet_forum", 
+            "Blog"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Politics", 
+            "Pundit_(expert)", 
+            "Pundit_(expert)", 
+            "CNN", 
+            "Fox_News_Channel", 
+            "Partisan_(political)", 
+            "NBC", 
+            "Partisan_(military)", 
+            "Noise", 
+            "284", 
+            "Noise_level", 
+            "Television", 
+            "Prognosis_(disambiguation)", 
+            "Self-esteem", 
+            "MSNBC", 
+            "CBS", 
+            "American_Broadcasting_Company"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Tax_cut", 
+            "Economy", 
+            "The_One_(film)", 
+            "Barack_Obama", 
+            "Tax"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Mod_(lifestyle)", 
+            "Body_odor", 
+            "Authoritarianism", 
+            "Socialism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Finance", 
+            "Socialism", 
+            "Socialism", 
+            "Honesty", 
+            "Legislation", 
+            "President_of_the_United_States", 
+            "Memory_hole", 
+            "Planet", 
+            "Philosophy", 
+            "Finance", 
+            "Rationality", 
+            "LOL_(film)", 
+            "Legislation", 
+            "Barack_Obama", 
+            "LOL"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "Bo", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Gospel", 
+            "Body_odor", 
+            "Prez_(DC_Comics)", 
+            "Socialism"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_cut", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Canada_Revenue_Agency", 
+            "George_W._Bush"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Sic", 
+            "Daily_Kos", 
+            "The_Daily_Show", 
+            "Genius", 
+            "The_Daily_Show", 
+            "Economy", 
+            "The_One_(film)"
+        ], 
+        "postID": 60
+    }
+]

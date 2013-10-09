@@ -1,0 +1,49 @@
+[
+    {
+        "entity": [
+            "Shanghai_Metro_Line_2", 
+            "Seoul_Subway_Line_1"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "France", 
+            "Quantum", 
+            "Beck", 
+            "French_Revolution", 
+            "Revolution", 
+            "Glenn_Beck", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "H\u00e9lio_Castroneves", 
+            "H\u00e9lio_Castroneves", 
+            "Internal_Revenue_Service", 
+            "Prosecutor", 
+            "Helio_(wireless_carrier)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Electricity"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Discrimination", 
+            "Socialism", 
+            "Harem", 
+            "Crime", 
+            "Hate_crime", 
+            "Aesthetics"
+        ], 
+        "postID": 5
+    }
+]

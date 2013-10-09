@@ -1,0 +1,36 @@
+[
+    {
+        "entity": [
+            "Diabetes_mellitus", 
+            "Disability", 
+            "Neuropathy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "2009"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Awards_and_decorations_of_the_National_Guard", 
+            "States_and_territories_of_India", 
+            "Good_Luck", 
+            "Disability"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Verb_Subject_Object", 
+            "Diabetes_mellitus", 
+            "Contact_(film)", 
+            "Foot_(length)", 
+            "Intestine", 
+            "ASAP_(variety_show)"
+        ], 
+        "postID": 4
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "entity": [
+            "Democracy", 
+            "Blood", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Speaker_(politics)", 
+            "Fence", 
+            "Republicanism", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Website", 
+            "Tab"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "LOL", 
+            "George_W._Bush", 
+            "Joe_Biden"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Guilt", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Transparency_(humanities)", 
+            "Y'all"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "E-mail_address", 
+            "One_Nation_(Australia)", 
+            "!!!", 
+            "ZIP_code", 
+            "Y'all", 
+            "One_Heart", 
+            "E-mail"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Press_secretary", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Poster_child", 
+            "Nancy_Pelosi", 
+            "Democracy", 
+            "Shame", 
+            "Term_limit", 
+            "Poster"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Washington,_D.C."
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Democratic_Party_(United_States)", 
+            "Fax", 
+            "United_States_Senate", 
+            "Warrant_(law)", 
+            "Senate", 
+            "Florida", 
+            "Mathematics", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "Hell", 
+            "Member_of_Congress", 
+            "Senate"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "George_W._Bush", 
+            "Colin_Powell", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "Intelligence_(information_gathering)", 
+            "Intelligence_(information_gathering)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Iron", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "Iraq"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "Sex", 
+            "Barack_Obama", 
+            "Nancy_Reagan", 
+            "Central_Intelligence_Agency", 
+            "Karl_Rove"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Iraq_and_weapons_of_mass_destruction", 
+            "Iraq", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush", 
+            "Nancy_Pelosi", 
+            "Thomas_Jefferson", 
+            "Central_Intelligence_Agency", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Weapon_of_mass_destruction", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Bank"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Blood", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Speaker_(politics)", 
+            "Fence", 
+            "Republicanism", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Website", 
+            "Tab"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "LOL", 
+            "George_W._Bush", 
+            "Joe_Biden"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Guilt", 
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Transparency_(humanities)", 
+            "Y'all"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "E-mail_address", 
+            "One_Nation_(Australia)", 
+            "!!!", 
+            "ZIP_code", 
+            "Y'all", 
+            "One_Heart", 
+            "E-mail"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart", 
+            "Press_secretary", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Poster_child", 
+            "Nancy_Pelosi", 
+            "Democracy", 
+            "Shame", 
+            "Term_limit", 
+            "Poster"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Washington,_D.C."
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Fax", 
+            "Democratic_Party_(United_States)", 
+            "Fax", 
+            "United_States_Senate", 
+            "Warrant_(law)", 
+            "Senate", 
+            "Florida", 
+            "Mathematics", 
+            "Foreign_Intelligence_Surveillance_Act", 
+            "Hell", 
+            "Member_of_Congress", 
+            "Senate"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "George_W._Bush", 
+            "Colin_Powell", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "President_of_the_United_States", 
+            "Iraq", 
+            "Intelligence_(information_gathering)", 
+            "Intelligence_(information_gathering)", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Iron", 
+            "George_W._Bush", 
+            "Intelligence_(information_gathering)", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "Central_Intelligence_Agency", 
+            "Iraq"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "Sex", 
+            "Barack_Obama", 
+            "Nancy_Reagan", 
+            "Central_Intelligence_Agency", 
+            "Karl_Rove"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Iraq_and_weapons_of_mass_destruction", 
+            "Iraq", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Central_Intelligence_Agency", 
+            "George_W._Bush", 
+            "Nancy_Pelosi", 
+            "Thomas_Jefferson", 
+            "Central_Intelligence_Agency", 
+            "Intelligence_(information_gathering)", 
+            "Central_Intelligence_Agency", 
+            "Weapon_of_mass_destruction", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Bank"
+        ], 
+        "postID": 40
+    }
+]

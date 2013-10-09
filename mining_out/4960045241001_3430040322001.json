@@ -1,0 +1,35 @@
+[
+    {
+        "entity": [
+            "Privacy", 
+            "Science", 
+            "Civilization", 
+            "Technology", 
+            "Liberty"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "United_States", 
+            "Velcro"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Unidentified_flying_object", 
+            "Unidentified_flying_object", 
+            "Planet", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 5
+    }
+]

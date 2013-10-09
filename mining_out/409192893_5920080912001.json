@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "TARP", 
+            "Money_(magazine)", 
+            "Treasury", 
+            "United_States_Congress", 
+            "A.N.S.W.E.R."
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "American_International_Group", 
+            "Barack_Obama", 
+            "Flag", 
+            "Stars_&amp;_Stripes", 
+            "United_States", 
+            "Flag", 
+            "John_Edwards", 
+            "Barack_Obama", 
+            "Lime_(mineral)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Free_election", 
+            "Flag"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "United_States", 
+            "Barack_Obama", 
+            "Irish_republicanism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Barack_Obama", 
+            "United_States_Congress"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Flip-flop_(electronics)", 
+            "Barack_Obama", 
+            "Flop", 
+            "Afghan", 
+            "Afghan_blanket", 
+            "Crock_(dishware)", 
+            "Taliban", 
+            "Headstamp", 
+            "Cartridge_(firearms)", 
+            "Terrorism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

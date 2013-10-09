@@ -1,0 +1,328 @@
+[
+    {
+        "entity": [
+            "Headache", 
+            "Common_year_starting_on_Thursday", 
+            "People's_Liberation_Army_Navy", 
+            "May_30", 
+            "Beijing", 
+            "Hanoi", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Chinese_People's_Liberation_Army", 
+            "1979", 
+            "Vietnam", 
+            "China", 
+            "Vietnam"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Vietnam"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Communist_state", 
+            "Communism"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Manufacturing", 
+            "Chinese_shipping", 
+            "Manufacturing", 
+            "United_States_Army", 
+            "Shipping", 
+            "Vietnam"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Australia"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Spin_(physics)", 
+            "Australian_and_New_Zealand_Army_Corps"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Mon_people", 
+            "Erm"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mon_people", 
+            "Thread_(computer_science)", 
+            "Russia", 
+            "2009"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Diesel-electric", 
+            "Diesel", 
+            "Battery_electric_vehicle", 
+            "Air-independent_propulsion", 
+            "Diesel-electric", 
+            "IMHO", 
+            "Diesel", 
+            "Anti-submarine_warfare", 
+            "Submarine"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Diesel"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Aeronautical_Information_Publication"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Strobe_light"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Mon_people", 
+            "Thread_(computer_science)", 
+            "2009", 
+            "Oil", 
+            "Pedant", 
+            "Thread_(computer_science)", 
+            "Blood", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Diesel_locomotive", 
+            "Battery_electric_vehicle", 
+            "Locomotive"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Military_exercise", 
+            "Denmark", 
+            "NATO", 
+            "China"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Diesel_engine", 
+            "Lead-acid_battery", 
+            "Chinese_language", 
+            "Rechargeable_battery", 
+            "United_States_Navy"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Headache", 
+            "Common_year_starting_on_Thursday", 
+            "People's_Liberation_Army_Navy", 
+            "May_30", 
+            "Beijing", 
+            "Hanoi", 
+            "2009"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Chinese_People's_Liberation_Army", 
+            "1979", 
+            "Vietnam", 
+            "China", 
+            "Vietnam"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Vietnam"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Communist_state", 
+            "Communism"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Manufacturing", 
+            "Chinese_shipping", 
+            "Manufacturing", 
+            "United_States_Army", 
+            "Shipping", 
+            "Vietnam"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Vietnam", 
+            "Australia"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Spin_(physics)", 
+            "Australian_and_New_Zealand_Army_Corps"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Mon_people", 
+            "Erm"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mon_people", 
+            "Thread_(computer_science)", 
+            "Russia", 
+            "2009"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Diesel-electric", 
+            "Diesel", 
+            "Battery_electric_vehicle", 
+            "Air-independent_propulsion", 
+            "Diesel-electric", 
+            "IMHO", 
+            "Diesel", 
+            "Anti-submarine_warfare", 
+            "Submarine"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Diesel"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Aeronautical_Information_Publication"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Strobe_light"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Mon_people", 
+            "Thread_(computer_science)", 
+            "2009", 
+            "Oil", 
+            "Pedant", 
+            "Thread_(computer_science)", 
+            "Blood", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Diesel_locomotive", 
+            "Battery_electric_vehicle", 
+            "Locomotive"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Military_exercise", 
+            "Denmark", 
+            "NATO", 
+            "China"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Diesel_engine", 
+            "Lead-acid_battery", 
+            "Chinese_language", 
+            "Rechargeable_battery", 
+            "United_States_Navy"
+        ], 
+        "postID": 40
+    }
+]

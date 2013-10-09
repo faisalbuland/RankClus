@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "Navy", 
+            "Bomb_disposal", 
+            "United_States_Navy_SEALs", 
+            "Homework", 
+            "Homework", 
+            "United_States_Army", 
+            "Surfing", 
+            "Internet_forum", 
+            "United_States_Navy", 
+            "Bomb_disposal"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "Derelict", 
+            "Duck", 
+            "God", 
+            "Soldier"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "EOD"
+        ], 
+        "postID": 4
+    }
+]

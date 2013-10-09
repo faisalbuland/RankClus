@@ -1,0 +1,392 @@
+[
+    {
+        "entity": [
+            "Drywall", 
+            "People's_Republic_of_China", 
+            "Plumbing", 
+            "Corrosion", 
+            "United_States", 
+            "China", 
+            "Florida", 
+            "Drywall", 
+            "Charter", 
+            "Mensa_International", 
+            "!!!", 
+            "Electrical_wiring"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Mexico", 
+            "India", 
+            "United_States", 
+            "Economy_of_the_United_States", 
+            "People's_Republic_of_China", 
+            "People's_Republic_of_China", 
+            "Greed", 
+            "United_States", 
+            "IBM"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Building_material", 
+            "Toxicity", 
+            "China", 
+            "Drywall"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Asian_people"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "China", 
+            "United_States", 
+            "Junk_(ship)", 
+            "Wal_(bass)", 
+            "China", 
+            "Wal-Mart"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Product_(business)", 
+            "Manufacturing"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Duck", 
+            "God", 
+            "Derelict", 
+            "God", 
+            "Soldier", 
+            "Soldier"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "!!!"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "United_States_Air_Force", 
+            "Evanston,_Illinois", 
+            "Aviator", 
+            "Wal-Mart", 
+            "United_States_Air_Force", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "United_States_Air_Force", 
+            "Tanker_(ship)", 
+            "Town", 
+            "China", 
+            "Town", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Internal_combustion_engine", 
+            "Wal-Mart", 
+            "United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "James_Quinn", 
+            "Escalator", 
+            "Horse"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Steel", 
+            "Infant_formula", 
+            "Dog", 
+            "Medicine", 
+            "Wal-Mart", 
+            "Dog_food", 
+            "Dollar_General", 
+            "Toothpaste", 
+            "China", 
+            "Clothing", 
+            "Earthquake", 
+            "Dollar"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Birth_control", 
+            "China", 
+            "Poison"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Sam_Walton", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Walton"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Kmart", 
+            "Target_Corporation", 
+            "United_States", 
+            "BMW"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "China", 
+            "Craftsman_(tools)", 
+            "Sears,_Roebuck_and_Company", 
+            "Kmart", 
+            "Craftsman_(tools)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Drywall", 
+            "People's_Republic_of_China", 
+            "Plumbing", 
+            "Corrosion", 
+            "United_States", 
+            "China", 
+            "Florida", 
+            "Drywall", 
+            "Charter", 
+            "Mensa_International", 
+            "!!!", 
+            "Electrical_wiring"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Mexico", 
+            "India", 
+            "United_States", 
+            "Economy_of_the_United_States", 
+            "People's_Republic_of_China", 
+            "People's_Republic_of_China", 
+            "Greed", 
+            "United_States", 
+            "IBM"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Building_material", 
+            "Toxicity", 
+            "China", 
+            "Drywall"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Asian_people"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "China", 
+            "United_States", 
+            "Junk_(ship)", 
+            "Wal_(bass)", 
+            "China", 
+            "Wal-Mart"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "China", 
+            "Product_(business)", 
+            "Manufacturing"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "Duck", 
+            "God", 
+            "Derelict", 
+            "God", 
+            "Soldier", 
+            "Soldier"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "YouTube", 
+            "!!!"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Town", 
+            "United_States_Air_Force", 
+            "Evanston,_Illinois", 
+            "Aviator", 
+            "Wal-Mart", 
+            "United_States_Air_Force", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "United_States_Air_Force", 
+            "Tanker_(ship)", 
+            "Town", 
+            "China", 
+            "Town", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Internal_combustion_engine", 
+            "Wal-Mart", 
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "James_Quinn", 
+            "Escalator", 
+            "Horse"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Steel", 
+            "Infant_formula", 
+            "Dog", 
+            "Medicine", 
+            "Wal-Mart", 
+            "Dog_food", 
+            "Dollar_General", 
+            "Toothpaste", 
+            "China", 
+            "Clothing", 
+            "Earthquake", 
+            "Dollar"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Birth_control", 
+            "China", 
+            "Poison"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Sam_Walton", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Walton"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Kmart", 
+            "Target_Corporation", 
+            "United_States", 
+            "BMW"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "China", 
+            "Craftsman_(tools)", 
+            "Sears,_Roebuck_and_Company", 
+            "Kmart", 
+            "Craftsman_(tools)"
+        ], 
+        "postID": 40
+    }
+]

@@ -1,0 +1,647 @@
+[
+    {
+        "entity": [
+            "Specialist_(rank)", 
+            "Academic_degree", 
+            "College", 
+            "Amiga_Original_chipset", 
+            "Specialist_(rank)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Mustang_(horse)", 
+            "Amiga_Original_chipset", 
+            "Marmot", 
+            "Go_Figure_(film)", 
+            "Bachelor's_degree"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Rodney_(TV_series)", 
+            "Syndrome", 
+            "Dangerfield_(TV_series)", 
+            "IMO", 
+            "Rodney_Dangerfield"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Curve", 
+            "College", 
+            "E5", 
+            "Academic_degree"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Rope_(film)", 
+            "Compass", 
+            "Above_mean_sea_level", 
+            "European_Academic_Research_Network", 
+            "Infantry", 
+            "Klick", 
+            "Hot_dog", 
+            "Recruiter", 
+            "God", 
+            "Hot_dog", 
+            "Infantry", 
+            "Ounce", 
+            "Ribbing_(knitting)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Jacket_lapel", 
+            "Thomas_Paine", 
+            "College", 
+            "Dude"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Lock_(water_transport)", 
+            "Education", 
+            "Bridge", 
+            "Knocker_(folklore)", 
+            "Tropical_cyclone", 
+            "Canoe", 
+            "Anti-aircraft_warfare", 
+            "Education"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Major"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Highway_advisory_radio"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Non-commissioned_officer", 
+            "Parade", 
+            "E5", 
+            "Infantry"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Non-Commissioned_Officer_in_Charge"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "God", 
+            "Moderator", 
+            "God", 
+            "D._V._Gundappa", 
+            "1968", 
+            "January_2", 
+            "Vietnam_War", 
+            "Selective_Service_System", 
+            "1968", 
+            "Duck", 
+            "College", 
+            "Soldier", 
+            "Academic_degree", 
+            "Casualty_(TV_series)", 
+            "May_6", 
+            "Derelict", 
+            "SP4_(Unreleased_album)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "God", 
+            "Parade", 
+            "Anti-aircraft_warfare", 
+            "Sport", 
+            "Military_Occupational_Specialty", 
+            "Hot_dog", 
+            "Navigation", 
+            "Infantry", 
+            "Specialist_(rank)", 
+            "Sierra_Entertainment", 
+            "Collar", 
+            "Bravo_(US_TV_channel)", 
+            "Bolivian_Workers'_Center", 
+            "United_States_Army", 
+            "WANT"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Boeing_E-4"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Battalion", 
+            "Combat_engineering", 
+            "Duck", 
+            "Tooth", 
+            "Dropout", 
+            "Soldier", 
+            "God", 
+            "Tooth", 
+            "Moderator", 
+            "General_Educational_Development", 
+            "Hat", 
+            "1956", 
+            "Combat_engineering", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "D._V._Gundappa", 
+            "Combat_engineering"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "Behavioural_sciences"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Specialist_(rank)", 
+            "Academic_degree", 
+            "College", 
+            "Amiga_Original_chipset", 
+            "Specialist_(rank)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Mustang_(horse)", 
+            "Amiga_Original_chipset", 
+            "Marmot", 
+            "Go_Figure_(film)", 
+            "Bachelor's_degree"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Rodney_(TV_series)", 
+            "Syndrome", 
+            "Dangerfield_(TV_series)", 
+            "IMO", 
+            "Rodney_Dangerfield"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Curve", 
+            "College", 
+            "E5", 
+            "Academic_degree"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Rope_(film)", 
+            "Compass", 
+            "Above_mean_sea_level", 
+            "European_Academic_Research_Network", 
+            "Infantry", 
+            "Klick", 
+            "Hot_dog", 
+            "Recruiter", 
+            "God", 
+            "Hot_dog", 
+            "Infantry", 
+            "Ounce", 
+            "Ribbing_(knitting)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Jacket_lapel", 
+            "Thomas_Paine", 
+            "College", 
+            "Dude"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Lock_(water_transport)", 
+            "Education", 
+            "Bridge", 
+            "Knocker_(folklore)", 
+            "Tropical_cyclone", 
+            "Canoe", 
+            "Anti-aircraft_warfare", 
+            "Education"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Major"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Highway_advisory_radio"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Non-commissioned_officer", 
+            "Parade", 
+            "E5", 
+            "Infantry"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Non-Commissioned_Officer_in_Charge"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "God", 
+            "Moderator", 
+            "God", 
+            "D._V._Gundappa", 
+            "1968", 
+            "January_2", 
+            "Vietnam_War", 
+            "Selective_Service_System", 
+            "1968", 
+            "Duck", 
+            "College", 
+            "Soldier", 
+            "Academic_degree", 
+            "Casualty_(TV_series)", 
+            "May_6", 
+            "Derelict", 
+            "SP4_(Unreleased_album)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "God", 
+            "Parade", 
+            "Anti-aircraft_warfare", 
+            "Sport", 
+            "Military_Occupational_Specialty", 
+            "Hot_dog", 
+            "Navigation", 
+            "Infantry", 
+            "Specialist_(rank)", 
+            "Sierra_Entertainment", 
+            "Collar", 
+            "Bravo_(US_TV_channel)", 
+            "Bolivian_Workers'_Center", 
+            "United_States_Army", 
+            "WANT"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Boeing_E-4"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Battalion", 
+            "Combat_engineering", 
+            "Duck", 
+            "Tooth", 
+            "Dropout", 
+            "Soldier", 
+            "God", 
+            "Tooth", 
+            "Moderator", 
+            "General_Educational_Development", 
+            "Hat", 
+            "1956", 
+            "Combat_engineering", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "D._V._Gundappa", 
+            "Combat_engineering"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "Behavioural_sciences"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Specialist_(rank)", 
+            "Academic_degree", 
+            "College", 
+            "Amiga_Original_chipset", 
+            "Specialist_(rank)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Quantum", 
+            "Mustang_(horse)", 
+            "Amiga_Original_chipset", 
+            "Marmot", 
+            "Go_Figure_(film)", 
+            "Bachelor's_degree"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Rodney_(TV_series)", 
+            "Syndrome", 
+            "Dangerfield_(TV_series)", 
+            "IMO", 
+            "Rodney_Dangerfield"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Curve", 
+            "College", 
+            "E5", 
+            "Academic_degree"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "College", 
+            "Rope_(film)", 
+            "Compass", 
+            "Above_mean_sea_level", 
+            "European_Academic_Research_Network", 
+            "Infantry", 
+            "Klick", 
+            "Hot_dog", 
+            "Recruiter", 
+            "God", 
+            "Hot_dog", 
+            "Infantry", 
+            "Ounce", 
+            "Ribbing_(knitting)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Jacket_lapel", 
+            "Thomas_Paine", 
+            "College", 
+            "Dude"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Lock_(water_transport)", 
+            "Education", 
+            "Bridge", 
+            "Knocker_(folklore)", 
+            "Tropical_cyclone", 
+            "Canoe", 
+            "Anti-aircraft_warfare", 
+            "Education"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Major"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Highway_advisory_radio"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Non-commissioned_officer", 
+            "Parade", 
+            "E5", 
+            "Infantry"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Non-Commissioned_Officer_in_Charge"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "United_States_Army", 
+            "God", 
+            "Moderator", 
+            "God", 
+            "D._V._Gundappa", 
+            "1968", 
+            "January_2", 
+            "Vietnam_War", 
+            "Selective_Service_System", 
+            "1968", 
+            "Duck", 
+            "College", 
+            "Soldier", 
+            "Academic_degree", 
+            "Casualty_(TV_series)", 
+            "May_6", 
+            "Derelict", 
+            "SP4_(Unreleased_album)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Squad", 
+            "God", 
+            "Parade", 
+            "Anti-aircraft_warfare", 
+            "Sport", 
+            "Military_Occupational_Specialty", 
+            "Hot_dog", 
+            "Navigation", 
+            "Infantry", 
+            "Specialist_(rank)", 
+            "Sierra_Entertainment", 
+            "Collar", 
+            "Bravo_(US_TV_channel)", 
+            "Bolivian_Workers'_Center", 
+            "United_States_Army", 
+            "WANT"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Gas_tungsten_arc_welding", 
+            "Boeing_E-4"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Battalion", 
+            "Combat_engineering", 
+            "Duck", 
+            "Tooth", 
+            "Dropout", 
+            "Soldier", 
+            "God", 
+            "Tooth", 
+            "Moderator", 
+            "General_Educational_Development", 
+            "Hat", 
+            "1956", 
+            "Combat_engineering", 
+            "Soldier", 
+            "Derelict", 
+            "God", 
+            "D._V._Gundappa", 
+            "Combat_engineering"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "Behavioural_sciences"
+        ], 
+        "postID": 60
+    }
+]

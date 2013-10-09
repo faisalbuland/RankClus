@@ -1,0 +1,480 @@
+[
+    {
+        "entity": [
+            "United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Drama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Prime_time", 
+            "United_States", 
+            "Vulgarism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Springer_Science+Business_Media", 
+            "Television_network", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Jerry_Springer", 
+            "Politics"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bacon", 
+            "Sedgewick,_Alberta"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "NCIS_(TV_series)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ocean", 
+            "Springer_Science+Business_Media", 
+            "Raft", 
+            "Jerry_Springer", 
+            "High_culture"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Television"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "March_Madness", 
+            "Madness_(band)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "KNOW-FM", 
+            "Cat"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bar_(establishment)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Flava_(TV_channel)", 
+            "Moron"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Rock_music", 
+            "Poison_(band)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "Television_program"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Prostitution", 
+            "Collective_intelligence", 
+            "Intelligence"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "The_Closer", 
+            "Bacon", 
+            "Soul_music", 
+            "Logic", 
+            "Murder", 
+            "Sedgewick,_Alberta", 
+            "Tremors_(film)", 
+            "Bozo", 
+            "Low_Earth_orbit", 
+            "Closer_(film)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Touched_(Buffy_episode)", 
+            "Dirty_Harry", 
+            "Angel_(TV_series)", 
+            "Saving_Grace_(TV_series)", 
+            "Sorta"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria", 
+            "Preacher", 
+            "Saving_Grace_(TV_series)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "English_Channel"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Car_accident"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Lindsay_Lohan", 
+            "Lindsey", 
+            "Military_Channel", 
+            "Lohan", 
+            "Jail", 
+            "Travel_Channel"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Closer_(film)", 
+            "Breathe_(Pink_Floyd_song)", 
+            "Darkroom"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Crime", 
+            "Discovery_Channel", 
+            "Science_Channel", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Crime_scene", 
+            "Discovery_Channel", 
+            "Dirty_Jobs", 
+            "National_Geographic_Channel"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Brinson,_Georgia", 
+            "Lahaina,_Hawaii", 
+            "National_Institute_for_Health_and_Clinical_Excellence", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Prostitution", 
+            "Nice", 
+            "!!!"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Monitor_(warship)", 
+            "SPOT_(producer)", 
+            "Visual_display_unit"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "English_language", 
+            "English_language"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Drama"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Prime_time", 
+            "United_States", 
+            "Vulgarism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Springer_Science+Business_Media", 
+            "Television_network", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Jerry_Springer", 
+            "Politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Bacon", 
+            "Sedgewick,_Alberta"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "NCIS_(TV_series)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Ocean", 
+            "Springer_Science+Business_Media", 
+            "Raft", 
+            "Jerry_Springer", 
+            "High_culture"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Television"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "March_Madness", 
+            "Madness_(band)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "KNOW-FM", 
+            "Cat"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bar_(establishment)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Flava_(TV_channel)", 
+            "Moron"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Rock_music", 
+            "Poison_(band)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "Television_program"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Prostitution", 
+            "Collective_intelligence", 
+            "Intelligence"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "The_Closer", 
+            "Bacon", 
+            "Soul_music", 
+            "Logic", 
+            "Murder", 
+            "Sedgewick,_Alberta", 
+            "Tremors_(film)", 
+            "Bozo", 
+            "Low_Earth_orbit", 
+            "Closer_(film)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Touched_(Buffy_episode)", 
+            "Dirty_Harry", 
+            "Angel_(TV_series)", 
+            "Saving_Grace_(TV_series)", 
+            "Sorta"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Yea,_Victoria", 
+            "Preacher", 
+            "Saving_Grace_(TV_series)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "English_Channel"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Car_accident"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Lindsay_Lohan", 
+            "Lindsey", 
+            "Military_Channel", 
+            "Lohan", 
+            "Jail", 
+            "Travel_Channel"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Closer_(film)", 
+            "Breathe_(Pink_Floyd_song)", 
+            "Darkroom"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "H._L._Mencken", 
+            "Crime", 
+            "Discovery_Channel", 
+            "Science_Channel", 
+            "Atmospheric_escape", 
+            "H._L._Mencken", 
+            "Crime_scene", 
+            "Discovery_Channel", 
+            "Dirty_Jobs", 
+            "National_Geographic_Channel"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Bus", 
+            "Brinson,_Georgia", 
+            "Lahaina,_Hawaii", 
+            "National_Institute_for_Health_and_Clinical_Excellence", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Nice", 
+            "Prostitution", 
+            "Nice", 
+            "!!!"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Monitor_(warship)", 
+            "SPOT_(producer)", 
+            "Visual_display_unit"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "English_language", 
+            "English_language"
+        ], 
+        "postID": 60
+    }
+]

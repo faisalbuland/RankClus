@@ -1,0 +1,56 @@
+[
+    {
+        "entity": [
+            "Repeal", 
+            "Repeal", 
+            "Colonel", 
+            "Manslaughter", 
+            "Retirement", 
+            "Theft", 
+            "United_States_Marine_Corps", 
+            "Vehicular_homicide", 
+            "United_States_Department_of_Defense", 
+            "Illegal_drug_trade", 
+            "United_States_Marine_Corps", 
+            "Hypocrisy", 
+            "Waiver", 
+            "Patriotism", 
+            "Lesbian", 
+            "Bisexuality", 
+            "Drug", 
+            "Sex_and_the_law", 
+            "Sex", 
+            "Homicide", 
+            "United_States_Army", 
+            "Waiver", 
+            "Gay"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Colonel"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pacific_Ocean", 
+            "Rape", 
+            "Thread_(Pern)", 
+            "Theft", 
+            "Retirement", 
+            "Drug", 
+            "2009", 
+            "Time_(magazine)", 
+            "Colonel"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Pun"
+        ], 
+        "postID": 4
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Big_O_notation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chat_show", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Juice", 
+            "Orange_(fruit)", 
+            "Orange_juice", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Bail_out_(finance)", 
+            "Faith", 
+            "JFK_(film)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Germany", 
+            "Health_care", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Health_care_reform", 
+            "Bail_out_(finance)", 
+            "Hungary", 
+            "1946", 
+            "1920", 
+            "George_W._Bush", 
+            "Infrastructure"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Television_program", 
+            "Barack_Obama", 
+            "Economy", 
+            "Hugo_Ch\u00e1vez", 
+            "Health_care", 
+            "Hugo_Award", 
+            "Television"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Actor"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cojones"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "David_Letterman", 
+            "Left-wing_politics", 
+            "David_Letterman", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Jay_Leno", 
+            "John_McCain"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Jay_Leno"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Big_O_notation"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Chat_show", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Juice", 
+            "Orange_(fruit)", 
+            "Orange_juice", 
+            "Barack_Obama"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Bail_out_(finance)", 
+            "Faith", 
+            "JFK_(film)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Germany", 
+            "Health_care", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Health_care_reform", 
+            "Bail_out_(finance)", 
+            "Hungary", 
+            "1946", 
+            "1920", 
+            "George_W._Bush", 
+            "Infrastructure"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Television_program", 
+            "Barack_Obama", 
+            "Economy", 
+            "Hugo_Ch\u00e1vez", 
+            "Health_care", 
+            "Hugo_Award", 
+            "Television"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Actor"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cojones"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "David_Letterman", 
+            "Left-wing_politics", 
+            "David_Letterman", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Jay_Leno", 
+            "John_McCain"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Jay_Leno"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Big_O_notation"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Chat_show", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Juice", 
+            "Orange_(fruit)", 
+            "Orange_juice", 
+            "Barack_Obama"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Bail_out_(finance)", 
+            "Faith", 
+            "JFK_(film)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Germany", 
+            "Health_care", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Health_care_reform", 
+            "Bail_out_(finance)", 
+            "Hungary", 
+            "1946", 
+            "1920", 
+            "George_W._Bush", 
+            "Infrastructure"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Television_program", 
+            "Barack_Obama", 
+            "Economy", 
+            "Hugo_Ch\u00e1vez", 
+            "Health_care", 
+            "Hugo_Award", 
+            "Television"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Actor"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cojones"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "David_Letterman", 
+            "Left-wing_politics", 
+            "David_Letterman", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Jay_Leno", 
+            "John_McCain"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Jay_Leno"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Big_O_notation"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Chat_show", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Juice", 
+            "Orange_(fruit)", 
+            "Orange_juice", 
+            "Barack_Obama"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Bail_out_(finance)", 
+            "Bail_out_(finance)", 
+            "Faith", 
+            "JFK_(film)"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Inflation", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Germany", 
+            "Health_care", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Health_care_reform", 
+            "Bail_out_(finance)", 
+            "Hungary", 
+            "1946", 
+            "1920", 
+            "George_W._Bush", 
+            "Infrastructure"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)", 
+            "Television_program", 
+            "Barack_Obama", 
+            "Economy", 
+            "Hugo_Ch\u00e1vez", 
+            "Health_care", 
+            "Hugo_Award", 
+            "Television"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Actor"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Cojones"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "David_Letterman", 
+            "Left-wing_politics", 
+            "David_Letterman", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Jay_Leno", 
+            "John_McCain"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Teleprompter", 
+            "Barack_Obama", 
+            "Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Barack_Obama", 
+            "Jay_Leno"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [], 
+        "postID": 80
+    }
+]

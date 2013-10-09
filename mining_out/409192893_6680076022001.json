@@ -1,0 +1,666 @@
+[
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Flag"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Saga"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tantrum", 
+            "Tantrum", 
+            "Brat", 
+            "Kinda_(Doctor_Who)", 
+            "Nielsen_Broadcast_Data_Systems", 
+            "Persuasion", 
+            "Civic_Democratic_Party", 
+            "Tantrum", 
+            "Brat", 
+            "Spoiled_brat", 
+            "Liberal_Party_of_Australia"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Chief_of_Naval_Operations", 
+            "Chief_of_Naval_Operations", 
+            "Forecastle", 
+            "Chief_of_Naval_Operations", 
+            "Barack_Obama", 
+            "Chief_of_Naval_Operations", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "E-mail", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bologna_sausage"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Irony", 
+            "Civic_Democratic_Party", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "Turkish_general_election,_2002"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "1500", 
+            "Plastic", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "John_McCain"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sportsmanship"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "National_security", 
+            "Veterinarian", 
+            "Wow_(recording)", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "KBR_(company)", 
+            "Turkey"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Blog", 
+            "Major", 
+            "Shift_key", 
+            "Right-wing_politics", 
+            "United_States_Marine_Corps", 
+            "Barack_Obama", 
+            "Special_forces", 
+            "Barack_Obama", 
+            "Kentucky", 
+            "California", 
+            "Barack_Obama", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_forces", 
+            "Georgia_(U.S._state)", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Democratic_Party_(United_States)", 
+            "1st_Marine_Division_(United_States)", 
+            "Barack_Obama", 
+            "Shift_key", 
+            "Muscogee_County,_Georgia", 
+            "Major", 
+            "Tennessee", 
+            "Infantry", 
+            "Barack_Obama", 
+            "Airborne_forces", 
+            "Shift_key", 
+            "Shift_key", 
+            "5th_Special_Forces_Group_(United_States)", 
+            "5th_Special_Forces_Group_(United_States)", 
+            "Fort_Bragg,_North_Carolina", 
+            "Campbell,_California", 
+            "Onslow_County,_North_Carolina", 
+            "Major", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Barack_Obama", 
+            "Fort_Benning", 
+            "Battalion", 
+            "Fort_Campbell", 
+            "Shift_key", 
+            "3rd_Special_Forces_Group_(United_States)", 
+            "John_McCain", 
+            "United_States_Army", 
+            "Airborne_forces", 
+            "Shift_key", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Shift_key", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_forces", 
+            "82nd_Airborne_Division_(United_States)", 
+            "82nd_Airborne_Division_(United_States)", 
+            "Montgomery,_Alabama", 
+            "Major", 
+            "John_McCain", 
+            "3rd_Infantry_Division_(United_States)", 
+            "Shift_key", 
+            "2004", 
+            "2004", 
+            "Marine_Corps_Base_Camp_Pendleton", 
+            "Barack_Obama", 
+            "2004", 
+            "101st_Airborne_Division_(United_States)", 
+            "Pendleton,_Oregon", 
+            "Christian", 
+            "101st_Airborne_Division_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Army", 
+            "Cumberland_County,_North_Carolina", 
+            "Shift_key", 
+            "Braxton_Bragg", 
+            "Major", 
+            "7th_Special_Forces_Group_(United_States)", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "2004", 
+            "3rd_Ranger_Battalion_(United_States)", 
+            "United_States_Army_Rangers", 
+            "82nd_Airborne_Division_(United_States)", 
+            "North_Carolina", 
+            "San_Diego,_California", 
+            "Barack_Obama", 
+            "San_Diego_State_University", 
+            "Shift_key", 
+            "North_Carolina", 
+            "John_McCain", 
+            "2004", 
+            "United_States_Marine_Corps", 
+            "United_States_Army", 
+            "2nd_Marine_Division_(United_States)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chilean_presidential_election,_1999\u20132000", 
+            "Terrorism", 
+            "Acorn", 
+            "Democratic_Party_(United_States)", 
+            "Political_corruption", 
+            "Electoral_college", 
+            "College", 
+            "Election_Day"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Deal,_Kent", 
+            "Turkey"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Yellow_dog_Updater,_Modified", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)", 
+            "Plastic"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "Nice", 
+            "Schizophasia", 
+            "Salad", 
+            "Palin_Majere", 
+            "Sarah_Palin", 
+            "List_of_designated_terrorist_organizations"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Rhetoric", 
+            "Deficit", 
+            "County", 
+            "United_States_presidential_election,_2004", 
+            "Deficit", 
+            "Fort_Stewart", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Iraq", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Afghanistan", 
+            "Fort_Hood", 
+            "Democratic_Party_(United_States)", 
+            "Hood_(comics)", 
+            "United_States_presidential_election,_2008", 
+            "Spin_(magazine)", 
+            "John_McCain", 
+            "John_McCain"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Flag"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Saga"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Tantrum", 
+            "Tantrum", 
+            "Brat", 
+            "Kinda_(Doctor_Who)", 
+            "Nielsen_Broadcast_Data_Systems", 
+            "Persuasion", 
+            "Civic_Democratic_Party", 
+            "Tantrum", 
+            "Brat", 
+            "Spoiled_brat", 
+            "Liberal_Party_of_Australia"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Chief_of_Naval_Operations", 
+            "Chief_of_Naval_Operations", 
+            "Forecastle", 
+            "Chief_of_Naval_Operations", 
+            "Barack_Obama", 
+            "Chief_of_Naval_Operations", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "E-mail", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bologna_sausage"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Irony", 
+            "Civic_Democratic_Party", 
+            "George_W._Bush", 
+            "John_McCain", 
+            "Turkish_general_election,_2002"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "1500", 
+            "Plastic", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "John_McCain"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sportsmanship"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "National_security", 
+            "Veterinarian", 
+            "Wow_(recording)", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "United_States_Department_of_Homeland_Security"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "KBR_(company)", 
+            "Turkey"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Blog", 
+            "Major", 
+            "Shift_key", 
+            "Right-wing_politics", 
+            "United_States_Marine_Corps", 
+            "Barack_Obama", 
+            "Special_forces", 
+            "Barack_Obama", 
+            "Kentucky", 
+            "California", 
+            "Barack_Obama", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_forces", 
+            "Georgia_(U.S._state)", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Democratic_Party_(United_States)", 
+            "1st_Marine_Division_(United_States)", 
+            "Barack_Obama", 
+            "Shift_key", 
+            "Muscogee_County,_Georgia", 
+            "Major", 
+            "Tennessee", 
+            "Infantry", 
+            "Barack_Obama", 
+            "Airborne_forces", 
+            "Shift_key", 
+            "Shift_key", 
+            "5th_Special_Forces_Group_(United_States)", 
+            "5th_Special_Forces_Group_(United_States)", 
+            "Fort_Bragg,_North_Carolina", 
+            "Campbell,_California", 
+            "Onslow_County,_North_Carolina", 
+            "Major", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps", 
+            "Barack_Obama", 
+            "Fort_Benning", 
+            "Battalion", 
+            "Fort_Campbell", 
+            "Shift_key", 
+            "3rd_Special_Forces_Group_(United_States)", 
+            "John_McCain", 
+            "United_States_Army", 
+            "Airborne_forces", 
+            "Shift_key", 
+            "Marine_Corps_Base_Camp_Lejeune", 
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Shift_key", 
+            "Special_Forces_Group_(Belgium)", 
+            "Special_forces", 
+            "82nd_Airborne_Division_(United_States)", 
+            "82nd_Airborne_Division_(United_States)", 
+            "Montgomery,_Alabama", 
+            "Major", 
+            "John_McCain", 
+            "3rd_Infantry_Division_(United_States)", 
+            "Shift_key", 
+            "2004", 
+            "2004", 
+            "Marine_Corps_Base_Camp_Pendleton", 
+            "Barack_Obama", 
+            "2004", 
+            "101st_Airborne_Division_(United_States)", 
+            "Pendleton,_Oregon", 
+            "Christian", 
+            "101st_Airborne_Division_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Army", 
+            "Cumberland_County,_North_Carolina", 
+            "Shift_key", 
+            "Braxton_Bragg", 
+            "Major", 
+            "7th_Special_Forces_Group_(United_States)", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "2004", 
+            "3rd_Ranger_Battalion_(United_States)", 
+            "United_States_Army_Rangers", 
+            "82nd_Airborne_Division_(United_States)", 
+            "North_Carolina", 
+            "San_Diego,_California", 
+            "Barack_Obama", 
+            "San_Diego_State_University", 
+            "Shift_key", 
+            "North_Carolina", 
+            "John_McCain", 
+            "2004", 
+            "United_States_Marine_Corps", 
+            "United_States_Army", 
+            "2nd_Marine_Division_(United_States)"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Chilean_presidential_election,_1999\u20132000", 
+            "Terrorism", 
+            "Acorn", 
+            "Democratic_Party_(United_States)", 
+            "Political_corruption", 
+            "Electoral_college", 
+            "College", 
+            "Election_Day"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Deal,_Kent", 
+            "Turkey"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Yellow_dog_Updater,_Modified", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)", 
+            "Turkey_(bird)", 
+            "Plastic"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "Nice", 
+            "Schizophasia", 
+            "Salad", 
+            "Palin_Majere", 
+            "Sarah_Palin", 
+            "List_of_designated_terrorist_organizations"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Rhetoric", 
+            "Deficit", 
+            "County", 
+            "United_States_presidential_election,_2004", 
+            "Deficit", 
+            "Fort_Stewart", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "Iraq", 
+            "John_McCain", 
+            "Barack_Obama", 
+            "John_McCain", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "John_McCain", 
+            "Afghanistan", 
+            "Fort_Hood", 
+            "Democratic_Party_(United_States)", 
+            "Hood_(comics)", 
+            "United_States_presidential_election,_2008", 
+            "Spin_(magazine)", 
+            "John_McCain", 
+            "John_McCain"
+        ], 
+        "postID": 56
+    }
+]

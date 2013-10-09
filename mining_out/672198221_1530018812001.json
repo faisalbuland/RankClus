@@ -1,0 +1,87 @@
+[
+    {
+        "entity": [
+            "Hospital", 
+            "Robbery", 
+            "Hell"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Short_story", 
+            "Happy_ending"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Harvey", 
+            "Paul_Harvey"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "National_Rifle_Association", 
+            "Right-wing_politics", 
+            "Wow"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Silent_majority"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Probability", 
+            "Sheriff", 
+            "Insurance_contract", 
+            "Umbrella_insurance", 
+            "United_States_dollar", 
+            "Sheriff", 
+            "Insurance", 
+            "Thomas_Jefferson", 
+            "County_(United_States)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Extremism", 
+            "Florida", 
+            "Self-defense"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Neo_(The_Matrix)"
+        ], 
+        "postID": 13
+    }
+]

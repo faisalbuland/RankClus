@@ -1,0 +1,67 @@
+[
+    {
+        "entity": [
+            "Ossetia", 
+            "News_(band)", 
+            "Russian_language", 
+            "Thread_(computer_science)", 
+            "News_(band)", 
+            "Agence_France-Presse"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Russia", 
+            "Gerald_Ford"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Georgia_(U.S._state)", 
+            "Foreign_minister", 
+            "2009", 
+            "Japan", 
+            "Minister_(government)", 
+            "Borat", 
+            "Israel", 
+            "March_15", 
+            "Sun", 
+            "Hellenic_Aeronautical_Technologies", 
+            "Disco", 
+            "Skit", 
+            "United_States", 
+            "Somaliland_presidential_election,_2009", 
+            "Georgians", 
+            "E-mail"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Refugee", 
+            "Georgians", 
+            "Ossetians", 
+            "NATO", 
+            "Monument", 
+            "President", 
+            "Georgia_(U.S._state)", 
+            "Georgia_(U.S._state)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "BUMP_(comics)"
+        ], 
+        "postID": 6
+    }
+]

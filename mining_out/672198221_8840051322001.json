@@ -1,0 +1,88 @@
+[
+    {
+        "entity": [
+            "Money"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Dog"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Irish_republicanism", 
+            "Social_security"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Giro", 
+            "United_States_Department_of_Defense", 
+            "Bank"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Automotive_industry", 
+            "Health_care"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Deficit", 
+            "Government_debt"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Canada", 
+            "United_States_Senate", 
+            "Alzheimer's_disease", 
+            "Nursing_home", 
+            "Social_Security_(United_States)", 
+            "Nursing", 
+            "Social_Security_Administration", 
+            "Social_security", 
+            "Idiot", 
+            "United_States", 
+            "Canada", 
+            "United_States_nationality_law"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Social_security", 
+            "Boarding_house"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Adage", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "Stimulus_(physiology)", 
+            "Cracker_(food)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

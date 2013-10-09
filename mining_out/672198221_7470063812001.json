@@ -1,0 +1,135 @@
+[
+    {
+        "entity": [
+            "Herd", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "Gymnastics", 
+            "American_International_Group", 
+            "Hook_(music)", 
+            "Subprime_mortgage_crisis", 
+            "American_International_Group", 
+            "Stampede", 
+            "Bail_(disambiguation)", 
+            "American_International_Group", 
+            "Tax", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "United_States_Senate", 
+            "Tax", 
+            "Barack_Obama", 
+            "Tax", 
+            "Reflection_(physics)", 
+            "Stimulus", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Law"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Anger", 
+            "Carcass", 
+            "Meat", 
+            "Wild_Dog"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Bail_(disambiguation)", 
+            "Tommy_(rock_opera)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Culpability", 
+            "Kyle_Broflovski", 
+            "Drill", 
+            "Roman_Senate", 
+            "Voice_vote", 
+            "United_States_Senate", 
+            "Australian_Senate", 
+            "United_States_Senate", 
+            "IMHO"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Nathan_Banks", 
+            "Wall_Street", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "United_States_Congress", 
+            "Bail_(disambiguation)", 
+            "American_International_Group", 
+            "Stock_broker", 
+            "Stock_broker", 
+            "Bail_(disambiguation)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Bail_out_(finance)", 
+            "George_W._Bush", 
+            "Fluid", 
+            "Economics", 
+            "Deregulation", 
+            "Doctrine", 
+            "Capitalism", 
+            "Regulation", 
+            "Barack_Obama", 
+            "Free_market", 
+            "Bail_out_(finance)", 
+            "Socialism", 
+            "Corporation"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Junk_(ship)", 
+            "Junk_food", 
+            "Bail_out_(finance)", 
+            "Junk_(ship)", 
+            "Junk_(ship)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California", 
+            "Mouse"
+        ], 
+        "postID": 11
+    }
+]

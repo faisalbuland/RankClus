@@ -1,0 +1,54 @@
+[
+    {
+        "entity": [
+            "Town", 
+            "County", 
+            "Tax", 
+            "U.S._state"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Buttress", 
+            "Highway", 
+            "Waterline", 
+            "Carpentry", 
+            "Oklahoma", 
+            "Pier", 
+            "Bluff,_New_Zealand", 
+            "Red_River_(Mississippi_watershed)", 
+            "Stimulus_(physiology)", 
+            "Bridge", 
+            "Oklahoma", 
+            "Stimulus_(physiology)", 
+            "Oklahoma", 
+            "Concrete"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Michigan", 
+            "Stimulus_(physiology)", 
+            "Thomas_Paine", 
+            "Thomas_Paine", 
+            "Norm_(mathematics)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Legislature", 
+            "Sales_tax", 
+            "Liberalism", 
+            "Common_sense", 
+            "Tax", 
+            "Law", 
+            "United_States", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 4
+    }
+]

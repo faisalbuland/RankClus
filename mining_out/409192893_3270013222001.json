@@ -1,0 +1,382 @@
+[
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Joe_Biden_presidential_campaign,_2008"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sugar", 
+            "Theatrical_property", 
+            "Big_Business"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Joe_Biden"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Bravo", 
+            "Political_correctness", 
+            "Sierra", 
+            "Correctness", 
+            "STFU", 
+            "Common_sense", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Author"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "Mexico", 
+            "Aircraft", 
+            "Economy", 
+            "Fixed-wing_aircraft", 
+            "Gossip", 
+            "Aircraft"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "IMHO"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Curiosity"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Boston,_Massachusetts", 
+            "Software_bug"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Disease", 
+            "Contagious", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Common_sense", 
+            "Infectious_disease"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Routing_Information_Protocol", 
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Sheriff_Woody", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Wow_(Kylie_Minogue_song)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Joe_Biden_presidential_campaign,_2008"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Aggression", 
+            "American_Civil_War", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Hayes,_Hillingdon", 
+            "Terrorism", 
+            "Woody_Hayes", 
+            "Soil", 
+            "Primary_election", 
+            "List_of_terrorist_incidents", 
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "WBTS", 
+            "Carl_von_Clausewitz", 
+            "Pardon", 
+            "Carl_von_Clausewitz", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Aircraft"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Inference"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Palin_Majere"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Joe_Biden_presidential_campaign,_2008"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Sugar", 
+            "Theatrical_property", 
+            "Big_Business"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Messiah", 
+            "Joe_Biden"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Bravo", 
+            "Political_correctness", 
+            "Sierra", 
+            "Correctness", 
+            "STFU", 
+            "Common_sense", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Author"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Rapid_transit", 
+            "Mexico", 
+            "Aircraft", 
+            "Economy", 
+            "Fixed-wing_aircraft", 
+            "Gossip", 
+            "Aircraft"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "IMHO"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "E-mail", 
+            "Curiosity"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Influenza", 
+            "Boston,_Massachusetts", 
+            "Software_bug"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Disease", 
+            "Contagious", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "Common_sense", 
+            "Infectious_disease"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Routing_Information_Protocol", 
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon", 
+            "Woody_Hayes"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Sheriff_Woody", 
+            "Carl_von_Clausewitz", 
+            "Carl_von_Clausewitz", 
+            "Wow_(Kylie_Minogue_song)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Joe_Biden_presidential_campaign,_2008"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Aggression", 
+            "American_Civil_War", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "Hayes,_Hillingdon", 
+            "Terrorism", 
+            "Woody_Hayes", 
+            "Soil", 
+            "Primary_election", 
+            "List_of_terrorist_incidents", 
+            "Sheriff_Woody", 
+            "Routing_Information_Protocol"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "WBTS", 
+            "Carl_von_Clausewitz", 
+            "Pardon", 
+            "Carl_von_Clausewitz", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Aircraft"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Inference"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Palin_Majere"
+        ], 
+        "postID": 48
+    }
+]

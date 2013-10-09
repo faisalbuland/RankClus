@@ -1,0 +1,632 @@
+[
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Foreign_policy", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Japan"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "International_sanctions"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_Nations"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "International_sanctions"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Confidence_trick", 
+            "George_W._Bush", 
+            "Religion"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Squatting", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Body_odor"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Korean_language", 
+            "Seoul"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Mod_(computer_gaming)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_Nations_Security_Council", 
+            "Kim_Jong-il", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_Nations_Security_Council", 
+            "George_W._Bush", 
+            "Korea", 
+            "United_States", 
+            "Stern", 
+            "United_Nations", 
+            "George_W._Bush", 
+            "Korean_War", 
+            "President_of_the_United_States", 
+            "North_Korea", 
+            "Barack_Obama", 
+            "Aggression", 
+            "Weapon", 
+            "North_Korea", 
+            "Aircraft", 
+            "Conscription", 
+            "Associated_Press", 
+            "Korean_War", 
+            "2006_North_Korean_missile_test", 
+            "George_W._Bush", 
+            "Nuclear_weapon", 
+            "North_Korea", 
+            "President_of_the_United_States", 
+            "Nuclear_weapon", 
+            "International_sanctions", 
+            "Japan", 
+            "Weapon_of_mass_destruction", 
+            "White_House", 
+            "Chapter_VII_of_the_United_Nations_Charter", 
+            "North_Korea", 
+            "Nuclear_weapon", 
+            "Korea", 
+            "United_States", 
+            "Fox", 
+            "George_W._Bush", 
+            "Korea", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bolton", 
+            "Nut_(fruit)", 
+            "October_6", 
+            "International_sanctions", 
+            "Kim_Jong-il", 
+            "North_Korea", 
+            "United_Nations", 
+            "Conscription", 
+            "Chapter_VII_of_the_United_Nations_Charter", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "George_W._Bush", 
+            "United_Nations_Charter", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Korean_War", 
+            "Weapon", 
+            "North_Korea", 
+            "2006", 
+            "Nuclear_weapon", 
+            "2006_North_Korean_nuclear_test", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "2006_North_Korean_nuclear_test", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "October_10", 
+            "United_Nations_Security_Council", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Associated_Press", 
+            "George_W._Bush", 
+            "Koreans", 
+            "United_Nations_Charter", 
+            "Posture", 
+            "North_Korea", 
+            "Korean_War"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Golf", 
+            "Canada", 
+            "Nancy", 
+            "Golf_course", 
+            "Faith", 
+            "Town", 
+            "National_anthem", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Anthem", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Census", 
+            "Manufacturing", 
+            "Celebrity", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Good_faith", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "John_Kerry", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Iran_men's_national_volleyball_team", 
+            "Bill_Clinton", 
+            "Corporation", 
+            "Stimulus_(physiology)", 
+            "Tie-dye", 
+            "Town_meeting", 
+            "Tea", 
+            "Health_care", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Sabre", 
+            "Japan", 
+            "George_W._Bush"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Missile"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Liability", 
+            "Community_organizing", 
+            "Politician", 
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "Duck", 
+            "Chicago", 
+            "Hillary_Rodham_Clinton", 
+            "Browser_Helper_Object", 
+            "Water"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Nuke", 
+            "Faith", 
+            "Diplomacy"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Yawn"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Infant", 
+            "The_One_(film)", 
+            "Television"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "DAM_(band)", 
+            "Identity_(philosophy)", 
+            "Alive_(film)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Tongue", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Foreign_policy", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Japan"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "International_sanctions"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "United_Nations"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "International_sanctions"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Artist", 
+            "Confidence_trick", 
+            "George_W._Bush", 
+            "Religion"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Squatting", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Body_odor"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Body_odor", 
+            "Korean_language", 
+            "Seoul"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Mod_(computer_gaming)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "United_Nations_Security_Council", 
+            "Kim_Jong-il", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_Nations_Security_Council", 
+            "George_W._Bush", 
+            "Korea", 
+            "United_States", 
+            "Stern", 
+            "United_Nations", 
+            "George_W._Bush", 
+            "Korean_War", 
+            "President_of_the_United_States", 
+            "North_Korea", 
+            "Barack_Obama", 
+            "Aggression", 
+            "Weapon", 
+            "North_Korea", 
+            "Aircraft", 
+            "Conscription", 
+            "Associated_Press", 
+            "Korean_War", 
+            "2006_North_Korean_missile_test", 
+            "George_W._Bush", 
+            "Nuclear_weapon", 
+            "North_Korea", 
+            "President_of_the_United_States", 
+            "Nuclear_weapon", 
+            "International_sanctions", 
+            "Japan", 
+            "Weapon_of_mass_destruction", 
+            "White_House", 
+            "Chapter_VII_of_the_United_Nations_Charter", 
+            "North_Korea", 
+            "Nuclear_weapon", 
+            "Korea", 
+            "United_States", 
+            "Fox", 
+            "George_W._Bush", 
+            "Korea", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bolton", 
+            "Nut_(fruit)", 
+            "October_6", 
+            "International_sanctions", 
+            "Kim_Jong-il", 
+            "North_Korea", 
+            "United_Nations", 
+            "Conscription", 
+            "Chapter_VII_of_the_United_Nations_Charter", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "George_W._Bush", 
+            "United_Nations_Charter", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "Korean_War", 
+            "Weapon", 
+            "North_Korea", 
+            "2006", 
+            "Nuclear_weapon", 
+            "2006_North_Korean_nuclear_test", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "2006_North_Korean_nuclear_test", 
+            "Nuclear_weapon", 
+            "United_States", 
+            "October_10", 
+            "United_Nations_Security_Council", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Associated_Press", 
+            "George_W._Bush", 
+            "Koreans", 
+            "United_Nations_Charter", 
+            "Posture", 
+            "North_Korea", 
+            "Korean_War"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Golf", 
+            "Canada", 
+            "Nancy", 
+            "Golf_course", 
+            "Faith", 
+            "Town", 
+            "National_anthem", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Anthem", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Census", 
+            "Manufacturing", 
+            "Celebrity", 
+            "List_of_Presidents_of_the_Philippines", 
+            "George_W._Bush", 
+            "Good_faith", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "John_Kerry", 
+            "Barack_Obama", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Iran_men's_national_volleyball_team", 
+            "Bill_Clinton", 
+            "Corporation", 
+            "Stimulus_(physiology)", 
+            "Tie-dye", 
+            "Town_meeting", 
+            "Tea", 
+            "Health_care", 
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Sabre", 
+            "Japan", 
+            "George_W._Bush"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Missile"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Liability", 
+            "Community_organizing", 
+            "Politician", 
+            "Browser_Helper_Object", 
+            "Browser_Helper_Object", 
+            "Duck", 
+            "Chicago", 
+            "Hillary_Rodham_Clinton", 
+            "Browser_Helper_Object", 
+            "Water"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Nuke", 
+            "Faith", 
+            "Diplomacy"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Yawn"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Infant", 
+            "The_One_(film)", 
+            "Television"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "DAM_(band)", 
+            "Identity_(philosophy)", 
+            "Alive_(film)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Tongue", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 60
+    }
+]

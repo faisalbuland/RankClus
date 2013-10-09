@@ -1,0 +1,926 @@
+[
+    {
+        "entity": [
+            "Violence", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "Freedom_of_speech", 
+            "Glenn_Beck", 
+            "List_of_jazz_musicians", 
+            "Programmer", 
+            "State", 
+            "Jazz", 
+            "Blog", 
+            "Programmer", 
+            "Barack_Obama", 
+            "Conservatism", 
+            "Google", 
+            "Computer_software", 
+            "Charles_Foster_Johnson", 
+            "George_W._Bush", 
+            "Traffic_ticket", 
+            "Writer", 
+            "George_W._Bush", 
+            "Discourse", 
+            "Barack_Obama", 
+            "Homeland_security", 
+            "Islamophobia", 
+            "Liberty", 
+            "Piracy", 
+            "Narrative", 
+            "List_of_national_founding_fathers", 
+            "Tea_bag", 
+            "Tea", 
+            "Little_Green_Footballs", 
+            "Discourse", 
+            "Liberalism", 
+            "Gerald_Ford", 
+            "Beck", 
+            "Musician", 
+            "Liberalism", 
+            "Violence", 
+            "United_States_Department_of_Homeland_Security", 
+            "Bigotry", 
+            "Charles_Foster_Johnson", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company", 
+            "Somalia", 
+            "Aisle"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Ideology", 
+            "Beck", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "News_media", 
+            "George_W._Bush", 
+            "News", 
+            "Bias_of_an_estimator", 
+            "News_media", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Tiny_Encryption_Algorithm", 
+            "George_W._Bush", 
+            "Censorship", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bias_of_an_estimator"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Ford_Motor_Company", 
+            "Violence", 
+            "Gerald_Ford"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "G20", 
+            "Violence", 
+            "Tiny_Encryption_Algorithm", 
+            "Government_spending", 
+            "Tiny_Encryption_Algorithm", 
+            "Liberalism", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "George_W._Bush", 
+            "Police", 
+            "Bias_of_an_estimator", 
+            "George_W._Bush", 
+            "2004_Republican_National_Convention", 
+            "President_of_the_United_States", 
+            "2004_Republican_National_Convention", 
+            "George_W._Bush", 
+            "Liberal_Party_of_Canada", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Playbook", 
+            "George_W._Bush", 
+            "Liberal_Party_(UK)", 
+            "Censorship", 
+            "Paint", 
+            "Tiny_Encryption_Algorithm", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Government_spending", 
+            "Tax", 
+            "Balanced_budget"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Anarchists", 
+            "Anarchists", 
+            "G20", 
+            "Liberalism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Straw_man"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Social_studies", 
+            "Planet", 
+            "College"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Farm"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Demo_(music)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Oil", 
+            "Riot", 
+            "Atlanta,_Georgia", 
+            "Liberalism", 
+            "Liberalism", 
+            "Anarchism"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "Freedom_of_speech", 
+            "Glenn_Beck", 
+            "List_of_jazz_musicians", 
+            "Programmer", 
+            "State", 
+            "Jazz", 
+            "Blog", 
+            "Programmer", 
+            "Barack_Obama", 
+            "Conservatism", 
+            "Google", 
+            "Computer_software", 
+            "Charles_Foster_Johnson", 
+            "George_W._Bush", 
+            "Traffic_ticket", 
+            "Writer", 
+            "George_W._Bush", 
+            "Discourse", 
+            "Barack_Obama", 
+            "Homeland_security", 
+            "Islamophobia", 
+            "Liberty", 
+            "Piracy", 
+            "Narrative", 
+            "List_of_national_founding_fathers", 
+            "Tea_bag", 
+            "Tea", 
+            "Little_Green_Footballs", 
+            "Discourse", 
+            "Liberalism", 
+            "Gerald_Ford", 
+            "Beck", 
+            "Musician", 
+            "Liberalism", 
+            "Violence", 
+            "United_States_Department_of_Homeland_Security", 
+            "Bigotry", 
+            "Charles_Foster_Johnson", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company", 
+            "Somalia", 
+            "Aisle"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Ideology", 
+            "Beck", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "News_media", 
+            "George_W._Bush", 
+            "News", 
+            "Bias_of_an_estimator", 
+            "News_media", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Tiny_Encryption_Algorithm", 
+            "George_W._Bush", 
+            "Censorship", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bias_of_an_estimator"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Ford_Motor_Company", 
+            "Violence", 
+            "Gerald_Ford"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "G20", 
+            "Violence", 
+            "Tiny_Encryption_Algorithm", 
+            "Government_spending", 
+            "Tiny_Encryption_Algorithm", 
+            "Liberalism", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "George_W._Bush", 
+            "Police", 
+            "Bias_of_an_estimator", 
+            "George_W._Bush", 
+            "2004_Republican_National_Convention", 
+            "President_of_the_United_States", 
+            "2004_Republican_National_Convention", 
+            "George_W._Bush", 
+            "Liberal_Party_of_Canada", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Playbook", 
+            "George_W._Bush", 
+            "Liberal_Party_(UK)", 
+            "Censorship", 
+            "Paint", 
+            "Tiny_Encryption_Algorithm", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Government_spending", 
+            "Tax", 
+            "Balanced_budget"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Anarchists", 
+            "Anarchists", 
+            "G20", 
+            "Liberalism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Straw_man"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Social_studies", 
+            "Planet", 
+            "College"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Farm"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Demo_(music)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Oil", 
+            "Riot", 
+            "Atlanta,_Georgia", 
+            "Liberalism", 
+            "Liberalism", 
+            "Anarchism"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "Freedom_of_speech", 
+            "Glenn_Beck", 
+            "List_of_jazz_musicians", 
+            "Programmer", 
+            "State", 
+            "Jazz", 
+            "Blog", 
+            "Programmer", 
+            "Barack_Obama", 
+            "Conservatism", 
+            "Google", 
+            "Computer_software", 
+            "Charles_Foster_Johnson", 
+            "George_W._Bush", 
+            "Traffic_ticket", 
+            "Writer", 
+            "George_W._Bush", 
+            "Discourse", 
+            "Barack_Obama", 
+            "Homeland_security", 
+            "Islamophobia", 
+            "Liberty", 
+            "Piracy", 
+            "Narrative", 
+            "List_of_national_founding_fathers", 
+            "Tea_bag", 
+            "Tea", 
+            "Little_Green_Footballs", 
+            "Discourse", 
+            "Liberalism", 
+            "Gerald_Ford", 
+            "Beck", 
+            "Musician", 
+            "Liberalism", 
+            "Violence", 
+            "United_States_Department_of_Homeland_Security", 
+            "Bigotry", 
+            "Charles_Foster_Johnson", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company", 
+            "Somalia", 
+            "Aisle"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Ideology", 
+            "Beck", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "News_media", 
+            "George_W._Bush", 
+            "News", 
+            "Bias_of_an_estimator", 
+            "News_media", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Tiny_Encryption_Algorithm", 
+            "George_W._Bush", 
+            "Censorship", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bias_of_an_estimator"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Ford_Motor_Company", 
+            "Violence", 
+            "Gerald_Ford"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "G20", 
+            "Violence", 
+            "Tiny_Encryption_Algorithm", 
+            "Government_spending", 
+            "Tiny_Encryption_Algorithm", 
+            "Liberalism", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "George_W._Bush", 
+            "Police", 
+            "Bias_of_an_estimator", 
+            "George_W._Bush", 
+            "2004_Republican_National_Convention", 
+            "President_of_the_United_States", 
+            "2004_Republican_National_Convention", 
+            "George_W._Bush", 
+            "Liberal_Party_of_Canada", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Playbook", 
+            "George_W._Bush", 
+            "Liberal_Party_(UK)", 
+            "Censorship", 
+            "Paint", 
+            "Tiny_Encryption_Algorithm", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Government_spending", 
+            "Tax", 
+            "Balanced_budget"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Anarchists", 
+            "Anarchists", 
+            "G20", 
+            "Liberalism"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Straw_man"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Social_studies", 
+            "Planet", 
+            "College"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Farm"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Demo_(music)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Oil", 
+            "Riot", 
+            "Atlanta,_Georgia", 
+            "Liberalism", 
+            "Liberalism", 
+            "Anarchism"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Conservatism", 
+            "United_States_Congress", 
+            "Freedom_of_speech", 
+            "Glenn_Beck", 
+            "List_of_jazz_musicians", 
+            "Programmer", 
+            "State", 
+            "Jazz", 
+            "Blog", 
+            "Programmer", 
+            "Barack_Obama", 
+            "Conservatism", 
+            "Google", 
+            "Computer_software", 
+            "Charles_Foster_Johnson", 
+            "George_W._Bush", 
+            "Traffic_ticket", 
+            "Writer", 
+            "George_W._Bush", 
+            "Discourse", 
+            "Barack_Obama", 
+            "Homeland_security", 
+            "Islamophobia", 
+            "Liberty", 
+            "Piracy", 
+            "Narrative", 
+            "List_of_national_founding_fathers", 
+            "Tea_bag", 
+            "Tea", 
+            "Little_Green_Footballs", 
+            "Discourse", 
+            "Liberalism", 
+            "Gerald_Ford", 
+            "Beck", 
+            "Musician", 
+            "Liberalism", 
+            "Violence", 
+            "United_States_Department_of_Homeland_Security", 
+            "Bigotry", 
+            "Charles_Foster_Johnson", 
+            "United_States", 
+            "Violence", 
+            "Ford_Motor_Company", 
+            "Somalia", 
+            "Aisle"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Ideology", 
+            "Beck", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Conservatism"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Tiny_Encryption_Algorithm", 
+            "News_media", 
+            "George_W._Bush", 
+            "News", 
+            "Bias_of_an_estimator", 
+            "News_media", 
+            "President_of_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Tiny_Encryption_Algorithm", 
+            "George_W._Bush", 
+            "Censorship", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bias_of_an_estimator"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Ford_Motor_Company", 
+            "Violence", 
+            "Gerald_Ford"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [], 
+        "postID": 68
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "News_media", 
+            "G20", 
+            "Violence", 
+            "Tiny_Encryption_Algorithm", 
+            "Government_spending", 
+            "Tiny_Encryption_Algorithm", 
+            "Liberalism", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "George_W._Bush", 
+            "Police", 
+            "Bias_of_an_estimator", 
+            "George_W._Bush", 
+            "2004_Republican_National_Convention", 
+            "President_of_the_United_States", 
+            "2004_Republican_National_Convention", 
+            "George_W._Bush", 
+            "Liberal_Party_of_Canada", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Playbook", 
+            "George_W._Bush", 
+            "Liberal_Party_(UK)", 
+            "Censorship", 
+            "Paint", 
+            "Tiny_Encryption_Algorithm", 
+            "Anti-war", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Government_spending", 
+            "Tax", 
+            "Balanced_budget"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Anarchists", 
+            "Anarchists", 
+            "G20", 
+            "Liberalism"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Straw_man"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Social_studies", 
+            "Planet", 
+            "College"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Farm"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Liberalism"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Demo_(music)"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Oil", 
+            "Riot", 
+            "Atlanta,_Georgia", 
+            "Liberalism", 
+            "Liberalism", 
+            "Anarchism"
+        ], 
+        "postID": 80
+    }
+]

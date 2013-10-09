@@ -1,0 +1,102 @@
+[
+    {
+        "entity": [
+            "Associated_Press"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Misery_(film)", 
+            "Wannabe", 
+            "Bates_College"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "EXE", 
+            "Imus,_Cavite"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "E-mail"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Connecticut", 
+            "Chimpanzee"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Connecticut", 
+            "Bud", 
+            "Ape", 
+            "Planet", 
+            "Ape"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)", 
+            "Handcuffs"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Radio_programming", 
+            "911", 
+            "Radio", 
+            "Dude"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "State_income_tax", 
+            "Income_tax", 
+            "Taxation_in_the_United_States", 
+            "U.S._state"
+        ], 
+        "postID": 17
+    }
+]

@@ -1,0 +1,700 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Multiple_document_interface", 
+            "MINERVA", 
+            "Maine", 
+            "Interlibrary_loan"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Amazon.com"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Carlin,_Nevada", 
+            "Home_Box_Office", 
+            "Stereotype", 
+            "George_Carlin", 
+            "Religion", 
+            "Regions_of_France"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "Nightmare", 
+            "Extremism", 
+            "Violence", 
+            "Religion", 
+            "Religious_revival", 
+            "Snake", 
+            "Extremism", 
+            "Camera", 
+            "Bill_Maher", 
+            "Trance"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "Faith", 
+            "Humour", 
+            "Agnosticism", 
+            "Choir", 
+            "The_Da_Vinci_Code", 
+            "Critical_thinking", 
+            "Religion", 
+            "Religious_belief", 
+            "Leonardo_da_Vinci", 
+            "The_Da_Vinci_Code", 
+            "Atheism", 
+            "Multi-purpose_stadium", 
+            "Religion"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Atheism", 
+            "Religion", 
+            "Theatre", 
+            "Documentary_film"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "The_Last_Temptation_(album)", 
+            "Temptation", 
+            "Christian", 
+            "Bible", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Christianity", 
+            "The_Last_Temptation_of_Christ", 
+            "Jesus"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Clan_MacDuff", 
+            "!!!", 
+            "Forum"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Contact_(film)", 
+            "Jodie_Foster"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Mysticism", 
+            "New_Age", 
+            "College", 
+            "Federico_Fellini", 
+            "Juliette_(novel)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Brandy", 
+            "DVD", 
+            "Paul_Mason", 
+            "Saw_(film)", 
+            "Library", 
+            "Freemasonry"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Kinda_(Doctor_Who)", 
+            "Scooby-Doo_(character)", 
+            "Shaggy_Rogers", 
+            "Humour", 
+            "Flatulence"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Amusement_park", 
+            "Satire", 
+            "Mahr", 
+            "Satire", 
+            "Comedy", 
+            "Satire", 
+            "Bill_Maher", 
+            "Film"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Angst", 
+            "Sage", 
+            "Physical_trauma"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Angst", 
+            "God", 
+            "Holy_See", 
+            "Temptation", 
+            "Photosystem", 
+            "Scientology", 
+            "Angst", 
+            "Holy_See", 
+            "Motif_(visual_arts)", 
+            "Priest", 
+            "Mormon", 
+            "The_Last_Temptation_(album)", 
+            "Posture", 
+            "The_Last_Temptation"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Francis_Collins_(geneticist)", 
+            "Jesus", 
+            "Genome_project", 
+            "Human_genome", 
+            "Drama", 
+            "Genome", 
+            "Human_Genome_Project", 
+            "Meme"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Belief_system"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Ann_Coulter", 
+            "Religion", 
+            "Coulter,_South_Lanarkshire", 
+            "Target_audience", 
+            "Documentary_film", 
+            "Comedy", 
+            "Comedy"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Mormon", 
+            "Blockbuster_Inc.", 
+            "Bill_Maher", 
+            "Utah", 
+            "Town", 
+            "Atheism"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Chin", 
+            "Lay_speaker", 
+            "!!!_(album)", 
+            "Mental_breakdown", 
+            "March_29", 
+            "Minister_(Christianity)", 
+            "1983", 
+            "!!!_(album)", 
+            "2009", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "Church", 
+            "Hell", 
+            "1991", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "2002", 
+            "Agnosticism", 
+            "Sun"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Spade", 
+            "Eye", 
+            "Violence", 
+            "Hookah", 
+            "Spade", 
+            "Gospel"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Mirror", 
+            "!!!", 
+            "God", 
+            "God", 
+            "God", 
+            "God", 
+            "God", 
+            "Atheism", 
+            "Dishonesty", 
+            "Everybody_(Turtles4_single)", 
+            "\u0100tman_(Hinduism)", 
+            "C._J._Cregg", 
+            "Bible", 
+            "1st_century", 
+            "God", 
+            "!!!", 
+            "God", 
+            "Politics", 
+            "Social_hierarchy", 
+            "God", 
+            "Wart", 
+            "Religion", 
+            "Pimple", 
+            "Fealty", 
+            "Self_image", 
+            "Protagonist", 
+            "Bible", 
+            "Hierarchy", 
+            "Politics", 
+            "21st_century"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Soul", 
+            "God", 
+            "False_hero", 
+            "Furniture", 
+            "Pride", 
+            "God", 
+            "Colloquialism", 
+            "Christianity", 
+            "Christian", 
+            "Dictator", 
+            "Psyche_(psychology)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Mat", 
+            "God"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Causality", 
+            "Hypothesis", 
+            "Atheism", 
+            "God", 
+            "Mirror", 
+            "Atheism", 
+            "Religion", 
+            "God", 
+            "God", 
+            "Middle_man", 
+            "Religion", 
+            "Jail", 
+            "Bond_(finance)", 
+            "Logic", 
+            "Atheism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Multiple_document_interface", 
+            "MINERVA", 
+            "Maine", 
+            "Interlibrary_loan"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Amazon.com"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Carlin,_Nevada", 
+            "Home_Box_Office", 
+            "Stereotype", 
+            "George_Carlin", 
+            "Religion", 
+            "Regions_of_France"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Theatre", 
+            "Nightmare", 
+            "Extremism", 
+            "Violence", 
+            "Religion", 
+            "Religious_revival", 
+            "Snake", 
+            "Extremism", 
+            "Camera", 
+            "Bill_Maher", 
+            "Trance"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Christian", 
+            "Faith", 
+            "Humour", 
+            "Agnosticism", 
+            "Choir", 
+            "The_Da_Vinci_Code", 
+            "Critical_thinking", 
+            "Religion", 
+            "Religious_belief", 
+            "Leonardo_da_Vinci", 
+            "The_Da_Vinci_Code", 
+            "Atheism", 
+            "Multi-purpose_stadium", 
+            "Religion"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Atheism", 
+            "Religion", 
+            "Theatre", 
+            "Documentary_film"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "The_Last_Temptation_(album)", 
+            "Temptation", 
+            "Christian", 
+            "Bible", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Christianity", 
+            "The_Last_Temptation_of_Christ", 
+            "Jesus"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Clan_MacDuff", 
+            "!!!", 
+            "Forum"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Contact_(film)", 
+            "Jodie_Foster"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Mysticism", 
+            "New_Age", 
+            "College", 
+            "Federico_Fellini", 
+            "Juliette_(novel)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Brandy", 
+            "DVD", 
+            "Paul_Mason", 
+            "Saw_(film)", 
+            "Library", 
+            "Freemasonry"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Kinda_(Doctor_Who)", 
+            "Scooby-Doo_(character)", 
+            "Shaggy_Rogers", 
+            "Humour", 
+            "Flatulence"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Amusement_park", 
+            "Satire", 
+            "Mahr", 
+            "Satire", 
+            "Comedy", 
+            "Satire", 
+            "Bill_Maher", 
+            "Film"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Angst", 
+            "Sage", 
+            "Physical_trauma"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Angst", 
+            "God", 
+            "Holy_See", 
+            "Temptation", 
+            "Photosystem", 
+            "Scientology", 
+            "Angst", 
+            "Holy_See", 
+            "Motif_(visual_arts)", 
+            "Priest", 
+            "Mormon", 
+            "The_Last_Temptation_(album)", 
+            "Posture", 
+            "The_Last_Temptation"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Francis_Collins_(geneticist)", 
+            "Jesus", 
+            "Genome_project", 
+            "Human_genome", 
+            "Drama", 
+            "Genome", 
+            "Human_Genome_Project", 
+            "Meme"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Belief_system"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Ann_Coulter", 
+            "Religion", 
+            "Coulter,_South_Lanarkshire", 
+            "Target_audience", 
+            "Documentary_film", 
+            "Comedy", 
+            "Comedy"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mormon", 
+            "Blockbuster_Inc.", 
+            "Bill_Maher", 
+            "Utah", 
+            "Town", 
+            "Atheism"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Chin", 
+            "Lay_speaker", 
+            "!!!_(album)", 
+            "Mental_breakdown", 
+            "March_29", 
+            "Minister_(Christianity)", 
+            "1983", 
+            "!!!_(album)", 
+            "2009", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "Church", 
+            "Hell", 
+            "1991", 
+            "!!!_(album)", 
+            "!!!_(album)", 
+            "2002", 
+            "Agnosticism", 
+            "Sun"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Spade", 
+            "Eye", 
+            "Violence", 
+            "Hookah", 
+            "Spade", 
+            "Gospel"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Mirror", 
+            "!!!", 
+            "God", 
+            "God", 
+            "God", 
+            "God", 
+            "God", 
+            "Atheism", 
+            "Dishonesty", 
+            "Everybody_(Turtles4_single)", 
+            "\u0100tman_(Hinduism)", 
+            "C._J._Cregg", 
+            "Bible", 
+            "1st_century", 
+            "God", 
+            "!!!", 
+            "God", 
+            "Politics", 
+            "Social_hierarchy", 
+            "God", 
+            "Wart", 
+            "Religion", 
+            "Pimple", 
+            "Fealty", 
+            "Self_image", 
+            "Protagonist", 
+            "Bible", 
+            "Hierarchy", 
+            "Politics", 
+            "21st_century"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Soul", 
+            "God", 
+            "False_hero", 
+            "Furniture", 
+            "Pride", 
+            "God", 
+            "Colloquialism", 
+            "Christianity", 
+            "Christian", 
+            "Dictator", 
+            "Psyche_(psychology)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Mat", 
+            "God"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Causality", 
+            "Hypothesis", 
+            "Atheism", 
+            "God", 
+            "Mirror", 
+            "Atheism", 
+            "Religion", 
+            "God", 
+            "God", 
+            "Middle_man", 
+            "Religion", 
+            "Jail", 
+            "Bond_(finance)", 
+            "Logic", 
+            "Atheism"
+        ], 
+        "postID": 60
+    }
+]

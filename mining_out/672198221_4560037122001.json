@@ -1,0 +1,76 @@
+[
+    {
+        "entity": [
+            "Stafford", 
+            "Barack_Obama", 
+            "NBA_Draft", 
+            "Murder", 
+            "Detroit,_Michigan", 
+            "Education", 
+            "College_football", 
+            "Chief_executive_officer", 
+            "Detroit,_Michigan", 
+            "Debt"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "American_football", 
+            "Detroit_Lions", 
+            "American_football", 
+            "Correlation", 
+            "Draft_(sports)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stadium", 
+            "Stadium", 
+            "Jacksonville_Jaguars", 
+            "Stadium", 
+            "High_school", 
+            "Income_tax", 
+            "Taxation_in_the_United_States", 
+            "Taxation_in_the_United_States", 
+            "Prom", 
+            "Stadium", 
+            "Taxation_in_the_United_States", 
+            "Detroit,_Michigan"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Stadium", 
+            "Team_sport", 
+            "Stadium", 
+            "Bond_(finance)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "College_football", 
+            "National_Football_League_Players_Association", 
+            "Semi-pro", 
+            "National_Football_League", 
+            "Detroit_Lions", 
+            "Detroit,_Michigan", 
+            "St._Louis_Rams", 
+            "Tax", 
+            "Detroit_Lions", 
+            "Blackout_(broadcasting)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }
+]

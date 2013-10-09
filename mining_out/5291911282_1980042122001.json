@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Navy", 
+            "U.S._military_pay_grades", 
+            "Jet_aircraft", 
+            "Internal_combustion_engine", 
+            "Mechanic", 
+            "Air_force", 
+            "Jet_engine"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "United_States_Army", 
+            "Soldier", 
+            "United_States_Air_Force", 
+            "D._V._Gundappa", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "God"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Helicopter", 
+            "United_States_Army", 
+            "Blindness", 
+            "Mechanic", 
+            "Eye", 
+            "Jet_engine", 
+            "United_States_Air_Force", 
+            "Jet_aircraft", 
+            "Recruiter", 
+            "Save_(baseball)", 
+            "Aircraft_engine", 
+            "Aircraft", 
+            "Good_Luck"
+        ], 
+        "postID": 3
+    }
+]

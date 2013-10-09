@@ -1,0 +1,899 @@
+[
+    {
+        "entity": [
+            "Developmental_psychology", 
+            "F\u00fchrer", 
+            "American_Family_Association", 
+            "Psychology", 
+            "Radio", 
+            "Ford_Focus_(international)", 
+            "James_Dobson", 
+            "Toleration", 
+            "Interest_group", 
+            "Radio_programming", 
+            "United_States", 
+            "Dobson,_North_Carolina", 
+            "The_Family_(band)", 
+            "Doctor_(Doctor_Who)", 
+            "Desensitization", 
+            "1996", 
+            "Right-wing_politics", 
+            "American_Family", 
+            "Subsidiary"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Homosexuality", 
+            "Muslim", 
+            "Western_culture", 
+            "Bias", 
+            "Boy_Love_Association", 
+            "Git_(software)", 
+            "Deviance_(sociology)", 
+            "Modern_era", 
+            "Toleration", 
+            "Islam", 
+            "Conspiracy_(crime)", 
+            "Subliminal_message", 
+            "Theft", 
+            "Minority_group", 
+            "Aura", 
+            "Social_stigma", 
+            "Thread_(computer_science)", 
+            "Culture", 
+            "Criminal_justice", 
+            "Exploitation", 
+            "Commerce", 
+            "Islam", 
+            "Bachelor_of_Science", 
+            "United_States", 
+            "Open_society", 
+            "Toleration"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Self_(programming_language)", 
+            "Righteousness"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Toleration", 
+            "Pope", 
+            "Christian_denomination", 
+            "Tobacco", 
+            "Christian_denomination", 
+            "Christian", 
+            "Tobacco", 
+            "American_Family_Association", 
+            "Tobacco_smoking", 
+            "Roman_Catholic_Church", 
+            "Christian", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church", 
+            "Social_issues", 
+            "Tobacco_smoking", 
+            "Roman_Empire", 
+            "Roman_Empire", 
+            "God", 
+            "Protestantism", 
+            "American_Family", 
+            "Civil_union", 
+            "Sex", 
+            "Tobacco", 
+            "Tobacco_smoking", 
+            "United_States", 
+            "Protestantism", 
+            "Roman_Catholic_Church", 
+            "United_States", 
+            "Libertarianism", 
+            "Roman_Empire", 
+            "Tobacco_smoking", 
+            "Catholic", 
+            "Catholic", 
+            "Intolerance", 
+            "Roman_Catholic_Church", 
+            "Satan", 
+            "Trade_union"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Discourse", 
+            "Protestantism", 
+            "Nose", 
+            "Roman_Catholic_Church", 
+            "Fault_(geology)", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sin", 
+            "God", 
+            "Wind", 
+            "God", 
+            "God"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Eternity", 
+            "God"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Psilocybin_mushrooms"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Mushroom"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Devil", 
+            "Philosophy", 
+            "Satan", 
+            "Satan"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Satan", 
+            "God", 
+            "Jesus"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Bible"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Last_Judgment", 
+            "Judgment", 
+            "Anarchy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Jesus", 
+            "Satan", 
+            "God", 
+            "Israel", 
+            "Bible", 
+            "Bible", 
+            "Jesus", 
+            "God"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Moses", 
+            "Bible"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Book_of_Judges"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Lisp"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Bird", 
+            "Cattle", 
+            "God", 
+            "Creation_according_to_Genesis", 
+            "Book_of_Genesis", 
+            "Fish", 
+            "Creation_according_to_Genesis"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Stalking"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Satan", 
+            "Baptism_with_the_Holy_Spirit", 
+            "Spirit"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "2009", 
+            "Israel", 
+            "May_3", 
+            "Sun"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Book_of_Job", 
+            "Satan", 
+            "Satan", 
+            "God", 
+            "Satan", 
+            "God"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Police"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            ".so", 
+            "Bee", 
+            "Spelling_bee"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Donnie", 
+            "Hope,_British_Columbia", 
+            "Shalom"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Developmental_psychology", 
+            "F\u00fchrer", 
+            "American_Family_Association", 
+            "Psychology", 
+            "Radio", 
+            "Ford_Focus_(international)", 
+            "James_Dobson", 
+            "Toleration", 
+            "Interest_group", 
+            "Radio_programming", 
+            "United_States", 
+            "Dobson,_North_Carolina", 
+            "The_Family_(band)", 
+            "Doctor_(Doctor_Who)", 
+            "Desensitization", 
+            "1996", 
+            "Right-wing_politics", 
+            "American_Family", 
+            "Subsidiary"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Homosexuality", 
+            "Muslim", 
+            "Western_culture", 
+            "Bias", 
+            "Boy_Love_Association", 
+            "Git_(software)", 
+            "Deviance_(sociology)", 
+            "Modern_era", 
+            "Toleration", 
+            "Islam", 
+            "Conspiracy_(crime)", 
+            "Subliminal_message", 
+            "Theft", 
+            "Minority_group", 
+            "Aura", 
+            "Social_stigma", 
+            "Thread_(computer_science)", 
+            "Culture", 
+            "Criminal_justice", 
+            "Exploitation", 
+            "Commerce", 
+            "Islam", 
+            "Bachelor_of_Science", 
+            "United_States", 
+            "Open_society", 
+            "Toleration"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Self_(programming_language)", 
+            "Righteousness"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Toleration", 
+            "Pope", 
+            "Christian_denomination", 
+            "Tobacco", 
+            "Christian_denomination", 
+            "Christian", 
+            "Tobacco", 
+            "American_Family_Association", 
+            "Tobacco_smoking", 
+            "Roman_Catholic_Church", 
+            "Christian", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church", 
+            "Social_issues", 
+            "Tobacco_smoking", 
+            "Roman_Empire", 
+            "Roman_Empire", 
+            "God", 
+            "Protestantism", 
+            "American_Family", 
+            "Civil_union", 
+            "Sex", 
+            "Tobacco", 
+            "Tobacco_smoking", 
+            "United_States", 
+            "Protestantism", 
+            "Roman_Catholic_Church", 
+            "United_States", 
+            "Libertarianism", 
+            "Roman_Empire", 
+            "Tobacco_smoking", 
+            "Catholic", 
+            "Catholic", 
+            "Intolerance", 
+            "Roman_Catholic_Church", 
+            "Satan", 
+            "Trade_union"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Discourse", 
+            "Protestantism", 
+            "Nose", 
+            "Roman_Catholic_Church", 
+            "Fault_(geology)", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sin", 
+            "God", 
+            "Wind", 
+            "God", 
+            "God"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Eternity", 
+            "God"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Psilocybin_mushrooms"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Mushroom"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Devil", 
+            "Philosophy", 
+            "Satan", 
+            "Satan"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Satan", 
+            "God", 
+            "Jesus"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Bible"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Last_Judgment", 
+            "Judgment", 
+            "Anarchy"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Jesus", 
+            "Satan", 
+            "God", 
+            "Israel", 
+            "Bible", 
+            "Bible", 
+            "Jesus", 
+            "God"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Moses", 
+            "Bible"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Book_of_Judges"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Lisp"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Bird", 
+            "Cattle", 
+            "God", 
+            "Creation_according_to_Genesis", 
+            "Book_of_Genesis", 
+            "Fish", 
+            "Creation_according_to_Genesis"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Stalking"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Satan", 
+            "Baptism_with_the_Holy_Spirit", 
+            "Spirit"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "2009", 
+            "Israel", 
+            "May_3", 
+            "Sun"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Book_of_Job", 
+            "Satan", 
+            "Satan", 
+            "God", 
+            "Satan", 
+            "God"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Police"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            ".so", 
+            "Bee", 
+            "Spelling_bee"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Donnie", 
+            "Hope,_British_Columbia", 
+            "Shalom"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Developmental_psychology", 
+            "F\u00fchrer", 
+            "American_Family_Association", 
+            "Psychology", 
+            "Radio", 
+            "Ford_Focus_(international)", 
+            "James_Dobson", 
+            "Toleration", 
+            "Interest_group", 
+            "Radio_programming", 
+            "United_States", 
+            "Dobson,_North_Carolina", 
+            "The_Family_(band)", 
+            "Doctor_(Doctor_Who)", 
+            "Desensitization", 
+            "1996", 
+            "Right-wing_politics", 
+            "American_Family", 
+            "Subsidiary"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Homosexuality", 
+            "Muslim", 
+            "Western_culture", 
+            "Bias", 
+            "Boy_Love_Association", 
+            "Git_(software)", 
+            "Deviance_(sociology)", 
+            "Modern_era", 
+            "Toleration", 
+            "Islam", 
+            "Conspiracy_(crime)", 
+            "Subliminal_message", 
+            "Theft", 
+            "Minority_group", 
+            "Aura", 
+            "Social_stigma", 
+            "Thread_(computer_science)", 
+            "Culture", 
+            "Criminal_justice", 
+            "Exploitation", 
+            "Commerce", 
+            "Islam", 
+            "Bachelor_of_Science", 
+            "United_States", 
+            "Open_society", 
+            "Toleration"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Self_(programming_language)", 
+            "Righteousness"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Toleration", 
+            "Pope", 
+            "Christian_denomination", 
+            "Tobacco", 
+            "Christian_denomination", 
+            "Christian", 
+            "Tobacco", 
+            "American_Family_Association", 
+            "Tobacco_smoking", 
+            "Roman_Catholic_Church", 
+            "Christian", 
+            "Roman_Catholic_Church", 
+            "Roman_Catholic_Church", 
+            "Social_issues", 
+            "Tobacco_smoking", 
+            "Roman_Empire", 
+            "Roman_Empire", 
+            "God", 
+            "Protestantism", 
+            "American_Family", 
+            "Civil_union", 
+            "Sex", 
+            "Tobacco", 
+            "Tobacco_smoking", 
+            "United_States", 
+            "Protestantism", 
+            "Roman_Catholic_Church", 
+            "United_States", 
+            "Libertarianism", 
+            "Roman_Empire", 
+            "Tobacco_smoking", 
+            "Catholic", 
+            "Catholic", 
+            "Intolerance", 
+            "Roman_Catholic_Church", 
+            "Satan", 
+            "Trade_union"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Discourse", 
+            "Protestantism", 
+            "Nose", 
+            "Roman_Catholic_Church", 
+            "Fault_(geology)", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Sin", 
+            "God", 
+            "Wind", 
+            "God", 
+            "God"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Eternity", 
+            "God"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Psilocybin_mushrooms"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Mushroom"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Devil", 
+            "Philosophy", 
+            "Satan", 
+            "Satan"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Satan", 
+            "God", 
+            "Jesus"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Bible"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Last_Judgment", 
+            "Judgment", 
+            "Anarchy"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Jesus", 
+            "Satan", 
+            "God", 
+            "Israel", 
+            "Bible", 
+            "Bible", 
+            "Jesus", 
+            "God"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Moses", 
+            "Bible"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Book_of_Judges"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Lisp"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Bird", 
+            "Cattle", 
+            "God", 
+            "Creation_according_to_Genesis", 
+            "Book_of_Genesis", 
+            "Fish", 
+            "Creation_according_to_Genesis"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Stalking"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Satan", 
+            "Baptism_with_the_Holy_Spirit", 
+            "Spirit"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "2009", 
+            "Israel", 
+            "May_3", 
+            "Sun"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Book_of_Job", 
+            "Satan", 
+            "Satan", 
+            "God", 
+            "Satan", 
+            "God"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Police"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            ".so", 
+            "Bee", 
+            "Spelling_bee"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Donnie", 
+            "Hope,_British_Columbia", 
+            "Shalom"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 90
+    }
+]

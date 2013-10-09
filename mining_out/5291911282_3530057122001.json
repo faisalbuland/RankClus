@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "Army_and_Air_Force_Exchange_Service", 
+            "Army_and_Air_Force_Exchange_Service", 
+            "Army_and_Air_Force_Exchange_Service", 
+            "Acronym_and_initialism", 
+            "Shelf"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Soldier"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Scotch_Tape", 
+            "Scotch", 
+            "Margarita", 
+            "Intrusion", 
+            "Foot_(length)", 
+            "Natural_satellite", 
+            "Boredom", 
+            "Thread_(Pern)", 
+            "Saw_(film)", 
+            "Poster", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Wal-Mart"
+        ], 
+        "postID": 4
+    }
+]

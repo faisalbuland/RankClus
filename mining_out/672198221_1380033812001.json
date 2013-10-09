@@ -1,0 +1,374 @@
+[
+    {
+        "entity": [
+            "Target_practice", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Japan"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Food_chain", 
+            "Infrastructure"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Time_(magazine)", 
+            "Creep_(deformation)", 
+            "IMHO", 
+            "Despotism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Command_and_control_(military)", 
+            "Precision_bombing"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "Missile", 
+            "Nonsense", 
+            "Weapon", 
+            "Nuclear_weapon", 
+            "South_Korea", 
+            "Korea", 
+            "Nuclear_weapon", 
+            "Koreans", 
+            "Seoul", 
+            "Seoul", 
+            "Hostage", 
+            "LOL", 
+            "Nonsense", 
+            "North_Korea"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Troll", 
+            "Dude"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Troll", 
+            "Cold_War", 
+            "Sabre"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Wind"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "North_Korea", 
+            "Korea"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Suspension_(vehicle)", 
+            "Protagonist", 
+            "Mod_(lifestyle)", 
+            "Antagonist"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "Hit_(baseball)", 
+            "Casus_belli", 
+            "North_Korea"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Korean_language", 
+            "North_Korea", 
+            "South_Korea", 
+            "South_Korea", 
+            "Koreans", 
+            "South_Korea", 
+            "Korean_Demilitarized_Zone", 
+            "Seoul", 
+            "United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "South_Korea", 
+            "Koreans"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Korean_People's_Army", 
+            "World_War_II", 
+            "Republic_of_Korea_Army", 
+            "North_Korea", 
+            "Korean_War"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Koreans", 
+            "Korean_language", 
+            "South_Korea", 
+            "Seoul", 
+            "North_Korea"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Japan", 
+            "South_Korea", 
+            "Japan", 
+            "United_States", 
+            "United_States", 
+            "2006_North_Korean_missile_test", 
+            "Despotism", 
+            "United_States_territory", 
+            "Koreans", 
+            "Korea", 
+            "Provocation_(legal)", 
+            "Korean_language", 
+            "United_States", 
+            "North_Korea"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Korea", 
+            "North_Korea", 
+            "United_States", 
+            "Mass", 
+            "0_(number)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Target_practice", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Japan"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Food_chain", 
+            "Infrastructure"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Time_(magazine)", 
+            "Creep_(deformation)", 
+            "IMHO", 
+            "Despotism"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Mass", 
+            "Command_and_control_(military)", 
+            "Precision_bombing"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "Missile", 
+            "Nonsense", 
+            "Weapon", 
+            "Nuclear_weapon", 
+            "South_Korea", 
+            "Korea", 
+            "Nuclear_weapon", 
+            "Koreans", 
+            "Seoul", 
+            "Seoul", 
+            "Hostage", 
+            "LOL", 
+            "Nonsense", 
+            "North_Korea"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Troll", 
+            "Dude"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Troll", 
+            "Cold_War", 
+            "Sabre"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Wind"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Missile", 
+            "North_Korea", 
+            "Korea"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Suspension_(vehicle)", 
+            "Protagonist", 
+            "Mod_(lifestyle)", 
+            "Antagonist"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Propaganda", 
+            "Hit_(baseball)", 
+            "Casus_belli", 
+            "North_Korea"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Korean_language", 
+            "North_Korea", 
+            "South_Korea", 
+            "South_Korea", 
+            "Koreans", 
+            "South_Korea", 
+            "Korean_Demilitarized_Zone", 
+            "Seoul", 
+            "United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "South_Korea", 
+            "Koreans"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Korean_People's_Army", 
+            "World_War_II", 
+            "Republic_of_Korea_Army", 
+            "North_Korea", 
+            "Korean_War"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Koreans", 
+            "Korean_language", 
+            "South_Korea", 
+            "Seoul", 
+            "North_Korea"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Japan", 
+            "South_Korea", 
+            "Japan", 
+            "United_States", 
+            "United_States", 
+            "2006_North_Korean_missile_test", 
+            "Despotism", 
+            "United_States_territory", 
+            "Koreans", 
+            "Korea", 
+            "Provocation_(legal)", 
+            "Korean_language", 
+            "United_States", 
+            "North_Korea"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Korea", 
+            "North_Korea", 
+            "United_States", 
+            "Mass", 
+            "0_(number)"
+        ], 
+        "postID": 40
+    }
+]

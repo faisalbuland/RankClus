@@ -1,0 +1,30 @@
+[
+    {
+        "entity": [
+            "Admiral", 
+            "Military_base", 
+            "United_States_Army", 
+            "Economy", 
+            "Economy", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Germany", 
+            "Citizenship", 
+            "Citizenship", 
+            "Citizenship", 
+            "United_States_Marine_Corps", 
+            "Utah", 
+            "United_States_Army", 
+            "Security_clearance", 
+            "Iraq", 
+            "Mexico", 
+            "Highland_Clearances"
+        ], 
+        "postID": 2
+    }
+]

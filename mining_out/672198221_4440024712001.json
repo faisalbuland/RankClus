@@ -1,0 +1,60 @@
+[
+    {
+        "entity": [
+            "Cheating"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Inn"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stroller_(horse)", 
+            "Steal_(basketball)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Motel", 
+            "Ripley,_Derbyshire"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prostitution"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pregnancy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "Individual_Ready_Reserve"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Discount", 
+            "Budget"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Homelessness"
+        ], 
+        "postID": 9
+    }
+]

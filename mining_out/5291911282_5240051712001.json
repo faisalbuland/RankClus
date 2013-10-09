@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "United_States_Air_Force", 
+            "Uniform_Resource_Locator", 
+            "United_States_Air_Force", 
+            "LASIK", 
+            "Uniform_Resource_Locator", 
+            "Staff_Sergeant", 
+            "Eye_surgery", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Confidence_trick"
+        ], 
+        "postID": 6
+    }
+]

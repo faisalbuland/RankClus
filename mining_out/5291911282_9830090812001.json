@@ -1,0 +1,111 @@
+[
+    {
+        "entity": [
+            "God", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Global_Positioning_System"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Warranty", 
+            "Object_Management_Group", 
+            "Mail"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Injection_(medicine)", 
+            "Emission", 
+            "Fuel_injection"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Windshield"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Old_man", 
+            "American_system_of_manufacturing", 
+            "Wood", 
+            "Dude", 
+            "Ford_Motor_Company", 
+            "Ford_Model_T", 
+            "England", 
+            "Charcoal"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Mail", 
+            "First-class_cricket", 
+            "Postcard", 
+            "Dude", 
+            "Mail"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cattle", 
+            "Engine", 
+            "Gallon"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Kingsford_(charcoal)", 
+            "Charcoal", 
+            "Henry_Ford", 
+            "Charcoal", 
+            "Ford_Motor_Company", 
+            "Metal", 
+            "Kingsford_(charcoal)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "English_language", 
+            "Tranny"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }
+]

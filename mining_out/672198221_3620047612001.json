@@ -1,0 +1,714 @@
+[
+    {
+        "entity": [
+            "Constitution", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "United_States", 
+            "Pointer_(computing)", 
+            "Bog", 
+            "Muck_(soil)", 
+            "Finger"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Wing", 
+            "Commander-in-chief", 
+            "Constitution", 
+            "2009"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "John_Wayne", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Lighting", 
+            "National_security", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Inverse_function", 
+            "Marine_Forces_Reserve", 
+            "Captain", 
+            "George_W._Bush"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Freedom_(political)", 
+            "Berkley", 
+            "Postscript", 
+            "Hype", 
+            "!!!", 
+            "Liberal_Party_of_Canada", 
+            "California", 
+            "Liberal_Party_of_Canada", 
+            "University_of_California", 
+            "LOL", 
+            "Law", 
+            "CNN"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "George_W._Bush", 
+            "!!!", 
+            "George_W._Bush", 
+            "Civil_rights"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jumpsuit", 
+            "Guantanamo_captives'_uniforms", 
+            "Orange_(fruit)", 
+            "Elbow", 
+            "Tweed_(cloth)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "World_War_I", 
+            "Britain", 
+            "World_War_II", 
+            "Nuclear_power", 
+            "McCarthyism", 
+            "Nuclear_safety", 
+            "Joseph_McCarthy"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Terrorism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Government_agency"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Constitution"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "State", 
+            "United_States", 
+            "Economy", 
+            "Disability", 
+            "Trade_union", 
+            "United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Fatw\u0101", 
+            "Constitution"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "United_States", 
+            "Pointer_(computing)", 
+            "Bog", 
+            "Muck_(soil)", 
+            "Finger"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Wing", 
+            "Commander-in-chief", 
+            "Constitution", 
+            "2009"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "John_Wayne", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Lighting", 
+            "National_security", 
+            "United_States"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Inverse_function", 
+            "Marine_Forces_Reserve", 
+            "Captain", 
+            "George_W._Bush"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Freedom_(political)", 
+            "Berkley", 
+            "Postscript", 
+            "Hype", 
+            "!!!", 
+            "Liberal_Party_of_Canada", 
+            "California", 
+            "Liberal_Party_of_Canada", 
+            "University_of_California", 
+            "LOL", 
+            "Law", 
+            "CNN"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "George_W._Bush", 
+            "!!!", 
+            "George_W._Bush", 
+            "Civil_rights"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Jumpsuit", 
+            "Guantanamo_captives'_uniforms", 
+            "Orange_(fruit)", 
+            "Elbow", 
+            "Tweed_(cloth)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "World_War_I", 
+            "Britain", 
+            "World_War_II", 
+            "Nuclear_power", 
+            "McCarthyism", 
+            "Nuclear_safety", 
+            "Joseph_McCarthy"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Terrorism"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Government_agency"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Constitution"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "State", 
+            "United_States", 
+            "Economy", 
+            "Disability", 
+            "Trade_union", 
+            "United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Fatw\u0101", 
+            "Constitution"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "United_States", 
+            "Pointer_(computing)", 
+            "Bog", 
+            "Muck_(soil)", 
+            "Finger"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Wing", 
+            "Commander-in-chief", 
+            "Constitution", 
+            "2009"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "John_Wayne", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Lighting", 
+            "National_security", 
+            "United_States"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Inverse_function", 
+            "Marine_Forces_Reserve", 
+            "Captain", 
+            "George_W._Bush"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Freedom_(political)", 
+            "Berkley", 
+            "Postscript", 
+            "Hype", 
+            "!!!", 
+            "Liberal_Party_of_Canada", 
+            "California", 
+            "Liberal_Party_of_Canada", 
+            "University_of_California", 
+            "LOL", 
+            "Law", 
+            "CNN"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "George_W._Bush", 
+            "!!!", 
+            "George_W._Bush", 
+            "Civil_rights"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Jumpsuit", 
+            "Guantanamo_captives'_uniforms", 
+            "Orange_(fruit)", 
+            "Elbow", 
+            "Tweed_(cloth)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "World_War_I", 
+            "Britain", 
+            "World_War_II", 
+            "Nuclear_power", 
+            "McCarthyism", 
+            "Nuclear_safety", 
+            "Joseph_McCarthy"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Terrorism"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Government_agency"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Constitution"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "State", 
+            "United_States", 
+            "Economy", 
+            "Disability", 
+            "Trade_union", 
+            "United_States"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Fatw\u0101", 
+            "Constitution"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "George_W._Bush", 
+            "George_W._Bush"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "United_States", 
+            "Pointer_(computing)", 
+            "Bog", 
+            "Muck_(soil)", 
+            "Finger"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "Wing", 
+            "Commander-in-chief", 
+            "Constitution", 
+            "2009"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "United_States_Constitution"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Courage", 
+            "John_Wayne", 
+            "Wayne,_New_Jersey"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Lighting", 
+            "National_security", 
+            "United_States"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Oath", 
+            "Inverse_function", 
+            "Marine_Forces_Reserve", 
+            "Captain", 
+            "George_W._Bush"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Freedom_(political)", 
+            "Berkley", 
+            "Postscript", 
+            "Hype", 
+            "!!!", 
+            "Liberal_Party_of_Canada", 
+            "California", 
+            "Liberal_Party_of_Canada", 
+            "University_of_California", 
+            "LOL", 
+            "Law", 
+            "CNN"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "United_States", 
+            "George_W._Bush", 
+            "!!!", 
+            "George_W._Bush", 
+            "Civil_rights"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Jumpsuit", 
+            "Guantanamo_captives'_uniforms", 
+            "Orange_(fruit)", 
+            "Elbow", 
+            "Tweed_(cloth)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "World_War_I", 
+            "Britain", 
+            "World_War_II", 
+            "Nuclear_power", 
+            "McCarthyism", 
+            "Nuclear_safety", 
+            "Joseph_McCarthy"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Terrorism"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "United_States_Constitution", 
+            "United_States"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Federal_Bureau_of_Investigation", 
+            "Government_agency"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Constitution"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "State", 
+            "United_States", 
+            "Economy", 
+            "Disability", 
+            "Trade_union", 
+            "United_States"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Fatw\u0101", 
+            "Constitution"
+        ], 
+        "postID": 80
+    }
+]

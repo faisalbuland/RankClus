@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "United_States_Senate", 
+            "Racism", 
+            "Kyle_Broflovski", 
+            "Republican_Party_(United_States)", 
+            "Kyle_Broflovski", 
+            "Bob_Schieffer", 
+            "Minority_leader", 
+            "Racism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Extremism", 
+            "Barry_Goldwater", 
+            "Republican_Party_(United_States)", 
+            "Right-wing_politics", 
+            "Liberty", 
+            "Patriotism", 
+            "Barry_Goldwater", 
+            "Moderate", 
+            "Wing", 
+            "Democratic_Party_(United_States)", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Racism", 
+            "Minority_group", 
+            "African_American", 
+            "Bigotry", 
+            "Latino_(demonym)"
+        ], 
+        "postID": 4
+    }
+]

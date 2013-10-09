@@ -1,0 +1,44 @@
+[
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Homeland_security", 
+            "Maw", 
+            "Hardware", 
+            "Customs", 
+            "Lawyer", 
+            "Iranian_peoples", 
+            "Boston,_Massachusetts", 
+            "Toronto", 
+            "Prison", 
+            "Canada", 
+            "Businessperson", 
+            "Iran", 
+            "Nuclear_weapon", 
+            "Abu_Dhabi_(city)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Greed", 
+            "Ton"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Product_(chemistry)", 
+            "Uranium"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Milk"
+        ], 
+        "postID": 4
+    }
+]

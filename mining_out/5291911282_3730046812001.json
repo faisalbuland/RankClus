@@ -1,0 +1,75 @@
+[
+    {
+        "entity": [
+            "Fort_Bragg,_North_Carolina", 
+            "Judge", 
+            "Dude", 
+            "England", 
+            "Court-martial", 
+            "Braxton_Bragg"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Quantum_Corp.", 
+            "Hollywood,_Los_Angeles,_California", 
+            "Marmot", 
+            "Irrational_number", 
+            "Marmot", 
+            "Duct_tape", 
+            "Duct"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "English_language", 
+            "Cattle", 
+            "Fence", 
+            "Chain-link_fencing"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Duct_tape", 
+            "Transit_pass", 
+            "Bus", 
+            "Quantum_Corp.", 
+            "Poncho", 
+            "Bcl-2-associated_death_promoter", 
+            "Transit_pass", 
+            "Bus", 
+            "Duct", 
+            "Poncho", 
+            "Bouncer_(doorman)", 
+            "Marmot", 
+            "Duct_tape", 
+            "Bus", 
+            "Marmot", 
+            "Bus_stop"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Soldier", 
+            "LOL", 
+            "Skyliner", 
+            "Bar_association", 
+            "Bar_association", 
+            "Bar_(establishment)", 
+            "82nd_Airborne_Division_(United_States)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 6
+    }
+]

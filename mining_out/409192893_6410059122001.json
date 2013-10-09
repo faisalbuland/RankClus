@@ -1,0 +1,707 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Puppet", 
+            "Nancy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Snafu"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bag", 
+            "WAIT_(AM)", 
+            "Wizard_(magazine)", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "CBS", 
+            "Teleprompter", 
+            "Finger", 
+            "NBC", 
+            "CNN", 
+            "Barack_Obama", 
+            "Teleprompter", 
+            "Therm", 
+            "Fox_Broadcasting_Company", 
+            "Sock"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Right-wing_politics"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bow_(weapon)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Dude", 
+            "Barack_Obama", 
+            "Extremism", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Islam_in_the_United_States", 
+            "Economy", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "United_States", 
+            "Failure_in_the_intelligence_cycle", 
+            "Afghanistan", 
+            "Torture", 
+            "Bow_(weapon)", 
+            "Weapon_of_mass_destruction", 
+            "Wheel", 
+            "World_Trade_Center", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "September_11,_2001_attacks", 
+            "Rational", 
+            "Pliers", 
+            "Rationality", 
+            "Talking_point"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Middle_school", 
+            "Apologetics", 
+            "United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Scientific_community", 
+            "Harvard_Law_School", 
+            "President_of_the_United_States", 
+            "Cocaine", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Harvard_University", 
+            "Harvard_University", 
+            "Yea,_Victoria", 
+            "International_community", 
+            "United_States", 
+            "Barack_Obama", 
+            "Law_review", 
+            "United_States_Senate"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hyde_(musician)", 
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Bone", 
+            "George_(band)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "Drug"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "SOP_Rules"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "WAIT_(AM)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Orator", 
+            "Joseph_Stalin", 
+            "Washington"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "One_Nation_(Australia)", 
+            "SNAFU", 
+            "George_W._Bush", 
+            "Y'all", 
+            "Penis", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "One_Heart", 
+            "United_States_Senate"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Parrot"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Stomach"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Puppet", 
+            "Nancy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Snafu"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Bag", 
+            "WAIT_(AM)", 
+            "Wizard_(magazine)", 
+            "George_W._Bush"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "CBS", 
+            "Teleprompter", 
+            "Finger", 
+            "NBC", 
+            "CNN", 
+            "Barack_Obama", 
+            "Teleprompter", 
+            "Therm", 
+            "Fox_Broadcasting_Company", 
+            "Sock"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Right-wing_politics"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Bow_(weapon)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Dude", 
+            "Barack_Obama", 
+            "Extremism", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Islam_in_the_United_States", 
+            "Economy", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "United_States", 
+            "Failure_in_the_intelligence_cycle", 
+            "Afghanistan", 
+            "Torture", 
+            "Bow_(weapon)", 
+            "Weapon_of_mass_destruction", 
+            "Wheel", 
+            "World_Trade_Center", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "September_11,_2001_attacks", 
+            "Rational", 
+            "Pliers", 
+            "Rationality", 
+            "Talking_point"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Middle_school", 
+            "Apologetics", 
+            "United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Scientific_community", 
+            "Harvard_Law_School", 
+            "President_of_the_United_States", 
+            "Cocaine", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Harvard_University", 
+            "Harvard_University", 
+            "Yea,_Victoria", 
+            "International_community", 
+            "United_States", 
+            "Barack_Obama", 
+            "Law_review", 
+            "United_States_Senate"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Hyde_(musician)", 
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Bone", 
+            "George_(band)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "Drug"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "SOP_Rules"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "WAIT_(AM)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Orator", 
+            "Joseph_Stalin", 
+            "Washington"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "One_Nation_(Australia)", 
+            "SNAFU", 
+            "George_W._Bush", 
+            "Y'all", 
+            "Penis", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "One_Heart", 
+            "United_States_Senate"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Parrot"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Stomach"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Puppet", 
+            "Nancy"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Snafu"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Bag", 
+            "WAIT_(AM)", 
+            "Wizard_(magazine)", 
+            "George_W._Bush"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "CBS", 
+            "Teleprompter", 
+            "Finger", 
+            "NBC", 
+            "CNN", 
+            "Barack_Obama", 
+            "Teleprompter", 
+            "Therm", 
+            "Fox_Broadcasting_Company", 
+            "Sock"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Winger_(ice_hockey)", 
+            "Right-wing_politics"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Education"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Bow_(weapon)"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Dude", 
+            "Barack_Obama", 
+            "Extremism", 
+            "George_W._Bush", 
+            "Terrorism", 
+            "Islam_in_the_United_States", 
+            "Economy", 
+            "United_States", 
+            "United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "United_States", 
+            "Failure_in_the_intelligence_cycle", 
+            "Afghanistan", 
+            "Torture", 
+            "Bow_(weapon)", 
+            "Weapon_of_mass_destruction", 
+            "Wheel", 
+            "World_Trade_Center", 
+            "Intelligence_(information_gathering)"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "September_11,_2001_attacks", 
+            "Rational", 
+            "Pliers", 
+            "Rationality", 
+            "Talking_point"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Middle_school", 
+            "Apologetics", 
+            "United_States"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Scientific_community", 
+            "Harvard_Law_School", 
+            "President_of_the_United_States", 
+            "Cocaine", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Harvard_University", 
+            "Harvard_University", 
+            "Yea,_Victoria", 
+            "International_community", 
+            "United_States", 
+            "Barack_Obama", 
+            "Law_review", 
+            "United_States_Senate"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Hyde_(musician)", 
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Bone", 
+            "George_(band)"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Browser_Helper_Object", 
+            "Drug"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "SOP_Rules"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "WAIT_(AM)"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Orator", 
+            "Joseph_Stalin", 
+            "Washington"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "One_Nation_(Australia)", 
+            "SNAFU", 
+            "George_W._Bush", 
+            "Y'all", 
+            "Penis", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "One_Heart", 
+            "United_States_Senate"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Demo_(music)", 
+            "Parrot"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Stomach"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 84
+    }
+]

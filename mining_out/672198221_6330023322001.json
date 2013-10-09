@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "Tobacco_smoking", 
+            "Fault_(geology)", 
+            "Tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Alcoholism", 
+            "Obesity", 
+            "Ge'ez_language", 
+            "Tobacco_smoking", 
+            "Chain_smoking", 
+            "Obesity", 
+            "Obesity", 
+            "Heaven", 
+            "Tobacco_smoking", 
+            "Lesbian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Lesbian"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Conservatism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Triangle", 
+            "Furry_fandom"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Duh_(album)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Insurance", 
+            "Sharpshooter_(professional_wrestling)", 
+            "AIDS", 
+            "Heterosexuality", 
+            "Gay", 
+            "Sexually_transmitted_disease", 
+            "Sexually_transmitted_disease", 
+            "HIV"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Chinese_language", 
+            "Stimulus_(physiology)", 
+            "Homosexual_orientation", 
+            "College", 
+            "Tax"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "FedEx"
+        ], 
+        "postID": 11
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Hugo_Ch\u00e1vez", 
+            "Petr\u00f3leos_de_Venezuela_S.A.", 
+            "Pennsylvania", 
+            "Venezuela", 
+            "Subsidiary", 
+            "Public_ownership", 
+            "New_Jersey", 
+            "Jersey", 
+            "Petty_Island", 
+            "Citgo"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Human", 
+            "Venezuela", 
+            "IMHO"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Public_Broadcasting_Service", 
+            "Frontline_(U.S._TV_series)", 
+            "Chavez_(band)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Dictator", 
+            "Hugo_Ch\u00e1vez", 
+            "Venezuela"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Regions_of_France"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Island"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,620 @@
+[
+    {
+        "entity": [
+            "Health_care_reform", 
+            "Health_care", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Insurance", 
+            "Stocks"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Fault_(geology)", 
+            "Health_insurance", 
+            "Unburned_hydrocarbon", 
+            "Insurance"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Playboy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Bureaucrat", 
+            "Physician", 
+            "Health_care", 
+            "Tom_Daschle", 
+            "Diagnosis", 
+            "Health_care", 
+            "Health_care", 
+            "Red_star", 
+            "States_and_territories_of_India", 
+            "Medicine", 
+            "Star"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Dollar", 
+            "Anatomical_terms_of_location", 
+            "Health_care", 
+            "United_States_Senate", 
+            "650", 
+            "Confidence_trick", 
+            "Ear"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Medicine", 
+            "Health_care", 
+            "Health_insurance", 
+            "Star", 
+            "Physician", 
+            "Diagnosis", 
+            "Insurance", 
+            "Bankruptcy", 
+            "Right-wing_politics", 
+            "Red_star", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Health_care", 
+            "Health_care_reform", 
+            "Health_care", 
+            "Bureaucrat", 
+            "U.S._state", 
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Dime_(United_States_coin)", 
+            "Health_care"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Boater", 
+            "Health_care", 
+            "Solar_System", 
+            "Health_care", 
+            "Homework", 
+            "ABLE_(programming_language)", 
+            "Insurance", 
+            "Right-wing_politics", 
+            "Medicaid", 
+            "Rationing", 
+            "Health_care", 
+            "Common_sense", 
+            "Pimple", 
+            "Health_care", 
+            "Physician", 
+            "Health_care", 
+            "Insurance", 
+            "Vehicle_insurance", 
+            "Health_care", 
+            "Gross_domestic_product", 
+            "Rationing", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "Nancy", 
+            "Health_care"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Medication", 
+            "Profit", 
+            "Electronic_medical_record", 
+            "United_States", 
+            "Medical_record", 
+            "Blog", 
+            "Medication", 
+            "Drug", 
+            "Pharmaceutical_company", 
+            "Insurance", 
+            "Pharmaceutical_company", 
+            "Medication", 
+            "Tom_Daschle", 
+            "Price_controls", 
+            "Health_care", 
+            "Insurance", 
+            "Right-wing_politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Red_Wing_High_School", 
+            "Chickenhawk_(politics)", 
+            "Red_Wing_High_School", 
+            "Winger_(ice_hockey)", 
+            "Winger_(ice_hockey)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Insurance", 
+            "Insurance"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Hint_(musician)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "March_5", 
+            "2009", 
+            "2009"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Health_care_reform", 
+            "Health_care", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Insurance", 
+            "Stocks"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Fault_(geology)", 
+            "Health_insurance", 
+            "Unburned_hydrocarbon", 
+            "Insurance"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Playboy"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Bureaucrat", 
+            "Physician", 
+            "Health_care", 
+            "Tom_Daschle", 
+            "Diagnosis", 
+            "Health_care", 
+            "Health_care", 
+            "Red_star", 
+            "States_and_territories_of_India", 
+            "Medicine", 
+            "Star"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Dollar", 
+            "Anatomical_terms_of_location", 
+            "Health_care", 
+            "United_States_Senate", 
+            "650", 
+            "Confidence_trick", 
+            "Ear"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Medicine", 
+            "Health_care", 
+            "Health_insurance", 
+            "Star", 
+            "Physician", 
+            "Diagnosis", 
+            "Insurance", 
+            "Bankruptcy", 
+            "Right-wing_politics", 
+            "Red_star", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Health_care", 
+            "Health_care_reform", 
+            "Health_care", 
+            "Bureaucrat", 
+            "U.S._state", 
+            "United_States"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Dime_(United_States_coin)", 
+            "Health_care"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Boater", 
+            "Health_care", 
+            "Solar_System", 
+            "Health_care", 
+            "Homework", 
+            "ABLE_(programming_language)", 
+            "Insurance", 
+            "Right-wing_politics", 
+            "Medicaid", 
+            "Rationing", 
+            "Health_care", 
+            "Common_sense", 
+            "Pimple", 
+            "Health_care", 
+            "Physician", 
+            "Health_care", 
+            "Insurance", 
+            "Vehicle_insurance", 
+            "Health_care", 
+            "Gross_domestic_product", 
+            "Rationing", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "Nancy", 
+            "Health_care"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Medication", 
+            "Profit", 
+            "Electronic_medical_record", 
+            "United_States", 
+            "Medical_record", 
+            "Blog", 
+            "Medication", 
+            "Drug", 
+            "Pharmaceutical_company", 
+            "Insurance", 
+            "Pharmaceutical_company", 
+            "Medication", 
+            "Tom_Daschle", 
+            "Price_controls", 
+            "Health_care", 
+            "Insurance", 
+            "Right-wing_politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Red_Wing_High_School", 
+            "Chickenhawk_(politics)", 
+            "Red_Wing_High_School", 
+            "Winger_(ice_hockey)", 
+            "Winger_(ice_hockey)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Insurance", 
+            "Insurance"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Hint_(musician)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "March_5", 
+            "2009", 
+            "2009"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Health_care_reform", 
+            "Health_care", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "Insurance", 
+            "Stocks"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Fault_(geology)", 
+            "Health_insurance", 
+            "Unburned_hydrocarbon", 
+            "Insurance"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Playboy"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Health_care_systems", 
+            "Bureaucrat", 
+            "Physician", 
+            "Health_care", 
+            "Tom_Daschle", 
+            "Diagnosis", 
+            "Health_care", 
+            "Health_care", 
+            "Red_star", 
+            "States_and_territories_of_India", 
+            "Medicine", 
+            "Star"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Dollar", 
+            "Anatomical_terms_of_location", 
+            "Health_care", 
+            "United_States_Senate", 
+            "650", 
+            "Confidence_trick", 
+            "Ear"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Medicine", 
+            "Health_care", 
+            "Health_insurance", 
+            "Star", 
+            "Physician", 
+            "Diagnosis", 
+            "Insurance", 
+            "Bankruptcy", 
+            "Right-wing_politics", 
+            "Red_star", 
+            "Insurance", 
+            "Health_care_systems", 
+            "Health_care", 
+            "Health_care", 
+            "Health_care_reform", 
+            "Health_care", 
+            "Bureaucrat", 
+            "U.S._state", 
+            "United_States"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Dime_(United_States_coin)", 
+            "Health_care"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Boater", 
+            "Health_care", 
+            "Solar_System", 
+            "Health_care", 
+            "Homework", 
+            "ABLE_(programming_language)", 
+            "Insurance", 
+            "Right-wing_politics", 
+            "Medicaid", 
+            "Rationing", 
+            "Health_care", 
+            "Common_sense", 
+            "Pimple", 
+            "Health_care", 
+            "Physician", 
+            "Health_care", 
+            "Insurance", 
+            "Vehicle_insurance", 
+            "Health_care", 
+            "Gross_domestic_product", 
+            "Rationing", 
+            "Health_insurance", 
+            "Health_care_reform", 
+            "Nancy", 
+            "Health_care"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Medication", 
+            "Profit", 
+            "Electronic_medical_record", 
+            "United_States", 
+            "Medical_record", 
+            "Blog", 
+            "Medication", 
+            "Drug", 
+            "Pharmaceutical_company", 
+            "Insurance", 
+            "Pharmaceutical_company", 
+            "Medication", 
+            "Tom_Daschle", 
+            "Price_controls", 
+            "Health_care", 
+            "Insurance", 
+            "Right-wing_politics"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Red_Wing_High_School", 
+            "Chickenhawk_(politics)", 
+            "Red_Wing_High_School", 
+            "Winger_(ice_hockey)", 
+            "Winger_(ice_hockey)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Health_care", 
+            "Insurance", 
+            "Insurance"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Hint_(musician)"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "March_5", 
+            "2009", 
+            "2009"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

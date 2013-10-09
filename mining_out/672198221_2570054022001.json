@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "286", 
+            "Associated_Press", 
+            "United_States_Department_of_Defense", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "Gulf_War", 
+            "Marches", 
+            "Trouble_(band)", 
+            "Disability", 
+            "United_States_Department_of_Veterans_Affairs", 
+            "1991", 
+            "Gulf_War", 
+            "Associated_Press", 
+            "Gulf_War", 
+            "Prisoner_of_war", 
+            "Tax", 
+            "Physical_trauma", 
+            "Prisoner_of_war", 
+            "Prisoner_of_war"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fenway_Park", 
+            "Outfield", 
+            "Fenway_Park"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fenway_Park", 
+            "Fenway_Park"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Wrigley_Field", 
+            "Wm._Wrigley_Jr._Company"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Association_football", 
+            "American_football", 
+            "Prisoner_of_war", 
+            "Baseball"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Departments_of_France", 
+            "Philippine_peso", 
+            "Fort_Leavenworth", 
+            "Leavenworth,_Kansas"
+        ], 
+        "postID": 7
+    }
+]

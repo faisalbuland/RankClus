@@ -1,0 +1,42 @@
+[
+    {
+        "entity": [
+            "Packet_(information_technology)", 
+            "Waiver", 
+            "Waiver", 
+            "Chief_Medical_Officer", 
+            "Waiver"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Waiver"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "God", 
+            "Duck", 
+            "Soldier", 
+            "God", 
+            "Soldier", 
+            "Derelict"
+        ], 
+        "postID": 6
+    }
+]

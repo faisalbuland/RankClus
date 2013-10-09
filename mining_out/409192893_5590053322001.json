@@ -1,0 +1,113 @@
+[
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Antisemitism", 
+            "Public_speaker", 
+            "Teleprompter", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Teleprompter"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Toastmasters_International", 
+            "Bigotry", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Prejudice"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Right-Winger_(comics)", 
+            "Liberal_Party_of_Canada", 
+            "Prejudice", 
+            "Libertarianism", 
+            "United_States", 
+            "Commentator", 
+            "Prejudice"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Prejudice"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "Placeholder_name", 
+            "Blah", 
+            "United_States_Senate", 
+            "Placeholder_name", 
+            "State_Senator", 
+            "Third-rate", 
+            "United_States_Senate", 
+            "!!!", 
+            "GOD_(band)", 
+            "United_States_Senate"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics_of_the_United_States", 
+            "Republican_Party_(United_States)", 
+            "Bigotry", 
+            "Republican_Party_(United_States)", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Libertarian_Party_(United_States)", 
+            "Commentator", 
+            "Republican_Party_(United_States)", 
+            "Cuff", 
+            "United_States_Senate", 
+            "Riot", 
+            "Liberal_Party_of_Canada", 
+            "Teleprompter", 
+            "Republican_Party_(United_States)", 
+            "U.S._state", 
+            "U.S._state", 
+            "Louisiana_State_Legislature", 
+            "Louisiana_State_Legislature", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate", 
+            "Right-Winger_(comics)", 
+            "Antisemitism", 
+            "Antisemitism", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Sorry_(Madonna_song)", 
+            "Joseph_Stalin", 
+            "Partisan_(military)", 
+            "Joseph_Stalin", 
+            "Republican_Party_(United_States)", 
+            "Politics_of_the_United_States"
+        ], 
+        "postID": 9
+    }
+]

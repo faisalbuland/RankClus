@@ -1,0 +1,364 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "List_of_talk_show_hosts", 
+            "Chat_show", 
+            "Stalinism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "News_broadcasting", 
+            "Cable_television", 
+            "Beck", 
+            "Bill_O'Reilly_(commentator)", 
+            "The_O'Reilly_Factor"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Crybaby"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Threaded_discussion"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Arianna_Huffington", 
+            "Wing", 
+            "The_Huffington_Post", 
+            "Gay", 
+            "Tripe", 
+            "The_Huffington_Post", 
+            "Left-wing_politics", 
+            "Arianna_Huffington"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Satire", 
+            "Stephen_Colbert", 
+            "Beck", 
+            "Stephen_Colbert"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Glenn_Beck", 
+            "Stephen_Colbert", 
+            "Stand-up_comedy", 
+            "United_States", 
+            "Beck"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Ultra-leftism", 
+            "Wow_(Kylie_Minogue_song)", 
+            "Untermensch", 
+            "Jean-Baptiste_Colbert", 
+            "Perspiration"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Al-Qaeda", 
+            "Altair", 
+            "Kim_Jong-il", 
+            "United_States", 
+            "Happy_Birthday_to_You", 
+            "Carl_Jung"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Jean-Baptiste_Colbert", 
+            "Mugging", 
+            "Beck", 
+            "Mug", 
+            "Beck"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "LOT_Polish_Airlines", 
+            "Beck"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "George_Jetson", 
+            "Jean-Baptiste_Colbert"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Comedy_Central", 
+            "Comedy", 
+            "Beck", 
+            "CNN_International", 
+            "Peanuts"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Jean-Baptiste_Colbert", 
+            "Beck"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Big_Giant_Head", 
+            "Ragtime", 
+            "Plasma_(physics)", 
+            "Nikto", 
+            "Klaatu", 
+            "Drag_(physics)", 
+            "Giant_(film)", 
+            "Altair", 
+            "7-Eleven_(disambiguation)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Boiler", 
+            "Petroleum", 
+            "Mosquito", 
+            "Gallon"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "List_of_talk_show_hosts", 
+            "Chat_show", 
+            "Stalinism"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "News_broadcasting", 
+            "Cable_television", 
+            "Beck", 
+            "Bill_O'Reilly_(commentator)", 
+            "The_O'Reilly_Factor"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Crybaby"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Threaded_discussion"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Arianna_Huffington", 
+            "Wing", 
+            "The_Huffington_Post", 
+            "Gay", 
+            "Tripe", 
+            "The_Huffington_Post", 
+            "Left-wing_politics", 
+            "Arianna_Huffington"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Beck", 
+            "Fox_Broadcasting_Company", 
+            "Satire", 
+            "Stephen_Colbert", 
+            "Beck", 
+            "Stephen_Colbert"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Glenn_Beck", 
+            "Stephen_Colbert", 
+            "Stand-up_comedy", 
+            "United_States", 
+            "Beck"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Ultra-leftism", 
+            "Wow_(Kylie_Minogue_song)", 
+            "Untermensch", 
+            "Jean-Baptiste_Colbert", 
+            "Perspiration"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Planet", 
+            "Al-Qaeda", 
+            "Altair", 
+            "Kim_Jong-il", 
+            "United_States", 
+            "Happy_Birthday_to_You", 
+            "Carl_Jung"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Jean-Baptiste_Colbert", 
+            "Mugging", 
+            "Beck", 
+            "Mug", 
+            "Beck"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "LOT_Polish_Airlines", 
+            "Beck"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "George_Jetson", 
+            "Jean-Baptiste_Colbert"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Comedy_Central", 
+            "Comedy", 
+            "Beck", 
+            "CNN_International", 
+            "Peanuts"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Jean-Baptiste_Colbert", 
+            "Beck"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Big_Giant_Head", 
+            "Ragtime", 
+            "Plasma_(physics)", 
+            "Nikto", 
+            "Klaatu", 
+            "Drag_(physics)", 
+            "Giant_(film)", 
+            "Altair", 
+            "7-Eleven_(disambiguation)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Boiler", 
+            "Petroleum", 
+            "Mosquito", 
+            "Gallon"
+        ], 
+        "postID": 40
+    }
+]

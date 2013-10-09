@@ -1,0 +1,328 @@
+[
+    {
+        "entity": [
+            "Advertising", 
+            "Pennsylvania", 
+            "James_A._Garfield", 
+            "Personal_advertisement", 
+            "The_Observer", 
+            "President_of_the_United_States", 
+            "William_McKinley", 
+            "Warren,_Ohio", 
+            "Classified_advertising", 
+            "Abraham_Lincoln"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Garfield", 
+            "William_McKinley", 
+            "John_F._Kennedy", 
+            "Lincoln,_Lincolnshire"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Garfield", 
+            "William_McKinley"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pennsylvania", 
+            "1600", 
+            "Pennsylvania_Avenue", 
+            "Pineapple"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Jay_Leno", 
+            "Autobiography", 
+            "Population", 
+            "History_of_the_United_States", 
+            "Malcolm_X", 
+            "Population_growth", 
+            "United_States", 
+            "Autobiography"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Public_school", 
+            "Public_education"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "SpongeBob_SquarePants", 
+            "Barack_Obama", 
+            "University_of_Pennsylvania", 
+            "1600", 
+            "SpongeBob_SquarePants", 
+            "Sponge", 
+            "Mort_Shuman"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "SpongeBob_SquarePants_(character)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Canvassing", 
+            "United_States", 
+            "Current_events", 
+            "Federal_government_of_the_United_States", 
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Pat_Robertson", 
+            "Agenda", 
+            "SpongeBob_SquarePants", 
+            "Robertson,_New_South_Wales", 
+            "Homosexual_agenda", 
+            "Sorry_(Madonna_song)", 
+            "Sponge"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Norm_(sociology)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "The_Tonight_Show_with_Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Radio_Operated_Auto_Racing"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Teletubbies", 
+            "Teletubbies", 
+            "LOL"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Hilton_Hotels_Corporation", 
+            "Perez_Hilton", 
+            "Miss_California", 
+            "California"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Advertising", 
+            "Pennsylvania", 
+            "James_A._Garfield", 
+            "Personal_advertisement", 
+            "The_Observer", 
+            "President_of_the_United_States", 
+            "William_McKinley", 
+            "Warren,_Ohio", 
+            "Classified_advertising", 
+            "Abraham_Lincoln"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Garfield", 
+            "William_McKinley", 
+            "John_F._Kennedy", 
+            "Lincoln,_Lincolnshire"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Garfield", 
+            "William_McKinley"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Pennsylvania", 
+            "1600", 
+            "Pennsylvania_Avenue", 
+            "Pineapple"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "Jay_Leno", 
+            "Autobiography", 
+            "Population", 
+            "History_of_the_United_States", 
+            "Malcolm_X", 
+            "Population_growth", 
+            "United_States", 
+            "Autobiography"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Public_school", 
+            "Public_education"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "SpongeBob_SquarePants", 
+            "Barack_Obama", 
+            "University_of_Pennsylvania", 
+            "1600", 
+            "SpongeBob_SquarePants", 
+            "Sponge", 
+            "Mort_Shuman"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Federal_government_of_the_United_States", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "United_States_House_of_Representatives"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "SpongeBob_SquarePants_(character)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Canvassing", 
+            "United_States", 
+            "Current_events", 
+            "Federal_government_of_the_United_States", 
+            "40th_Canadian_federal_election"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Pat_Robertson", 
+            "Agenda", 
+            "SpongeBob_SquarePants", 
+            "Robertson,_New_South_Wales", 
+            "Homosexual_agenda", 
+            "Sorry_(Madonna_song)", 
+            "Sponge"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Norm_(sociology)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Jay_Leno", 
+            "The_Tonight_Show_with_Jay_Leno", 
+            "The_Tonight_Show", 
+            "The_Tonight_Show", 
+            "Radio_Operated_Auto_Racing"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Teletubbies", 
+            "Teletubbies", 
+            "LOL"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Hilton_Hotels_Corporation", 
+            "Perez_Hilton", 
+            "Miss_California", 
+            "California"
+        ], 
+        "postID": 40
+    }
+]

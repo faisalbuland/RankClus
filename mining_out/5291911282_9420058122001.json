@@ -1,0 +1,52 @@
+[
+    {
+        "entity": [
+            "E-mail", 
+            "Spam_(electronic)", 
+            "ZIP_(file_format)", 
+            "E-mail", 
+            "Mail", 
+            "E-mail", 
+            "Greetings_(film)", 
+            "2009", 
+            "Trash_(film)", 
+            "Proxy_server", 
+            "Computer_virus", 
+            "Computer_virus", 
+            "Wilde_(film)", 
+            "Oscar_Wilde", 
+            "Academy_Award", 
+            "April_22", 
+            "E-mail"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Printing"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Feral_cat", 
+            "Cat"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wilde_(film)", 
+            "Oscar_Wilde", 
+            "Academy_Award"
+        ], 
+        "postID": 5
+    }
+]

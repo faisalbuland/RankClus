@@ -1,0 +1,43 @@
+[
+    {
+        "entity": [
+            "Firearm", 
+            "Common_year_starting_on_Thursday", 
+            "Technology", 
+            "Blog", 
+            "March_7", 
+            "2009"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Suicide_attack", 
+            "Improvised_explosive_device", 
+            "Vest"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Afghanistan", 
+            "Active_Duty", 
+            "Dix,_Illinois", 
+            "AIDS", 
+            "Improvised_explosive_device", 
+            "Second_Epistle_to_the_Corinthians", 
+            "Thrombotic_thrombocytopenic_purpura", 
+            "Prisoner_of_war", 
+            "ECP", 
+            "Drum", 
+            "Surveillance", 
+            "Non-commissioned_officer", 
+            "Improvised_explosive_device", 
+            "United_States_Army", 
+            "Witness_(1985_film)", 
+            "First_United_States_Army"
+        ], 
+        "postID": 3
+    }
+]

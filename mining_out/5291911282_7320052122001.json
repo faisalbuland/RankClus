@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Wat", 
+            "Rescue_swimmer", 
+            "Recruiter", 
+            "Swimming"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "God", 
+            "Soldier", 
+            "Duck", 
+            "God", 
+            "Soldier", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Mon_people", 
+            "Navy", 
+            "Internet_forum", 
+            "Navy", 
+            "2009", 
+            "April_20"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Soldier", 
+            "Derelict", 
+            "Duck", 
+            "United_States_Air_Force", 
+            "United_States_Coast_Guard", 
+            "Soldier", 
+            "D._V._Gundappa", 
+            "God"
+        ], 
+        "postID": 4
+    }
+]

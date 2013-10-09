@@ -1,0 +1,352 @@
+[
+    {
+        "entity": [
+            "June_1", 
+            "2009", 
+            "General_Motors"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Toyota"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Democracy", 
+            "CNN", 
+            "Russia", 
+            "Unemployment", 
+            "Retirement", 
+            "Chop", 
+            "China"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Accountant"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Accountancy", 
+            "LOL"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "SPOT_(producer)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "Clothing"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Happiness"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Great_Depression_in_the_United_States", 
+            "Great_Depression_in_the_United_States", 
+            "Apartment", 
+            "Radar", 
+            "Great_Depression", 
+            "United_States", 
+            "United_States", 
+            "Pardon"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Chop", 
+            "Great_Depression", 
+            "China", 
+            "Price_of_petroleum", 
+            "Economy", 
+            "Petroleum", 
+            "Russia"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Sorry_(Madonna_song)", 
+            "Liberalism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Welfare_state", 
+            "Public_works", 
+            "Social_safety_net", 
+            "Franklin_D._Roosevelt", 
+            "Safety_(American_football)", 
+            "Great_Depression", 
+            "Out_(baseball)", 
+            "Mortgage", 
+            "Economy", 
+            "Unemployment_benefits", 
+            "Stimulus_(physiology)", 
+            "Unemployment_benefits", 
+            "Democracy", 
+            "Bankruptcy"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Knuckle", 
+            "Far_right", 
+            "United_States_dollar", 
+            "Good_Neighbor_policy", 
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Tax", 
+            "Bench_press", 
+            "Gambling", 
+            "Family_values", 
+            "Labour_law", 
+            "Bankruptcy", 
+            "Middle_man", 
+            "Greed", 
+            "401(k)", 
+            "Gambling", 
+            "Citizenship", 
+            "United_States", 
+            "White_House", 
+            "United_States", 
+            "Bank_run", 
+            "Bank"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Screw", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "June_1", 
+            "2009", 
+            "General_Motors"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Automotive_industry", 
+            "Toyota"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Major_depressive_disorder", 
+            "Democracy", 
+            "CNN", 
+            "Russia", 
+            "Unemployment", 
+            "Retirement", 
+            "Chop", 
+            "China"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Nurse", 
+            "Accountant"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Accountancy", 
+            "LOL"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "SPOT_(producer)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Screw", 
+            "Clothing"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Liberty", 
+            "Happiness"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Great_Depression_in_the_United_States", 
+            "Great_Depression_in_the_United_States", 
+            "Apartment", 
+            "Radar", 
+            "Great_Depression", 
+            "United_States", 
+            "United_States", 
+            "Pardon"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Chop", 
+            "Great_Depression", 
+            "China", 
+            "Price_of_petroleum", 
+            "Economy", 
+            "Petroleum", 
+            "Russia"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Sorry_(Madonna_song)", 
+            "Liberalism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Welfare_state", 
+            "Public_works", 
+            "Social_safety_net", 
+            "Franklin_D._Roosevelt", 
+            "Safety_(American_football)", 
+            "Great_Depression", 
+            "Out_(baseball)", 
+            "Mortgage", 
+            "Economy", 
+            "Unemployment_benefits", 
+            "Stimulus_(physiology)", 
+            "Unemployment_benefits", 
+            "Democracy", 
+            "Bankruptcy"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Money", 
+            "Knuckle", 
+            "Far_right", 
+            "United_States_dollar", 
+            "Good_Neighbor_policy", 
+            "Thread_(computer_science)", 
+            "United_States", 
+            "Tax", 
+            "Bench_press", 
+            "Gambling", 
+            "Family_values", 
+            "Labour_law", 
+            "Bankruptcy", 
+            "Middle_man", 
+            "Greed", 
+            "401(k)", 
+            "Gambling", 
+            "Citizenship", 
+            "United_States", 
+            "White_House", 
+            "United_States", 
+            "Bank_run", 
+            "Bank"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Screw", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 40
+    }
+]

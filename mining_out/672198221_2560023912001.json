@@ -1,0 +1,114 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Nuclear_weapon", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Constant_bitrate"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Salt", 
+            "Salt_Lake_County,_Utah", 
+            "Lake_City,_Florida", 
+            "2002_Winter_Olympics", 
+            "Newspaper"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Freedom_of_information_legislation", 
+            "2001", 
+            "Air_force", 
+            "Audit", 
+            "Air_force", 
+            "State_of_Deseret", 
+            "Chemical_warfare", 
+            "Air_force", 
+            "Deseret_News", 
+            "Mass", 
+            "Air_force", 
+            "September_11,_2001_attacks", 
+            "Keystone", 
+            "Mass", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Terrorism", 
+            "Air_force", 
+            "Nuclear_weapon", 
+            "Theft", 
+            "Respirator", 
+            "Air_Force_Audit_Agency", 
+            "Chemical_warfare", 
+            "Emergency_service", 
+            "Chemical_warfare", 
+            "Air_force", 
+            "Radiation_poisoning", 
+            "Audit", 
+            "Biological_warfare"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "September_11,_2001_attacks", 
+            "NBC", 
+            "Accountancy", 
+            "Author"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "NBC", 
+            "United_States_Navy", 
+            "Shoe"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Personal_flotation_device", 
+            "Flame_ionization_detector"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "1998", 
+            "NBC"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction", 
+            "Weapon_of_mass_destruction", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 12
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "entity": [
+            "Chinese_language", 
+            "Economy", 
+            "Leaf", 
+            "Human_rights", 
+            "Navy", 
+            "China", 
+            "Flop"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "String_instrument", 
+            "Hillary_Rodham_Clinton", 
+            "Puppet", 
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Porcelain"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Shame"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Barack_Obama", 
+            "Second", 
+            "Second"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Asia"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Shill", 
+            "Lahaina,_Hawaii", 
+            "Brinson,_Georgia"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Canadian_federal_election,_1968", 
+            "2012"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Mitt_Romney", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "Red_Button_(digital_television)", 
+            "Oath", 
+            "Momentum", 
+            "Clown"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Hillary_Rodham_Clinton", 
+            "Foreign_policy", 
+            "Barack_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "International_relations", 
+            "Ehud_Barak", 
+            "Barack_Obama", 
+            "Iran", 
+            "Hamas", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Korea", 
+            "United_States_Department_of_State", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "March_18", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Rice", 
+            "Arab", 
+            "Arab", 
+            "Arab_world", 
+            "Bill_Clinton", 
+            "Arab", 
+            "Dude", 
+            "Sexism", 
+            "Hamartia", 
+            "Bill_Clinton", 
+            "England"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin", 
+            "Soul_music", 
+            "Vladimir_Putin", 
+            "Soul_music", 
+            "Empire", 
+            "Evil_empire", 
+            "States_and_territories_of_India", 
+            "KGB", 
+            "George_W._Bush", 
+            "Vladimir_Putin", 
+            "Russia", 
+            "Culture"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "England", 
+            "Hillary_Rodham_Clinton", 
+            "Dude", 
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Nuclear_weapon", 
+            "Oceanography", 
+            "Political_system", 
+            "Space_exploration", 
+            "Nation", 
+            "Agriculture", 
+            "Containment", 
+            "Technology", 
+            "United_States", 
+            "Aid", 
+            "United_States", 
+            "Exponential_growth", 
+            "Totalitarianism", 
+            "Medicine", 
+            "Oppression"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Billing", 
+            "Deity", 
+            "Coalition_government"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "SPOT_(satellites)", 
+            "Bingo"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "United_States_Senate"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Playground"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Friedrich_Nietzsche", 
+            "Monica_(singer)", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Chinese_language", 
+            "Economy", 
+            "Leaf", 
+            "Human_rights", 
+            "Navy", 
+            "China", 
+            "Flop"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "String_instrument", 
+            "Hillary_Rodham_Clinton", 
+            "Puppet", 
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Porcelain"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Shame"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States_Senate", 
+            "Barack_Obama", 
+            "Second", 
+            "Second"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Asia"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "Shill", 
+            "Lahaina,_Hawaii", 
+            "Brinson,_Georgia"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Canadian_federal_election,_1968", 
+            "2012"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Mitt_Romney", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Lahaina,_Hawaii"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "Red_Button_(digital_television)", 
+            "Oath", 
+            "Momentum", 
+            "Clown"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "International_Maritime_Organization", 
+            "Hillary_Rodham_Clinton", 
+            "Foreign_policy", 
+            "Barack_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "President_of_the_United_States", 
+            "Bill_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Hillary_Rodham_Clinton", 
+            "International_relations", 
+            "Ehud_Barak", 
+            "Barack_Obama", 
+            "Iran", 
+            "Hamas", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Korea", 
+            "United_States_Department_of_State", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "March_18", 
+            "Radical_(chemistry)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Rice", 
+            "Arab", 
+            "Arab", 
+            "Arab_world", 
+            "Bill_Clinton", 
+            "Arab", 
+            "Dude", 
+            "Sexism", 
+            "Hamartia", 
+            "Bill_Clinton", 
+            "England"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin", 
+            "Soul_music", 
+            "Vladimir_Putin", 
+            "Soul_music", 
+            "Empire", 
+            "Evil_empire", 
+            "States_and_territories_of_India", 
+            "KGB", 
+            "George_W._Bush", 
+            "Vladimir_Putin", 
+            "Russia", 
+            "Culture"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "England", 
+            "Hillary_Rodham_Clinton", 
+            "Dude", 
+            "Hillary_Rodham_Clinton", 
+            "Bill_Clinton", 
+            "Hillary_Rodham_Clinton", 
+            "Hillary_Rodham_Clinton"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Nuclear_power", 
+            "Nuclear_weapon", 
+            "Oceanography", 
+            "Political_system", 
+            "Space_exploration", 
+            "Nation", 
+            "Agriculture", 
+            "Containment", 
+            "Technology", 
+            "United_States", 
+            "Aid", 
+            "United_States", 
+            "Exponential_growth", 
+            "Totalitarianism", 
+            "Medicine", 
+            "Oppression"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Billing", 
+            "Deity", 
+            "Coalition_government"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "SPOT_(satellites)", 
+            "Bingo"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "United_States_Senate"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Playground"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Abyss_(religion)", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Friedrich_Nietzsche", 
+            "Monica_(singer)", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 60
+    }
+]

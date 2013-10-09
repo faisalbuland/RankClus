@@ -1,0 +1,722 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Transparency", 
+            "Secret_service", 
+            "Transparency"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "United_States_Secret_Service", 
+            "Dan_Quayle", 
+            "Dan_Quayle", 
+            "Bravo_(US_TV_channel)", 
+            "Dick_Cheney", 
+            "Idiot", 
+            "Safety_(American_football)", 
+            "Observatory", 
+            "Joe_Biden", 
+            "United_States_Naval_Observatory", 
+            "Albert_Einstein", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Idiot", 
+            "Idiot"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "State_of_emergency", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "George_W._Bush", 
+            "LOL", 
+            "President_of_the_United_States", 
+            "Wine", 
+            "Wine_cellar", 
+            "Lewis_Libby", 
+            "George_W._Bush", 
+            "Basement", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "Pardon", 
+            "George_W._Bush", 
+            "Bunker"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Pill", 
+            "Thomas_Jefferson", 
+            "Idiot", 
+            "United_States_Senate"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Facts", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Eleanor_of_Aquitaine", 
+            "Bank", 
+            "Eleanor_Clift", 
+            "LOL", 
+            "Liberal_Party_of_Canada", 
+            "Washington", 
+            "Newsweek", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Joe_Biden", 
+            "Manitoba_general_election,_1915", 
+            "United_States", 
+            "Ron_Paul", 
+            "Barack_Obama"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Cavalier", 
+            "Joe_Biden", 
+            "Glass_Houses", 
+            "Dick_Cheney", 
+            "Internet_forum"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "SAFE_(cable_system)", 
+            "Barack_Obama", 
+            "Bunker"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Jack_(device)", 
+            "Jack_(device)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Transparency", 
+            "Secret_service", 
+            "Transparency"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "United_States_Secret_Service", 
+            "Dan_Quayle", 
+            "Dan_Quayle", 
+            "Bravo_(US_TV_channel)", 
+            "Dick_Cheney", 
+            "Idiot", 
+            "Safety_(American_football)", 
+            "Observatory", 
+            "Joe_Biden", 
+            "United_States_Naval_Observatory", 
+            "Albert_Einstein", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Idiot", 
+            "Idiot"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "State_of_emergency", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "George_W._Bush", 
+            "LOL", 
+            "President_of_the_United_States", 
+            "Wine", 
+            "Wine_cellar", 
+            "Lewis_Libby", 
+            "George_W._Bush", 
+            "Basement", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "Pardon", 
+            "George_W._Bush", 
+            "Bunker"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Pill", 
+            "Thomas_Jefferson", 
+            "Idiot", 
+            "United_States_Senate"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Facts", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Eleanor_of_Aquitaine", 
+            "Bank", 
+            "Eleanor_Clift", 
+            "LOL", 
+            "Liberal_Party_of_Canada", 
+            "Washington", 
+            "Newsweek", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Joe_Biden", 
+            "Manitoba_general_election,_1915", 
+            "United_States", 
+            "Ron_Paul", 
+            "Barack_Obama"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Cavalier", 
+            "Joe_Biden", 
+            "Glass_Houses", 
+            "Dick_Cheney", 
+            "Internet_forum"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "SAFE_(cable_system)", 
+            "Barack_Obama", 
+            "Bunker"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Jack_(device)", 
+            "Jack_(device)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Transparency", 
+            "Secret_service", 
+            "Transparency"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "United_States_Secret_Service", 
+            "Dan_Quayle", 
+            "Dan_Quayle", 
+            "Bravo_(US_TV_channel)", 
+            "Dick_Cheney", 
+            "Idiot", 
+            "Safety_(American_football)", 
+            "Observatory", 
+            "Joe_Biden", 
+            "United_States_Naval_Observatory", 
+            "Albert_Einstein", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Idiot", 
+            "Idiot"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "State_of_emergency", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "George_W._Bush", 
+            "LOL", 
+            "President_of_the_United_States", 
+            "Wine", 
+            "Wine_cellar", 
+            "Lewis_Libby", 
+            "George_W._Bush", 
+            "Basement", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "Pardon", 
+            "George_W._Bush", 
+            "Bunker"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Pill", 
+            "Thomas_Jefferson", 
+            "Idiot", 
+            "United_States_Senate"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Facts", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Eleanor_of_Aquitaine", 
+            "Bank", 
+            "Eleanor_Clift", 
+            "LOL", 
+            "Liberal_Party_of_Canada", 
+            "Washington", 
+            "Newsweek", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Joe_Biden", 
+            "Manitoba_general_election,_1915", 
+            "United_States", 
+            "Ron_Paul", 
+            "Barack_Obama"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Cavalier", 
+            "Joe_Biden", 
+            "Glass_Houses", 
+            "Dick_Cheney", 
+            "Internet_forum"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "SAFE_(cable_system)", 
+            "Barack_Obama", 
+            "Bunker"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Jack_(device)", 
+            "Jack_(device)"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Transparency", 
+            "Secret_service", 
+            "Transparency"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "United_States_Secret_Service", 
+            "Dan_Quayle", 
+            "Dan_Quayle", 
+            "Bravo_(US_TV_channel)", 
+            "Dick_Cheney", 
+            "Idiot", 
+            "Safety_(American_football)", 
+            "Observatory", 
+            "Joe_Biden", 
+            "United_States_Naval_Observatory", 
+            "Albert_Einstein", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Idiot", 
+            "Idiot"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "State_of_emergency", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL", 
+            "George_W._Bush", 
+            "LOL", 
+            "President_of_the_United_States", 
+            "Wine", 
+            "Wine_cellar", 
+            "Lewis_Libby", 
+            "George_W._Bush", 
+            "Basement", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Dick_Cheney", 
+            "Pardon", 
+            "George_W._Bush", 
+            "Bunker"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Nice"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Democratic_Party_(United_States)", 
+            "United_States", 
+            "Pill", 
+            "Thomas_Jefferson", 
+            "Idiot", 
+            "United_States_Senate"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Joe_Biden_presidential_campaign,_2008", 
+            "Joe_Biden", 
+            "Facts", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Eleanor_of_Aquitaine", 
+            "Bank", 
+            "Eleanor_Clift", 
+            "LOL", 
+            "Liberal_Party_of_Canada", 
+            "Washington", 
+            "Newsweek", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Elephant", 
+            "Joe_Biden", 
+            "Manitoba_general_election,_1915", 
+            "United_States", 
+            "Ron_Paul", 
+            "Barack_Obama"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Cavalier", 
+            "Joe_Biden", 
+            "Glass_Houses", 
+            "Dick_Cheney", 
+            "Internet_forum"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Joe_Biden", 
+            "SAFE_(cable_system)", 
+            "Barack_Obama", 
+            "Bunker"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Jack_(device)", 
+            "Jack_(device)"
+        ], 
+        "postID": 80
+    }
+]

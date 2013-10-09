@@ -1,0 +1,728 @@
+[
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Princeton_University", 
+            "First_Lady_of_the_United_States", 
+            "Princeton_University", 
+            "Michelle_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Chicago", 
+            "Harvard_Law_School", 
+            "CNN", 
+            "Chicago", 
+            "IMHO", 
+            "Coot", 
+            "Community_areas_of_Chicago", 
+            "Jack_Cafferty", 
+            "Barack_Obama", 
+            "First_Lady_of_the_United_States", 
+            "Blue-collar_worker", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Barack_Obama", 
+            "Harvard_Law_School"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "Body_language", 
+            "Inflection", 
+            "Michelle_(song)", 
+            "God"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Coffee"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Woo_Hoo", 
+            "Birth_certificate", 
+            "Human_abdomen", 
+            "!!!"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Conservatism", 
+            "Barack_Obama", 
+            "Rib", 
+            "God", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Levity", 
+            "God", 
+            "Frequent_flyer_program", 
+            "MoveOn.org", 
+            "Hell", 
+            "God", 
+            "Universal_health_care", 
+            "Flyer"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Daily_Kos", 
+            "The_Huffington_Post", 
+            "The_Huffington_Post", 
+            "Kos"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Lesbian"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Moro_Islamic_Liberation_Front", 
+            "Seawitch_(novel)", 
+            "Michelle_Fowler"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Gunny", 
+            "Rush_(band)", 
+            "Altar"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Texas"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Conservatism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Debt"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Refrigerator", 
+            "Equis"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Budweiser_(Anheuser-Busch)", 
+            "College"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Typographical_error"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Nice", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Beer"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Domestic_sheep"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Accountancy", 
+            "Thread_(computer_science)", 
+            "Gnathopod", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Chipmunk", 
+            "Jaw", 
+            "Shallow_Hal", 
+            "Chipmunk"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Woody_Hayes", 
+            "Routing_Information_Protocol", 
+            "LOL", 
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "First_Lady", 
+            "Magazine", 
+            "Vogue_(magazine)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Jay_Leno", 
+            "Envy", 
+            "Chin", 
+            "Jay_Leno", 
+            "Diplomacy", 
+            "Soldier"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Princeton_University", 
+            "First_Lady_of_the_United_States", 
+            "Princeton_University", 
+            "Michelle_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Chicago", 
+            "Harvard_Law_School", 
+            "CNN", 
+            "Chicago", 
+            "IMHO", 
+            "Coot", 
+            "Community_areas_of_Chicago", 
+            "Jack_Cafferty", 
+            "Barack_Obama", 
+            "First_Lady_of_the_United_States", 
+            "Blue-collar_worker", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Barack_Obama", 
+            "Harvard_Law_School"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "Body_language", 
+            "Inflection", 
+            "Michelle_(song)", 
+            "God"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Coffee"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Woo_Hoo", 
+            "Birth_certificate", 
+            "Human_abdomen", 
+            "!!!"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Conservatism", 
+            "Barack_Obama", 
+            "Rib", 
+            "God", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Levity", 
+            "God", 
+            "Frequent_flyer_program", 
+            "MoveOn.org", 
+            "Hell", 
+            "God", 
+            "Universal_health_care", 
+            "Flyer"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Daily_Kos", 
+            "The_Huffington_Post", 
+            "The_Huffington_Post", 
+            "Kos"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Lesbian"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Moro_Islamic_Liberation_Front", 
+            "Seawitch_(novel)", 
+            "Michelle_Fowler"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Gunny", 
+            "Rush_(band)", 
+            "Altar"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Texas"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Conservatism"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Debt"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Refrigerator", 
+            "Equis"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Budweiser_(Anheuser-Busch)", 
+            "College"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Typographical_error"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Nice", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Beer"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Domestic_sheep"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Accountancy", 
+            "Thread_(computer_science)", 
+            "Gnathopod", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Chipmunk", 
+            "Jaw", 
+            "Shallow_Hal", 
+            "Chipmunk"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Woody_Hayes", 
+            "Routing_Information_Protocol", 
+            "LOL", 
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "First_Lady", 
+            "Magazine", 
+            "Vogue_(magazine)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Jay_Leno", 
+            "Envy", 
+            "Chin", 
+            "Jay_Leno", 
+            "Diplomacy", 
+            "Soldier"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "Princeton_University", 
+            "First_Lady_of_the_United_States", 
+            "Princeton_University", 
+            "Michelle_Obama", 
+            "Hillary_Rodham_Clinton", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Michelle_Obama", 
+            "Chicago", 
+            "Harvard_Law_School", 
+            "CNN", 
+            "Chicago", 
+            "IMHO", 
+            "Coot", 
+            "Community_areas_of_Chicago", 
+            "Jack_Cafferty", 
+            "Barack_Obama", 
+            "First_Lady_of_the_United_States", 
+            "Blue-collar_worker", 
+            "Harvard_Law_School", 
+            "Harvard_University", 
+            "Barack_Obama", 
+            "Harvard_Law_School"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "Body_language", 
+            "Inflection", 
+            "Michelle_(song)", 
+            "God"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Coffee"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Woo_Hoo", 
+            "Birth_certificate", 
+            "Human_abdomen", 
+            "!!!"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Liberalism", 
+            "Conservatism", 
+            "Barack_Obama", 
+            "Rib", 
+            "God", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Levity", 
+            "God", 
+            "Frequent_flyer_program", 
+            "MoveOn.org", 
+            "Hell", 
+            "God", 
+            "Universal_health_care", 
+            "Flyer"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Daily_Kos", 
+            "The_Huffington_Post", 
+            "The_Huffington_Post", 
+            "Kos"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Lesbian"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "Moro_Islamic_Liberation_Front", 
+            "Seawitch_(novel)", 
+            "Michelle_Fowler"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Texas", 
+            "Gunny", 
+            "Rush_(band)", 
+            "Altar"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Texas"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Conservatism"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Debt"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Refrigerator", 
+            "Equis"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Budweiser_(Anheuser-Busch)", 
+            "College"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Beer", 
+            "Typographical_error"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Gunny", 
+            "Nice", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Beer"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Domestic_sheep"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "Accountancy", 
+            "Thread_(computer_science)", 
+            "Gnathopod", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Chipmunk", 
+            "Jaw", 
+            "Shallow_Hal", 
+            "Chipmunk"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Woody_Hayes", 
+            "Routing_Information_Protocol", 
+            "LOL", 
+            "Sheriff_Woody", 
+            "Hayes,_Hillingdon"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "First_Lady", 
+            "Magazine", 
+            "Vogue_(magazine)"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Jay_Leno", 
+            "Envy", 
+            "Chin", 
+            "Jay_Leno", 
+            "Diplomacy", 
+            "Soldier"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [], 
+        "postID": 90
+    }
+]

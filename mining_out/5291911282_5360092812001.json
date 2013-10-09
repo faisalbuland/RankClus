@@ -1,0 +1,86 @@
+[
+    {
+        "entity": [
+            "Grief", 
+            "Bank", 
+            "United_States", 
+            "Economy_of_the_United_States", 
+            "Recession", 
+            "Andy_Rooney", 
+            "Rooney_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "Dollar", 
+            "Google_(verb)", 
+            "England"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Heck", 
+            "Dollar", 
+            "Stock_market", 
+            "Cent_(currency)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Poorhouse"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Armeria_maritima", 
+            "Believe_Me", 
+            "Stock", 
+            "Thrift_Savings_Plan", 
+            "Wall_Street_Crash_of_1929", 
+            "Wall_Street"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "2008", 
+            "Stock_market", 
+            "Stock_market", 
+            "Stock_market", 
+            "Stock_market", 
+            "Gambling", 
+            "Market_portfolio", 
+            "Money_market_deposit_account", 
+            "Money_market", 
+            "September_2008", 
+            "Inflation", 
+            "Scottrade", 
+            "Buy_and_hold", 
+            "Dividend", 
+            "Inflation", 
+            "Speculation"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "Y'all", 
+            "One_Heart", 
+            "Y'all", 
+            "Meatball"
+        ], 
+        "postID": 8
+    }
+]

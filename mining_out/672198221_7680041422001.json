@@ -1,0 +1,815 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Grizzly_Bear", 
+            "International_Maritime_Organization", 
+            "Grizzly_Man", 
+            "Angel_(TV_series)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Breed", 
+            "Moose", 
+            "Murder", 
+            "Prison", 
+            "Alaska", 
+            "Photographer", 
+            "Alaska", 
+            "Nazism", 
+            "Grizzly_Bear", 
+            "Poaching", 
+            "Idiot", 
+            "U.S._state", 
+            "Alaska_Natives"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Brown_Bear", 
+            "God", 
+            "Frost", 
+            "Alaskan_Husky", 
+            "Brown_Bear", 
+            "Kibble", 
+            "Population", 
+            "Dog"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Girlfriend", 
+            "Animal", 
+            "Bear"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Heron", 
+            "Hunting", 
+            "Brooklyn", 
+            "Hunting", 
+            "Marsh", 
+            "Brown_Bears", 
+            "Deer", 
+            "Animal", 
+            "Wildlife", 
+            "Muskrat", 
+            "Wilderness"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Animal", 
+            "God", 
+            "World_population", 
+            "Town"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Nightmare"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Bear", 
+            "Photographer", 
+            "Cub", 
+            "Bear", 
+            "American_Black_Bear", 
+            "Id,_ego,_and_super-ego", 
+            "Grizzly_Bear", 
+            "Campsite", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Grizzly_Bear", 
+            "Yuppie", 
+            "Noise"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Adventure", 
+            "Mouse", 
+            "New_York_City", 
+            "Aviator", 
+            "Charles_Lindbergh", 
+            "Charles_Lindbergh", 
+            "Grizzly_Bear", 
+            "Toddler", 
+            "Bicycle", 
+            "May_24", 
+            "Charles_Lindbergh", 
+            "Aviator", 
+            "Cowardice", 
+            "Sioux", 
+            "Nightmare", 
+            "Fellow_traveler", 
+            "2009", 
+            "Medicine", 
+            "Fog", 
+            "American_Black_Bear", 
+            "Aviator", 
+            "Cougar", 
+            "Charles_Lindbergh", 
+            "Sun", 
+            "Mountain", 
+            "Skyscraper", 
+            "Santiago_de_Cali"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Cougar", 
+            "Alaska", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "National_Wilderness_Preservation_System", 
+            "National_Wilderness_Preservation_System", 
+            "Italy", 
+            "Brown_Bears", 
+            "American_Black_Bear", 
+            "California", 
+            "National_Wilderness_Preservation_System"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Jock_(athlete)", 
+            "Alaska", 
+            "Shi_(poetry)", 
+            "Brown_Bears", 
+            "FYI", 
+            "Space_probe", 
+            "Mountain", 
+            "Alaska", 
+            "God", 
+            "Species"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Theatrical_property", 
+            "Skull", 
+            "Jock_(athlete)", 
+            "Bear", 
+            "Eurasian_Brown_Bear", 
+            "Bear", 
+            "Alaska", 
+            "Landlocked_country", 
+            "Polymorphism_(biology)", 
+            "Maine", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chemical_polarity", 
+            "Siberian_Brown_Bear", 
+            "American_Black_Bear", 
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "Polymorphism_(biology)", 
+            "Eurasian_Brown_Bear", 
+            "Silver", 
+            "Siberian_Tiger", 
+            "God", 
+            "Subspecies", 
+            "Brown_Bear", 
+            "Mountain", 
+            "Eye", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "United_States", 
+            "Space_probe", 
+            "Mexico", 
+            "New_York", 
+            "Brown_Bear", 
+            "Tendon", 
+            "Ursus_(genus)", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Pelt"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Alaska", 
+            "Heck"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Grizzly_(film)", 
+            "Eye", 
+            "Pleural_cavity", 
+            "Kuvasz", 
+            "Dog", 
+            "Tasty_(Kelis_album)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Legal_systems_of_the_world", 
+            "Palin_Majere"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Memphis_Grizzlies", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Brown_Bears", 
+            "Stalinism", 
+            "Subspecies"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Grizzly_Bear", 
+            "International_Maritime_Organization", 
+            "Grizzly_Man", 
+            "Angel_(TV_series)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Breed", 
+            "Moose", 
+            "Murder", 
+            "Prison", 
+            "Alaska", 
+            "Photographer", 
+            "Alaska", 
+            "Nazism", 
+            "Grizzly_Bear", 
+            "Poaching", 
+            "Idiot", 
+            "U.S._state", 
+            "Alaska_Natives"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Brown_Bear", 
+            "God", 
+            "Frost", 
+            "Alaskan_Husky", 
+            "Brown_Bear", 
+            "Kibble", 
+            "Population", 
+            "Dog"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Girlfriend", 
+            "Animal", 
+            "Bear"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Heron", 
+            "Hunting", 
+            "Brooklyn", 
+            "Hunting", 
+            "Marsh", 
+            "Brown_Bears", 
+            "Deer", 
+            "Animal", 
+            "Wildlife", 
+            "Muskrat", 
+            "Wilderness"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Animal", 
+            "God", 
+            "World_population", 
+            "Town"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Nightmare"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Bear", 
+            "Photographer", 
+            "Cub", 
+            "Bear", 
+            "American_Black_Bear", 
+            "Id,_ego,_and_super-ego", 
+            "Grizzly_Bear", 
+            "Campsite", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Grizzly_Bear", 
+            "Yuppie", 
+            "Noise"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Adventure", 
+            "Mouse", 
+            "New_York_City", 
+            "Aviator", 
+            "Charles_Lindbergh", 
+            "Charles_Lindbergh", 
+            "Grizzly_Bear", 
+            "Toddler", 
+            "Bicycle", 
+            "May_24", 
+            "Charles_Lindbergh", 
+            "Aviator", 
+            "Cowardice", 
+            "Sioux", 
+            "Nightmare", 
+            "Fellow_traveler", 
+            "2009", 
+            "Medicine", 
+            "Fog", 
+            "American_Black_Bear", 
+            "Aviator", 
+            "Cougar", 
+            "Charles_Lindbergh", 
+            "Sun", 
+            "Mountain", 
+            "Skyscraper", 
+            "Santiago_de_Cali"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Cougar", 
+            "Alaska", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "National_Wilderness_Preservation_System", 
+            "National_Wilderness_Preservation_System", 
+            "Italy", 
+            "Brown_Bears", 
+            "American_Black_Bear", 
+            "California", 
+            "National_Wilderness_Preservation_System"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Jock_(athlete)", 
+            "Alaska", 
+            "Shi_(poetry)", 
+            "Brown_Bears", 
+            "FYI", 
+            "Space_probe", 
+            "Mountain", 
+            "Alaska", 
+            "God", 
+            "Species"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Theatrical_property", 
+            "Skull", 
+            "Jock_(athlete)", 
+            "Bear", 
+            "Eurasian_Brown_Bear", 
+            "Bear", 
+            "Alaska", 
+            "Landlocked_country", 
+            "Polymorphism_(biology)", 
+            "Maine", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chemical_polarity", 
+            "Siberian_Brown_Bear", 
+            "American_Black_Bear", 
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "Polymorphism_(biology)", 
+            "Eurasian_Brown_Bear", 
+            "Silver", 
+            "Siberian_Tiger", 
+            "God", 
+            "Subspecies", 
+            "Brown_Bear", 
+            "Mountain", 
+            "Eye", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "United_States", 
+            "Space_probe", 
+            "Mexico", 
+            "New_York", 
+            "Brown_Bear", 
+            "Tendon", 
+            "Ursus_(genus)", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Pelt"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Alaska", 
+            "Heck"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Grizzly_(film)", 
+            "Eye", 
+            "Pleural_cavity", 
+            "Kuvasz", 
+            "Dog", 
+            "Tasty_(Kelis_album)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Legal_systems_of_the_world", 
+            "Palin_Majere"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Memphis_Grizzlies", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Brown_Bears", 
+            "Stalinism", 
+            "Subspecies"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Grizzly_Bear", 
+            "International_Maritime_Organization", 
+            "Grizzly_Man", 
+            "Angel_(TV_series)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Fish", 
+            "Breed", 
+            "Moose", 
+            "Murder", 
+            "Prison", 
+            "Alaska", 
+            "Photographer", 
+            "Alaska", 
+            "Nazism", 
+            "Grizzly_Bear", 
+            "Poaching", 
+            "Idiot", 
+            "U.S._state", 
+            "Alaska_Natives"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Brown_Bear", 
+            "God", 
+            "Frost", 
+            "Alaskan_Husky", 
+            "Brown_Bear", 
+            "Kibble", 
+            "Population", 
+            "Dog"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Girlfriend", 
+            "Animal", 
+            "Bear"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Heron", 
+            "Hunting", 
+            "Brooklyn", 
+            "Hunting", 
+            "Marsh", 
+            "Brown_Bears", 
+            "Deer", 
+            "Animal", 
+            "Wildlife", 
+            "Muskrat", 
+            "Wilderness"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Animal", 
+            "God", 
+            "World_population", 
+            "Town"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Nightmare"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Idiot", 
+            "Bear", 
+            "Photographer", 
+            "Cub", 
+            "Bear", 
+            "American_Black_Bear", 
+            "Id,_ego,_and_super-ego", 
+            "Grizzly_Bear", 
+            "Campsite", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Grizzly_Bear", 
+            "Yuppie", 
+            "Noise"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Adventure", 
+            "Mouse", 
+            "New_York_City", 
+            "Aviator", 
+            "Charles_Lindbergh", 
+            "Charles_Lindbergh", 
+            "Grizzly_Bear", 
+            "Toddler", 
+            "Bicycle", 
+            "May_24", 
+            "Charles_Lindbergh", 
+            "Aviator", 
+            "Cowardice", 
+            "Sioux", 
+            "Nightmare", 
+            "Fellow_traveler", 
+            "2009", 
+            "Medicine", 
+            "Fog", 
+            "American_Black_Bear", 
+            "Aviator", 
+            "Cougar", 
+            "Charles_Lindbergh", 
+            "Sun", 
+            "Mountain", 
+            "Skyscraper", 
+            "Santiago_de_Cali"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Cougar", 
+            "Alaska", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "National_Wilderness_Preservation_System", 
+            "National_Wilderness_Preservation_System", 
+            "Italy", 
+            "Brown_Bears", 
+            "American_Black_Bear", 
+            "California", 
+            "National_Wilderness_Preservation_System"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Jock_(athlete)", 
+            "Alaska", 
+            "Shi_(poetry)", 
+            "Brown_Bears", 
+            "FYI", 
+            "Space_probe", 
+            "Mountain", 
+            "Alaska", 
+            "God", 
+            "Species"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Jet_aircraft", 
+            "Grizzly_Bear", 
+            "Theatrical_property", 
+            "Skull", 
+            "Jock_(athlete)", 
+            "Bear", 
+            "Eurasian_Brown_Bear", 
+            "Bear", 
+            "Alaska", 
+            "Landlocked_country", 
+            "Polymorphism_(biology)", 
+            "Maine", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Chemical_polarity", 
+            "Siberian_Brown_Bear", 
+            "American_Black_Bear", 
+            "Scott_Levy", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "Polymorphism_(biology)", 
+            "Eurasian_Brown_Bear", 
+            "Silver", 
+            "Siberian_Tiger", 
+            "God", 
+            "Subspecies", 
+            "Brown_Bear", 
+            "Mountain", 
+            "Eye", 
+            "Grizzly_Bear", 
+            "Grizzly_Bear", 
+            "United_States", 
+            "Space_probe", 
+            "Mexico", 
+            "New_York", 
+            "Brown_Bear", 
+            "Tendon", 
+            "Ursus_(genus)", 
+            "Eurasian_Brown_Bear", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Subspecies", 
+            "Eurasian_Brown_Bear", 
+            "Pelt"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Alaska", 
+            "Heck"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Grizzly_(film)", 
+            "Eye", 
+            "Pleural_cavity", 
+            "Kuvasz", 
+            "Dog", 
+            "Tasty_(Kelis_album)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Legal_systems_of_the_world", 
+            "Palin_Majere"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Memphis_Grizzlies", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Brown_Bears", 
+            "Stalinism", 
+            "Subspecies"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Bear", 
+            "Dog", 
+            "That_dog."
+        ], 
+        "postID": 60
+    }
+]

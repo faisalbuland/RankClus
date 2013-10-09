@@ -1,0 +1,190 @@
+[
+    {
+        "entity": [
+            "United_Kingdom", 
+            "Bearskin", 
+            "Commonwealth_of_Nations", 
+            "Thread_(computer_science)", 
+            "People_for_the_Ethical_Treatment_of_Animals"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Morale", 
+            "Beret"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Wales", 
+            "Bear", 
+            "Welsh_Guards", 
+            "New_Jersey", 
+            "American_Black_Bear", 
+            "Population", 
+            "Jersey"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Reinhart_Dozy", 
+            "Flash_(photography)", 
+            "Morale", 
+            "Wales", 
+            "Prat", 
+            "Beret", 
+            "Khaki", 
+            "United_States_Army", 
+            "Beret", 
+            "United_States_Army", 
+            "Sheen"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Blade", 
+            "Beret", 
+            "Sake", 
+            "Conservation_movement", 
+            "Nail_(fastener)", 
+            "Pelt", 
+            "Actor", 
+            "Cap_(sport)", 
+            "Idiot", 
+            "Military_of_the_United_States", 
+            "HLS"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Beret", 
+            "United_States_Army"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Beret", 
+            "Military_of_the_United_States", 
+            "Aerial_refueling"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Rangers_F.C."
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Tanker_(ship)", 
+            "1943", 
+            "Beret", 
+            "History_of_the_United_States", 
+            "Beret", 
+            "Maroon_beret"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Language", 
+            "Tanker_(ship)", 
+            "Murder"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "People_for_the_Ethical_Treatment_of_Animals", 
+            "Bearskin"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Sect", 
+            "People_for_the_Ethical_Treatment_of_Animals", 
+            "People_for_the_Ethical_Treatment_of_Animals", 
+            "Cattle", 
+            "Left-wing_politics", 
+            "Far_left", 
+            "Left-wing_politics"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Tanker_(ship)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Wales", 
+            "Bearskin", 
+            "Welsh_Guards", 
+            "Hairstyle", 
+            "Doc_(TV_series)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Land_use", 
+            "Tax", 
+            "Wildlife", 
+            "Social_welfare_provision", 
+            "Central_processing_unit", 
+            "Science", 
+            "Social_welfare_provision", 
+            "Welfare_(financial_aid)", 
+            "Fish", 
+            "Domestic_sheep", 
+            "Social_welfare_provision", 
+            "Interest_group", 
+            "Cattle", 
+            "Grazing", 
+            "Ranch", 
+            "Food_processor", 
+            "Ranch", 
+            "Cattle", 
+            "Interest_group"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Necktie", 
+            "Wag", 
+            "Wag_the_Dog", 
+            "Bear"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Fur_clothing", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Fake_fur", 
+            "Bearskin", 
+            "Headgear"
+        ], 
+        "postID": 19
+    }
+]

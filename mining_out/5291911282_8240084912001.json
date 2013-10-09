@@ -1,0 +1,604 @@
+[
+    {
+        "entity": [
+            "Trailer_(vehicle)", 
+            "Airstream", 
+            "Airstream", 
+            "Travel_trailer", 
+            "Gas", 
+            "Bathroom", 
+            "Refrigerator", 
+            "Containerization", 
+            "Microwave", 
+            "Liquefied_petroleum_gas", 
+            "Dog"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Film_trailer", 
+            "Airstream"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Airstream", 
+            "Recreational_vehicle", 
+            "Marmot", 
+            "Airstream", 
+            "Quantum", 
+            "Airstream", 
+            "Marmot", 
+            "Trailer_(vehicle)", 
+            "Airstream"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Spring_(hydrosphere)", 
+            "Florida", 
+            "Camping", 
+            "Fishing", 
+            "Mile", 
+            "Fishing_vessel", 
+            "Sleeping_car", 
+            "Gasoline", 
+            "Gallon", 
+            "Spring_(hydrosphere)", 
+            "Truck", 
+            "Chevrolet", 
+            "Horsepower", 
+            "Tank", 
+            "Horse", 
+            "Gallon", 
+            "Utah", 
+            "Fishing", 
+            "Trailer_(vehicle)", 
+            "Hunting", 
+            "Trailer_(vehicle)", 
+            "Tandem", 
+            "Bob_cut", 
+            "Four-wheel_drive", 
+            "Bob_and_weave", 
+            "50_Cent", 
+            "Cent_(currency)", 
+            "Recreational_vehicle", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Ton", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chevrolet", 
+            "Harvester", 
+            "Diesel", 
+            "International_Harvester", 
+            "Mile", 
+            "Boulder,_Colorado", 
+            "Trans", 
+            "Inch", 
+            "Boulder_Mountain_(Utah)", 
+            "Cubic_inch", 
+            "Gray_Ghost_(fictional_character)", 
+            "Turbocharger", 
+            "Diesel", 
+            "Space_Shuttle", 
+            "Ghost", 
+            "Turbocharger", 
+            "Mechanic", 
+            "Film_trailer", 
+            "Ghost_Space", 
+            "Turbodiesel", 
+            "Litre", 
+            "Internal_combustion_engine", 
+            "Ghost", 
+            "Bomber", 
+            "Plateau"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Information_overload"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Ton", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Trailer_(vehicle)", 
+            "Camper", 
+            "Travel_trailer"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Miles_per_hour", 
+            "Ford_Motor_Company", 
+            "Chevrolet", 
+            "Chevrolet", 
+            "Gray_Ghost_(fictional_character)", 
+            "Cam", 
+            "Boot", 
+            "!!!", 
+            "United_States_Army", 
+            "283", 
+            "Inch", 
+            "Recon", 
+            "Sleeping_car", 
+            "Miles_per_hour", 
+            "Ford_Motor_Company", 
+            "Heartbeat", 
+            "390", 
+            "Film_trailer", 
+            "Film_trailer", 
+            "Header_(computing)", 
+            "Ford_Motor_Company", 
+            "Ghost"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "The_Boys_(UK_band)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Travel_trailer", 
+            "Camper"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "Crew_cab", 
+            "Montana", 
+            "Luggage", 
+            "Ghost", 
+            "Ghost", 
+            "Trailer_(vehicle)", 
+            "Ghost_Space", 
+            "Truck", 
+            "Ghost_Space", 
+            "Diesel", 
+            "Rushmore_(film)", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)", 
+            "Gas", 
+            "Rallidae", 
+            "Trailer_(vehicle)", 
+            "Bomber", 
+            "Gray_Ghost_(fictional_character)", 
+            "Ford_Motor_Company", 
+            "Trailer_(vehicle)", 
+            "Space_Shuttle", 
+            "Dog", 
+            "Four-wheel_drive", 
+            "Sioux", 
+            "Trailer_(vehicle)", 
+            "Holiday_Inn", 
+            "Trailer_(vehicle)", 
+            "Holiday", 
+            "Wheelbase", 
+            "Ford_Motor_Company", 
+            "Page_footer", 
+            "Pickup_truck", 
+            "South_Dakota", 
+            "Ghost", 
+            "Trailer_(vehicle)", 
+            "Nomad", 
+            "Ghost", 
+            "Ghost_Space", 
+            "Holiday", 
+            "Campsite", 
+            "Space_Shuttle", 
+            "Breakfast", 
+            "Kitchen", 
+            "Motel", 
+            "Best_Western", 
+            "Colorado", 
+            "Gray_Ghost_(fictional_character)", 
+            "Travel_trailer", 
+            "2009", 
+            "LOT_Polish_Airlines", 
+            "Fifth_wheel_coupling", 
+            "Cooking", 
+            "Ford_Motor_Company", 
+            "Locomotive", 
+            "Gasoline", 
+            "Wyoming", 
+            "April_1", 
+            "Plymouth_Duster", 
+            "Artillery_tractor", 
+            "Trailer_(vehicle)", 
+            "Highway", 
+            "Mount_Rushmore", 
+            "Railroad_tie", 
+            "Steel", 
+            "Trailer_(vehicle)", 
+            "Ghost", 
+            "Motel"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Elkhart,_Indiana", 
+            "Truck", 
+            "Spooner,_Wisconsin", 
+            "Truck", 
+            "Hilton_Hotels", 
+            "Parking_lot", 
+            "Hilton_HHonors", 
+            "Exoskeleton", 
+            "Joey_(TV_series)", 
+            "1811", 
+            "Hotel", 
+            "Dog", 
+            "Barack_Obama", 
+            "DVD", 
+            "Nomad", 
+            "Spooner,_Wisconsin"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Film_trailer", 
+            "Dog", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Film_trailer", 
+            "Sleeping_car", 
+            "Sleeping_car", 
+            "Ghost_Space", 
+            "Exoskeleton", 
+            "Ghost"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Trailer_(vehicle)", 
+            "Airstream", 
+            "Airstream", 
+            "Travel_trailer", 
+            "Gas", 
+            "Bathroom", 
+            "Refrigerator", 
+            "Containerization", 
+            "Microwave", 
+            "Liquefied_petroleum_gas", 
+            "Dog"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Film_trailer", 
+            "Airstream"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Airstream", 
+            "Recreational_vehicle", 
+            "Marmot", 
+            "Airstream", 
+            "Quantum", 
+            "Airstream", 
+            "Marmot", 
+            "Trailer_(vehicle)", 
+            "Airstream"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Spring_(hydrosphere)", 
+            "Florida", 
+            "Camping", 
+            "Fishing", 
+            "Mile", 
+            "Fishing_vessel", 
+            "Sleeping_car", 
+            "Gasoline", 
+            "Gallon", 
+            "Spring_(hydrosphere)", 
+            "Truck", 
+            "Chevrolet", 
+            "Horsepower", 
+            "Tank", 
+            "Horse", 
+            "Gallon", 
+            "Utah", 
+            "Fishing", 
+            "Trailer_(vehicle)", 
+            "Hunting", 
+            "Trailer_(vehicle)", 
+            "Tandem", 
+            "Bob_cut", 
+            "Four-wheel_drive", 
+            "Bob_and_weave", 
+            "50_Cent", 
+            "Cent_(currency)", 
+            "Recreational_vehicle", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Ton", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Chevrolet", 
+            "Harvester", 
+            "Diesel", 
+            "International_Harvester", 
+            "Mile", 
+            "Boulder,_Colorado", 
+            "Trans", 
+            "Inch", 
+            "Boulder_Mountain_(Utah)", 
+            "Cubic_inch", 
+            "Gray_Ghost_(fictional_character)", 
+            "Turbocharger", 
+            "Diesel", 
+            "Space_Shuttle", 
+            "Ghost", 
+            "Turbocharger", 
+            "Mechanic", 
+            "Film_trailer", 
+            "Ghost_Space", 
+            "Turbodiesel", 
+            "Litre", 
+            "Internal_combustion_engine", 
+            "Ghost", 
+            "Bomber", 
+            "Plateau"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Information_overload"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Ton", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Trailer_(vehicle)", 
+            "Camper", 
+            "Travel_trailer"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Miles_per_hour", 
+            "Ford_Motor_Company", 
+            "Chevrolet", 
+            "Chevrolet", 
+            "Gray_Ghost_(fictional_character)", 
+            "Cam", 
+            "Boot", 
+            "!!!", 
+            "United_States_Army", 
+            "283", 
+            "Inch", 
+            "Recon", 
+            "Sleeping_car", 
+            "Miles_per_hour", 
+            "Ford_Motor_Company", 
+            "Heartbeat", 
+            "390", 
+            "Film_trailer", 
+            "Film_trailer", 
+            "Header_(computing)", 
+            "Ford_Motor_Company", 
+            "Ghost"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "The_Boys_(UK_band)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Travel_trailer", 
+            "Camper"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Wheel", 
+            "Crew_cab", 
+            "Montana", 
+            "Luggage", 
+            "Ghost", 
+            "Ghost", 
+            "Trailer_(vehicle)", 
+            "Ghost_Space", 
+            "Truck", 
+            "Ghost_Space", 
+            "Diesel", 
+            "Rushmore_(film)", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)", 
+            "Trailer_(vehicle)", 
+            "Gas", 
+            "Rallidae", 
+            "Trailer_(vehicle)", 
+            "Bomber", 
+            "Gray_Ghost_(fictional_character)", 
+            "Ford_Motor_Company", 
+            "Trailer_(vehicle)", 
+            "Space_Shuttle", 
+            "Dog", 
+            "Four-wheel_drive", 
+            "Sioux", 
+            "Trailer_(vehicle)", 
+            "Holiday_Inn", 
+            "Trailer_(vehicle)", 
+            "Holiday", 
+            "Wheelbase", 
+            "Ford_Motor_Company", 
+            "Page_footer", 
+            "Pickup_truck", 
+            "South_Dakota", 
+            "Ghost", 
+            "Trailer_(vehicle)", 
+            "Nomad", 
+            "Ghost", 
+            "Ghost_Space", 
+            "Holiday", 
+            "Campsite", 
+            "Space_Shuttle", 
+            "Breakfast", 
+            "Kitchen", 
+            "Motel", 
+            "Best_Western", 
+            "Colorado", 
+            "Gray_Ghost_(fictional_character)", 
+            "Travel_trailer", 
+            "2009", 
+            "LOT_Polish_Airlines", 
+            "Fifth_wheel_coupling", 
+            "Cooking", 
+            "Ford_Motor_Company", 
+            "Locomotive", 
+            "Gasoline", 
+            "Wyoming", 
+            "April_1", 
+            "Plymouth_Duster", 
+            "Artillery_tractor", 
+            "Trailer_(vehicle)", 
+            "Highway", 
+            "Mount_Rushmore", 
+            "Railroad_tie", 
+            "Steel", 
+            "Trailer_(vehicle)", 
+            "Ghost", 
+            "Motel"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Elkhart,_Indiana", 
+            "Truck", 
+            "Spooner,_Wisconsin", 
+            "Truck", 
+            "Hilton_Hotels", 
+            "Parking_lot", 
+            "Hilton_HHonors", 
+            "Exoskeleton", 
+            "Joey_(TV_series)", 
+            "1811", 
+            "Hotel", 
+            "Dog", 
+            "Barack_Obama", 
+            "DVD", 
+            "Nomad", 
+            "Spooner,_Wisconsin"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Film_trailer", 
+            "Dog", 
+            "Critter", 
+            "Truck", 
+            "Dog", 
+            "Film_trailer", 
+            "Sleeping_car", 
+            "Sleeping_car", 
+            "Ghost_Space", 
+            "Exoskeleton", 
+            "Ghost"
+        ], 
+        "postID": 40
+    }
+]

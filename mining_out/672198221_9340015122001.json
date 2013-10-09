@@ -1,0 +1,23 @@
+[
+    {
+        "entity": [
+            "United_States_House_of_Representatives", 
+            "United_States", 
+            "Electronic_music", 
+            "Angel", 
+            "Telephone_tapping", 
+            "Israel", 
+            "United_States_House_of_Representatives", 
+            "United_States_Congress", 
+            "Israelis"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bermuda", 
+            "Bridge"
+        ], 
+        "postID": 2
+    }
+]

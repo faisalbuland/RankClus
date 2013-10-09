@@ -1,0 +1,556 @@
+[
+    {
+        "entity": [
+            "Electricity", 
+            "Heater", 
+            "Energy", 
+            "World_energy_resources_and_consumption", 
+            "Solar_energy", 
+            "Wind_turbine", 
+            "Smoking_pipe", 
+            "Electronics", 
+            "Barack_Obama", 
+            "Solar_energy", 
+            "Monitor_(warship)", 
+            "Technology", 
+            "Electrical_power_industry", 
+            "World_energy_resources_and_consumption", 
+            "Photovoltaics", 
+            "Electrical_generator", 
+            "World_energy_resources_and_consumption", 
+            "Electronics", 
+            "Heat", 
+            "Barack_Obama", 
+            "Water_heating", 
+            "Wind_power", 
+            "Water", 
+            "Magic_(paranormal)", 
+            "Rush_hour", 
+            "Pump", 
+            "Energy", 
+            "Pump", 
+            "Energy", 
+            "Energy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "MAN_AG"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Cell_(biology)", 
+            "Ampere", 
+            "Energy", 
+            "Internet", 
+            "California", 
+            "Basic_research", 
+            "Centimetre", 
+            "Automobile", 
+            "Solar_cell", 
+            "Battery_(electricity)", 
+            "Politician"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "California", 
+            "Automobile", 
+            "California"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Solar_panel", 
+            "Windmill"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Emission_standard", 
+            "Emission", 
+            "SMOG", 
+            "California", 
+            "California", 
+            "Air_pollution", 
+            "California"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "California", 
+            "Republican_People's_Party_(Turkey)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Long_Beach,_California", 
+            "Gardena,_California", 
+            "Signal_Hill,_California", 
+            "Drainage_basin", 
+            "Pollution", 
+            "Smog", 
+            "California", 
+            "LOOK", 
+            "San_Gabriel_Mountains", 
+            "Fruit", 
+            "Gabriel", 
+            "San_Gabriel,_California", 
+            "Drainage_basin", 
+            "1960s", 
+            "Wow"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Toast", 
+            "Hell"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Power-on_self-test", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Deficit"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Oil", 
+            "Booting", 
+            "Environmental_policy"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "COST_\u2013_European_Cooperation_in_the_Field_of_Scientific_and_Technical_Research", 
+            "Manufacturing", 
+            "Economy"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Deficit", 
+            "George_W._Bush", 
+            "Economy_of_the_United_States", 
+            "Iraq", 
+            "God", 
+            "Nice"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Water", 
+            "Population"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Soldier", 
+            "Diplomacy"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "MESS", 
+            "Republicanism", 
+            "Democracy", 
+            "Tar_(file_format)", 
+            "Pooch", 
+            "Pooch"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mortgage"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Y'all", 
+            "Economics", 
+            "Barack_Obama", 
+            "Economics"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "Water", 
+            "Dissertation"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Inverter_(electrical)", 
+            "Water", 
+            "Water_heating", 
+            "Rebate", 
+            "Heater", 
+            "Water", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Electricity", 
+            "Heater", 
+            "Energy", 
+            "World_energy_resources_and_consumption", 
+            "Solar_energy", 
+            "Wind_turbine", 
+            "Smoking_pipe", 
+            "Electronics", 
+            "Barack_Obama", 
+            "Solar_energy", 
+            "Monitor_(warship)", 
+            "Technology", 
+            "Electrical_power_industry", 
+            "World_energy_resources_and_consumption", 
+            "Photovoltaics", 
+            "Electrical_generator", 
+            "World_energy_resources_and_consumption", 
+            "Electronics", 
+            "Heat", 
+            "Barack_Obama", 
+            "Water_heating", 
+            "Wind_power", 
+            "Water", 
+            "Magic_(paranormal)", 
+            "Rush_hour", 
+            "Pump", 
+            "Energy", 
+            "Pump", 
+            "Energy", 
+            "Energy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "MAN_AG"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Electronic_music", 
+            "Cell_(biology)", 
+            "Ampere", 
+            "Energy", 
+            "Internet", 
+            "California", 
+            "Basic_research", 
+            "Centimetre", 
+            "Automobile", 
+            "Solar_cell", 
+            "Battery_(electricity)", 
+            "Politician"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "California", 
+            "Automobile", 
+            "California"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Solar_panel", 
+            "Windmill"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Emission_standard", 
+            "Emission", 
+            "SMOG", 
+            "California", 
+            "California", 
+            "Air_pollution", 
+            "California"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "California", 
+            "Republican_People's_Party_(Turkey)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Long_Beach,_California", 
+            "Gardena,_California", 
+            "Signal_Hill,_California", 
+            "Drainage_basin", 
+            "Pollution", 
+            "Smog", 
+            "California", 
+            "LOOK", 
+            "San_Gabriel_Mountains", 
+            "Fruit", 
+            "Gabriel", 
+            "San_Gabriel,_California", 
+            "Drainage_basin", 
+            "1960s", 
+            "Wow"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Socialism"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Toast", 
+            "Hell"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Power-on_self-test", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Deficit"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "California", 
+            "Oil", 
+            "Booting", 
+            "Environmental_policy"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "COST_\u2013_European_Cooperation_in_the_Field_of_Scientific_and_Technical_Research", 
+            "Manufacturing", 
+            "Economy"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Deficit", 
+            "George_W._Bush", 
+            "Economy_of_the_United_States", 
+            "Iraq", 
+            "God", 
+            "Nice"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Water", 
+            "Population"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Diplomacy", 
+            "Soldier", 
+            "Diplomacy"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Republicanism", 
+            "MESS", 
+            "Republicanism", 
+            "Democracy", 
+            "Tar_(file_format)", 
+            "Pooch", 
+            "Pooch"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Mortgage"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Y'all", 
+            "Economics", 
+            "Barack_Obama", 
+            "Economics"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Barack_Obama"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Energy", 
+            "Water", 
+            "Dissertation"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Inverter_(electrical)", 
+            "Water", 
+            "Water_heating", 
+            "Rebate", 
+            "Heater", 
+            "Water", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 58
+    }
+]

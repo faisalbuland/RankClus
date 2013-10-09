@@ -1,0 +1,527 @@
+[
+    {
+        "entity": [
+            "Currency", 
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "God", 
+            "Politics", 
+            "State_religion", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Religion", 
+            "Church", 
+            "State", 
+            "Patriotism", 
+            "Motto", 
+            "Currency", 
+            "State", 
+            "Motto", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Atheism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Currency"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOL", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "George_Washington", 
+            "Washington_Monument", 
+            "Monument"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Circumcision"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "God", 
+            "LOL", 
+            "Circumcision", 
+            "Union_Station_(Los_Angeles)", 
+            "Outlaws"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Religion", 
+            "God", 
+            "Fer", 
+            "Catholicism", 
+            "God", 
+            "God", 
+            "Religion", 
+            "Christianity"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion", 
+            "March_13", 
+            "Constitution", 
+            "Thomas_Jefferson", 
+            "John_Adams", 
+            "Church", 
+            "Theology", 
+            "Deluge_(mythology)", 
+            "Earth", 
+            "Religion", 
+            "Thomas_Jefferson", 
+            "Virginia", 
+            "United_States_Congress", 
+            "Flood", 
+            "John_Adams", 
+            "Republican_Party_(United_States)", 
+            "1786", 
+            "Statute", 
+            "George_Washington", 
+            "George_Washington", 
+            "Republican_Party_(United_States)", 
+            "2009", 
+            "Conservatism_in_the_United_States", 
+            "Bible", 
+            "Deluge_(mythology)", 
+            "Law", 
+            "State"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "God", 
+            "Politics", 
+            "State_religion", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Religion", 
+            "Church", 
+            "State", 
+            "Patriotism", 
+            "Motto", 
+            "Currency", 
+            "State", 
+            "Motto", 
+            "United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Atheism"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Currency"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOL", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "George_Washington", 
+            "Washington_Monument", 
+            "Monument"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Circumcision"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "God", 
+            "LOL", 
+            "Circumcision", 
+            "Union_Station_(Los_Angeles)", 
+            "Outlaws"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Religion", 
+            "God", 
+            "Fer", 
+            "Catholicism", 
+            "God", 
+            "God", 
+            "Religion", 
+            "Christianity"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion", 
+            "March_13", 
+            "Constitution", 
+            "Thomas_Jefferson", 
+            "John_Adams", 
+            "Church", 
+            "Theology", 
+            "Deluge_(mythology)", 
+            "Earth", 
+            "Religion", 
+            "Thomas_Jefferson", 
+            "Virginia", 
+            "United_States_Congress", 
+            "Flood", 
+            "John_Adams", 
+            "Republican_Party_(United_States)", 
+            "1786", 
+            "Statute", 
+            "George_Washington", 
+            "George_Washington", 
+            "Republican_Party_(United_States)", 
+            "2009", 
+            "Conservatism_in_the_United_States", 
+            "Bible", 
+            "Deluge_(mythology)", 
+            "Law", 
+            "State"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Currency", 
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "God", 
+            "Politics", 
+            "State_religion", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Religion", 
+            "Church", 
+            "State", 
+            "Patriotism", 
+            "Motto", 
+            "Currency", 
+            "State", 
+            "Motto", 
+            "United_States"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "God", 
+            "MSNBC"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Atheism"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Currency"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "LOL", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "MSNBC"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "George_Washington", 
+            "Washington_Monument", 
+            "Monument"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Fashion", 
+            "Circumcision"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Hell"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "God", 
+            "LOL", 
+            "Circumcision", 
+            "Union_Station_(Los_Angeles)", 
+            "Outlaws"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Deity", 
+            "Religion", 
+            "God", 
+            "Fer", 
+            "Catholicism", 
+            "God", 
+            "God", 
+            "Religion", 
+            "Christianity"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Freedom_of_religion", 
+            "March_13", 
+            "Constitution", 
+            "Thomas_Jefferson", 
+            "John_Adams", 
+            "Church", 
+            "Theology", 
+            "Deluge_(mythology)", 
+            "Earth", 
+            "Religion", 
+            "Thomas_Jefferson", 
+            "Virginia", 
+            "United_States_Congress", 
+            "Flood", 
+            "John_Adams", 
+            "Republican_Party_(United_States)", 
+            "1786", 
+            "Statute", 
+            "George_Washington", 
+            "George_Washington", 
+            "Republican_Party_(United_States)", 
+            "2009", 
+            "Conservatism_in_the_United_States", 
+            "Bible", 
+            "Deluge_(mythology)", 
+            "Law", 
+            "State"
+        ], 
+        "postID": 60
+    }
+]

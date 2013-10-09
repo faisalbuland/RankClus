@@ -1,0 +1,596 @@
+[
+    {
+        "entity": [
+            "Trump", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Donald_Trump"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Civil_union"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "Miss_Rhode_Island", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Men_who_have_sex_with_men", 
+            "Joseph_Stalin", 
+            "Rhode_Island", 
+            "Politics"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Ancient_Rome", 
+            "Christianity", 
+            "Roman_Empire", 
+            "Double_standard", 
+            "Christian_Roman", 
+            "LGBT_social_movements", 
+            "Civil_union", 
+            "Culture_of_Greece", 
+            "Ancient_Greece", 
+            "Roman_Empire", 
+            "Homosexuality", 
+            "LGBT_social_movements", 
+            "Ancient_Greece", 
+            "Homosexuality"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "National_Health", 
+            "Insurance", 
+            "National_health_insurance"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Donald_Trump"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Barack_Obama", 
+            "Trump_(card_games)", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Marriage", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "LOL", 
+            "Laughter", 
+            "Beauty_contest", 
+            "Donald_Trump", 
+            "Miss_USA", 
+            "Donald_Trump", 
+            "Validation", 
+            "Marriage", 
+            "Conservatism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Wagon", 
+            "Stalinism", 
+            "Conservatism", 
+            "Partisan_(military)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Donald_Trump", 
+            "Miss_California", 
+            "Carrie", 
+            "California", 
+            "Beauty_contest"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Trump", 
+            "Politics"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marching_band", 
+            "Donald_Trump", 
+            "Los_Angeles_Angels_of_Anaheim", 
+            "Miss_California", 
+            "Circus", 
+            "Pig", 
+            "Blue_Angels", 
+            "California"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Homosexuality"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Beauty_contest", 
+            "Prime_time", 
+            "Donald_Trump", 
+            "Broadcast_programming", 
+            "Television", 
+            "Mustard_(condiment)", 
+            "Teleprompter"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Trump", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Donald_Trump"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Civil_union"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "Miss_Rhode_Island", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Men_who_have_sex_with_men", 
+            "Joseph_Stalin", 
+            "Rhode_Island", 
+            "Politics"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Ancient_Rome", 
+            "Christianity", 
+            "Roman_Empire", 
+            "Double_standard", 
+            "Christian_Roman", 
+            "LGBT_social_movements", 
+            "Civil_union", 
+            "Culture_of_Greece", 
+            "Ancient_Greece", 
+            "Roman_Empire", 
+            "Homosexuality", 
+            "LGBT_social_movements", 
+            "Ancient_Greece", 
+            "Homosexuality"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "National_Health", 
+            "Insurance", 
+            "National_health_insurance"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Donald_Trump"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Barack_Obama", 
+            "Trump_(card_games)", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Marriage", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "LOL", 
+            "Laughter", 
+            "Beauty_contest", 
+            "Donald_Trump", 
+            "Miss_USA", 
+            "Donald_Trump", 
+            "Validation", 
+            "Marriage", 
+            "Conservatism"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Wagon", 
+            "Stalinism", 
+            "Conservatism", 
+            "Partisan_(military)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Donald_Trump", 
+            "Miss_California", 
+            "Carrie", 
+            "California", 
+            "Beauty_contest"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Trump", 
+            "Politics"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Marching_band", 
+            "Donald_Trump", 
+            "Los_Angeles_Angels_of_Anaheim", 
+            "Miss_California", 
+            "Circus", 
+            "Pig", 
+            "Blue_Angels", 
+            "California"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Homosexuality"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Beauty_contest", 
+            "Prime_time", 
+            "Donald_Trump", 
+            "Broadcast_programming", 
+            "Television", 
+            "Mustard_(condiment)", 
+            "Teleprompter"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Trump", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism", 
+            "Donald_Trump"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Goethe_Basin"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Civil_union"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "Miss_Rhode_Island", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Men_who_have_sex_with_men", 
+            "Joseph_Stalin", 
+            "Rhode_Island", 
+            "Politics"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Ancient_Rome", 
+            "Christianity", 
+            "Roman_Empire", 
+            "Double_standard", 
+            "Christian_Roman", 
+            "LGBT_social_movements", 
+            "Civil_union", 
+            "Culture_of_Greece", 
+            "Ancient_Greece", 
+            "Roman_Empire", 
+            "Homosexuality", 
+            "LGBT_social_movements", 
+            "Ancient_Greece", 
+            "Homosexuality"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Health_insurance", 
+            "National_Health", 
+            "Insurance", 
+            "National_health_insurance"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Donald_Trump"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Politics", 
+            "Barack_Obama", 
+            "Trump_(card_games)", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Marriage", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Miss_USA", 
+            "LOL", 
+            "Laughter", 
+            "Beauty_contest", 
+            "Donald_Trump", 
+            "Miss_USA", 
+            "Donald_Trump", 
+            "Validation", 
+            "Marriage", 
+            "Conservatism"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Wagon", 
+            "Stalinism", 
+            "Conservatism", 
+            "Partisan_(military)"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Double_standard", 
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Donald_Trump", 
+            "Miss_California", 
+            "Carrie", 
+            "California", 
+            "Beauty_contest"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Winger_(ice_hockey)", 
+            "Trump", 
+            "Politics"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Marching_band", 
+            "Donald_Trump", 
+            "Los_Angeles_Angels_of_Anaheim", 
+            "Miss_California", 
+            "Circus", 
+            "Pig", 
+            "Blue_Angels", 
+            "California"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Same-sex_marriage", 
+            "Marriage", 
+            "Homosexuality"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Pig", 
+            "Beauty_contest", 
+            "Prime_time", 
+            "Donald_Trump", 
+            "Broadcast_programming", 
+            "Television", 
+            "Mustard_(condiment)", 
+            "Teleprompter"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

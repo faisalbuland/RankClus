@@ -1,0 +1,478 @@
+[
+    {
+        "entity": [
+            "Pound_sterling", 
+            "Divine_grace", 
+            "Grace_period", 
+            "Loyalty_program", 
+            "Penalty_shootout_(association_football)", 
+            "Nathan_Banks", 
+            "Bank", 
+            "United_States_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Interest", 
+            "Credit_limit", 
+            "Credit_card"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Fine_print", 
+            "Debit_card", 
+            "Credit_card", 
+            "Credit_card", 
+            "Debit_card", 
+            "BOA_(band)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "California"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Credit_card"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Citibank"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Nazi_Party", 
+            "Government_budget", 
+            "Power_outage", 
+            "Smog", 
+            "Real_estate", 
+            "Nazism", 
+            "Mudflow"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Crash_test_dummy", 
+            "God", 
+            "Credit_union", 
+            "United_States", 
+            "Visa_Inc."
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "T._S._Eliot", 
+            "Wing", 
+            "Horror_fiction", 
+            "Philosophy", 
+            "Selfishness", 
+            "Situation_comedy", 
+            "Right-wing_politics", 
+            "Fashion", 
+            "Extremism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Piggybacking", 
+            "Credit_card", 
+            "Prostitution", 
+            "Credit_card", 
+            "Conservatism", 
+            "Mortgage", 
+            "Student_loan", 
+            "Republican_Party_(United_States)", 
+            "Credit_card", 
+            "Credit_card", 
+            "Screw", 
+            "Debt", 
+            "Closed_system", 
+            "Democratic_Party_(United_States)", 
+            "Credit_card", 
+            "Down_payment", 
+            "Water_heating", 
+            "Second_mortgage", 
+            "Closed_system", 
+            "Water", 
+            "Heater", 
+            "Credit_card", 
+            "Credit_card"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Statutory_law", 
+            "Credit_card", 
+            "Statutory_law"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Student_financial_aid", 
+            "Education", 
+            "Borrower", 
+            "Credit_score_(United_States)", 
+            "Credit_card", 
+            "Student_financial_aid", 
+            "Credit_score_(United_States)", 
+            "Law_firm", 
+            "College", 
+            "American_Bar_Association", 
+            "Unemployment", 
+            "Credit_score_(United_States)", 
+            "Credit_score_(United_States)", 
+            "Credit_history", 
+            "Law_school", 
+            "Credit_card", 
+            "Education", 
+            "Bank", 
+            "Credit_card", 
+            "Law", 
+            "Credit_card", 
+            "Credit_score_(United_States)", 
+            "Credit_score_(United_States)", 
+            "Credit_card", 
+            "Law"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Stalinism", 
+            "National_park", 
+            "Joseph_Stalin", 
+            "Gun_politics", 
+            "Politics", 
+            "Interest"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Interest", 
+            "Legislation", 
+            "Gerald_Ford", 
+            "Credit_card", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Minute", 
+            "Credit_card", 
+            "National_park", 
+            "Joseph_Stalin", 
+            "Interest"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "List_of_United_States_federal_agencies", 
+            "Mortgage", 
+            "Update_(SQL)", 
+            "Turf_war", 
+            "Bank", 
+            "Credit_card", 
+            "Lawrence_Summers", 
+            "United_States_Department_of_the_Treasury", 
+            "Lawrence,_Kansas", 
+            "Grass", 
+            "Gerald_Ford", 
+            "United_States_Department_of_the_Treasury", 
+            "National_Economic_Council", 
+            "Timothy_F._Geithner", 
+            "Barack_Obama", 
+            "United_States_Department_of_the_Treasury", 
+            "Ford_Motor_Company", 
+            "U.S._Securities_and_Exchange_Commission", 
+            "Film_director", 
+            "Barack_Obama", 
+            "Product_(chemistry)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Pound_sterling", 
+            "Divine_grace", 
+            "Grace_period", 
+            "Loyalty_program", 
+            "Penalty_shootout_(association_football)", 
+            "Nathan_Banks", 
+            "Bank", 
+            "United_States_Congress"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Interest", 
+            "Credit_limit", 
+            "Credit_card"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Fine_print", 
+            "Debit_card", 
+            "Credit_card", 
+            "Credit_card", 
+            "Debit_card", 
+            "BOA_(band)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Education", 
+            "California"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Credit_card"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Citibank"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Gun_politics", 
+            "Nazi_Party", 
+            "Government_budget", 
+            "Power_outage", 
+            "Smog", 
+            "Real_estate", 
+            "Nazism", 
+            "Mudflow"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Crash_test_dummy", 
+            "God", 
+            "Credit_union", 
+            "United_States", 
+            "Visa_Inc."
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Far_right", 
+            "T._S._Eliot", 
+            "Wing", 
+            "Horror_fiction", 
+            "Philosophy", 
+            "Selfishness", 
+            "Situation_comedy", 
+            "Right-wing_politics", 
+            "Fashion", 
+            "Extremism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Piggybacking", 
+            "Credit_card", 
+            "Prostitution", 
+            "Credit_card", 
+            "Conservatism", 
+            "Mortgage", 
+            "Student_loan", 
+            "Republican_Party_(United_States)", 
+            "Credit_card", 
+            "Credit_card", 
+            "Screw", 
+            "Debt", 
+            "Closed_system", 
+            "Democratic_Party_(United_States)", 
+            "Credit_card", 
+            "Down_payment", 
+            "Water_heating", 
+            "Second_mortgage", 
+            "Closed_system", 
+            "Water", 
+            "Heater", 
+            "Credit_card", 
+            "Credit_card"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Statutory_law", 
+            "Credit_card", 
+            "Statutory_law"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Student_financial_aid", 
+            "Education", 
+            "Borrower", 
+            "Credit_score_(United_States)", 
+            "Credit_card", 
+            "Student_financial_aid", 
+            "Credit_score_(United_States)", 
+            "Law_firm", 
+            "College", 
+            "American_Bar_Association", 
+            "Unemployment", 
+            "Credit_score_(United_States)", 
+            "Credit_score_(United_States)", 
+            "Credit_history", 
+            "Law_school", 
+            "Credit_card", 
+            "Education", 
+            "Bank", 
+            "Credit_card", 
+            "Law", 
+            "Credit_card", 
+            "Credit_score_(United_States)", 
+            "Credit_score_(United_States)", 
+            "Credit_card", 
+            "Law"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Stalinism", 
+            "National_park", 
+            "Joseph_Stalin", 
+            "Gun_politics", 
+            "Politics", 
+            "Interest"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "United_States_Senate", 
+            "Interest", 
+            "Legislation", 
+            "Gerald_Ford", 
+            "Credit_card", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Minute", 
+            "Credit_card", 
+            "National_park", 
+            "Joseph_Stalin", 
+            "Interest"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States_Secretary_of_the_Treasury", 
+            "List_of_United_States_federal_agencies", 
+            "Mortgage", 
+            "Update_(SQL)", 
+            "Turf_war", 
+            "Bank", 
+            "Credit_card", 
+            "Lawrence_Summers", 
+            "United_States_Department_of_the_Treasury", 
+            "Lawrence,_Kansas", 
+            "Grass", 
+            "Gerald_Ford", 
+            "United_States_Department_of_the_Treasury", 
+            "National_Economic_Council", 
+            "Timothy_F._Geithner", 
+            "Barack_Obama", 
+            "United_States_Department_of_the_Treasury", 
+            "Ford_Motor_Company", 
+            "U.S._Securities_and_Exchange_Commission", 
+            "Film_director", 
+            "Barack_Obama", 
+            "Product_(chemistry)"
+        ], 
+        "postID": 40
+    }
+]

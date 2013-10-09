@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "Internet_forum", 
+            "Republicanism", 
+            "United_States_Army", 
+            "Truck", 
+            "Civilian"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Colonel", 
+            "Iraq"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Bird"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "December_31", 
+            "Military.com", 
+            "2008", 
+            "Derelict"
+        ], 
+        "postID": 5
+    }
+]

@@ -1,0 +1,868 @@
+[
+    {
+        "entity": [
+            "Stern", 
+            "Madam", 
+            "Stern"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Kim_Jong-il", 
+            "Hello", 
+            "Haha_(entertainer)", 
+            "Stern", 
+            "FedEx"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Provisional_Irish_Republican_Army"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Berlin", 
+            "Barack_Obama", 
+            "Cuba", 
+            "Puppet", 
+            "Brinkmanship", 
+            "John_F._Kennedy"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Barack_Obama", 
+            "Sarcasm", 
+            "Korea", 
+            "George_W._Bush", 
+            "Sarcasm"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "People's_Republic_of_China", 
+            "Serbia", 
+            "Nuclear_weapon", 
+            "1914", 
+            "Russia", 
+            "Iran", 
+            "George_W._Bush"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "George_H._W._Bush", 
+            "Nuclear_weapon", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "Koreans", 
+            "Nuclear_weapon", 
+            "2006", 
+            "George_W._Bush", 
+            "Weapon", 
+            "Nuclear_weapon", 
+            "United_States_Congress", 
+            "North_Korea", 
+            "October_9"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Ballistic_missile", 
+            "1998", 
+            "Korea", 
+            "Barack_Obama", 
+            "Ballistics", 
+            "President_of_the_United_States", 
+            "Japan", 
+            "North_Korea", 
+            "Bill_Clinton"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "2006", 
+            "Fault_(geology)", 
+            "1994", 
+            "George_W._Bush"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Missile", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Stern", 
+            "Missile", 
+            "Korean_language"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Nuke", 
+            "George_W._Bush", 
+            "Pornography", 
+            "Koreans", 
+            "Presidency_of_George_W._Bush", 
+            "Iranian_peoples", 
+            "Barack_Obama", 
+            "Puck_(sports)", 
+            "Iran", 
+            "Nuclear_weapon", 
+            "Dominion", 
+            "Dam", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "Nuke"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Tantrum", 
+            "Seoul", 
+            "Korea", 
+            "North_Korea", 
+            "Poster", 
+            "International_sanctions", 
+            "Refugee", 
+            "Korea", 
+            "China", 
+            "North_Korea", 
+            "Cookie", 
+            "Pariah", 
+            "George_W._Bush", 
+            "Lever", 
+            "Superpower", 
+            "China", 
+            "Korean_language", 
+            "Barack_Obama", 
+            "Tantrum", 
+            "Korean_People's_Army", 
+            "North_Korea", 
+            "South_Korea", 
+            "Korea", 
+            "George_W._Bush"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Chat", 
+            "Stern", 
+            "Missile"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Netherlands", 
+            "George_W._Bush", 
+            "2006_North_Korean_nuclear_test", 
+            "Asia", 
+            "North_Korea", 
+            "North_Korea", 
+            "George_W._Bush", 
+            "North_Korea", 
+            "Nuclear_weapon", 
+            "July_5", 
+            "United_States", 
+            "Korea", 
+            "United_Nations_Security_Council", 
+            "Korea", 
+            "Japan", 
+            "Foreign_policy_of_the_George_W._Bush_administration", 
+            "2006_North_Korean_nuclear_test", 
+            "Six-party_talks", 
+            "Nuclear_weapon", 
+            "China", 
+            "Condoleezza_Rice", 
+            "Johann_Wolfgang_von_Goethe", 
+            "United_Nations_Security_Council", 
+            "Condoleezza_Rice", 
+            "United_Nations", 
+            "Korea", 
+            "President_of_the_United_States", 
+            "Steve_Holland", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Korea", 
+            "Korea", 
+            "George_W._Bush", 
+            "Johann_Wolfgang_von_Goethe", 
+            "North_Korea", 
+            "Johann_Wolfgang_von_Goethe", 
+            "2006", 
+            "Reuters", 
+            "North_Korea", 
+            "Korea", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Japan", 
+            "United_States", 
+            "South_Korea", 
+            "President_of_the_United_States", 
+            "North_Korea", 
+            "2006_North_Korean_missile_test", 
+            "Russia"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Arms_race", 
+            "Nuclear_weapon", 
+            "President_of_the_United_States", 
+            "Economic_collapse", 
+            "Missile", 
+            "Russia", 
+            "Joe_Biden", 
+            "Annihilation", 
+            "Missile", 
+            "Barack_Obama"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Foreign_relations_of_the_People's_Republic_of_China", 
+            "Korean_language", 
+            "Johann_Wolfgang_von_Goethe", 
+            "People's_Republic_of_China", 
+            "North_Korea", 
+            "Bond_(finance)", 
+            "North_Korea", 
+            "Intelligentsia", 
+            "Beijing", 
+            "Kim_Jong-il", 
+            "Korea", 
+            "Pyongyang", 
+            "People's_Republic_of_China", 
+            "Party_School_of_the_Central_Committee_of_the_Communist_Party_of_China", 
+            "Korea", 
+            "Communism", 
+            "Central_Party_(British_Columbia)", 
+            "Beijing", 
+            "Party_school", 
+            "Communism", 
+            "North_Korea", 
+            "North_Korea", 
+            "Economic_sanctions", 
+            "Newspaper", 
+            "Johann_Wolfgang_von_Goethe", 
+            "People's_Republic_of_China", 
+            "People's_Republic_of_China", 
+            "Earthquake", 
+            "Nuclear_weapon", 
+            "South_Korea", 
+            "Communist_party", 
+            "Bond_(finance)", 
+            "Korea", 
+            "Korea", 
+            "Korea", 
+            "People's_Republic_of_China", 
+            "North_Korea", 
+            "Johann_Wolfgang_von_Goethe", 
+            "North_Korea", 
+            "People's_Republic_of_China", 
+            "North_Korea_and_weapons_of_mass_destruction", 
+            "People's_Republic_of_China", 
+            "Korea", 
+            "North_Korea"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Nuke", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "State", 
+            "Ruling_class", 
+            "Suicide", 
+            "Korea", 
+            "State", 
+            "International_relations", 
+            "Korea", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "North_Korea", 
+            "Ruling_class", 
+            "North_Korea", 
+            "Logic", 
+            "Brinkmanship", 
+            "Elvis_Presley"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Missile"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Korea", 
+            "Barney_Frank", 
+            "Sex", 
+            "Nancy_Pelosi", 
+            "Dianne_Feinstein", 
+            "John_Murtha", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Thomas_Jefferson", 
+            "Barney_Gumble", 
+            "North_Korea", 
+            "Barack_Obama", 
+            "Dictator"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "DVD-Video", 
+            "DVD-Video"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Predator_(film)", 
+            "Scream_(film)", 
+            "Altitude", 
+            "Bogie", 
+            "Rattle", 
+            "Hilt", 
+            "Smoke", 
+            "Missile", 
+            "Launch_pad", 
+            "Weapon", 
+            "Hell", 
+            "Drill", 
+            "Taliban", 
+            "Soviet_Union", 
+            "Launch_pad", 
+            "Radiation", 
+            "Sabre", 
+            "Villain", 
+            "Boeing", 
+            "Japan", 
+            "Sea_of_Japan", 
+            "Bundesautobahn_20"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Japan", 
+            "China", 
+            "George_W._Bush", 
+            "List_of_designated_terrorist_organizations", 
+            "Nuclear_weapon", 
+            "Russia", 
+            "Appeasement", 
+            "China", 
+            "Soviet_Union", 
+            "Refugee", 
+            "Cookie", 
+            "Kremlin", 
+            "Nuclear_weapon", 
+            "George_W._Bush", 
+            "Tel_Aviv", 
+            "China", 
+            "Iran", 
+            "Ton", 
+            "New_York_City", 
+            "Sabre", 
+            "Underground_economy", 
+            "Superpower", 
+            "Nuclear_weapon", 
+            "Economy", 
+            "Nuclear_weapon", 
+            "Lever", 
+            "Moscow_Kremlin", 
+            "Economy", 
+            "New_York_City"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Stern", 
+            "Madam", 
+            "Stern"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Kim_Jong-il", 
+            "Hello", 
+            "Haha_(entertainer)", 
+            "Stern", 
+            "FedEx"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Provisional_Irish_Republican_Army"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Berlin", 
+            "Barack_Obama", 
+            "Cuba", 
+            "Puppet", 
+            "Brinkmanship", 
+            "John_F._Kennedy"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "North_Korea", 
+            "Barack_Obama", 
+            "Sarcasm", 
+            "Korea", 
+            "George_W._Bush", 
+            "Sarcasm"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "People's_Republic_of_China", 
+            "Serbia", 
+            "Nuclear_weapon", 
+            "1914", 
+            "Russia", 
+            "Iran", 
+            "George_W._Bush"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Japan", 
+            "George_H._W._Bush", 
+            "Nuclear_weapon", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "Koreans", 
+            "Nuclear_weapon", 
+            "2006", 
+            "George_W._Bush", 
+            "Weapon", 
+            "Nuclear_weapon", 
+            "United_States_Congress", 
+            "North_Korea", 
+            "October_9"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Ballistic_missile", 
+            "1998", 
+            "Korea", 
+            "Barack_Obama", 
+            "Ballistics", 
+            "President_of_the_United_States", 
+            "Japan", 
+            "North_Korea", 
+            "Bill_Clinton"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "2006", 
+            "Fault_(geology)", 
+            "1994", 
+            "George_W._Bush"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ballistic_missile", 
+            "Missile", 
+            "Nuclear_weapon"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Stern", 
+            "Missile", 
+            "Korean_language"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Nuke", 
+            "George_W._Bush", 
+            "Pornography", 
+            "Koreans", 
+            "Presidency_of_George_W._Bush", 
+            "Iranian_peoples", 
+            "Barack_Obama", 
+            "Puck_(sports)", 
+            "Iran", 
+            "Nuclear_weapon", 
+            "Dominion", 
+            "Dam", 
+            "Nuclear_weapon", 
+            "Iran", 
+            "Nuke"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Tantrum", 
+            "Seoul", 
+            "Korea", 
+            "North_Korea", 
+            "Poster", 
+            "International_sanctions", 
+            "Refugee", 
+            "Korea", 
+            "China", 
+            "North_Korea", 
+            "Cookie", 
+            "Pariah", 
+            "George_W._Bush", 
+            "Lever", 
+            "Superpower", 
+            "China", 
+            "Korean_language", 
+            "Barack_Obama", 
+            "Tantrum", 
+            "Korean_People's_Army", 
+            "North_Korea", 
+            "South_Korea", 
+            "Korea", 
+            "George_W._Bush"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Chat", 
+            "Stern", 
+            "Missile"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Netherlands", 
+            "George_W._Bush", 
+            "2006_North_Korean_nuclear_test", 
+            "Asia", 
+            "North_Korea", 
+            "North_Korea", 
+            "George_W._Bush", 
+            "North_Korea", 
+            "Nuclear_weapon", 
+            "July_5", 
+            "United_States", 
+            "Korea", 
+            "United_Nations_Security_Council", 
+            "Korea", 
+            "Japan", 
+            "Foreign_policy_of_the_George_W._Bush_administration", 
+            "2006_North_Korean_nuclear_test", 
+            "Six-party_talks", 
+            "Nuclear_weapon", 
+            "China", 
+            "Condoleezza_Rice", 
+            "Johann_Wolfgang_von_Goethe", 
+            "United_Nations_Security_Council", 
+            "Condoleezza_Rice", 
+            "United_Nations", 
+            "Korea", 
+            "President_of_the_United_States", 
+            "Steve_Holland", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Korea", 
+            "Korea", 
+            "George_W._Bush", 
+            "Johann_Wolfgang_von_Goethe", 
+            "North_Korea", 
+            "Johann_Wolfgang_von_Goethe", 
+            "2006", 
+            "Reuters", 
+            "North_Korea", 
+            "Korea", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Japan", 
+            "United_States", 
+            "South_Korea", 
+            "President_of_the_United_States", 
+            "North_Korea", 
+            "2006_North_Korean_missile_test", 
+            "Russia"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Arms_race", 
+            "Nuclear_weapon", 
+            "President_of_the_United_States", 
+            "Economic_collapse", 
+            "Missile", 
+            "Russia", 
+            "Joe_Biden", 
+            "Annihilation", 
+            "Missile", 
+            "Barack_Obama"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Foreign_relations_of_the_People's_Republic_of_China", 
+            "Korean_language", 
+            "Johann_Wolfgang_von_Goethe", 
+            "People's_Republic_of_China", 
+            "North_Korea", 
+            "Bond_(finance)", 
+            "North_Korea", 
+            "Intelligentsia", 
+            "Beijing", 
+            "Kim_Jong-il", 
+            "Korea", 
+            "Pyongyang", 
+            "People's_Republic_of_China", 
+            "Party_School_of_the_Central_Committee_of_the_Communist_Party_of_China", 
+            "Korea", 
+            "Communism", 
+            "Central_Party_(British_Columbia)", 
+            "Beijing", 
+            "Party_school", 
+            "Communism", 
+            "North_Korea", 
+            "North_Korea", 
+            "Economic_sanctions", 
+            "Newspaper", 
+            "Johann_Wolfgang_von_Goethe", 
+            "People's_Republic_of_China", 
+            "People's_Republic_of_China", 
+            "Earthquake", 
+            "Nuclear_weapon", 
+            "South_Korea", 
+            "Communist_party", 
+            "Bond_(finance)", 
+            "Korea", 
+            "Korea", 
+            "Korea", 
+            "People's_Republic_of_China", 
+            "North_Korea", 
+            "Johann_Wolfgang_von_Goethe", 
+            "North_Korea", 
+            "People's_Republic_of_China", 
+            "North_Korea_and_weapons_of_mass_destruction", 
+            "People's_Republic_of_China", 
+            "Korea", 
+            "North_Korea"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Alaska", 
+            "Nuke", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Logic", 
+            "State", 
+            "Ruling_class", 
+            "Suicide", 
+            "Korea", 
+            "State", 
+            "International_relations", 
+            "Korea", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "North_Korea", 
+            "Ruling_class", 
+            "North_Korea", 
+            "Logic", 
+            "Brinkmanship", 
+            "Elvis_Presley"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Missile"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Korea", 
+            "Barney_Frank", 
+            "Sex", 
+            "Nancy_Pelosi", 
+            "Dianne_Feinstein", 
+            "John_Murtha", 
+            "Hillary_Rodham_Clinton", 
+            "Barack_Obama", 
+            "Thomas_Jefferson", 
+            "Barney_Gumble", 
+            "North_Korea", 
+            "Barack_Obama", 
+            "Dictator"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "DVD-Video", 
+            "DVD-Video"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Predator_(film)", 
+            "Scream_(film)", 
+            "Altitude", 
+            "Bogie", 
+            "Rattle", 
+            "Hilt", 
+            "Smoke", 
+            "Missile", 
+            "Launch_pad", 
+            "Weapon", 
+            "Hell", 
+            "Drill", 
+            "Taliban", 
+            "Soviet_Union", 
+            "Launch_pad", 
+            "Radiation", 
+            "Sabre", 
+            "Villain", 
+            "Boeing", 
+            "Japan", 
+            "Sea_of_Japan", 
+            "Bundesautobahn_20"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Japan", 
+            "China", 
+            "George_W._Bush", 
+            "List_of_designated_terrorist_organizations", 
+            "Nuclear_weapon", 
+            "Russia", 
+            "Appeasement", 
+            "China", 
+            "Soviet_Union", 
+            "Refugee", 
+            "Cookie", 
+            "Kremlin", 
+            "Nuclear_weapon", 
+            "George_W._Bush", 
+            "Tel_Aviv", 
+            "China", 
+            "Iran", 
+            "Ton", 
+            "New_York_City", 
+            "Sabre", 
+            "Underground_economy", 
+            "Superpower", 
+            "Nuclear_weapon", 
+            "Economy", 
+            "Nuclear_weapon", 
+            "Lever", 
+            "Moscow_Kremlin", 
+            "Economy", 
+            "New_York_City"
+        ], 
+        "postID": 58
+    }
+]

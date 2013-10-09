@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Basal_shoot", 
+            "China", 
+            "Plastron", 
+            "Shako", 
+            "Precious_metal", 
+            "Camouflage"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Petroleum", 
+            "1973_oil_crisis", 
+            "Vladimir_Putin", 
+            "Barrel_(volume)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Potato"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Potato", 
+            "Russian_language"
+        ], 
+        "postID": 5
+    }
+]

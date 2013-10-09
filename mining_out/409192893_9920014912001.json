@@ -1,0 +1,87 @@
+[
+    {
+        "entity": [
+            "Russia", 
+            "Brand"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bye_(sports)", 
+            "Hummer", 
+            "Bye_(sports)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Russia"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bamboo", 
+            "Automotive_industry", 
+            "Environmentally_friendly", 
+            "United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Fixed-wing_aircraft", 
+            "Pop_music", 
+            "Hummer"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Mortgage", 
+            "Barack_Obama", 
+            "Left-wing_politics", 
+            "Bank", 
+            "Automotive_industry", 
+            "Bail"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Chavez_(band)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Hummer", 
+            "Carjacking", 
+            "Russia"
+        ], 
+        "postID": 12
+    }
+]

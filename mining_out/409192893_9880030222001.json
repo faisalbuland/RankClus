@@ -1,0 +1,442 @@
+[
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Air_force"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "New_York_City", 
+            "Commander-in-chief", 
+            "New_York_City_Police_Department", 
+            "Flyover", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "United_States_Air_Force", 
+            "Mayor_of_New_York_City", 
+            "United_States_Secret_Service"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Air_force"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Caldera", 
+            "President_of_the_United_States", 
+            "Louis_Caldera", 
+            "State", 
+            "New_Jersey", 
+            "New_York", 
+            "New_York", 
+            "Barack_Obama", 
+            "Local_government", 
+            "Jersey", 
+            "Caldera"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Boeing_VC-25", 
+            "President_of_the_United_States", 
+            "Dover"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "United_States", 
+            "Law"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Urination", 
+            "Coffee", 
+            "Coffee_pot", 
+            "Shoe", 
+            "Coffee"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "New_York_City", 
+            "Jersey", 
+            "OTH"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_York_City", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Boeing_VC-25"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "God"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Idiot"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "York_City_F.C.", 
+            "Computer", 
+            "F-16_Fighting_Falcon", 
+            "Whip_(politics)", 
+            "Technology", 
+            "Hell", 
+            "New_York", 
+            "New_York_City", 
+            "People", 
+            "Boeing_VC-25", 
+            "Overpass", 
+            "District_of_Columbia_Air_National_Guard"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "False_dilemma", 
+            "Dichotomy"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Magician_(fantasy)", 
+            "Aircraft"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "IMHO", 
+            "Hell", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Grammatical_mood", 
+            "High_five", 
+            "Curtsey", 
+            "Bloomberg_L.P."
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Gift_shop"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Boeing_747"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Aircrew_member", 
+            "Flight_attendant"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Air_force"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Federal_Aviation_Administration", 
+            "New_York_City", 
+            "Commander-in-chief", 
+            "New_York_City_Police_Department", 
+            "Flyover", 
+            "Federal_Bureau_of_Investigation", 
+            "Federal_Bureau_of_Investigation", 
+            "United_States_Air_Force", 
+            "Mayor_of_New_York_City", 
+            "United_States_Secret_Service"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Air_force"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Caldera", 
+            "President_of_the_United_States", 
+            "Louis_Caldera", 
+            "State", 
+            "New_Jersey", 
+            "New_York", 
+            "New_York", 
+            "Barack_Obama", 
+            "Local_government", 
+            "Jersey", 
+            "Caldera"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Boeing_VC-25", 
+            "President_of_the_United_States", 
+            "Dover"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "New_York_City", 
+            "United_States", 
+            "Law"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Urination", 
+            "Coffee", 
+            "Coffee_pot", 
+            "Shoe", 
+            "Coffee"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "New_York_City", 
+            "Jersey", 
+            "OTH"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "New_York_City", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Boeing_VC-25"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "God"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "One_Nation_(Australia)", 
+            "One_Heart"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Idiot"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "York_City_F.C.", 
+            "Computer", 
+            "F-16_Fighting_Falcon", 
+            "Whip_(politics)", 
+            "Technology", 
+            "Hell", 
+            "New_York", 
+            "New_York_City", 
+            "People", 
+            "Boeing_VC-25", 
+            "Overpass", 
+            "District_of_Columbia_Air_National_Guard"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "False_dilemma", 
+            "Dichotomy"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Magician_(fantasy)", 
+            "Aircraft"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Commander", 
+            "IMHO", 
+            "Hell", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Grammatical_mood", 
+            "High_five", 
+            "Curtsey", 
+            "Bloomberg_L.P."
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Gift_shop"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Boeing_747"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Aircrew_member", 
+            "Flight_attendant"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }
+]

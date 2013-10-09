@@ -1,0 +1,29 @@
+[
+    {
+        "entity": [
+            "Refugee", 
+            "Gaza", 
+            "United_States", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Virtuous_circle_and_vicious_circle", 
+            "Angel_(TV_series)", 
+            "United_States", 
+            "North_America", 
+            "Palestinian_people", 
+            "United_States", 
+            "Palestinian_National_Authority", 
+            "Doctor_(Doctor_Who)"
+        ], 
+        "postID": 4
+    }
+]

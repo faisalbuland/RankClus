@@ -1,0 +1,800 @@
+[
+    {
+        "entity": [
+            "Population", 
+            "Duck", 
+            "Blue_Duck", 
+            "Duck", 
+            "New_Zealand", 
+            "Blue_Duck", 
+            "Duck", 
+            "Trousers", 
+            "Duck_pond", 
+            "Duck", 
+            "Daily_Mirror", 
+            "Duck", 
+            "Pantsuit", 
+            "Ben_&amp;_Jerry's", 
+            "London", 
+            "Duck", 
+            "United_Kingdom", 
+            "New_Zealand", 
+            "New_Zealand", 
+            "Ben_&amp;_Jerry's", 
+            "Newspaper", 
+            "Mountain", 
+            "Sanctuary"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Cream", 
+            "Ice_cream"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Flavor", 
+            "Ice_cream"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Gay", 
+            "God"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Plenty_(play)", 
+            "Extinction", 
+            "Population", 
+            "Bird", 
+            "Egg_(biology)", 
+            "Species", 
+            "Species", 
+            "Species"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Species"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Predation", 
+            "Extinction"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Duck"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Blue_Duck", 
+            "Duck"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Animal", 
+            "Homosexuality"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Penguin", 
+            "Zoo", 
+            "Ben_&amp;_Jerry's", 
+            "Duck", 
+            "Dominance"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Earth", 
+            "Animal", 
+            "Politics", 
+            "Earth", 
+            "Extinction"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Dude"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Duck", 
+            "Deer"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Peking_Duck", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Perspiration"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Gay"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Brown_hair", 
+            "Red_hair", 
+            "Comprehension"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Rape", 
+            "Animal"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Quackery", 
+            "Quackery", 
+            "!!!", 
+            "Water", 
+            "Bubbles_(The_Wire)", 
+            "Quackery", 
+            "Judge", 
+            "Judge", 
+            "Duck", 
+            "Quackery", 
+            "Judge", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Dollar", 
+            "Water", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Judge"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Animal", 
+            "Outlaw", 
+            "Irony", 
+            "Reproduction"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Civilization_(video_game)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Civilization", 
+            "Technology", 
+            "Armageddon", 
+            "!!!"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Theatrical_property"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "California", 
+            "Supreme_Court_of_California", 
+            "Theatrical_property"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Duck", 
+            "Blue_Duck", 
+            "Duck", 
+            "New_Zealand", 
+            "Blue_Duck", 
+            "Duck", 
+            "Trousers", 
+            "Duck_pond", 
+            "Duck", 
+            "Daily_Mirror", 
+            "Duck", 
+            "Pantsuit", 
+            "Ben_&amp;_Jerry's", 
+            "London", 
+            "Duck", 
+            "United_Kingdom", 
+            "New_Zealand", 
+            "New_Zealand", 
+            "Ben_&amp;_Jerry's", 
+            "Newspaper", 
+            "Mountain", 
+            "Sanctuary"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Cream", 
+            "Ice_cream"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Flavor", 
+            "Ice_cream"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Gay", 
+            "God"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Plenty_(play)", 
+            "Extinction", 
+            "Population", 
+            "Bird", 
+            "Egg_(biology)", 
+            "Species", 
+            "Species", 
+            "Species"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Species"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Predation", 
+            "Extinction"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Duck"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Blue_Duck", 
+            "Duck"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Animal", 
+            "Homosexuality"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Penguin", 
+            "Zoo", 
+            "Ben_&amp;_Jerry's", 
+            "Duck", 
+            "Dominance"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Earth", 
+            "Animal", 
+            "Politics", 
+            "Earth", 
+            "Extinction"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Dude"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Duck", 
+            "Deer"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Peking_Duck", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Perspiration"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Gay"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Brown_hair", 
+            "Red_hair", 
+            "Comprehension"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Rape", 
+            "Animal"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Quackery", 
+            "Quackery", 
+            "!!!", 
+            "Water", 
+            "Bubbles_(The_Wire)", 
+            "Quackery", 
+            "Judge", 
+            "Judge", 
+            "Duck", 
+            "Quackery", 
+            "Judge", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Dollar", 
+            "Water", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Judge"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Animal", 
+            "Outlaw", 
+            "Irony", 
+            "Reproduction"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Civilization_(video_game)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Civilization", 
+            "Technology", 
+            "Armageddon", 
+            "!!!"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Theatrical_property"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "California", 
+            "Supreme_Court_of_California", 
+            "Theatrical_property"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Population", 
+            "Duck", 
+            "Blue_Duck", 
+            "Duck", 
+            "New_Zealand", 
+            "Blue_Duck", 
+            "Duck", 
+            "Trousers", 
+            "Duck_pond", 
+            "Duck", 
+            "Daily_Mirror", 
+            "Duck", 
+            "Pantsuit", 
+            "Ben_&amp;_Jerry's", 
+            "London", 
+            "Duck", 
+            "United_Kingdom", 
+            "New_Zealand", 
+            "New_Zealand", 
+            "Ben_&amp;_Jerry's", 
+            "Newspaper", 
+            "Mountain", 
+            "Sanctuary"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Cream", 
+            "Ice_cream"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Cream", 
+            "Flavor", 
+            "Ice_cream"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Ben_&amp;_Jerry's", 
+            "Gay", 
+            "God"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Plenty_(play)", 
+            "Extinction", 
+            "Population", 
+            "Bird", 
+            "Egg_(biology)", 
+            "Species", 
+            "Species", 
+            "Species"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Species"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Predation", 
+            "Extinction"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Duck"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Blue_Duck", 
+            "Duck"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Animal", 
+            "Homosexuality"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Penguin", 
+            "Zoo", 
+            "Ben_&amp;_Jerry's", 
+            "Duck", 
+            "Dominance"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Earth", 
+            "Animal", 
+            "Politics", 
+            "Earth", 
+            "Extinction"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Dude"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)", 
+            "Duck", 
+            "Deer"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Peking_Duck", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Duck", 
+            "Perspiration"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Gay"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "Brown_hair", 
+            "Red_hair", 
+            "Comprehension"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "Animal_kingdom", 
+            "Rape", 
+            "Animal"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "Dollar", 
+            "Quackery", 
+            "Quackery", 
+            "!!!", 
+            "Water", 
+            "Bubbles_(The_Wire)", 
+            "Quackery", 
+            "Judge", 
+            "Judge", 
+            "Duck", 
+            "Quackery", 
+            "Judge", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Dollar", 
+            "Water", 
+            "Duck", 
+            "!!!", 
+            "Quackery", 
+            "Judge"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Sex", 
+            "Animal", 
+            "Outlaw", 
+            "Irony", 
+            "Reproduction"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Civilization_(video_game)"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Civilization", 
+            "Technology", 
+            "Armageddon", 
+            "!!!"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Theatrical_property"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Supreme_Court_of_the_United_States", 
+            "California", 
+            "Supreme_Court_of_California", 
+            "Theatrical_property"
+        ], 
+        "postID": 90
+    }
+]

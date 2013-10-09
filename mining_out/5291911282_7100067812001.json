@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Bigotry", 
+            "Lunatic", 
+            "Emotion", 
+            "Discourse", 
+            "Psychiatric_hospital", 
+            "Decorum", 
+            "Logic", 
+            "Stupidity", 
+            "Discourse"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Beacon"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

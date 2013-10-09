@@ -1,0 +1,115 @@
+[
+    {
+        "entity": [
+            "Telephone_directory", 
+            "Chair_(official)", 
+            "Barnes,_London", 
+            "Barnes,_London", 
+            "Database", 
+            "Rouge", 
+            "Desert", 
+            "Destroyer", 
+            "Captain", 
+            "World_War_II", 
+            "Telephone_directory", 
+            "USS_Halyburton_(FFG-40)", 
+            "Internet_forum", 
+            "Vietnam", 
+            "Korea", 
+            "Internet_forum", 
+            "1992", 
+            "Internet_forum", 
+            "Internet_forum", 
+            "Barnes,_London", 
+            "Ord,_Nebraska", 
+            "Missing_(film)", 
+            "United_States", 
+            "Okinawa_Prefecture", 
+            "Hell", 
+            "Barnes,_London", 
+            "Internet_forum", 
+            "United_States_Navy", 
+            "Slam_dunk", 
+            "Fault_(geology)", 
+            "U.S._state", 
+            "Buddy_(Looney_Tunes)", 
+            "Radioman", 
+            "Buddy_(Looney_Tunes)", 
+            "U.S._state", 
+            "Website", 
+            "Internet_forum", 
+            "Barnes,_London", 
+            "Baton_Rouge,_Louisiana", 
+            "United_States_Navy", 
+            "Arthur_(TV_series)", 
+            "Commissioner", 
+            "Slam_dunk", 
+            "Governor", 
+            "Volunteer", 
+            "Telephone_directory", 
+            "Barnes,_London", 
+            "Vietnam", 
+            "USS_Kidd_(DDG-993)", 
+            "Destroyer"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Web_search_engine", 
+            "Bank", 
+            "Finder_(software)", 
+            "Social_Security_Administration", 
+            "United_States_Department_of_Defense", 
+            "Buddy_(Looney_Tunes)", 
+            "September_11,_2001_attacks", 
+            "Social_Security_number", 
+            "United_States_Department_of_Defense", 
+            "United_States_Department_of_Defense", 
+            "Engine", 
+            "Social_Security_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Software_bug", 
+            "United_States_Army", 
+            "Ako", 
+            "Army", 
+            "Army_Knowledge_Online"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "San_Francisco,_California"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Driver's_license", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Killed_in_action", 
+            "Non-commissioned_officer", 
+            "Good_Luck", 
+            "Platoon", 
+            "Hound", 
+            "Ballentine,_South_Carolina", 
+            "Sergeant"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Good_morning"
+        ], 
+        "postID": 7
+    }
+]

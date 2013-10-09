@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Security_clearance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Computer_printer", 
+            "Hewlett-Packard_Company", 
+            "List_of_United_States_defense_contractors", 
+            "IMO", 
+            "2006", 
+            "Classified_information", 
+            "Security_clearance", 
+            "Web_browser", 
+            "September_2006"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Computer_printer", 
+            "Fracture"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Boss_(video_games)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Business_card"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Classified_information", 
+            "Manager_(baseball)"
+        ], 
+        "postID": 6
+    }
+]

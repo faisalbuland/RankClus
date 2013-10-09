@@ -1,0 +1,332 @@
+[
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Crucifixion", 
+            "President_of_the_United_States", 
+            "Teddy_bear", 
+            "President_of_the_United_States", 
+            "Potomac_River", 
+            "Bear", 
+            "Sandwich"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Brass", 
+            "Barack_Obama"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Cheny,_Yonne", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Afghanistan"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States_Marine_Corps", 
+            "Dude", 
+            "Brinson,_Georgia"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Common_sense"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Operations_security", 
+            "God", 
+            "National_interest", 
+            "Barack_Obama", 
+            "Transparency_(humanities)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Afghanistan"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Mujahideen", 
+            "Soldier", 
+            "Safety_(American_football)", 
+            "Media_event", 
+            "Barack_Obama", 
+            "Jihadi"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Saddam_Hussein", 
+            "Afghanistan", 
+            "Iraq", 
+            "Pakistan", 
+            "September_11,_2001_attacks", 
+            "Iraq", 
+            "Desert", 
+            "Osama_bin_Laden", 
+            "Osama_bin_Laden", 
+            "Afghanistan", 
+            "Osama_bin_Laden", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Afghanistan", 
+            "Iraq", 
+            "George_W._Bush"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Afghanistan"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Afghanistan"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Interrogation"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Just_War", 
+            "Thought", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Afghanistan"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Needle", 
+            "Osama_bin_Laden", 
+            "Hay"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Crucifixion", 
+            "President_of_the_United_States", 
+            "Teddy_bear", 
+            "President_of_the_United_States", 
+            "Potomac_River", 
+            "Bear", 
+            "Sandwich"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Brass", 
+            "Barack_Obama"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Cheny,_Yonne", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui", 
+            "Afghanistan"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States_Marine_Corps", 
+            "Dude", 
+            "Brinson,_Georgia"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Common_sense"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Operations_security", 
+            "God", 
+            "National_interest", 
+            "Barack_Obama", 
+            "Transparency_(humanities)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Afghanistan"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Capital_punishment", 
+            "Mujahideen", 
+            "Soldier", 
+            "Safety_(American_football)", 
+            "Media_event", 
+            "Barack_Obama", 
+            "Jihadi"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Mud", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "Saddam_Hussein", 
+            "Afghanistan", 
+            "Iraq", 
+            "Pakistan", 
+            "September_11,_2001_attacks", 
+            "Iraq", 
+            "Desert", 
+            "Osama_bin_Laden", 
+            "Osama_bin_Laden", 
+            "Afghanistan", 
+            "Osama_bin_Laden", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Afghanistan", 
+            "Iraq", 
+            "George_W._Bush"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Afghanistan"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Iraq_War", 
+            "Afghanistan"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Central_Intelligence_Agency", 
+            "Interrogation"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Just_War", 
+            "Thought", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Afghanistan"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Needle", 
+            "Osama_bin_Laden", 
+            "Hay"
+        ], 
+        "postID": 40
+    }
+]

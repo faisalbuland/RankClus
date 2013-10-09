@@ -1,0 +1,31 @@
+[
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "United_States_Senate", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Tree", 
+            "American_Civil_Liberties_Union", 
+            "Moose", 
+            "Liberalism", 
+            "Elk", 
+            "People_for_the_Ethical_Treatment_of_Animals", 
+            "Chipko_movement"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Feds", 
+            "Tree", 
+            "Chipko_movement"
+        ], 
+        "postID": 3
+    }
+]

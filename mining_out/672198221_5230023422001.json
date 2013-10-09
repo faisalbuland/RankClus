@@ -1,0 +1,68 @@
+[
+    {
+        "entity": [
+            "Dissection", 
+            "Dover,_Delaware", 
+            "Pathology", 
+            "Armour", 
+            "Examiner", 
+            "Afghanistan", 
+            "Dover_Air_Force_Base", 
+            "Military_of_the_United_States", 
+            "Medical_equipment", 
+            "Computed_tomography", 
+            "Three-dimensional_space", 
+            "Ballistic_vest", 
+            "Afghanistan", 
+            "Bone_fracture", 
+            "Tissue_(biology)", 
+            "2001", 
+            "2004", 
+            "Coroner", 
+            "Metal", 
+            "Autopsy", 
+            "Shrapnel", 
+            "United_States_Air_Force", 
+            "Autopsy", 
+            "Shrapnel", 
+            "Autopsy", 
+            "Iraq", 
+            "Pathology", 
+            "Autopsy", 
+            "Autopsy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Eye", 
+            "Metal", 
+            "Magnetic_resonance_imaging", 
+            "Nurse", 
+            "ER_(TV_series)", 
+            "Flight_nurse", 
+            "Perspiration", 
+            "Magnetic_resonance_imaging", 
+            "Nurse", 
+            "Registered_nurse"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "World_War_II", 
+            "Improvised_explosive_device", 
+            "Insurgency", 
+            "Iraq", 
+            "World_War_II", 
+            "Warrant_(law)", 
+            "Iraqi_insurgency"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }
+]

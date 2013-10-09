@@ -1,0 +1,408 @@
+[
+    {
+        "entity": [
+            "Sentence_(law)", 
+            "Mail_fraud", 
+            "Gerald_Ford", 
+            "Fraud", 
+            "June_16", 
+            "Chin_people", 
+            "Money_laundering", 
+            "Client_(computing)", 
+            "Securities_fraud", 
+            "Ponzi_scheme", 
+            "Security_(finance)", 
+            "Charles_Ponzi", 
+            "Ponzi_scheme", 
+            "Mail_fraud", 
+            "Charles_Ponzi", 
+            "United_States", 
+            "Asset_forfeiture", 
+            "NASDAQ", 
+            "Fraud", 
+            "Security_(finance)", 
+            "Denny", 
+            "Denny_Chin", 
+            "Bail", 
+            "Jail", 
+            "Market_maker", 
+            "Money_laundering", 
+            "Prison", 
+            "Perjury", 
+            "Ford_Motor_Company", 
+            "Plea_bargain", 
+            "Fraud", 
+            "Fraud", 
+            "Restitution", 
+            "Financier"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Hope,_British_Columbia", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Life_imprisonment"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Prison"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Conspiracy_(crime)", 
+            "Penthouse_(magazine)", 
+            "Bum", 
+            "Tax", 
+            "Tax", 
+            "Cell_(biology)", 
+            "Tax_return_(United_States)", 
+            "Bribery", 
+            "Bank"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Russian_language", 
+            "Russian_Mafia", 
+            "Jail", 
+            "History_of_the_Jews_in_Romania", 
+            "Israel", 
+            "Brazil", 
+            "Jew"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Pop_music", 
+            "Stock_market"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Radio", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Argentina", 
+            "2000", 
+            "Bush_family"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hitman", 
+            "Bullet"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Collar", 
+            "Gourmet", 
+            "Crime", 
+            "Cottage", 
+            "Cottage", 
+            "White-collar_worker", 
+            "Millionaires"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Emotion"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Hitman", 
+            "Bullet"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Softball", 
+            "Bank", 
+            "Politician"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Supermax", 
+            "Supermax", 
+            "Prison", 
+            "Population"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Patriot", 
+            "Bank", 
+            "USA_PATRIOT_Act", 
+            "Patriot", 
+            "Bank", 
+            "USA_PATRIOT_Act"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Bus", 
+            "Woof", 
+            "Dollar", 
+            "Thomas_Paine"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Sentence_(law)", 
+            "Mail_fraud", 
+            "Gerald_Ford", 
+            "Fraud", 
+            "June_16", 
+            "Chin_people", 
+            "Money_laundering", 
+            "Client_(computing)", 
+            "Securities_fraud", 
+            "Ponzi_scheme", 
+            "Security_(finance)", 
+            "Charles_Ponzi", 
+            "Ponzi_scheme", 
+            "Mail_fraud", 
+            "Charles_Ponzi", 
+            "United_States", 
+            "Asset_forfeiture", 
+            "NASDAQ", 
+            "Fraud", 
+            "Security_(finance)", 
+            "Denny", 
+            "Denny_Chin", 
+            "Bail", 
+            "Jail", 
+            "Market_maker", 
+            "Money_laundering", 
+            "Prison", 
+            "Perjury", 
+            "Ford_Motor_Company", 
+            "Plea_bargain", 
+            "Fraud", 
+            "Fraud", 
+            "Restitution", 
+            "Financier"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Hope,_British_Columbia", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Life_imprisonment"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Prison"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Conspiracy_(crime)", 
+            "Penthouse_(magazine)", 
+            "Bum", 
+            "Tax", 
+            "Tax", 
+            "Cell_(biology)", 
+            "Tax_return_(United_States)", 
+            "Bribery", 
+            "Bank"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Citizenship", 
+            "Russian_language", 
+            "Russian_Mafia", 
+            "Jail", 
+            "History_of_the_Jews_in_Romania", 
+            "Israel", 
+            "Brazil", 
+            "Jew"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Pop_music", 
+            "Stock_market"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Radio", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Argentina", 
+            "2000", 
+            "Bush_family"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hitman", 
+            "Bullet"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Collar", 
+            "Gourmet", 
+            "Crime", 
+            "Cottage", 
+            "Cottage", 
+            "White-collar_worker", 
+            "Millionaires"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Emotion"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Hitman", 
+            "Bullet"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Softball", 
+            "Bank", 
+            "Politician"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Supermax", 
+            "Supermax", 
+            "Prison", 
+            "Population"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Patriot", 
+            "Bank", 
+            "USA_PATRIOT_Act", 
+            "Patriot", 
+            "Bank", 
+            "USA_PATRIOT_Act"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Thomas_Paine", 
+            "Bus", 
+            "Woof", 
+            "Dollar", 
+            "Thomas_Paine"
+        ], 
+        "postID": 40
+    }
+]

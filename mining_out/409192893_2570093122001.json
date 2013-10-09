@@ -1,0 +1,48 @@
+[
+    {
+        "entity": [
+            "Real_estate", 
+            "Real_estate", 
+            "General_Growth_Properties", 
+            "CBS", 
+            "Real_estate_broker", 
+            "Real_estate", 
+            "American_Broadcasting_Company", 
+            "Default_(band)", 
+            "NBC", 
+            "News_media", 
+            "Real_estate_broker", 
+            "CNN", 
+            "MSNBC", 
+            "Fox_News_Channel", 
+            "Chapter_11,_Title_11,_United_States_Code", 
+            "Bankruptcy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "April_22", 
+            "National_Public_Radio", 
+            "Early_2000s_recession", 
+            "Eastern_Time_Zone", 
+            "General_Growth_Properties", 
+            "Goggles", 
+            "Bankruptcy", 
+            "Early_2000s_recession", 
+            "LOT_Polish_Airlines", 
+            "2009", 
+            "Hit_(baseball)", 
+            "Early_2000s_recession"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Foreclosure", 
+            "Men_who_have_sex_with_men", 
+            "Moratorium"
+        ], 
+        "postID": 3
+    }
+]

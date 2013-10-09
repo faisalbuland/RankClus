@@ -1,0 +1,668 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "France", 
+            "Fox_Broadcasting_Company", 
+            "Hit_(baseball)", 
+            "Barack_Obama", 
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Mustard_(condiment)", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Sandwich"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mustard_(condiment)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Cognition", 
+            "Class_conflict"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Al_Capp", 
+            "Sausage", 
+            "Barack_Obama", 
+            "Mammy_archetype"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Grey_Poupon", 
+            "Refrigerator"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "False_dilemma", 
+            "Rush_(band)", 
+            "Dichotomy", 
+            "Nancy_Pelosi", 
+            "Shtick"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Elitism", 
+            "Sandwich", 
+            "Swiss_cheese", 
+            "Cheesesteak", 
+            "Cheese", 
+            "Hamburger", 
+            "Swiss_cheese", 
+            "President_of_the_United_States", 
+            "John_Kerry", 
+            "Elitism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "LOL", 
+            "Politics", 
+            "Rush_(band)", 
+            "Hypocrisy", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Nerve", 
+            "Radio"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "Mustard_(condiment)", 
+            "Mustard", 
+            "Elitism", 
+            "International_Maritime_Organization", 
+            "Elitism", 
+            "Christ"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Hamburger", 
+            "Mustard", 
+            "Greasy_spoon", 
+            "Spoon", 
+            "Mustard_(condiment)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Rush_Limbaugh", 
+            "Neal_Boortz", 
+            "Hell", 
+            "Radio", 
+            "Talk_radio", 
+            "Radio_personality", 
+            "Radio"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Rush_(band)", 
+            "Neal_Boortz"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Zell_Miller", 
+            "Zell"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Corps", 
+            "Grey_Poupon", 
+            "Cheddar_cheese", 
+            "Cheddar_cheese", 
+            "Stunt", 
+            "Mustard_(condiment)", 
+            "White_House_Press_Corps", 
+            "Dijon", 
+            "Ketchup", 
+            "Cheese", 
+            "Publicity_stunt", 
+            "Pardon"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Great_Depression", 
+            "Wagyu", 
+            "St._Louis,_Missouri", 
+            "Pizza", 
+            "Hamburger", 
+            "Wagyu", 
+            "Great_Depression", 
+            "Steak", 
+            "Waffle", 
+            "Chicago", 
+            "Cocktail_party", 
+            "Great_Depression", 
+            "Chef", 
+            "Dijon", 
+            "Steak", 
+            "Cocktail"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Stage_name"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "France", 
+            "Fox_Broadcasting_Company", 
+            "Hit_(baseball)", 
+            "Barack_Obama", 
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Mustard_(condiment)", 
+            "United_States"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Sandwich"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Mustard_(condiment)"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Cognition", 
+            "Class_conflict"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Al_Capp", 
+            "Sausage", 
+            "Barack_Obama", 
+            "Mammy_archetype"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Grey_Poupon", 
+            "Refrigerator"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "False_dilemma", 
+            "Rush_(band)", 
+            "Dichotomy", 
+            "Nancy_Pelosi", 
+            "Shtick"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Elitism", 
+            "Sandwich", 
+            "Swiss_cheese", 
+            "Cheesesteak", 
+            "Cheese", 
+            "Hamburger", 
+            "Swiss_cheese", 
+            "President_of_the_United_States", 
+            "John_Kerry", 
+            "Elitism"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "LOL", 
+            "Politics", 
+            "Rush_(band)", 
+            "Hypocrisy", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Nerve", 
+            "Radio"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "Mustard_(condiment)", 
+            "Mustard", 
+            "Elitism", 
+            "International_Maritime_Organization", 
+            "Elitism", 
+            "Christ"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Hamburger", 
+            "Mustard", 
+            "Greasy_spoon", 
+            "Spoon", 
+            "Mustard_(condiment)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Rush_Limbaugh", 
+            "Neal_Boortz", 
+            "Hell", 
+            "Radio", 
+            "Talk_radio", 
+            "Radio_personality", 
+            "Radio"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Rush_(band)", 
+            "Neal_Boortz"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Zell_Miller", 
+            "Zell"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Corps", 
+            "Grey_Poupon", 
+            "Cheddar_cheese", 
+            "Cheddar_cheese", 
+            "Stunt", 
+            "Mustard_(condiment)", 
+            "White_House_Press_Corps", 
+            "Dijon", 
+            "Ketchup", 
+            "Cheese", 
+            "Publicity_stunt", 
+            "Pardon"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Great_Depression", 
+            "Wagyu", 
+            "St._Louis,_Missouri", 
+            "Pizza", 
+            "Hamburger", 
+            "Wagyu", 
+            "Great_Depression", 
+            "Steak", 
+            "Waffle", 
+            "Chicago", 
+            "Cocktail_party", 
+            "Great_Depression", 
+            "Chef", 
+            "Dijon", 
+            "Steak", 
+            "Cocktail"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Stage_name"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "France", 
+            "Fox_Broadcasting_Company", 
+            "Hit_(baseball)", 
+            "Barack_Obama", 
+            "Hamburger", 
+            "Mustard_(condiment)", 
+            "Mustard_(condiment)", 
+            "United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Sandwich"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Mustard_(condiment)"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Cognition", 
+            "Class_conflict"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [], 
+        "postID": 57
+    }, 
+    {
+        "entity": [], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Al_Capp", 
+            "Sausage", 
+            "Barack_Obama", 
+            "Mammy_archetype"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Tooth"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "Grey_Poupon", 
+            "Refrigerator"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "False_dilemma", 
+            "Rush_(band)", 
+            "Dichotomy", 
+            "Nancy_Pelosi", 
+            "Shtick"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "Elitism", 
+            "Sandwich", 
+            "Swiss_cheese", 
+            "Cheesesteak", 
+            "Cheese", 
+            "Hamburger", 
+            "Swiss_cheese", 
+            "President_of_the_United_States", 
+            "John_Kerry", 
+            "Elitism"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "LOL", 
+            "Politics", 
+            "Rush_(band)", 
+            "Hypocrisy", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Nerve", 
+            "Radio"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "Ketchup", 
+            "Mustard_(condiment)", 
+            "Mustard", 
+            "Elitism", 
+            "International_Maritime_Organization", 
+            "Elitism", 
+            "Christ"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Hamburger", 
+            "Mustard", 
+            "Greasy_spoon", 
+            "Spoon", 
+            "Mustard_(condiment)"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Rush_Limbaugh", 
+            "Neal_Boortz", 
+            "Hell", 
+            "Radio", 
+            "Talk_radio", 
+            "Radio_personality", 
+            "Radio"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Drug", 
+            "Rush_(band)", 
+            "Neal_Boortz"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [], 
+        "postID": 70
+    }, 
+    {
+        "entity": [], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Zell_Miller", 
+            "Zell"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Corps", 
+            "Grey_Poupon", 
+            "Cheddar_cheese", 
+            "Cheddar_cheese", 
+            "Stunt", 
+            "Mustard_(condiment)", 
+            "White_House_Press_Corps", 
+            "Dijon", 
+            "Ketchup", 
+            "Cheese", 
+            "Publicity_stunt", 
+            "Pardon"
+        ], 
+        "postID": 73
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "Great_Depression", 
+            "Wagyu", 
+            "St._Louis,_Missouri", 
+            "Pizza", 
+            "Hamburger", 
+            "Wagyu", 
+            "Great_Depression", 
+            "Steak", 
+            "Waffle", 
+            "Chicago", 
+            "Cocktail_party", 
+            "Great_Depression", 
+            "Chef", 
+            "Dijon", 
+            "Steak", 
+            "Cocktail"
+        ], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "President_of_the_United_States", 
+            "Stage_name"
+        ], 
+        "postID": 75
+    }
+]

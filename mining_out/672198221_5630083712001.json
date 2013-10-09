@@ -1,0 +1,37 @@
+[
+    {
+        "entity": [
+            "Signing_statement_(United_States)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Grape", 
+            "Sour_grapes", 
+            "Barack_Obama", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Camera", 
+            "Junkie", 
+            "Hypocrisy", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "LOL"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Isoroku_Yamamoto's_sleeping_giant_quote"
+        ], 
+        "postID": 4
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "entity": [
+            "Opportunity_rover", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Optical_character_recognition", 
+            "State", 
+            "Ethnic_group", 
+            "Civil_rights", 
+            "Ethnic_group", 
+            "Native_Americans_in_the_United_States", 
+            "Equal_Opportunity_Employment", 
+            "Barack_Obama", 
+            "Hoss_Cartwright", 
+            "Honey", 
+            "Equal_Employment_Opportunity_Commission", 
+            "State", 
+            "Milk", 
+            "Equal_Employment_Opportunity_Commission", 
+            "Accountability", 
+            "Education", 
+            "United_States_Department_of_Education", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Merle_Haggard", 
+            "Merle_Haggard"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "Statistics", 
+            "Security_policy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ethnic_group", 
+            "United_States_Navy", 
+            "Check_box", 
+            "Ethnic_group", 
+            "Anti-aircraft_warfare"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Skinman", 
+            "Hoss_Cartwright"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "United_States_nationality_law", 
+            "Citizenship", 
+            "Hoss_Cartwright", 
+            "Milk", 
+            "Illegal_immigration", 
+            "United_States", 
+            "Honey", 
+            "Visitor", 
+            "Merle_Haggard", 
+            "United_States", 
+            "Merle_Haggard"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Quota", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Population", 
+            "Gerald_Ford", 
+            "Firefighter", 
+            "Ethnic_group", 
+            "Gerald_Ford", 
+            "George_W._Bush", 
+            "Ethnic_group", 
+            "Inequality", 
+            "Bill_Clinton", 
+            "State", 
+            "Barack_Obama", 
+            "Janitor", 
+            "Bill_Clinton", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Texas", 
+            "Departments_of_France", 
+            "Austin,_Texas", 
+            "Jimmy_Carter", 
+            "Ethnic_group", 
+            "Richard_Nixon", 
+            "Federal_government_of_the_United_States", 
+            "George_W._Bush", 
+            "Ronald_Reagan", 
+            "Ethnic_group", 
+            "George_H._W._Bush", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ronald_Reagan", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Discrimination", 
+            "George_H._W._Bush", 
+            "Jimmy_Carter", 
+            "Richard_Nixon", 
+            "1975", 
+            "Fire_station"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "CYA"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "District", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Texas", 
+            "Fingerprint_(disambiguation)", 
+            "Background_check", 
+            "National_Hot_Rod_Association", 
+            "Racism", 
+            "United_States_Department_of_Defense", 
+            "Texas_Education_Agency", 
+            "Database", 
+            "College", 
+            "Reading_(disambiguation)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Merle_Haggard", 
+            "Honey", 
+            "District", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Science", 
+            "Milk", 
+            "Hoss_Cartwright", 
+            "Software_bug", 
+            "Merle_Haggard"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hoss_Cartwright", 
+            "Honey", 
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Polka_dot", 
+            "Milk", 
+            "Polka", 
+            "Merle_Haggard", 
+            "Merle_Haggard", 
+            "States_and_territories_of_India", 
+            "Hoss_Cartwright", 
+            "Honey"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Great_ape", 
+            "RACE", 
+            "Ape", 
+            "Melungeon"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ethnic_group", 
+            "Mixed-breed_dog", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Ethnic_group", 
+            "Ethnic_group", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Other_ethnic_group_(United_Kingdom_Census)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Gender_equality", 
+            "Gender"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Mathematics"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Mathematics", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Los_Angeles_Lakers", 
+            "National_Basketball_Association"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Dwarf", 
+            "!!!"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Interval_(mathematics)", 
+            "Affirmative_action", 
+            "National_Oceanic_and_Atmospheric_Administration", 
+            "Ethnic_group", 
+            "Ethnic_group", 
+            "Italians", 
+            "United_States_Department_of_Commerce", 
+            "United_States_Department_of_Defense", 
+            "Tokenism", 
+            "Mexico"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Opportunity_rover", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Optical_character_recognition", 
+            "State", 
+            "Ethnic_group", 
+            "Civil_rights", 
+            "Ethnic_group", 
+            "Native_Americans_in_the_United_States", 
+            "Equal_Opportunity_Employment", 
+            "Barack_Obama", 
+            "Hoss_Cartwright", 
+            "Honey", 
+            "Equal_Employment_Opportunity_Commission", 
+            "State", 
+            "Milk", 
+            "Equal_Employment_Opportunity_Commission", 
+            "Accountability", 
+            "Education", 
+            "United_States_Department_of_Education", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Merle_Haggard", 
+            "Merle_Haggard"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "Statistics", 
+            "Security_policy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Ethnic_group", 
+            "United_States_Navy", 
+            "Check_box", 
+            "Ethnic_group", 
+            "Anti-aircraft_warfare"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Skinman", 
+            "Hoss_Cartwright"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Alien_(law)", 
+            "United_States_nationality_law", 
+            "Citizenship", 
+            "Hoss_Cartwright", 
+            "Milk", 
+            "Illegal_immigration", 
+            "United_States", 
+            "Honey", 
+            "Visitor", 
+            "Merle_Haggard", 
+            "United_States", 
+            "Merle_Haggard"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "One_Nation_(Australia)", 
+            "Quota", 
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Population", 
+            "Gerald_Ford", 
+            "Firefighter", 
+            "Ethnic_group", 
+            "Gerald_Ford", 
+            "George_W._Bush", 
+            "Ethnic_group", 
+            "Inequality", 
+            "Bill_Clinton", 
+            "State", 
+            "Barack_Obama", 
+            "Janitor", 
+            "Bill_Clinton", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Texas", 
+            "Departments_of_France", 
+            "Austin,_Texas", 
+            "Jimmy_Carter", 
+            "Ethnic_group", 
+            "Richard_Nixon", 
+            "Federal_government_of_the_United_States", 
+            "George_W._Bush", 
+            "Ronald_Reagan", 
+            "Ethnic_group", 
+            "George_H._W._Bush", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ronald_Reagan", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Discrimination", 
+            "George_H._W._Bush", 
+            "Jimmy_Carter", 
+            "Richard_Nixon", 
+            "1975", 
+            "Fire_station"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "CYA"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Science", 
+            "District", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Texas", 
+            "Fingerprint_(disambiguation)", 
+            "Background_check", 
+            "National_Hot_Rod_Association", 
+            "Racism", 
+            "United_States_Department_of_Defense", 
+            "Texas_Education_Agency", 
+            "Database", 
+            "College", 
+            "Reading_(disambiguation)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Merle_Haggard", 
+            "Honey", 
+            "District", 
+            "Texas_Assessment_of_Knowledge_and_Skills", 
+            "Science", 
+            "Milk", 
+            "Hoss_Cartwright", 
+            "Software_bug", 
+            "Merle_Haggard"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Hoss_Cartwright", 
+            "Honey", 
+            "Merle_Haggard", 
+            "Milk", 
+            "Merle_Haggard"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Polka_dot", 
+            "Milk", 
+            "Polka", 
+            "Merle_Haggard", 
+            "Merle_Haggard", 
+            "States_and_territories_of_India", 
+            "Hoss_Cartwright", 
+            "Honey"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Great_ape", 
+            "RACE", 
+            "Ape", 
+            "Melungeon"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Asterisk", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Ethnic_group", 
+            "Mixed-breed_dog", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Ethnic_group", 
+            "Ethnic_group", 
+            "Milk", 
+            "Merle_Haggard", 
+            "Honey", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Other_ethnic_group_(United_Kingdom_Census)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Gender_equality", 
+            "Gender"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Mathematics"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Mathematics", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Los_Angeles_Lakers", 
+            "National_Basketball_Association"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Dwarf", 
+            "!!!"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Interval_(mathematics)", 
+            "Affirmative_action", 
+            "National_Oceanic_and_Atmospheric_Administration", 
+            "Ethnic_group", 
+            "Ethnic_group", 
+            "Italians", 
+            "United_States_Department_of_Commerce", 
+            "United_States_Department_of_Defense", 
+            "Tokenism", 
+            "Mexico"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 54
+    }
+]

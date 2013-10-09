@@ -1,0 +1,302 @@
+[
+    {
+        "entity": [
+            "Fire_station", 
+            "9-1-1", 
+            "Police", 
+            "Emergency_medical_technician", 
+            "Ambulance"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "9-1-1", 
+            "Dispatcher"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence", 
+            "Bum", 
+            "Lieutenant", 
+            "Dispatcher", 
+            "Radio"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Dispatcher", 
+            "9-1-1", 
+            "Radius", 
+            "Mile", 
+            "Highway_patrol", 
+            "Criminal_justice", 
+            "County", 
+            "Dispatcher"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Ambulance", 
+            "911", 
+            "Emergency_department", 
+            "911", 
+            "Apt,_Vaucluse"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Hackney_carriage", 
+            "Cabvision", 
+            "Ambulance", 
+            "Cardiac_arrest", 
+            "Driveway", 
+            "Nonsense"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Chit_(board_wargames)", 
+            "Tea", 
+            "911"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Squirrel", 
+            "Poison", 
+            "911", 
+            "Gentleman"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Domestic_pig", 
+            "Domestic_pig", 
+            "Apartment"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Blanket"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Friedrich_Nietzsche", 
+            "911", 
+            "Abyss_(religion)", 
+            "Unconscious_mind", 
+            "Caller_ID", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "9-1-1", 
+            "911"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Fire_station", 
+            "9-1-1", 
+            "Police", 
+            "Emergency_medical_technician", 
+            "Ambulance"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "9-1-1", 
+            "Dispatcher"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Driving_under_the_influence", 
+            "Bum", 
+            "Lieutenant", 
+            "Dispatcher", 
+            "Radio"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Dispatcher", 
+            "9-1-1", 
+            "Radius", 
+            "Mile", 
+            "Highway_patrol", 
+            "Criminal_justice", 
+            "County", 
+            "Dispatcher"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Departments_of_France", 
+            "Ambulance", 
+            "911", 
+            "Emergency_department", 
+            "911", 
+            "Apt,_Vaucluse"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Hackney_carriage", 
+            "Cabvision", 
+            "Ambulance", 
+            "Cardiac_arrest", 
+            "Driveway", 
+            "Nonsense"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Chit_(board_wargames)", 
+            "Tea", 
+            "911"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Squirrel", 
+            "Poison", 
+            "911", 
+            "Gentleman"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Domestic_pig", 
+            "Domestic_pig", 
+            "Apartment"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Blanket"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Friedrich_Nietzsche", 
+            "911", 
+            "Abyss_(religion)", 
+            "Unconscious_mind", 
+            "Caller_ID", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "9-1-1", 
+            "911"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Friedrich_Nietzsche", 
+            "Philosophy_of_Friedrich_Nietzsche", 
+            "Abyss_(religion)", 
+            "Abyss_(religion)"
+        ], 
+        "postID": 40
+    }
+]

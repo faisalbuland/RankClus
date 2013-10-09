@@ -1,0 +1,125 @@
+[
+    {
+        "entity": [
+            "Duke_Cunningham", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Jail", 
+            "Duke", 
+            "Bennie_Cunningham", 
+            "Donkey"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Third_party_(politics)", 
+            "One_Nation_(Australia)", 
+            "States_and_territories_of_India"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Gravy", 
+            "Gravy_train", 
+            "Term_limit"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Barack_Obama", 
+            "Sheeple", 
+            "Sheeple"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sheeple", 
+            "Term_limit", 
+            "United_States_Senate"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)", 
+            "Political_party", 
+            "Barack_Obama"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Lock_(water_transport)", 
+            "Separation_of_powers"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Sheeple"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Political_campaign", 
+            "Ideology", 
+            "Wall_Street", 
+            "Money"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "No_Idea_Records", 
+            "Motto", 
+            "List_of_national_mottos"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Will_Rogers", 
+            "Rogers_Communications", 
+            "Politician", 
+            "Diaper"
+        ], 
+        "postID": 18
+    }
+]

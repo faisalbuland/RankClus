@@ -1,0 +1,41 @@
+[
+    {
+        "entity": [
+            "Vargas_(state)", 
+            "United_States_Army"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Vargas_(state)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Sweatshop", 
+            "Perspiration"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Bubbles_(band)", 
+            "God", 
+            "Troll_(Internet)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Troll", 
+            "Eye"
+        ], 
+        "postID": 6
+    }
+]

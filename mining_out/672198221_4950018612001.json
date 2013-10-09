@@ -1,0 +1,376 @@
+[
+    {
+        "entity": [
+            "Florida"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bureaucracy", 
+            "U.S._state", 
+            "State_university_system", 
+            "Dean_(education)", 
+            "Metal", 
+            "U.S._state", 
+            "Foot_(length)", 
+            "University", 
+            "U.S._state", 
+            "Lunch_lady", 
+            "U.S._state", 
+            "College", 
+            "Bureaucracy", 
+            "Dean_(education)", 
+            "School_dinner"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Middle_class", 
+            "Tax_cut", 
+            "Tax"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Red_tape", 
+            "Stupidity"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "County"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Balanced_budget", 
+            "Communism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "Communism", 
+            "Fraud", 
+            "Socialism", 
+            "Depression_(economics)", 
+            "Socialism", 
+            "Recession", 
+            "Depression_(economics)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Fascism", 
+            "Nazi_Germany", 
+            "Political_corruption"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Ambulance_chaser", 
+            "Legal_systems_of_the_world", 
+            "Florida", 
+            "Book_of_Judges", 
+            "Virginia", 
+            "Education", 
+            "Teacher", 
+            "Florida", 
+            "Teacher", 
+            "Judge"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Middle_class", 
+            "South_Florida_metropolitan_area", 
+            "Miami,_Florida", 
+            "Florida"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Florida", 
+            "Teacher", 
+            "Labour_economics", 
+            "District_(China)", 
+            "Education", 
+            "Florida", 
+            "Arena"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Miami,_Florida", 
+            "American_middle_class", 
+            "Boston,_Massachusetts", 
+            "Lower_middle_class", 
+            "United_States", 
+            "Pardon", 
+            "Boston,_Massachusetts", 
+            "Lower_middle_class"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines", 
+            "Cat", 
+            "States_and_territories_of_India", 
+            "Fat", 
+            "Bean", 
+            "States_and_territories_of_India", 
+            "Benzedrine"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Orlando,_Florida", 
+            "Fort_Lauderdale,_Florida", 
+            "Miami,_Florida", 
+            "2007", 
+            "Tallahassee,_Florida", 
+            "Tampa,_Florida", 
+            "Jacksonville,_Florida", 
+            "Arecaceae", 
+            "Gainesville", 
+            "Lauderdale", 
+            "West_Palm_Beach,_Florida"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Hell"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Florida"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Bureaucracy", 
+            "U.S._state", 
+            "State_university_system", 
+            "Dean_(education)", 
+            "Metal", 
+            "U.S._state", 
+            "Foot_(length)", 
+            "University", 
+            "U.S._state", 
+            "Lunch_lady", 
+            "U.S._state", 
+            "College", 
+            "Bureaucracy", 
+            "Dean_(education)", 
+            "School_dinner"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Middle_class", 
+            "Tax_cut", 
+            "Tax"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Red_tape", 
+            "Stupidity"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "County"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Balanced_budget", 
+            "Communism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Recession", 
+            "Communism", 
+            "Fraud", 
+            "Socialism", 
+            "Depression_(economics)", 
+            "Socialism", 
+            "Recession", 
+            "Depression_(economics)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Fascism", 
+            "Nazi_Germany", 
+            "Political_corruption"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Ambulance", 
+            "Ambulance_chaser", 
+            "Legal_systems_of_the_world", 
+            "Florida", 
+            "Book_of_Judges", 
+            "Virginia", 
+            "Education", 
+            "Teacher", 
+            "Florida", 
+            "Teacher", 
+            "Judge"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Middle_class", 
+            "South_Florida_metropolitan_area", 
+            "Miami,_Florida", 
+            "Florida"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Florida", 
+            "Teacher", 
+            "Labour_economics", 
+            "District_(China)", 
+            "Education", 
+            "Florida", 
+            "Arena"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Miami,_Florida", 
+            "American_middle_class", 
+            "Boston,_Massachusetts", 
+            "Lower_middle_class", 
+            "United_States", 
+            "Pardon", 
+            "Boston,_Massachusetts", 
+            "Lower_middle_class"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "LOT_Polish_Airlines", 
+            "Cat", 
+            "States_and_territories_of_India", 
+            "Fat", 
+            "Bean", 
+            "States_and_territories_of_India", 
+            "Benzedrine"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Orlando,_Florida", 
+            "Fort_Lauderdale,_Florida", 
+            "Miami,_Florida", 
+            "2007", 
+            "Tallahassee,_Florida", 
+            "Tampa,_Florida", 
+            "Jacksonville,_Florida", 
+            "Arecaceae", 
+            "Gainesville", 
+            "Lauderdale", 
+            "West_Palm_Beach,_Florida"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Hell"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "United_Auto_Workers"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]

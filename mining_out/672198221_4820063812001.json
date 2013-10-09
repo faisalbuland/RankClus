@@ -1,0 +1,926 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Pig", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Pride", 
+            "Mission_Accomplished_(The_Wire_episode)", 
+            "Mission_Accomplished", 
+            "Mission_(LDS_Church)", 
+            "Missouri", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Money"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Wal-Mart", 
+            "One_Nation_(Australia)", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Mathematics", 
+            "Costco", 
+            "Costco", 
+            "Wal-Mart", 
+            "Living_wage", 
+            "Cent_(currency)", 
+            "United_States_dollar", 
+            "United_States_dollar"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "WCAV", 
+            "March_22", 
+            "2007"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Living_wage", 
+            "Olympia,_Washington", 
+            "Costco"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Costco"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Washington", 
+            "Wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Crackerjack", 
+            "Living_wage", 
+            "United_States_dollar", 
+            "Liberal_Party_(UK)", 
+            "Issaquah,_Washington", 
+            "Wage", 
+            "Conservatism", 
+            "50_Cent", 
+            "Costco", 
+            "The_Wall_Street_Journal", 
+            "Costco", 
+            "Living_wage", 
+            "Costco", 
+            "Costco", 
+            "Cent_(currency)", 
+            "Profit", 
+            "Conservative_Party_(UK)", 
+            "Wal-Mart"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Money"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Agriculture", 
+            "George_W._Bush", 
+            "Internet", 
+            "Living_wage", 
+            "Cell_(microprocessor)", 
+            "Nut_(fruit)", 
+            "Mobile_phone", 
+            "Liberty", 
+            "Living_wage", 
+            "Handshake", 
+            "Bail_(disambiguation)", 
+            "Hunting", 
+            "WORD_(AM)", 
+            "Breathing", 
+            "Cable_television", 
+            "Cable_(comics)", 
+            "Republican_Party_(United_States)", 
+            "Minuet", 
+            "Bail_out_(finance)", 
+            "Foot_(length)", 
+            "Happiness", 
+            "Fishing", 
+            "Living_wage"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Republican_Party_(United_States)", 
+            "Wal_(bass)", 
+            "Dollar", 
+            "Penny"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "SIMPLE", 
+            "Recession", 
+            "Foreclosure", 
+            "Woo", 
+            "McDonald's", 
+            "Recession", 
+            "Wal-Mart", 
+            "Recession", 
+            "Survival_(Doctor_Who)", 
+            "Wal-Mart", 
+            "Employment", 
+            "Spouse", 
+            "IBM_POWER", 
+            "Boss_Corporation", 
+            "Recession", 
+            "McDonald's", 
+            "United_States", 
+            "Boss_Corporation", 
+            "Boss_Corporation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Vietnam_veteran", 
+            "Vietnam", 
+            "Wal-Mart", 
+            "Spouse"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Economy_of_the_United_States", 
+            "United_States", 
+            "American_middle_class"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Slavery", 
+            "Slavery", 
+            "Living_wage", 
+            "Slavery", 
+            "Clothing", 
+            "Wal-Mart", 
+            "United_States_dollar", 
+            "Living_wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Wage", 
+            "Minimum_wage", 
+            "Mush_(maize)", 
+            "Living_wage", 
+            "Minimum_wage_law", 
+            "Wage", 
+            "Wage", 
+            "Minimum_wage", 
+            "Law", 
+            "United_States_dollar", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Theft"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "March_21", 
+            "United_States", 
+            "Boycott", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Judgment", 
+            "United_States", 
+            "Vietnam_veteran", 
+            "Liberal_Party_of_Canada", 
+            "2009", 
+            "Wal-Mart", 
+            "Liberal_Party_of_Canada", 
+            "Vietnam", 
+            "Product_(business)", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Liberal-Conservative_Party", 
+            "Sat_(Sanskrit)", 
+            "Wal-Mart", 
+            "DC_One_Million"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Retailing", 
+            "Wal_(bass)", 
+            "Wal-Mart"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Brama_coat_of_arms", 
+            "Red_Wing,_Minnesota", 
+            "Steel-toe_boots", 
+            "Chewing_gum", 
+            "United_States_dollar", 
+            "China"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Consumer_economy", 
+            "Costco", 
+            "Asian_people", 
+            "United_States", 
+            "Third_World", 
+            "Thread_(computer_science)", 
+            "Middle_class", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Profit", 
+            "United_States", 
+            "Neighbourhood", 
+            "Eye", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Tragedy", 
+            "Model_(person)", 
+            "Conservative_Party_(UK)", 
+            "Business_model", 
+            "Wal-Mart", 
+            "Mass", 
+            "Starvation", 
+            "Model_(person)", 
+            "Third_World", 
+            "Economy", 
+            "Model_(person)", 
+            "Model_(person)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "ACTION", 
+            "Vietnam_veteran", 
+            "United_States", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Amplitude-shift_keying", 
+            "Vietnam_War", 
+            "Wal-Mart", 
+            "Rhetoric"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Pig", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Pride", 
+            "Mission_Accomplished_(The_Wire_episode)", 
+            "Mission_Accomplished", 
+            "Mission_(LDS_Church)", 
+            "Missouri", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Money"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Wal-Mart", 
+            "One_Nation_(Australia)", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Mathematics", 
+            "Costco", 
+            "Costco", 
+            "Wal-Mart", 
+            "Living_wage", 
+            "Cent_(currency)", 
+            "United_States_dollar", 
+            "United_States_dollar"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "WCAV", 
+            "March_22", 
+            "2007"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Living_wage", 
+            "Olympia,_Washington", 
+            "Costco"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Costco"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Washington", 
+            "Wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Crackerjack", 
+            "Living_wage", 
+            "United_States_dollar", 
+            "Liberal_Party_(UK)", 
+            "Issaquah,_Washington", 
+            "Wage", 
+            "Conservatism", 
+            "50_Cent", 
+            "Costco", 
+            "The_Wall_Street_Journal", 
+            "Costco", 
+            "Living_wage", 
+            "Costco", 
+            "Costco", 
+            "Cent_(currency)", 
+            "Profit", 
+            "Conservative_Party_(UK)", 
+            "Wal-Mart"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Money"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Agriculture", 
+            "George_W._Bush", 
+            "Internet", 
+            "Living_wage", 
+            "Cell_(microprocessor)", 
+            "Nut_(fruit)", 
+            "Mobile_phone", 
+            "Liberty", 
+            "Living_wage", 
+            "Handshake", 
+            "Bail_(disambiguation)", 
+            "Hunting", 
+            "WORD_(AM)", 
+            "Breathing", 
+            "Cable_television", 
+            "Cable_(comics)", 
+            "Republican_Party_(United_States)", 
+            "Minuet", 
+            "Bail_out_(finance)", 
+            "Foot_(length)", 
+            "Happiness", 
+            "Fishing", 
+            "Living_wage"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Republican_Party_(United_States)", 
+            "Wal_(bass)", 
+            "Dollar", 
+            "Penny"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "SIMPLE", 
+            "Recession", 
+            "Foreclosure", 
+            "Woo", 
+            "McDonald's", 
+            "Recession", 
+            "Wal-Mart", 
+            "Recession", 
+            "Survival_(Doctor_Who)", 
+            "Wal-Mart", 
+            "Employment", 
+            "Spouse", 
+            "IBM_POWER", 
+            "Boss_Corporation", 
+            "Recession", 
+            "McDonald's", 
+            "United_States", 
+            "Boss_Corporation", 
+            "Boss_Corporation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Vietnam_veteran", 
+            "Vietnam", 
+            "Wal-Mart", 
+            "Spouse"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Economy_of_the_United_States", 
+            "United_States", 
+            "American_middle_class"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Slavery", 
+            "Slavery", 
+            "Living_wage", 
+            "Slavery", 
+            "Clothing", 
+            "Wal-Mart", 
+            "United_States_dollar", 
+            "Living_wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Wage", 
+            "Minimum_wage", 
+            "Mush_(maize)", 
+            "Living_wage", 
+            "Minimum_wage_law", 
+            "Wage", 
+            "Wage", 
+            "Minimum_wage", 
+            "Law", 
+            "United_States_dollar", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Theft"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "March_21", 
+            "United_States", 
+            "Boycott", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Judgment", 
+            "United_States", 
+            "Vietnam_veteran", 
+            "Liberal_Party_of_Canada", 
+            "2009", 
+            "Wal-Mart", 
+            "Liberal_Party_of_Canada", 
+            "Vietnam", 
+            "Product_(business)", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Liberal-Conservative_Party", 
+            "Sat_(Sanskrit)", 
+            "Wal-Mart", 
+            "DC_One_Million"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Retailing", 
+            "Wal_(bass)", 
+            "Wal-Mart"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Brama_coat_of_arms", 
+            "Red_Wing,_Minnesota", 
+            "Steel-toe_boots", 
+            "Chewing_gum", 
+            "United_States_dollar", 
+            "China"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Consumer_economy", 
+            "Costco", 
+            "Asian_people", 
+            "United_States", 
+            "Third_World", 
+            "Thread_(computer_science)", 
+            "Middle_class", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Profit", 
+            "United_States", 
+            "Neighbourhood", 
+            "Eye", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Tragedy", 
+            "Model_(person)", 
+            "Conservative_Party_(UK)", 
+            "Business_model", 
+            "Wal-Mart", 
+            "Mass", 
+            "Starvation", 
+            "Model_(person)", 
+            "Third_World", 
+            "Economy", 
+            "Model_(person)", 
+            "Model_(person)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "ACTION", 
+            "Vietnam_veteran", 
+            "United_States", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Amplitude-shift_keying", 
+            "Vietnam_War", 
+            "Wal-Mart", 
+            "Rhetoric"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Pig", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Pride", 
+            "Mission_Accomplished_(The_Wire_episode)", 
+            "Mission_Accomplished", 
+            "Mission_(LDS_Church)", 
+            "Missouri", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Money"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Wal-Mart", 
+            "One_Nation_(Australia)", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Mathematics", 
+            "Costco", 
+            "Costco", 
+            "Wal-Mart", 
+            "Living_wage", 
+            "Cent_(currency)", 
+            "United_States_dollar", 
+            "United_States_dollar"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "WCAV", 
+            "March_22", 
+            "2007"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Living_wage", 
+            "Olympia,_Washington", 
+            "Costco"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Costco"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "United_States_dollar", 
+            "Washington", 
+            "Wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Crackerjack", 
+            "Living_wage", 
+            "United_States_dollar", 
+            "Liberal_Party_(UK)", 
+            "Issaquah,_Washington", 
+            "Wage", 
+            "Conservatism", 
+            "50_Cent", 
+            "Costco", 
+            "The_Wall_Street_Journal", 
+            "Costco", 
+            "Living_wage", 
+            "Costco", 
+            "Costco", 
+            "Cent_(currency)", 
+            "Profit", 
+            "Conservative_Party_(UK)", 
+            "Wal-Mart"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "Money"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Agriculture", 
+            "George_W._Bush", 
+            "Internet", 
+            "Living_wage", 
+            "Cell_(microprocessor)", 
+            "Nut_(fruit)", 
+            "Mobile_phone", 
+            "Liberty", 
+            "Living_wage", 
+            "Handshake", 
+            "Bail_(disambiguation)", 
+            "Hunting", 
+            "WORD_(AM)", 
+            "Breathing", 
+            "Cable_television", 
+            "Cable_(comics)", 
+            "Republican_Party_(United_States)", 
+            "Minuet", 
+            "Bail_out_(finance)", 
+            "Foot_(length)", 
+            "Happiness", 
+            "Fishing", 
+            "Living_wage"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Republican_Party_(United_States)", 
+            "Wal_(bass)", 
+            "Dollar", 
+            "Penny"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "SIMPLE", 
+            "Recession", 
+            "Foreclosure", 
+            "Woo", 
+            "McDonald's", 
+            "Recession", 
+            "Wal-Mart", 
+            "Recession", 
+            "Survival_(Doctor_Who)", 
+            "Wal-Mart", 
+            "Employment", 
+            "Spouse", 
+            "IBM_POWER", 
+            "Boss_Corporation", 
+            "Recession", 
+            "McDonald's", 
+            "United_States", 
+            "Boss_Corporation", 
+            "Boss_Corporation", 
+            "Brihanmumbai_Electric_Supply_and_Transport", 
+            "Vietnam_veteran", 
+            "Vietnam", 
+            "Wal-Mart", 
+            "Spouse"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Stimulus_(physiology)", 
+            "Economy_of_the_United_States", 
+            "United_States", 
+            "American_middle_class"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Slavery", 
+            "Slavery", 
+            "Living_wage", 
+            "Slavery", 
+            "Clothing", 
+            "Wal-Mart", 
+            "United_States_dollar", 
+            "Living_wage", 
+            "Wal-Mart", 
+            "Costco", 
+            "Wage", 
+            "Minimum_wage", 
+            "Mush_(maize)", 
+            "Living_wage", 
+            "Minimum_wage_law", 
+            "Wage", 
+            "Wage", 
+            "Minimum_wage", 
+            "Law", 
+            "United_States_dollar", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Theft"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "March_21", 
+            "United_States", 
+            "Boycott", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Judgment", 
+            "United_States", 
+            "Vietnam_veteran", 
+            "Liberal_Party_of_Canada", 
+            "2009", 
+            "Wal-Mart", 
+            "Liberal_Party_of_Canada", 
+            "Vietnam", 
+            "Product_(business)", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Liberal-Conservative_Party", 
+            "Sat_(Sanskrit)", 
+            "Wal-Mart", 
+            "DC_One_Million"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Retailing", 
+            "Wal_(bass)", 
+            "Wal-Mart"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "Brama_coat_of_arms", 
+            "Red_Wing,_Minnesota", 
+            "Steel-toe_boots", 
+            "Chewing_gum", 
+            "United_States_dollar", 
+            "China"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Consumer_economy", 
+            "Costco", 
+            "Asian_people", 
+            "United_States", 
+            "Third_World", 
+            "Thread_(computer_science)", 
+            "Middle_class", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Profit", 
+            "United_States", 
+            "Neighbourhood", 
+            "Eye", 
+            "Wal-Mart", 
+            "Model_(person)", 
+            "Liberal_Party_of_Canada", 
+            "Tragedy", 
+            "Model_(person)", 
+            "Conservative_Party_(UK)", 
+            "Business_model", 
+            "Wal-Mart", 
+            "Mass", 
+            "Starvation", 
+            "Model_(person)", 
+            "Third_World", 
+            "Economy", 
+            "Model_(person)", 
+            "Model_(person)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "ACTION", 
+            "Vietnam_veteran", 
+            "United_States", 
+            "Wal-Mart", 
+            "Wal-Mart", 
+            "Amplitude-shift_keying", 
+            "Vietnam_War", 
+            "Wal-Mart", 
+            "Rhetoric"
+        ], 
+        "postID": 60
+    }
+]

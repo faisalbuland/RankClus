@@ -1,0 +1,788 @@
+[
+    {
+        "entity": [
+            "Economy", 
+            "Fox_Broadcasting_Company", 
+            "Medicaid", 
+            "United_States_Department_of_the_Treasury", 
+            "Social_Security_(United_States)", 
+            "Film", 
+            "Fox_News_Channel", 
+            "FUBAR"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "Teleprompter"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Babbling"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Truman_Doctrine", 
+            "Harry_S._Truman_(Twin_Peaks)", 
+            "Politician"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "American_Civil_War", 
+            "Credit_card", 
+            "Gas", 
+            "Caf\u00e9", 
+            "Hot_dog", 
+            "Weaning", 
+            "Ditch", 
+            "Neighbourhood", 
+            "Pump_(album)", 
+            "Robbery", 
+            "Wagon", 
+            "Cancer", 
+            "Debt"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Raffle", 
+            "Credit_union", 
+            "Trade_union"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Barack_Obama", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "The_Home_Depot", 
+            "Credit_card", 
+            "Debit_card", 
+            "Debit_card", 
+            "Hardware_store", 
+            "Credit_card", 
+            "Gasoline", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Credit_card"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Gasoline_direct_injection", 
+            "Economic_bubble", 
+            "Diesel", 
+            "Bond_(finance)", 
+            "Chicken", 
+            "Benjamin_Franklin", 
+            "Pickup_truck", 
+            "Litre", 
+            "Depreciation", 
+            "V8_engine", 
+            "Gasoline", 
+            "Fantasy_(psychology)", 
+            "Town", 
+            "Hell", 
+            "Four-wheel_drive", 
+            "Pickup_truck", 
+            "Truck", 
+            "Ford_F-Series", 
+            "Diesel", 
+            "Ford_Motor_Company", 
+            "George_W._Bush", 
+            "International_Harvester", 
+            "Carnival", 
+            "Franklin,_Tennessee", 
+            "Utah", 
+            "Stocks", 
+            "Continent", 
+            "Truck", 
+            "!!!", 
+            "United_States", 
+            "Ford_F-Series", 
+            "Economy", 
+            "Bond_(finance)", 
+            "Bond_(finance)", 
+            "Truck", 
+            "Gallon", 
+            "Individual_Retirement_Account", 
+            "Dust", 
+            "Harvester", 
+            "Jail", 
+            "Petroleum", 
+            "Plymouth_Duster", 
+            "Speculation", 
+            "Wilderness", 
+            "1994", 
+            "Tide", 
+            "Bond_(finance)", 
+            "Turbocharger", 
+            "Stock_market", 
+            "Stock_market", 
+            "Tidal_wave", 
+            "Truck", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Public_utility", 
+            "Pessimism", 
+            "Barack_Obama", 
+            "Debt", 
+            "United_States", 
+            "Villain", 
+            "Downhill", 
+            "Recession", 
+            "Hamburger", 
+            "Credit_card", 
+            "Credit_card", 
+            "Money_market"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Credit_card", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Sugar"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Profit", 
+            "Public_utility", 
+            "L\u00e9vis,_Quebec", 
+            "Product_(business)", 
+            "Profit", 
+            "Hell", 
+            "Gym", 
+            "Bookkeeping", 
+            "Inventory", 
+            "Athletic_shoe", 
+            "Compound_interest", 
+            "Credit_card", 
+            "Credit_card", 
+            "Chemical_compound", 
+            "Thievery", 
+            "Merchant", 
+            "Bank", 
+            "Bangladesh", 
+            "Deed", 
+            "Credit_card", 
+            "Pickup_(music)", 
+            "Thievery", 
+            "Inventory", 
+            "Exoskeleton", 
+            "Toilet", 
+            "Thievery", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Truck", 
+            "Furniture", 
+            "Marmot", 
+            "Couch", 
+            "Barter", 
+            "Barter", 
+            "Marmot", 
+            "Jet_Ski", 
+            "Jet_aircraft", 
+            "Ski", 
+            "Grocery_store"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Peanuts"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Fox_Broadcasting_Company", 
+            "Medicaid", 
+            "United_States_Department_of_the_Treasury", 
+            "Social_Security_(United_States)", 
+            "Film", 
+            "Fox_News_Channel", 
+            "FUBAR"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "Teleprompter"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Babbling"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Truman_Doctrine", 
+            "Harry_S._Truman_(Twin_Peaks)", 
+            "Politician"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "American_Civil_War", 
+            "Credit_card", 
+            "Gas", 
+            "Caf\u00e9", 
+            "Hot_dog", 
+            "Weaning", 
+            "Ditch", 
+            "Neighbourhood", 
+            "Pump_(album)", 
+            "Robbery", 
+            "Wagon", 
+            "Cancer", 
+            "Debt"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Raffle", 
+            "Credit_union", 
+            "Trade_union"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Barack_Obama", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "The_Home_Depot", 
+            "Credit_card", 
+            "Debit_card", 
+            "Debit_card", 
+            "Hardware_store", 
+            "Credit_card", 
+            "Gasoline", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Credit_card"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Gasoline_direct_injection", 
+            "Economic_bubble", 
+            "Diesel", 
+            "Bond_(finance)", 
+            "Chicken", 
+            "Benjamin_Franklin", 
+            "Pickup_truck", 
+            "Litre", 
+            "Depreciation", 
+            "V8_engine", 
+            "Gasoline", 
+            "Fantasy_(psychology)", 
+            "Town", 
+            "Hell", 
+            "Four-wheel_drive", 
+            "Pickup_truck", 
+            "Truck", 
+            "Ford_F-Series", 
+            "Diesel", 
+            "Ford_Motor_Company", 
+            "George_W._Bush", 
+            "International_Harvester", 
+            "Carnival", 
+            "Franklin,_Tennessee", 
+            "Utah", 
+            "Stocks", 
+            "Continent", 
+            "Truck", 
+            "!!!", 
+            "United_States", 
+            "Ford_F-Series", 
+            "Economy", 
+            "Bond_(finance)", 
+            "Bond_(finance)", 
+            "Truck", 
+            "Gallon", 
+            "Individual_Retirement_Account", 
+            "Dust", 
+            "Harvester", 
+            "Jail", 
+            "Petroleum", 
+            "Plymouth_Duster", 
+            "Speculation", 
+            "Wilderness", 
+            "1994", 
+            "Tide", 
+            "Bond_(finance)", 
+            "Turbocharger", 
+            "Stock_market", 
+            "Stock_market", 
+            "Tidal_wave", 
+            "Truck", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Public_utility", 
+            "Pessimism", 
+            "Barack_Obama", 
+            "Debt", 
+            "United_States", 
+            "Villain", 
+            "Downhill", 
+            "Recession", 
+            "Hamburger", 
+            "Credit_card", 
+            "Credit_card", 
+            "Money_market"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Credit_card", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Sugar"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Profit", 
+            "Public_utility", 
+            "L\u00e9vis,_Quebec", 
+            "Product_(business)", 
+            "Profit", 
+            "Hell", 
+            "Gym", 
+            "Bookkeeping", 
+            "Inventory", 
+            "Athletic_shoe", 
+            "Compound_interest", 
+            "Credit_card", 
+            "Credit_card", 
+            "Chemical_compound", 
+            "Thievery", 
+            "Merchant", 
+            "Bank", 
+            "Bangladesh", 
+            "Deed", 
+            "Credit_card", 
+            "Pickup_(music)", 
+            "Thievery", 
+            "Inventory", 
+            "Exoskeleton", 
+            "Toilet", 
+            "Thievery", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Truck", 
+            "Furniture", 
+            "Marmot", 
+            "Couch", 
+            "Barter", 
+            "Barter", 
+            "Marmot", 
+            "Jet_Ski", 
+            "Jet_aircraft", 
+            "Ski", 
+            "Grocery_store"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Peanuts"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Fox_Broadcasting_Company", 
+            "Medicaid", 
+            "United_States_Department_of_the_Treasury", 
+            "Social_Security_(United_States)", 
+            "Film", 
+            "Fox_News_Channel", 
+            "FUBAR"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "History_of_the_United_States", 
+            "United_States", 
+            "History_of_the_United_States", 
+            "Teleprompter"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Babbling"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Truman_Doctrine", 
+            "Harry_S._Truman_(Twin_Peaks)", 
+            "Politician"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "American_Civil_War", 
+            "Credit_card", 
+            "Gas", 
+            "Caf\u00e9", 
+            "Hot_dog", 
+            "Weaning", 
+            "Ditch", 
+            "Neighbourhood", 
+            "Pump_(album)", 
+            "Robbery", 
+            "Wagon", 
+            "Cancer", 
+            "Debt"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Raffle", 
+            "Credit_union", 
+            "Trade_union"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Barack_Obama", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "The_Home_Depot", 
+            "Credit_card", 
+            "Debit_card", 
+            "Debit_card", 
+            "Hardware_store", 
+            "Credit_card", 
+            "Gasoline", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Hardware_store", 
+            "Credit_card"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Gasoline_direct_injection", 
+            "Economic_bubble", 
+            "Diesel", 
+            "Bond_(finance)", 
+            "Chicken", 
+            "Benjamin_Franklin", 
+            "Pickup_truck", 
+            "Litre", 
+            "Depreciation", 
+            "V8_engine", 
+            "Gasoline", 
+            "Fantasy_(psychology)", 
+            "Town", 
+            "Hell", 
+            "Four-wheel_drive", 
+            "Pickup_truck", 
+            "Truck", 
+            "Ford_F-Series", 
+            "Diesel", 
+            "Ford_Motor_Company", 
+            "George_W._Bush", 
+            "International_Harvester", 
+            "Carnival", 
+            "Franklin,_Tennessee", 
+            "Utah", 
+            "Stocks", 
+            "Continent", 
+            "Truck", 
+            "!!!", 
+            "United_States", 
+            "Ford_F-Series", 
+            "Economy", 
+            "Bond_(finance)", 
+            "Bond_(finance)", 
+            "Truck", 
+            "Gallon", 
+            "Individual_Retirement_Account", 
+            "Dust", 
+            "Harvester", 
+            "Jail", 
+            "Petroleum", 
+            "Plymouth_Duster", 
+            "Speculation", 
+            "Wilderness", 
+            "1994", 
+            "Tide", 
+            "Bond_(finance)", 
+            "Turbocharger", 
+            "Stock_market", 
+            "Stock_market", 
+            "Tidal_wave", 
+            "Truck", 
+            "United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Public_utility", 
+            "Pessimism", 
+            "Barack_Obama", 
+            "Debt", 
+            "United_States", 
+            "Villain", 
+            "Downhill", 
+            "Recession", 
+            "Hamburger", 
+            "Credit_card", 
+            "Credit_card", 
+            "Money_market"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Credit_card", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Debt", 
+            "Sugar"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Credit_card", 
+            "Profit", 
+            "Public_utility", 
+            "L\u00e9vis,_Quebec", 
+            "Product_(business)", 
+            "Profit", 
+            "Hell", 
+            "Gym", 
+            "Bookkeeping", 
+            "Inventory", 
+            "Athletic_shoe", 
+            "Compound_interest", 
+            "Credit_card", 
+            "Credit_card", 
+            "Chemical_compound", 
+            "Thievery", 
+            "Merchant", 
+            "Bank", 
+            "Bangladesh", 
+            "Deed", 
+            "Credit_card", 
+            "Pickup_(music)", 
+            "Thievery", 
+            "Inventory", 
+            "Exoskeleton", 
+            "Toilet", 
+            "Thievery", 
+            "Nut_(fruit)"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Truck", 
+            "Furniture", 
+            "Marmot", 
+            "Couch", 
+            "Barter", 
+            "Barter", 
+            "Marmot", 
+            "Jet_Ski", 
+            "Jet_aircraft", 
+            "Ski", 
+            "Grocery_store"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Peanuts"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Marmot", 
+            "Marmot"
+        ], 
+        "postID": 60
+    }
+]

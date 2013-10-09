@@ -1,0 +1,137 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "2010", 
+            "Thread_(computer_science)", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Prez_(DC_Comics)", 
+            "Barack_Obama", 
+            "Iraq"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Barack_Obama", 
+            "Iraq"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "2006", 
+            "Iraqi_insurgency"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Iraq"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Common_year_starting_on_Thursday", 
+            "April_11", 
+            "Wow_(Kylie_Minogue_song)", 
+            "2009"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Guant\u00e1namo_Bay", 
+            "Guantanamo_Bay_detention_camp", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Drawdown_(hydrology)", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Gradual", 
+            "Iraq", 
+            "Afghanistan", 
+            "Central_Intelligence_Agency", 
+            "Barack_Obama", 
+            "George_W._Bush"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Guantanamo_Bay_detention_camp", 
+            "Drawdown_(hydrology)", 
+            "Barack_Obama", 
+            "Iraq", 
+            "Afghanistan", 
+            "Barack_Obama", 
+            "Gradual", 
+            "Propaganda", 
+            "Guant\u00e1namo_Bay", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Security_agreement"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States_Senate"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "ITN", 
+            "Skin", 
+            "LOL"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Skin"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }
+]

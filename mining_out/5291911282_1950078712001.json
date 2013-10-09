@@ -1,0 +1,33 @@
+[
+    {
+        "entity": [
+            "Chief_Petty_Officer", 
+            "United_States_Navy"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Navy"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Chief_Petty_Officer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }
+]

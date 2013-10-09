@@ -1,0 +1,100 @@
+[
+    {
+        "entity": [
+            "WAR_(wrestling_promotion)", 
+            "United_States", 
+            "Desertion", 
+            "President_of_the_United_States", 
+            "Skate_(video_game)", 
+            "Dysart_et_al,_Ontario"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "United_States", 
+            "Dick_Cheney", 
+            "George_W._Bush", 
+            "Dick_Cheney", 
+            "Transactional_account", 
+            "Karma", 
+            "Faith", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Hospital", 
+            "Dick_Cheney", 
+            "Privacy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "V-22_Osprey", 
+            "Lockheed_A-12", 
+            "1980s", 
+            "A-12_Avenger_II", 
+            "Dick_Cheney", 
+            "United_States_Congress", 
+            "A-12_Avenger_II", 
+            "TBF_Avenger", 
+            "Infusion"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Marksman"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jamaica", 
+            "Island", 
+            "Fish", 
+            "Extradition"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Point_of_sale", 
+            "Term_limit", 
+            "Peddler", 
+            "Politician"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Prairie_Chapel_Ranch", 
+            "Catostomidae", 
+            "Foot_(length)", 
+            "Dick_Cheney", 
+            "Dick_Cheney", 
+            "George", 
+            "God", 
+            "Assistant"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dick_Cheney"
+        ], 
+        "postID": 11
+    }
+]

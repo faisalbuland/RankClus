@@ -1,0 +1,58 @@
+[
+    {
+        "entity": [
+            "Skin", 
+            "Special_forces", 
+            "Odor", 
+            "Clothing", 
+            "Population", 
+            "Military_operation", 
+            "Taliban", 
+            "Odor"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Taliban", 
+            "Olfaction"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Cat", 
+            "Kitten", 
+            "Kitten", 
+            "Cat", 
+            "Cat", 
+            "Kitten", 
+            "Tiger"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Liberal_democracy", 
+            "Fundamentalism", 
+            "Political_party", 
+            "Taliban", 
+            "Taliban", 
+            "Conservatism", 
+            "Hypocrisy", 
+            "Taliban", 
+            "Canadian_federal_election,_2006", 
+            "War_in_Afghanistan_(2001\u2013present)"
+        ], 
+        "postID": 5
+    }
+]

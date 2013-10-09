@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Peacekeeping", 
+            "Rotterdamse_Elektrische_Tram", 
+            "1983", 
+            "United_States_Navy", 
+            "Regions_of_France", 
+            "Lebanon", 
+            "BLT_sandwich"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Chu_(state)", 
+            "Boot", 
+            "Democratic_Party_(United_States)", 
+            "Chu_(state)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Chu_(state)", 
+            "2006", 
+            "Earned_run", 
+            "Donald_Rumsfeld", 
+            "Project_for_the_New_American_Century", 
+            "United_States_Department_of_Defense"
+        ], 
+        "postID": 3
+    }
+]

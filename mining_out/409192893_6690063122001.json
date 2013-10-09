@@ -1,0 +1,34 @@
+[
+    {
+        "entity": [
+            "Berkley"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Berkeley,_California"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Civilian"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "University_of_California", 
+            "Berkeley,_California", 
+            "Bomb"
+        ], 
+        "postID": 5
+    }
+]

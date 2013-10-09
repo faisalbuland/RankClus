@@ -1,0 +1,575 @@
+[
+    {
+        "entity": [
+            "Quantum", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "First_Family", 
+            "Canidae", 
+            "Chappaquiddick_Island", 
+            "Water", 
+            "Water_dog", 
+            "Canidae", 
+            "Water", 
+            "Irony", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Canidae", 
+            "United_States_Senate", 
+            "Canidae", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Marmot", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Portuguese_language", 
+            "Wow", 
+            "Marmot", 
+            "Canidae", 
+            "Canidae", 
+            "Portuguese_language"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Portugal", 
+            "Lincoln_Bedroom", 
+            "Jack_Russell_(cricketer_and_artist)", 
+            "Abraham_Lincoln", 
+            "Bertrand_Russell"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dog"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Guinea", 
+            "Guinea_pig", 
+            "Horse", 
+            "Wire", 
+            "Power_door_locks", 
+            "Pig", 
+            "Guinea_pig", 
+            "Guinea", 
+            "Ignition_system", 
+            "Pig", 
+            "Lock_(water_transport)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Terrier", 
+            "Dog", 
+            "Rat_Terrier", 
+            "German_Shepherd_Dog", 
+            "Rat", 
+            "Germany"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Barack_Obama", 
+            "Greyhound_racing", 
+            "Dog"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Ted_Kennedy", 
+            "John_F._Kennedy"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Sarge_(band)"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Promises_(film)", 
+            "Thread_(computer_science)", 
+            "Marmot", 
+            "Marmot", 
+            "Broken_Promises"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Manslaughter", 
+            "Irony", 
+            "Marmot", 
+            "Democracy", 
+            "Marmot", 
+            "Animal", 
+            "Confession", 
+            "Water", 
+            "Thread_(computer_science)", 
+            "United_States_Senate", 
+            "Chappaquiddick_Island", 
+            "Quantum", 
+            "Puppy"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Marmot", 
+            "Marmot", 
+            "Butch_(Tom_and_Jerry)", 
+            "Quantum", 
+            "Bleach"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Digital_on-screen_graphic", 
+            "Garden", 
+            "Victory_garden", 
+            "Bcl-2-associated_death_promoter"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sarge_(band)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "First_Family", 
+            "Canidae", 
+            "Chappaquiddick_Island", 
+            "Water", 
+            "Water_dog", 
+            "Canidae", 
+            "Water", 
+            "Irony", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Canidae", 
+            "United_States_Senate", 
+            "Canidae", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Marmot", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Portuguese_language", 
+            "Wow", 
+            "Marmot", 
+            "Canidae", 
+            "Canidae", 
+            "Portuguese_language"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Portugal", 
+            "Lincoln_Bedroom", 
+            "Jack_Russell_(cricketer_and_artist)", 
+            "Abraham_Lincoln", 
+            "Bertrand_Russell"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dog"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Guinea", 
+            "Guinea_pig", 
+            "Horse", 
+            "Wire", 
+            "Power_door_locks", 
+            "Pig", 
+            "Guinea_pig", 
+            "Guinea", 
+            "Ignition_system", 
+            "Pig", 
+            "Lock_(water_transport)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Terrier", 
+            "Dog", 
+            "Rat_Terrier", 
+            "German_Shepherd_Dog", 
+            "Rat", 
+            "Germany"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Barack_Obama", 
+            "Greyhound_racing", 
+            "Dog"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Ted_Kennedy", 
+            "John_F._Kennedy"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Sarge_(band)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Promises_(film)", 
+            "Thread_(computer_science)", 
+            "Marmot", 
+            "Marmot", 
+            "Broken_Promises"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Manslaughter", 
+            "Irony", 
+            "Marmot", 
+            "Democracy", 
+            "Marmot", 
+            "Animal", 
+            "Confession", 
+            "Water", 
+            "Thread_(computer_science)", 
+            "United_States_Senate", 
+            "Chappaquiddick_Island", 
+            "Quantum", 
+            "Puppy"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Marmot", 
+            "Marmot", 
+            "Butch_(Tom_and_Jerry)", 
+            "Quantum", 
+            "Bleach"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Digital_on-screen_graphic", 
+            "Garden", 
+            "Victory_garden", 
+            "Bcl-2-associated_death_promoter"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sarge_(band)"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "First_Family", 
+            "Canidae", 
+            "Chappaquiddick_Island", 
+            "Water", 
+            "Water_dog", 
+            "Canidae", 
+            "Water", 
+            "Irony", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Canidae", 
+            "United_States_Senate", 
+            "Canidae", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Marmot", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Portuguese_language", 
+            "Wow", 
+            "Marmot", 
+            "Canidae", 
+            "Canidae", 
+            "Portuguese_language"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Portugal", 
+            "Lincoln_Bedroom", 
+            "Jack_Russell_(cricketer_and_artist)", 
+            "Abraham_Lincoln", 
+            "Bertrand_Russell"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Marmot", 
+            "Marmot", 
+            "Quantum"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dog"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Guinea", 
+            "Guinea_pig", 
+            "Horse", 
+            "Wire", 
+            "Power_door_locks", 
+            "Pig", 
+            "Guinea_pig", 
+            "Guinea", 
+            "Ignition_system", 
+            "Pig", 
+            "Lock_(water_transport)"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Vermin", 
+            "Breed"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Terrier", 
+            "Dog", 
+            "Rat_Terrier", 
+            "German_Shepherd_Dog", 
+            "Rat", 
+            "Germany"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Moron", 
+            "Barack_Obama", 
+            "Greyhound_racing", 
+            "Dog"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude", 
+            "Ted_Kennedy", 
+            "John_F._Kennedy"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Sarge_(band)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Quantum", 
+            "Promises_(film)", 
+            "Thread_(computer_science)", 
+            "Marmot", 
+            "Marmot", 
+            "Broken_Promises"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Manslaughter", 
+            "Irony", 
+            "Marmot", 
+            "Democracy", 
+            "Marmot", 
+            "Animal", 
+            "Confession", 
+            "Water", 
+            "Thread_(computer_science)", 
+            "United_States_Senate", 
+            "Chappaquiddick_Island", 
+            "Quantum", 
+            "Puppy"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Cat", 
+            "Marmot", 
+            "Marmot", 
+            "Butch_(Tom_and_Jerry)", 
+            "Quantum", 
+            "Bleach"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Digital_on-screen_graphic", 
+            "Garden", 
+            "Victory_garden", 
+            "Bcl-2-associated_death_promoter"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Sarge_(band)"
+        ], 
+        "postID": 57
+    }
+]

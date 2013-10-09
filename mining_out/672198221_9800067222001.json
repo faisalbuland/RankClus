@@ -1,0 +1,135 @@
+[
+    {
+        "entity": [
+            "Jean-Baptiste_Colbert", 
+            "Cheers"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "Iraq", 
+            "United_States", 
+            "United_States", 
+            "Comedian"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Radio", 
+            "Lobbying", 
+            "Volatility_(chemistry)", 
+            "Journalism", 
+            "Mass_media", 
+            "Water", 
+            "Jean-Baptiste_Colbert", 
+            "Stream", 
+            "Comedian", 
+            "United_States", 
+            "Television_program", 
+            "Tomato", 
+            "Iraq"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Bill_O'Reilly_(commentator)", 
+            "Afghanistan", 
+            "God", 
+            "Mass_media", 
+            "United_States_Congress", 
+            "Continental_United_States", 
+            "O'Reilly_Media", 
+            "Infant"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Mass_media", 
+            "Ounce", 
+            "Theatre", 
+            "Violence", 
+            "Rift", 
+            "Safety_(American_football)", 
+            "Jean-Baptiste_Colbert", 
+            "Jean-Baptiste_Colbert", 
+            "God", 
+            "Stephen_Colbert", 
+            "Operations_security", 
+            "United_States", 
+            "O'Reilly_Media", 
+            "Gentleman"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "International_Maritime_Organization", 
+            "George_W._Bush", 
+            "Iraq", 
+            "Interrupt_handler", 
+            "Humanitarian_Services", 
+            "Humanitarianism", 
+            "Star"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "O'Reilly_Media", 
+            "Manchester_Evening_News", 
+            "Veterinary_surgeon", 
+            "O'Reilly_Media", 
+            "Veterinary_surgeon", 
+            "Carpentry", 
+            "Iraq", 
+            "United_States_Army", 
+            "Gulf_War", 
+            "Disclaimer", 
+            "Criminal_Investigation_Department", 
+            "Analogy", 
+            "Jean-Baptiste_Colbert", 
+            "Men_who_have_sex_with_men", 
+            "Campaign_streamer", 
+            "God", 
+            "Tab", 
+            "MSN", 
+            "Architect", 
+            "Jean-Baptiste_Colbert", 
+            "Carpentry"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "The_Daily_Show", 
+            "The_Colbert_Report", 
+            "Talk_radio", 
+            "Sarcasm", 
+            "Foot_(length)", 
+            "Jon_Stewart", 
+            "Sensationalism", 
+            "Stephen_Colbert", 
+            "Humour", 
+            "Fair_and_balanced", 
+            "Radio", 
+            "Public_Broadcasting_Service", 
+            "Stephen_Colbert", 
+            "Stephen_Colbert"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Jean-Baptiste_Colbert"
+        ], 
+        "postID": 9
+    }
+]

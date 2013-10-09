@@ -1,0 +1,73 @@
+[
+    {
+        "entity": [
+            "Military_Occupational_Specialty", 
+            "Keesler_Air_Force_Base", 
+            "Microsoft_Certified_Professional", 
+            "Boot_camp", 
+            "Marine_Corps_Recruit_Depot_San_Diego"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Marine_(military)", 
+            "Marine_(military)", 
+            "Hack_(TV_series)", 
+            "Hello_(Lionel_Richie_song)", 
+            "Commo_(Terminal_Emulator)", 
+            "Commo_(Terminal_Emulator)", 
+            "Asset", 
+            "Military_Occupational_Specialty", 
+            "Boot_Camp_(TV_series)", 
+            "United_States_Marine_Corps", 
+            "Natural_satellite", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Pensacola,_Florida", 
+            "Traffic", 
+            "2006", 
+            "Corporal", 
+            "Air_traffic_control", 
+            "U.S._military_pay_grades", 
+            "Amphibious_Assault_Vehicle", 
+            "Petty_Officer_Third_Class", 
+            "Marine_Corps_Base_Camp_Pendleton", 
+            "Military_Occupational_Specialty", 
+            "Air_Traffic", 
+            "United_States_Marine_Corps", 
+            "Sergeant", 
+            "Pendleton,_Oregon", 
+            "Sergeant", 
+            "MCT", 
+            "Fallon_Bowman", 
+            "United_States_Marine_Corps", 
+            "Infantry", 
+            "United_States", 
+            "Amphibious_Assault_Vehicle"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "God", 
+            "United_States_Marine_Corps", 
+            "Soldier", 
+            "Duck", 
+            "Internet_forum", 
+            "God", 
+            "Derelict", 
+            "Soldier", 
+            "D._V._Gundappa"
+        ], 
+        "postID": 5
+    }
+]

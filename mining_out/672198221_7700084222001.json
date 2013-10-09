@@ -1,0 +1,410 @@
+[
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Fiscal_conservatism", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Separation_of_powers", 
+            "Richard_Nixon"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Richard_Nixon"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Rush_(band)", 
+            "George_H._W._Bush", 
+            "Richard_Nixon", 
+            "Chimpanzee", 
+            "Richard_Nixon", 
+            "Clown", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Syria", 
+            "Hillary_Rodham_Clinton", 
+            "Nancy"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Condoleezza_Rice", 
+            "Stanford_University", 
+            "George_W._Bush"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Nixon_(film)", 
+            "Politics", 
+            "Journalism", 
+            "Nixon_(film)", 
+            "Politician", 
+            "Film"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Fiscal_conservatism"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Hypocrisy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Fiscal_conservatism", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Separation_of_powers", 
+            "Richard_Nixon"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Richard_Nixon"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Rush_(band)", 
+            "George_H._W._Bush", 
+            "Richard_Nixon", 
+            "Chimpanzee", 
+            "Richard_Nixon", 
+            "Clown", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Syria", 
+            "Hillary_Rodham_Clinton", 
+            "Nancy"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Condoleezza_Rice", 
+            "Stanford_University", 
+            "George_W._Bush"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Nixon_(film)", 
+            "Politics", 
+            "Journalism", 
+            "Nixon_(film)", 
+            "Politician", 
+            "Film"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Fiscal_conservatism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Hypocrisy"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Conservatism_in_the_United_States", 
+            "President_of_the_United_States", 
+            "Fiscal_conservatism", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Separation_of_powers", 
+            "Richard_Nixon"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Richard_Nixon"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Blog"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Politics", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Rush_(band)", 
+            "George_H._W._Bush", 
+            "Richard_Nixon", 
+            "Chimpanzee", 
+            "Richard_Nixon", 
+            "Clown", 
+            "George_W._Bush", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Intelligence"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Israel", 
+            "Syria", 
+            "Hillary_Rodham_Clinton", 
+            "Nancy"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Condoleezza_Rice", 
+            "Stanford_University", 
+            "George_W._Bush"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Emotion", 
+            "Nixon_(film)", 
+            "Politics", 
+            "Journalism", 
+            "Nixon_(film)", 
+            "Politician", 
+            "Film"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Conservatism", 
+            "Fiscal_conservatism"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "George_W._Bush"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Hypocrisy"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Ministry_of_Defence_(United_Kingdom)", 
+            "Hellenic_Aeronautical_Technologies"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 54
+    }
+]

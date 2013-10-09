@@ -1,0 +1,590 @@
+[
+    {
+        "entity": [
+            "Terrorism", 
+            "List_of_designated_terrorist_organizations", 
+            "Barack_Obama", 
+            "Nixon's_Enemies_List", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Dictator", 
+            "Terrorism", 
+            "United_States", 
+            "Nixon's_Enemies_List", 
+            "Terrorism", 
+            "Zero-sum", 
+            "Zero-sum"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "Class_conflict", 
+            "Barack_Obama"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Mortgage", 
+            "Axis_powers", 
+            "Chief_executive_officer", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gosh"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Jackboot", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Compassion", 
+            "Welfare_state", 
+            "Liberalism", 
+            "Poverty", 
+            "Church", 
+            "Welfare_state", 
+            "State", 
+            "Charitable_organization"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Whisky", 
+            "Whisky"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Seventeen_(magazine)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Dumpster"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "National_Education_Association", 
+            "Public_enemy"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Dwight_D._Eisenhower", 
+            "Dwight_D._Eisenhower", 
+            "David_Eisenhower", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "Dwight_Schrute", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Private_school"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Public_school", 
+            "School_voucher"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Middle_class", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Hell"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Socialism", 
+            "United_States", 
+            "Rhetoric"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Financial_institution", 
+            "Bank", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Socialism", 
+            "Beneficiary", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Socialist_state", 
+            "Socialism", 
+            "Stimulus", 
+            "President_of_the_United_States", 
+            "Accountability", 
+            "Republican_Party_(United_States)", 
+            "Socialism", 
+            "Socialism", 
+            "George_W._Bush", 
+            "United_States", 
+            "Socialism", 
+            "George_W._Bush"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Accountability", 
+            "String_instrument", 
+            "Bank", 
+            "Stimulus", 
+            "Thomas_Jefferson", 
+            "Accountability"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "List_of_designated_terrorist_organizations", 
+            "Barack_Obama", 
+            "Nixon's_Enemies_List", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Dictator", 
+            "Terrorism", 
+            "United_States", 
+            "Nixon's_Enemies_List", 
+            "Terrorism", 
+            "Zero-sum", 
+            "Zero-sum"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "Class_conflict", 
+            "Barack_Obama"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Mortgage", 
+            "Axis_powers", 
+            "Chief_executive_officer", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Gosh"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Jackboot", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Compassion", 
+            "Welfare_state", 
+            "Liberalism", 
+            "Poverty", 
+            "Church", 
+            "Welfare_state", 
+            "State", 
+            "Charitable_organization"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Whisky", 
+            "Whisky"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Seventeen_(magazine)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Dumpster"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "National_Education_Association", 
+            "Public_enemy"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Dwight_D._Eisenhower", 
+            "Dwight_D._Eisenhower", 
+            "David_Eisenhower", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "Dwight_Schrute", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Private_school"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Public_school", 
+            "School_voucher"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Middle_class", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Hell"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Socialism", 
+            "United_States", 
+            "Rhetoric"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Financial_institution", 
+            "Bank", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Socialism", 
+            "Beneficiary", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Socialist_state", 
+            "Socialism", 
+            "Stimulus", 
+            "President_of_the_United_States", 
+            "Accountability", 
+            "Republican_Party_(United_States)", 
+            "Socialism", 
+            "Socialism", 
+            "George_W._Bush", 
+            "United_States", 
+            "Socialism", 
+            "George_W._Bush"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Accountability", 
+            "String_instrument", 
+            "Bank", 
+            "Stimulus", 
+            "Thomas_Jefferson", 
+            "Accountability"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "List_of_designated_terrorist_organizations", 
+            "Barack_Obama", 
+            "Nixon's_Enemies_List", 
+            "George_W._Bush", 
+            "United_States", 
+            "United_States", 
+            "Dictator", 
+            "Terrorism", 
+            "United_States", 
+            "Nixon's_Enemies_List", 
+            "Terrorism", 
+            "Zero-sum", 
+            "Zero-sum"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "List_of_Presidents_of_the_Philippines", 
+            "Class_conflict", 
+            "Barack_Obama"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Mortgage", 
+            "Axis_powers", 
+            "Chief_executive_officer", 
+            "Chief_executive_officer"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Gosh"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Jackboot", 
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Compassion", 
+            "Welfare_state", 
+            "Liberalism", 
+            "Poverty", 
+            "Church", 
+            "Welfare_state", 
+            "State", 
+            "Charitable_organization"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Whisky", 
+            "Whisky"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Seventeen_(magazine)"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Dumpster"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Trade_union", 
+            "National_Education_Association", 
+            "Public_enemy"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Dwight_D._Eisenhower", 
+            "Dwight_D._Eisenhower", 
+            "David_Eisenhower", 
+            "Republican_Party_(United_States)", 
+            "Tax", 
+            "Dwight_Schrute", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Private_school"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Public_school", 
+            "School_voucher"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Bank", 
+            "Middle_class", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "Hell"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Ch\u00e1vez", 
+            "Hugo_Award", 
+            "Socialism", 
+            "United_States", 
+            "Rhetoric"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Financial_institution", 
+            "Bank", 
+            "Barack_Obama", 
+            "George_W._Bush", 
+            "Socialism", 
+            "Beneficiary", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Thomas_Jefferson", 
+            "Socialist_state", 
+            "Socialism", 
+            "Stimulus", 
+            "President_of_the_United_States", 
+            "Accountability", 
+            "Republican_Party_(United_States)", 
+            "Socialism", 
+            "Socialism", 
+            "George_W._Bush", 
+            "United_States", 
+            "Socialism", 
+            "George_W._Bush"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Accountability", 
+            "String_instrument", 
+            "Bank", 
+            "Stimulus", 
+            "Thomas_Jefferson", 
+            "Accountability"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Separation_of_powers", 
+            "President_of_the_United_States", 
+            "United_States_Congress", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 60
+    }
+]

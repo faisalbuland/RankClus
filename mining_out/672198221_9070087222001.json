@@ -1,0 +1,70 @@
+[
+    {
+        "entity": [
+            "Richard_Nixon", 
+            "April_28", 
+            "President_of_the_United_States", 
+            "Book_of_Judith", 
+            "Right-wing_politics", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Barack_Obama", 
+            "Apple", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "Freemasonry", 
+            "Tangerine", 
+            "Professor", 
+            "Barack_Obama", 
+            "Wing", 
+            "President_of_the_United_States", 
+            "Richard_Nixon", 
+            "George_W._Bush", 
+            "George_Mason_University", 
+            "Barack_Obama", 
+            "Orange_(fruit)", 
+            "Gallup_poll", 
+            "George_Mason_University", 
+            "Orange_(fruit)", 
+            "George_W._Bush"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Misinformation", 
+            "Misinformation", 
+            "God", 
+            "Wing", 
+            "Wing", 
+            "The_Washington_Times", 
+            "Left-wing_politics", 
+            "Washington,_D.C.", 
+            "Washington_Times-Herald", 
+            "Duck"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Wing", 
+            "Left-wing_politics", 
+            "Wishful_thinking"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Ragtime", 
+            "George_Will", 
+            "Global_warming", 
+            "Op-ed", 
+            "Washington"
+        ], 
+        "postID": 5
+    }
+]

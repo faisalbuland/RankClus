@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Armed_Services_Vocational_Aptitude_Battery"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "Education", 
+            "Soldier", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "God", 
+            "Duck"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Medical_history"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Derelict", 
+            "Soldier", 
+            "Background_check", 
+            "Falsifiability", 
+            "God", 
+            "D._V._Gundappa", 
+            "Soldier", 
+            "Military_tribunal", 
+            "Duck", 
+            "Classified_information", 
+            "God", 
+            "Military_discharge", 
+            "2007"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "England", 
+            "Dude"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Background_check", 
+            "E7", 
+            "Army", 
+            "E-6_process", 
+            "Army", 
+            "1977", 
+            "Military_Occupational_Specialty"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Medical_history"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Medical_record"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [], 
+        "postID": 12
+    }
+]

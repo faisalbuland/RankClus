@@ -1,0 +1,497 @@
+[
+    {
+        "entity": [
+            "Islam", 
+            "Muslim", 
+            "Arab", 
+            "Qadi", 
+            "Islamism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Alvin,_Texas", 
+            "Muslim", 
+            "Judge", 
+            "Alvin_Hellerstein"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Liberty", 
+            "Islam", 
+            "United_States"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "American_Justice", 
+            "Law_of_the_United_States", 
+            "Outlaw"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Doc_(TV_series)", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Moron"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "Legal_systems_of_the_world", 
+            "United_States_Army", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Islamic_terrorism", 
+            "Islamism", 
+            "Islam", 
+            "Extremism", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Genius"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Wall_Street"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Limb_(anatomy)", 
+            "Limb_(anatomy)", 
+            "Hell"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "IMHO"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Hurt_(band)", 
+            "Terrorism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Terrorism", 
+            "Law"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Religion", 
+            "Economics", 
+            "United_States_Constitution", 
+            "Education"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Torture", 
+            "Sandwich", 
+            "Peanut", 
+            "Peanut_butter", 
+            "Jelly", 
+            "Bridge", 
+            "Butter", 
+            "September_11,_2001_attacks", 
+            "Tea", 
+            "Shi_(poetry)", 
+            "Tuff", 
+            "Cracker_(food)"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Muslim", 
+            "Arab", 
+            "Qadi", 
+            "Islamism"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Alvin,_Texas", 
+            "Muslim", 
+            "Judge", 
+            "Alvin_Hellerstein"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Liberty", 
+            "Islam", 
+            "United_States"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "American_Justice", 
+            "Law_of_the_United_States", 
+            "Outlaw"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Doc_(TV_series)", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Moron"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "Legal_systems_of_the_world", 
+            "United_States_Army", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Islamic_terrorism", 
+            "Islamism", 
+            "Islam", 
+            "Extremism", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Genius"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Wall_Street"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Limb_(anatomy)", 
+            "Limb_(anatomy)", 
+            "Hell"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "IMHO"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Hurt_(band)", 
+            "Terrorism"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Terrorism", 
+            "Law"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Religion", 
+            "Economics", 
+            "United_States_Constitution", 
+            "Education"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Torture", 
+            "Sandwich", 
+            "Peanut", 
+            "Peanut_butter", 
+            "Jelly", 
+            "Bridge", 
+            "Butter", 
+            "September_11,_2001_attacks", 
+            "Tea", 
+            "Shi_(poetry)", 
+            "Tuff", 
+            "Cracker_(food)"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Islam", 
+            "Muslim", 
+            "Arab", 
+            "Qadi", 
+            "Islamism"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Alvin,_Texas", 
+            "Muslim", 
+            "Judge", 
+            "Alvin_Hellerstein"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Muslim", 
+            "Liberty", 
+            "Islam", 
+            "United_States"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "American_Justice", 
+            "Law_of_the_United_States", 
+            "Outlaw"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Doc_(TV_series)", 
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Moron"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "American_Civil_Liberties_Union", 
+            "Legal_systems_of_the_world", 
+            "United_States_Army", 
+            "United_States"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Islamic_terrorism", 
+            "Islamism", 
+            "Islam", 
+            "Extremism", 
+            "Islamic_terrorism"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Genius"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Wall_Street"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Limb_(anatomy)", 
+            "Limb_(anatomy)", 
+            "Hell"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "IMHO"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Hurt_(band)", 
+            "Terrorism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "List_of_designated_terrorist_organizations", 
+            "International_Maritime_Organization"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Terrorism", 
+            "Law"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Religion", 
+            "Economics", 
+            "United_States_Constitution", 
+            "Education"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Finger", 
+            "Torture", 
+            "Sandwich", 
+            "Peanut", 
+            "Peanut_butter", 
+            "Jelly", 
+            "Bridge", 
+            "Butter", 
+            "September_11,_2001_attacks", 
+            "Tea", 
+            "Shi_(poetry)", 
+            "Tuff", 
+            "Cracker_(food)"
+        ], 
+        "postID": 60
+    }
+]

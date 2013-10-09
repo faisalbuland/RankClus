@@ -1,0 +1,408 @@
+[
+    {
+        "entity": [
+            "Pennsylvania", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate", 
+            "Arlen_Specter", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "LOL", 
+            "Republicanism", 
+            "Stalinism", 
+            "2009"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Tom_Ridge", 
+            "Dead_Heat", 
+            "Specter_(Ape_Escape)", 
+            "Tom_Ridge"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Swedish_general_election,_2010", 
+            "God", 
+            "2010"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Presidency_of_George_W._Bush", 
+            "Bank", 
+            "George_W._Bush", 
+            "Philippe_Vandevelde"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "Governor", 
+            "2009", 
+            "Civil_rights", 
+            "Specter_(Ape_Escape)", 
+            "Specter_(Ape_Escape)", 
+            "George_W._Bush", 
+            "Arlen_Specter"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Public_opinion"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "The_Democrats", 
+            "United_States_Senate", 
+            "Arlen_Specter", 
+            "Democratic_Party_(United_States)", 
+            "Primary_election", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Arlen_Specter", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Spector", 
+            "Democratic_Party_(United_States)", 
+            "Duck", 
+            "Duck"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Independent_(politician)", 
+            "Wing", 
+            "Demos", 
+            "Wing", 
+            "Demos", 
+            "Flight_feather", 
+            "Arlen_Specter", 
+            "Wing"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "Demo_(music)", 
+            "Election", 
+            "Independent_(politician)", 
+            "Arlen_Specter", 
+            "Pennsylvania", 
+            "Demo_(music)", 
+            "Arlen_Specter", 
+            "Independent_(politician)", 
+            "Joe_Lieberman", 
+            "Independent_(politician)", 
+            "Law", 
+            "Demos_(UK_think_tank)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Independent_(politician)", 
+            "IMHO", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Open_primary", 
+            "Joseph_Stalin", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "State"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "2007", 
+            "Graph_(mathematics)"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Demos", 
+            "Independent_(politician)"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Specter_(Ape_Escape)", 
+            "Seniority", 
+            "Specter_(Ape_Escape)", 
+            "Demos", 
+            "Arlen_Specter", 
+            "Arlen_Specter", 
+            "Seniority", 
+            "2009"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "General_election"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Pennsylvania", 
+            "Thomas_Jefferson", 
+            "Bank", 
+            "Republican_Party_(United_States)", 
+            "United_States_Senate", 
+            "Arlen_Specter", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "LOL", 
+            "Republicanism", 
+            "Stalinism", 
+            "2009"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Heat", 
+            "Tom_Ridge", 
+            "Dead_Heat", 
+            "Specter_(Ape_Escape)", 
+            "Tom_Ridge"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Swedish_general_election,_2010", 
+            "God", 
+            "2010"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Presidency_of_George_W._Bush", 
+            "Bank", 
+            "George_W._Bush", 
+            "Philippe_Vandevelde"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "Governor", 
+            "2009", 
+            "Civil_rights", 
+            "Specter_(Ape_Escape)", 
+            "Specter_(Ape_Escape)", 
+            "George_W._Bush", 
+            "Arlen_Specter"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Public_opinion"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "The_Democrats", 
+            "United_States_Senate", 
+            "Arlen_Specter", 
+            "Democratic_Party_(United_States)", 
+            "Primary_election", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Arlen_Specter", 
+            "Stimulus_(physiology)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Spector", 
+            "Democratic_Party_(United_States)", 
+            "Duck", 
+            "Duck"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Right-wing_politics", 
+            "Right-wing_politics", 
+            "Independent_(politician)", 
+            "Wing", 
+            "Demos", 
+            "Wing", 
+            "Demos", 
+            "Flight_feather", 
+            "Arlen_Specter", 
+            "Wing"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Arlen_Specter", 
+            "Demo_(music)", 
+            "Election", 
+            "Independent_(politician)", 
+            "Arlen_Specter", 
+            "Pennsylvania", 
+            "Demo_(music)", 
+            "Arlen_Specter", 
+            "Independent_(politician)", 
+            "Joe_Lieberman", 
+            "Independent_(politician)", 
+            "Law", 
+            "Demos_(UK_think_tank)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Independent_(politician)", 
+            "IMHO", 
+            "Democratic_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Open_primary", 
+            "Joseph_Stalin", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "State"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)", 
+            "2007", 
+            "Graph_(mathematics)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Demos", 
+            "Independent_(politician)"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Specter_(Ape_Escape)", 
+            "Seniority", 
+            "Specter_(Ape_Escape)", 
+            "Demos", 
+            "Arlen_Specter", 
+            "Arlen_Specter", 
+            "Seniority", 
+            "2009"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics", 
+            "General_election"
+        ], 
+        "postID": 40
+    }
+]

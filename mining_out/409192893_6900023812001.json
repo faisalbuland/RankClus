@@ -1,0 +1,82 @@
+[
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Enemy_combatant"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Sarcasm", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Catch_and_release"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Prawn", 
+            "Bait_(luring_substance)", 
+            "Dungeness_crab", 
+            "Dungeness_crab", 
+            "Prawn"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "1985", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Ronald_Reagan"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Red_devil_cichlid", 
+            "Devil"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Dicentra", 
+            "Bleeding", 
+            "Orange_(fruit)", 
+            "Nancy"
+        ], 
+        "postID": 11
+    }
+]

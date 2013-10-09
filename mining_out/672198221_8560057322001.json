@@ -1,0 +1,28 @@
+[
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "United_States", 
+            "United_States_dollar", 
+            "Sucker", 
+            "Mother_Earth", 
+            "Earth", 
+            "Air_pollution", 
+            "George_W._Bush", 
+            "Hypocrisy", 
+            "Global_warming"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Robbery", 
+            "Emissions_trading", 
+            "George_W._Bush", 
+            "Demo_(music)", 
+            "Crime", 
+            "Crime_statistics"
+        ], 
+        "postID": 2
+    }
+]

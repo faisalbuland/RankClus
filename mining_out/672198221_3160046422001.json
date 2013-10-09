@@ -1,0 +1,1360 @@
+[
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [], 
+        "postID": 53
+    }, 
+    {
+        "entity": [], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 60
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 61
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 62
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 63
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 64
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 65
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 66
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 67
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 68
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 69
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 70
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 71
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 72
+    }, 
+    {
+        "entity": [], 
+        "postID": 73
+    }, 
+    {
+        "entity": [], 
+        "postID": 74
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 75
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 76
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 77
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 78
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 79
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 80
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 81
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 82
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 83
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 84
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 85
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 86
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 87
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 88
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 89
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 90
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 91
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 92
+    }, 
+    {
+        "entity": [], 
+        "postID": 93
+    }, 
+    {
+        "entity": [], 
+        "postID": 94
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 95
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 96
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 97
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 98
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 99
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 100
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 101
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 102
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 103
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 104
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 105
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 106
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 107
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 108
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 109
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 110
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 111
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 112
+    }, 
+    {
+        "entity": [], 
+        "postID": 113
+    }, 
+    {
+        "entity": [], 
+        "postID": 114
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 115
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 116
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 117
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 118
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 119
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 120
+    }, 
+    {
+        "entity": [
+            "Bill_Maher", 
+            "Arthur_William_Baden_Powell", 
+            "Barack_Obama"
+        ], 
+        "postID": 121
+    }, 
+    {
+        "entity": [
+            "David_Petraeus"
+        ], 
+        "postID": 122
+    }, 
+    {
+        "entity": [
+            "David_Petraeus", 
+            "Time_(magazine)", 
+            "David_Petraeus"
+        ], 
+        "postID": 123
+    }, 
+    {
+        "entity": [
+            "W00t", 
+            "United_States", 
+            "Bench_press", 
+            "Accountability", 
+            "Ronald_Reagan", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "Resentment", 
+            "Red_states_and_blue_states", 
+            "U.S._state", 
+            "W00t", 
+            "Independent_(politician)"
+        ], 
+        "postID": 124
+    }, 
+    {
+        "entity": [
+            "Palin_Majere", 
+            "Arthur_William_Baden_Powell"
+        ], 
+        "postID": 125
+    }, 
+    {
+        "entity": [
+            "National_security", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "United_States"
+        ], 
+        "postID": 126
+    }, 
+    {
+        "entity": [
+            "Nerve", 
+            "United_States", 
+            "Big_Stick_Ideology", 
+            "Nail_(fastener)", 
+            "Hammer", 
+            "Steel", 
+            "Exponential_function", 
+            "The_General_(1927_film)"
+        ], 
+        "postID": 127
+    }, 
+    {
+        "entity": [
+            "Smoke", 
+            "Mike_Huckabee", 
+            "Mike_Huckabee_presidential_campaign,_2008"
+        ], 
+        "postID": 128
+    }, 
+    {
+        "entity": [
+            "Mike_Huckabee", 
+            "Wit", 
+            "Humour", 
+            "Smoke"
+        ], 
+        "postID": 129
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Barack_Obama", 
+            "Joe_Biden", 
+            "David_Petraeus", 
+            "United_States_Marine_Corps", 
+            "Brinson,_Georgia", 
+            "Academy_Award", 
+            "David_Petraeus", 
+            "Oliver_North", 
+            "Murder"
+        ], 
+        "postID": 130
+    }, 
+    {
+        "entity": [
+            "James_Jones", 
+            "Retirement", 
+            "United_States", 
+            "National_security", 
+            "United_States", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "2009", 
+            "Sat_(Sanskrit)", 
+            "United_States_Marine_Corps", 
+            "May_30", 
+            "Internal_Revenue_Service", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 131
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Independent_(politician)"
+        ], 
+        "postID": 132
+    }, 
+    {
+        "entity": [], 
+        "postID": 133
+    }, 
+    {
+        "entity": [], 
+        "postID": 134
+    }, 
+    {
+        "entity": [
+            "Wasted_vote", 
+            "Repertory"
+        ], 
+        "postID": 135
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "David_Petraeus", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Christian_right", 
+            "Y'all"
+        ], 
+        "postID": 136
+    }, 
+    {
+        "entity": [
+            "WilliamsF1", 
+            "Common_sense", 
+            "God"
+        ], 
+        "postID": 137
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "United_States_presidential_primary", 
+            "Primary_election", 
+            "Barack_Obama", 
+            "Politics", 
+            "Political_party", 
+            "Hack_(technology)", 
+            "Joseph_Stalin", 
+            "Bias"
+        ], 
+        "postID": 138
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Sacrificial_lamb", 
+            "Spit_(landform)", 
+            "Barack_Obama", 
+            "Lamb_and_mutton", 
+            "Barbecue", 
+            "Thomas_Jefferson", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Saddam_Hussein"
+        ], 
+        "postID": 139
+    }, 
+    {
+        "entity": [
+            "Birth_certificate"
+        ], 
+        "postID": 140
+    }
+]

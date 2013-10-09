@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [
+            "Federal_Reserve_System", 
+            "Gemstone", 
+            "North_American_Free_Trade_Agreement", 
+            "Trend_analysis", 
+            "Atlanta,_Georgia", 
+            "North_American_currency_union", 
+            "Nathan_Banks", 
+            "Cleveland,_Ohio", 
+            "Federal_Reserve_System"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Northern_Arizona_University", 
+            "Imaginary_world", 
+            "Trade_union"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "North_American_currency_union", 
+            "Hyperpower", 
+            "United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

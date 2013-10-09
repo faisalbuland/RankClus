@@ -1,0 +1,187 @@
+[
+    {
+        "entity": [], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "United_States_Air_Force", 
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Aircraft", 
+            "Aircraft", 
+            "LOT_Polish_Airlines"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Metric_(mathematics)", 
+            "Dave_Finlay", 
+            "Nortrup", 
+            "Dollar", 
+            "Lander_(spacecraft)", 
+            "295"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Territories_of_the_United_States", 
+            "B-1_Lancer", 
+            "Cruise_missile", 
+            "Nuclear_weapon", 
+            "Nuclear_weapon", 
+            "Unmanned_combat_air_vehicle", 
+            "Nuclear_weapon", 
+            "National_Guard_of_the_United_States", 
+            "SWA_(band)", 
+            "Nuclear_disarmament", 
+            "Disarmament", 
+            "Strategic_bomber", 
+            "Strike_action"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Greene_and_Gates_Avenues_Line", 
+            "Electronics", 
+            "Greene_and_Gates_Avenues_Line", 
+            "Bomber", 
+            "Blueprint"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "National_Guard_of_the_United_States", 
+            "Airspace", 
+            "Gas", 
+            "United_States_Navy", 
+            "Avionics", 
+            "Technology", 
+            "B-52_Stratofortress", 
+            "United_States_Army", 
+            "Tank", 
+            "Destroyer", 
+            "B-1_Lancer"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Stealth_technology", 
+            "Troops_(film)", 
+            "Aircraft", 
+            "GOD_(band)", 
+            "554", 
+            "Bubbles_(band)"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Seen", 
+            "Money_(magazine)", 
+            "Thought", 
+            "Geostationary_Operational_Environmental_Satellite", 
+            "Myeloid_and_erythroid_nuclear_termination_stage_specific_protein", 
+            "Thought", 
+            "All_India_Radio", 
+            "F.L.Y.", 
+            "Tetragrammaton", 
+            "Myeloid_and_erythroid_nuclear_termination_stage_specific_protein", 
+            "Thought", 
+            "Money_(magazine)", 
+            "Thought", 
+            "Getaway_Special"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Structural_change", 
+            "Black_box", 
+            "History_of_technology", 
+            "Aircraft", 
+            "Antenna_(radio)", 
+            "Airframe", 
+            "History_of_technology"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Cold_War", 
+            "Bomber", 
+            "Aircraft", 
+            "Coincidence", 
+            "Aeronautics", 
+            "Model_(person)", 
+            "Magazine"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Cold_War"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Bomber", 
+            "Rocket"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Request_for_Proposal", 
+            "Tanker_(ship)", 
+            "Lease", 
+            "National_Guard_of_the_United_States"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Bomb", 
+            "Sedative"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Bureaucracy", 
+            "1968", 
+            "Terrorism", 
+            "Continental_United_States", 
+            "Bomber", 
+            "Bomber", 
+            "Pandering", 
+            "Bomb", 
+            "Hypersonic"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Sukhoi_Su-27"
+        ], 
+        "postID": 19
+    }
+]

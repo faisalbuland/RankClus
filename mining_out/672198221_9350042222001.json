@@ -1,0 +1,604 @@
+[
+    {
+        "entity": [
+            "Experiment", 
+            "Member_of_Congress", 
+            "Robbery", 
+            "Science", 
+            "Truck", 
+            "Experiment", 
+            "Experiment", 
+            "Intelligence_quotient", 
+            "Hate_crime", 
+            "Term_limit", 
+            "Texas", 
+            "United_States_House_of_Representatives", 
+            "Matthew_Shepard", 
+            "Pickup_truck", 
+            "Experiment", 
+            "Gospel_of_Matthew", 
+            "Gay", 
+            "Crime", 
+            "Member_of_Congress"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Federal_law", 
+            "Scots_law", 
+            "Scots_law", 
+            "Scots_law"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "2004", 
+            "Jimmie_Foxx", 
+            "Jimmie_Foxx", 
+            "Jimmie_Foxx", 
+            "American_Broadcasting_Company", 
+            "20", 
+            "Crime", 
+            "Hate_crime", 
+            "Gospel_of_Matthew", 
+            "Hoax", 
+            "1998", 
+            "Hate_crime", 
+            "Intelligence_quotient", 
+            "Hoax", 
+            "20", 
+            "Backtracks", 
+            "Oconaluftee_Indian_Village", 
+            "American_Broadcasting_Company", 
+            "Tragedy", 
+            "20", 
+            "2004"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Methamphetamine", 
+            "Bar_association"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Crime", 
+            "Homicide"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Term_limit", 
+            "Clay", 
+            "Clay_Aiken", 
+            "Intelligence_quotient", 
+            "Politics", 
+            "Celebrity", 
+            "Aiken,_South_Carolina", 
+            "Clay"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Poland", 
+            "Jew", 
+            "Poles", 
+            "Pols", 
+            "Nazism", 
+            "Nazism"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Religion", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Crime"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Murder", 
+            "Robbery", 
+            "Murder", 
+            "Bar_association"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Joseph_Stalin", 
+            "Hate_crime", 
+            "Gender", 
+            "Politics", 
+            "Crime", 
+            "Hate_crime", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Conspiracy_(crime)", 
+            "Hate_crime", 
+            "Violence", 
+            "Criminal_law", 
+            "Criminal_law"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Law", 
+            "Nationality", 
+            "Law_of_the_United_States", 
+            "Legislation", 
+            "Nationality", 
+            "Steny_Hoyer", 
+            "Nationality", 
+            "Accountability", 
+            "Violence", 
+            "Legislation", 
+            "Jurisdiction", 
+            "United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Population", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Toleration", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "United_States", 
+            "Disability", 
+            "Freedom_of_speech", 
+            "Religion", 
+            "Law", 
+            "Sexual_orientation", 
+            "Disability", 
+            "Sexual_orientation", 
+            "Sexual_orientation", 
+            "Law", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Steny_Hoyer", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Law", 
+            "Law", 
+            "Culture_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "Injury", 
+            "Gender", 
+            "Gender_identity", 
+            "Law", 
+            "Religion", 
+            "Religion", 
+            "Injury", 
+            "Legislation", 
+            "Textile", 
+            "Defendant", 
+            "Hate_crime", 
+            "Toleration", 
+            "Religion", 
+            "United_States", 
+            "Culture_of_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "21st_century", 
+            "Gender", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Gender", 
+            "Actis", 
+            "Hate_crime", 
+            "Hate_crime"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Thirteen_Colonies", 
+            "Christianity", 
+            "Blacks", 
+            "Caucasian_race", 
+            "Protestantism", 
+            "Roman_Catholic_Church", 
+            "Judaism", 
+            "Caucasian_race", 
+            "Blacks", 
+            "Caucasian_race", 
+            "Jew", 
+            "Judaism", 
+            "Law", 
+            "African_American", 
+            "Thirteen_Colonies", 
+            "Protestantism", 
+            "Thirteen_Colonies", 
+            "Thirteen_Colonies", 
+            "Law", 
+            "Neighbourhood", 
+            "Judaism", 
+            "Judaism", 
+            "United_States", 
+            "Protestantism", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Gay", 
+            "Temple", 
+            "Robbery", 
+            "Mosque", 
+            "Minister_(Christianity)", 
+            "Distilled_beverage", 
+            "Temple", 
+            "Damnation", 
+            "Liquor_store", 
+            "Hell", 
+            "God", 
+            "Damnation", 
+            "Church", 
+            "Hell", 
+            "Murder", 
+            "Distilled_beverage", 
+            "Liquor_store", 
+            "Church", 
+            "Murder", 
+            "Priest", 
+            "Televangelism", 
+            "Religion", 
+            "Gay", 
+            "Crime", 
+            "Rabbi", 
+            "Mosque", 
+            "Imam"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Experiment", 
+            "Member_of_Congress", 
+            "Robbery", 
+            "Science", 
+            "Truck", 
+            "Experiment", 
+            "Experiment", 
+            "Intelligence_quotient", 
+            "Hate_crime", 
+            "Term_limit", 
+            "Texas", 
+            "United_States_House_of_Representatives", 
+            "Matthew_Shepard", 
+            "Pickup_truck", 
+            "Experiment", 
+            "Gospel_of_Matthew", 
+            "Gay", 
+            "Crime", 
+            "Member_of_Congress"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Federal_law", 
+            "Scots_law", 
+            "Scots_law", 
+            "Scots_law"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "2004", 
+            "Jimmie_Foxx", 
+            "Jimmie_Foxx", 
+            "Jimmie_Foxx", 
+            "American_Broadcasting_Company", 
+            "20", 
+            "Crime", 
+            "Hate_crime", 
+            "Gospel_of_Matthew", 
+            "Hoax", 
+            "1998", 
+            "Hate_crime", 
+            "Intelligence_quotient", 
+            "Hoax", 
+            "20", 
+            "Backtracks", 
+            "Oconaluftee_Indian_Village", 
+            "American_Broadcasting_Company", 
+            "Tragedy", 
+            "20", 
+            "2004"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Methamphetamine", 
+            "Bar_association"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Democracy"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Homicide", 
+            "Crime", 
+            "Homicide"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Stalinism", 
+            "Politics", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Term_limit", 
+            "Clay", 
+            "Clay_Aiken", 
+            "Intelligence_quotient", 
+            "Politics", 
+            "Celebrity", 
+            "Aiken,_South_Carolina", 
+            "Clay"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "Poland", 
+            "Jew", 
+            "Poles", 
+            "Pols", 
+            "Nazism", 
+            "Nazism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Religion", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Crime"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Murder", 
+            "Robbery", 
+            "Murder", 
+            "Bar_association"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Crime", 
+            "Joseph_Stalin", 
+            "Hate_crime", 
+            "Gender", 
+            "Politics", 
+            "Crime", 
+            "Hate_crime", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Conspiracy_(crime)", 
+            "Hate_crime", 
+            "Violence", 
+            "Criminal_law", 
+            "Criminal_law"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Legislation", 
+            "Law", 
+            "Nationality", 
+            "Law_of_the_United_States", 
+            "Legislation", 
+            "Nationality", 
+            "Steny_Hoyer", 
+            "Nationality", 
+            "Accountability", 
+            "Violence", 
+            "Legislation", 
+            "Jurisdiction", 
+            "United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Population", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Toleration", 
+            "Hate_crime", 
+            "Hate_crime", 
+            "United_States", 
+            "Disability", 
+            "Freedom_of_speech", 
+            "Religion", 
+            "Law", 
+            "Sexual_orientation", 
+            "Disability", 
+            "Sexual_orientation", 
+            "Sexual_orientation", 
+            "Law", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Steny_Hoyer", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Law", 
+            "Law", 
+            "Culture_of_the_United_States", 
+            "United_States", 
+            "United_States", 
+            "Injury", 
+            "Gender", 
+            "Gender_identity", 
+            "Law", 
+            "Religion", 
+            "Religion", 
+            "Injury", 
+            "Legislation", 
+            "Textile", 
+            "Defendant", 
+            "Hate_crime", 
+            "Toleration", 
+            "Religion", 
+            "United_States", 
+            "Culture_of_the_United_States", 
+            "Federal_government_of_the_United_States", 
+            "21st_century", 
+            "Gender", 
+            "Party_leaders_of_the_United_States_House_of_Representatives", 
+            "Hate_crime", 
+            "Gender", 
+            "Actis", 
+            "Hate_crime", 
+            "Hate_crime"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Thirteen_Colonies", 
+            "Christianity", 
+            "Blacks", 
+            "Caucasian_race", 
+            "Protestantism", 
+            "Roman_Catholic_Church", 
+            "Judaism", 
+            "Caucasian_race", 
+            "Blacks", 
+            "Caucasian_race", 
+            "Jew", 
+            "Judaism", 
+            "Law", 
+            "African_American", 
+            "Thirteen_Colonies", 
+            "Protestantism", 
+            "Thirteen_Colonies", 
+            "Thirteen_Colonies", 
+            "Law", 
+            "Neighbourhood", 
+            "Judaism", 
+            "Judaism", 
+            "United_States", 
+            "Protestantism", 
+            "Roman_Catholic_Church"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Gay", 
+            "Temple", 
+            "Robbery", 
+            "Mosque", 
+            "Minister_(Christianity)", 
+            "Distilled_beverage", 
+            "Temple", 
+            "Damnation", 
+            "Liquor_store", 
+            "Hell", 
+            "God", 
+            "Damnation", 
+            "Church", 
+            "Hell", 
+            "Murder", 
+            "Distilled_beverage", 
+            "Liquor_store", 
+            "Church", 
+            "Murder", 
+            "Priest", 
+            "Televangelism", 
+            "Religion", 
+            "Gay", 
+            "Crime", 
+            "Rabbi", 
+            "Mosque", 
+            "Imam"
+        ], 
+        "postID": 40
+    }
+]

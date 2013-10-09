@@ -1,0 +1,102 @@
+[
+    {
+        "entity": [
+            "The_Pentagon", 
+            "The_Pentagon", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "Al-Qaeda", 
+            "Historic_counties_of_England", 
+            "United_States", 
+            "Afghanistan", 
+            "Helen_Thomas", 
+            "Al-Qaeda", 
+            "New_York_City", 
+            "September_11,_2001_attacks", 
+            "United_States", 
+            "Central_government", 
+            "Warlord_era", 
+            "September_11,_2001_attacks", 
+            "Helen", 
+            "2009", 
+            "World_Trade_Center", 
+            "Al-Qaeda", 
+            "Afghanistan", 
+            "Terrorism", 
+            "Barack_Obama", 
+            "Afghanistan"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Weapon", 
+            "Nuclear_weapon", 
+            "Uniform_Resource_Locator", 
+            "Nuclear_warfare", 
+            "Pakistan", 
+            "Regions_of_France", 
+            "Afghanistan"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "Afghanistan", 
+            "Helen_Thomas", 
+            "Osama_bin_Laden", 
+            "Helen", 
+            "Uniform_Resource_Locator", 
+            "Iraq", 
+            "Quagmire"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fundamentalism", 
+            "Left-wing_politics", 
+            "Afghanistan", 
+            "Monarchism", 
+            "Taliban", 
+            "Smoke", 
+            "Communism", 
+            "Neocolonialism", 
+            "Taliban", 
+            "Cannabis_(drug)", 
+            "Right-wing_politics", 
+            "Hamid_Karzai", 
+            "Greed", 
+            "Wing", 
+            "Secularism", 
+            "Afghanistan", 
+            "Illegal_drug_trade", 
+            "Wing", 
+            "Afghanistan", 
+            "Cannabis_(drug)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Web_browser"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Hawker", 
+            "Author", 
+            "War_in_Afghanistan_(2001\u2013present)", 
+            "George_W._Bush", 
+            "Soul_music"
+        ], 
+        "postID": 7
+    }
+]

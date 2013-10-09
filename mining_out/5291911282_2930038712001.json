@@ -1,0 +1,38 @@
+[
+    {
+        "entity": [
+            "DD_Form_214", 
+            "DD_Form_214", 
+            "DD_Form_214", 
+            "Disability", 
+            "Norwegian_speciedaler"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Navy_List", 
+            "Retirement", 
+            "Disability"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Separations", 
+            "Internet_forum", 
+            "Disability", 
+            "Hope,_British_Columbia"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }
+]

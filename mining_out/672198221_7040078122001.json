@@ -1,0 +1,123 @@
+[
+    {
+        "entity": [
+            "Nonviolence", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Palestinian_people", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Johann_Wolfgang_von_Goethe"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Fallacy", 
+            "Gandi", 
+            "Suicide_attack", 
+            "Palestinian_people", 
+            "Suicide"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Violence", 
+            "Israel", 
+            "Murder", 
+            "Israel_Defense_Forces"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Nonviolent_resistance", 
+            "Zionism", 
+            "Israel"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Point-blank_range", 
+            "Irgun", 
+            "Point-blank_range", 
+            "Refugee", 
+            "Zionism", 
+            "Hand_grenade", 
+            "Independence", 
+            "Hand_grenade", 
+            "Hand_grenade", 
+            "Lehi_(group)", 
+            "Israel", 
+            "Refugee", 
+            "Terrorism", 
+            "Terrorism", 
+            "Gas", 
+            "Gas", 
+            "Moron", 
+            "Extermination_camp", 
+            "Jew", 
+            "Nonviolent_resistance", 
+            "United_Nations_Partition_Plan_for_Palestine", 
+            "Soldier", 
+            "United_Kingdom", 
+            "Israel", 
+            "Gas", 
+            "Murder", 
+            "Propaganda", 
+            "Point-blank_range", 
+            "Point-blank_range"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Terrorism", 
+            "Blood", 
+            "April_27", 
+            "Israelis", 
+            "Mon_people", 
+            "Bank", 
+            "2009", 
+            "Israel", 
+            "Arab", 
+            "Judea", 
+            "Sensitivity_and_specificity", 
+            "Israel"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Jew", 
+            "September_11,_2001_attacks", 
+            "September_11,_2001_attacks", 
+            "Mohammad_Amin_al-Husayni", 
+            "Terrorism", 
+            "Vice_Versa_(disambiguation)", 
+            "Terrorism", 
+            "Adolf_Hitler", 
+            "Genocide", 
+            "Electorate", 
+            "Israel", 
+            "Palestinian_people"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "Palestinian_people", 
+            "Palestinian_political_violence"
+        ], 
+        "postID": 10
+    }
+]

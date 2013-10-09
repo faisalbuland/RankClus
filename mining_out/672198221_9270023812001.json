@@ -1,0 +1,135 @@
+[
+    {
+        "entity": [
+            "Mass_(Bernstein)", 
+            "ATL_(film)", 
+            "Hope,_British_Columbia", 
+            "Nutroots"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Internment", 
+            "Guantanamo_Bay_Naval_Base", 
+            "Central_Intelligence_Agency"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank", 
+            "South_Carolina"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Crab", 
+            "Bait_(luring_substance)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Canada", 
+            "LOL", 
+            "Tobacco_smoking"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "Ragtime", 
+            "Bait_(luring_substance)", 
+            "Zoning_in_the_United_States", 
+            "Canada", 
+            "1916_Zoning_Resolution", 
+            "Crab"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Demographics_of_Iraq", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Liberalism"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Arthur_William_Baden_Powell", 
+            "Wilkinson_(shop)", 
+            "Colonel", 
+            "Thomas_Jefferson", 
+            "Colin_Powell", 
+            "Bank"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Election", 
+            "Bank"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Colin_Powell", 
+            "Presidency_of_George_W._Bush", 
+            "Colin_Powell", 
+            "Bias", 
+            "2004", 
+            "Neighbourhood", 
+            "2004", 
+            "Enemy_combatant", 
+            "Idiot", 
+            "George_W._Bush", 
+            "Colin_Powell", 
+            "United_States", 
+            "United_States_Department_of_Defense", 
+            "Herma"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House"
+        ], 
+        "postID": 17
+    }
+]

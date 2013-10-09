@@ -1,0 +1,91 @@
+[
+    {
+        "entity": [
+            "The_Pentagon", 
+            "The_Pentagon", 
+            "United_States_nationality_law", 
+            "Fast_track", 
+            "The_Pentagon", 
+            "United_States", 
+            "United_States", 
+            "The_Pentagon", 
+            "Citizenship"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Epistle_to_the_Philippians", 
+            "Military_of_the_United_States", 
+            "United_States_Coast_Guard", 
+            "Samoa", 
+            "United_States_Army", 
+            "United_States_Coast_Guard", 
+            "United_Kingdom", 
+            "History_of_the_United_States", 
+            "United_States_Army", 
+            "Australia", 
+            "United_States"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "List_of_Ugandans", 
+            "Iraq_War", 
+            "The_Pentagon", 
+            "United_States_Department_of_Defense", 
+            "College", 
+            "Military_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Combat_service_support", 
+            "United_States", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "Corporate_America", 
+            "United_States_Army", 
+            "Economy", 
+            "National_Guard_of_the_United_States", 
+            "Dick_Cheney", 
+            "Vested_interest"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Time_(magazine)", 
+            "British_Army", 
+            "WAR_(wrestling_promotion)", 
+            "Conscription_in_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Police_officer", 
+            "United_States_Army", 
+            "Cold_War", 
+            "Police_officer", 
+            "United_States_Army", 
+            "United_States", 
+            "United_States"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Law_enforcement_in_the_United_Kingdom", 
+            "Law_enforcement_in_the_United_Kingdom"
+        ], 
+        "postID": 8
+    }
+]

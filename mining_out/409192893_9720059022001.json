@@ -1,0 +1,554 @@
+[
+    {
+        "entity": [
+            "Tree", 
+            "Ragtime", 
+            "The_Game_(rapper)", 
+            "Status_quo", 
+            "MSNBC", 
+            "Fox_News_Channel", 
+            "Liberalism", 
+            "Fox_News_Channel", 
+            "United_States", 
+            "The_New_York_Times", 
+            "New_York", 
+            "Independence", 
+            "Finance", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "CNN"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Internal_Revenue_Service", 
+            "Democratic_Party_(United_States)", 
+            "Internal_Revenue_Service", 
+            "Interest_group", 
+            "Politics", 
+            "Interest_group", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Power-on_self-test"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Asia", 
+            "Americas", 
+            "Americas", 
+            "South_America", 
+            "Middle_East", 
+            "Europe", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Cheerleading"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Time_(magazine)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Republicanism", 
+            "Republican_Party_(United_States)", 
+            "Politics", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "The_Tea_Party", 
+            "Barack_Obama", 
+            "Boston_Tea_Party", 
+            "Tea", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Old_school", 
+            "Third_party_(politics)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "2010", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "The_Club_(Australian_reality_show)", 
+            "Washington", 
+            "The_Club_(Australian_reality_show)", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Thread_(Pern)", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "United_States", 
+            "Cream", 
+            "2003", 
+            "United_States_Army"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Washington"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Scandal", 
+            "Economy"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Lamb_(band)", 
+            "Purge", 
+            "Redemption", 
+            "Demon", 
+            "Redemption", 
+            "Paradox", 
+            "Greed", 
+            "Deception", 
+            "Redemption"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Liberalism_in_the_United_States", 
+            "Radio"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Drag_(physics)", 
+            "Pravda"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Ron_Paul"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Apologetics", 
+            "Far_left", 
+            "Hell", 
+            "Skin", 
+            "United_States", 
+            "Vomiting"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Firefighter", 
+            "Law", 
+            "Bar_association", 
+            "Public_administration", 
+            "Nurse"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "M72_LAW", 
+            "Dandy"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Teh", 
+            "Teh", 
+            "Political_party", 
+            "Law", 
+            "Juris_Doctor", 
+            "Common_sense"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "John_F._Kennedy", 
+            "George_W._Bush", 
+            "Power_elite", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Tiny_Encryption_Algorithm", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Prohibition", 
+            "Fugitive_Slave_Law_of_1850", 
+            "Law", 
+            "Republic", 
+            "Citizenship", 
+            "Democracy", 
+            "Democracy", 
+            "Witness_(1985_film)", 
+            "Board_of_education"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Republic"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Tree", 
+            "Ragtime", 
+            "The_Game_(rapper)", 
+            "Status_quo", 
+            "MSNBC", 
+            "Fox_News_Channel", 
+            "Liberalism", 
+            "Fox_News_Channel", 
+            "United_States", 
+            "The_New_York_Times", 
+            "New_York", 
+            "Independence", 
+            "Finance", 
+            "Barack_Obama", 
+            "President_of_the_United_States", 
+            "CNN"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Internal_Revenue_Service", 
+            "Democratic_Party_(United_States)", 
+            "Internal_Revenue_Service", 
+            "Interest_group", 
+            "Politics", 
+            "Interest_group", 
+            "Joseph_Stalin", 
+            "Joseph_Stalin", 
+            "Power-on_self-test"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Asia", 
+            "Americas", 
+            "Americas", 
+            "South_America", 
+            "Middle_East", 
+            "Europe", 
+            "Barack_Obama", 
+            "Liberalism", 
+            "Cheerleading"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Thread_(computer_science)", 
+            "Time_(magazine)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Republicanism", 
+            "Republican_Party_(United_States)", 
+            "Politics", 
+            "Barack_Obama", 
+            "Joseph_Stalin", 
+            "The_Tea_Party", 
+            "Barack_Obama", 
+            "Boston_Tea_Party", 
+            "Tea", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Old_school", 
+            "Third_party_(politics)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "2010", 
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "The_Club_(Australian_reality_show)", 
+            "Washington", 
+            "The_Club_(Australian_reality_show)", 
+            "United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Thread_(Pern)", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Hell", 
+            "United_States", 
+            "Cream", 
+            "2003", 
+            "United_States_Army"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Washington"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Scandal", 
+            "Economy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Lamb_(band)", 
+            "Purge", 
+            "Redemption", 
+            "Demon", 
+            "Redemption", 
+            "Paradox", 
+            "Greed", 
+            "Deception", 
+            "Redemption"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Liberalism_in_the_United_States", 
+            "Radio"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Drag_(physics)", 
+            "Pravda"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Ron_Paul"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Apologetics", 
+            "Far_left", 
+            "Hell", 
+            "Skin", 
+            "United_States", 
+            "Vomiting"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Firefighter", 
+            "Law", 
+            "Bar_association", 
+            "Public_administration", 
+            "Nurse"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Law"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "M72_LAW", 
+            "Dandy"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Teh", 
+            "Teh", 
+            "Political_party", 
+            "Law", 
+            "Juris_Doctor", 
+            "Common_sense"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "John_F._Kennedy", 
+            "George_W._Bush", 
+            "Power_elite", 
+            "President_of_the_United_States", 
+            "Barack_Obama"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Tiny_Encryption_Algorithm", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Prohibition", 
+            "Fugitive_Slave_Law_of_1850", 
+            "Law", 
+            "Republic", 
+            "Citizenship", 
+            "Democracy", 
+            "Democracy", 
+            "Witness_(1985_film)", 
+            "Board_of_education"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Republic"
+        ], 
+        "postID": 58
+    }
+]

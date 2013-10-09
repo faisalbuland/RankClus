@@ -1,0 +1,618 @@
+[
+    {
+        "entity": [
+            "Little_people", 
+            "Rangel", 
+            "Executive_(government)", 
+            "Bank"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "United_States", 
+            "2008", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Third_party_(politics)", 
+            "Two-party_system", 
+            "Party_system"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "Political_history", 
+            "Election", 
+            "Carl_von_Clausewitz", 
+            "Barack_Obama", 
+            "Democracy", 
+            "President_of_the_United_States", 
+            "United_States_House_of_Representatives_elections,_2008", 
+            "Election", 
+            "Political_system", 
+            "Carl_von_Clausewitz", 
+            "2010", 
+            "2012", 
+            "Carl_von_Clausewitz", 
+            "Barack_Obama", 
+            "International_Maritime_Organization", 
+            "2008"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Independent_(politician)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election", 
+            "One_Nation_(Australia)", 
+            "Party_system", 
+            "One_Heart"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hope"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "God"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Bennie_Cunningham", 
+            "Tax", 
+            "Democracy", 
+            "Duke_Cunningham", 
+            "Total_S.A.", 
+            "Member_of_Congress", 
+            "Term_limit", 
+            "The_Politico", 
+            "Duke", 
+            "Nitwit_Records"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "1985", 
+            "United_States_Marine_Corps", 
+            "Ronald_Reagan", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Clown"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Prince_Henry_of_Wales", 
+            "Charles,_Prince_of_Wales", 
+            "Harry_Reid", 
+            "Revolution", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Conyers,_Georgia", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Tree", 
+            "Acid", 
+            "March_23", 
+            "Hydrochloric_acid", 
+            "Hydrochloric_acid", 
+            "2009", 
+            "Mon_people"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Chuck_Schumer", 
+            "Chuck_Schumer", 
+            "WROC-TV", 
+            "Native_American_recognition_in_the_United_States", 
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Marriage", 
+            "Same-sex_marriage", 
+            "Marriage_Act", 
+            "Marriage_Equality_USA", 
+            "2009", 
+            "Equality", 
+            "Chuck_Schumer", 
+            "Porting", 
+            "Same-sex_marriage", 
+            "Gay", 
+            "Chuck_Schumer", 
+            "Chuck_Schumer", 
+            "Eastern_Time_Zone", 
+            "Repeal", 
+            "United_States_Senate", 
+            "March_23", 
+            "Equality"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "WROC-TV", 
+            "March_23", 
+            "New_York", 
+            "Eastern_Time_Zone", 
+            "New_York_City", 
+            "2010", 
+            "Census", 
+            "Paterson,_New_Jersey", 
+            "Eastern_Time_Zone", 
+            "March_23", 
+            "New_York_City", 
+            "2009", 
+            "New_York", 
+            "2009", 
+            "Immigration", 
+            "New_York_City", 
+            "WROC-TV", 
+            "United_States_Census", 
+            "Variable", 
+            "Human_migration", 
+            "United_States", 
+            "New_York"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Embezzlement", 
+            "Theft", 
+            "Treason", 
+            "International_Maritime_Organization", 
+            "John_Murtha", 
+            "John_Murtha"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "John_Murtha", 
+            "United_States_Marine_Corps", 
+            "Critter", 
+            "John_Murtha"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Typewriter", 
+            "John_Murtha"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "John_Murtha", 
+            "Shame"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Good_governance", 
+            "United_States", 
+            "United_States_Presidential_approval_rating", 
+            "United_States_Congress", 
+            "Third_party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "The_Republicans_(Germany)", 
+            "Governance", 
+            "United_States_House_of_Representatives", 
+            "Nancy_Pelosi", 
+            "United_States_Congress"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Politician"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Bookselling", 
+            "College", 
+            "Library", 
+            "Bookselling", 
+            "Roland_Corporation", 
+            "Chuck_Schumer", 
+            "College", 
+            "Chuck_Schumer", 
+            "EBay", 
+            "Grad_(Slavic_settlement)", 
+            "Graduate_school"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Little_people", 
+            "Rangel", 
+            "Executive_(government)", 
+            "Bank"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "United_States", 
+            "2008", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Democratic_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Third_party_(politics)", 
+            "Two-party_system", 
+            "Party_system"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "2006", 
+            "Political_history", 
+            "Election", 
+            "Carl_von_Clausewitz", 
+            "Barack_Obama", 
+            "Democracy", 
+            "President_of_the_United_States", 
+            "United_States_House_of_Representatives_elections,_2008", 
+            "Election", 
+            "Political_system", 
+            "Carl_von_Clausewitz", 
+            "2010", 
+            "2012", 
+            "Carl_von_Clausewitz", 
+            "Barack_Obama", 
+            "International_Maritime_Organization", 
+            "2008"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Independent_(politician)"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "40th_Canadian_federal_election", 
+            "One_Nation_(Australia)", 
+            "Party_system", 
+            "One_Heart"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Barack_Obama", 
+            "LOL", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Hope"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "God"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Bennie_Cunningham", 
+            "Tax", 
+            "Democracy", 
+            "Duke_Cunningham", 
+            "Total_S.A.", 
+            "Member_of_Congress", 
+            "Term_limit", 
+            "The_Politico", 
+            "Duke", 
+            "Nitwit_Records"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "1985", 
+            "United_States_Marine_Corps", 
+            "Ronald_Reagan", 
+            "List_of_Presidents_of_the_Philippines", 
+            "Clown"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Prince_Henry_of_Wales", 
+            "Charles,_Prince_of_Wales", 
+            "Harry_Reid", 
+            "Revolution", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Conyers,_Georgia", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Tree", 
+            "Acid", 
+            "March_23", 
+            "Hydrochloric_acid", 
+            "Hydrochloric_acid", 
+            "2009", 
+            "Mon_people"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Chuck_Schumer", 
+            "Chuck_Schumer", 
+            "WROC-TV", 
+            "Native_American_recognition_in_the_United_States", 
+            "Marriage", 
+            "Sexual_intercourse", 
+            "Marriage", 
+            "Same-sex_marriage", 
+            "Marriage_Act", 
+            "Marriage_Equality_USA", 
+            "2009", 
+            "Equality", 
+            "Chuck_Schumer", 
+            "Porting", 
+            "Same-sex_marriage", 
+            "Gay", 
+            "Chuck_Schumer", 
+            "Chuck_Schumer", 
+            "Eastern_Time_Zone", 
+            "Repeal", 
+            "United_States_Senate", 
+            "March_23", 
+            "Equality"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Gunny"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "WROC-TV", 
+            "March_23", 
+            "New_York", 
+            "Eastern_Time_Zone", 
+            "New_York_City", 
+            "2010", 
+            "Census", 
+            "Paterson,_New_Jersey", 
+            "Eastern_Time_Zone", 
+            "March_23", 
+            "New_York_City", 
+            "2009", 
+            "New_York", 
+            "2009", 
+            "Immigration", 
+            "New_York_City", 
+            "WROC-TV", 
+            "United_States_Census", 
+            "Variable", 
+            "Human_migration", 
+            "United_States", 
+            "New_York"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Embezzlement", 
+            "Theft", 
+            "Treason", 
+            "International_Maritime_Organization", 
+            "John_Murtha", 
+            "John_Murtha"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "John_Murtha", 
+            "United_States_Marine_Corps", 
+            "Critter", 
+            "John_Murtha"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Veterinarian", 
+            "Typewriter", 
+            "John_Murtha"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "United_States_Marine_Corps", 
+            "John_Murtha", 
+            "Shame"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Good_governance", 
+            "United_States", 
+            "United_States_Presidential_approval_rating", 
+            "United_States_Congress", 
+            "Third_party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "The_Republicans_(Germany)", 
+            "Governance", 
+            "United_States_House_of_Representatives", 
+            "Nancy_Pelosi", 
+            "United_States_Congress"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Politician"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Politician", 
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Bookselling", 
+            "College", 
+            "Library", 
+            "Bookselling", 
+            "Roland_Corporation", 
+            "Chuck_Schumer", 
+            "College", 
+            "Chuck_Schumer", 
+            "EBay", 
+            "Grad_(Slavic_settlement)", 
+            "Graduate_school"
+        ], 
+        "postID": 60
+    }
+]

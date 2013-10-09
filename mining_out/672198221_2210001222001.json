@@ -1,0 +1,22 @@
+[
+    {
+        "entity": [
+            "Military_deployment", 
+            "Childcare"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Single_parent"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }
+]

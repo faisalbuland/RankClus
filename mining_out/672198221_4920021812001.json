@@ -1,0 +1,157 @@
+[
+    {
+        "entity": [
+            "Government_debt", 
+            "Debt", 
+            "Petroleum", 
+            "Georgia_(country)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Probable_cause", 
+            "Europe", 
+            "Balanced_budget", 
+            "Petroleum", 
+            "Natural_gas", 
+            "Federation", 
+            "Energy", 
+            "Russian_language", 
+            "Russia", 
+            "Natural_gas"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Military_budget", 
+            "2012", 
+            "Layoff", 
+            "BBC", 
+            "Volunteer", 
+            "Corps", 
+            "Paratrooper", 
+            "Officer_(armed_forces)", 
+            "Modernization"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Balanced_budget"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Asia", 
+            "Russia", 
+            "President_of_the_United_States", 
+            "Atlantic_Ocean", 
+            "Turkey", 
+            "India", 
+            "Cold_War", 
+            "Barack_Obama", 
+            "Russia", 
+            "Sukhoi_Su-27", 
+            "NATO", 
+            "The_Hague", 
+            "Pakistan", 
+            "Subcontinent", 
+            "Iran", 
+            "Shanghai_Cooperation_Organisation", 
+            "Afghanistan", 
+            "Thread_(computer_science)", 
+            "Netherlands", 
+            "Afghanistan", 
+            "Rhetoric", 
+            "Barack_Obama", 
+            "Shanghai", 
+            "The_Hague", 
+            "Moscow_Kremlin", 
+            "NATO", 
+            "Atlantic_Ocean", 
+            "Shanghai_Cooperation_Organisation", 
+            "Kremlin", 
+            "Shanghai_Cooperation_Organisation", 
+            "Russia", 
+            "NATO", 
+            "Moscow", 
+            "Negotiation", 
+            "NATO", 
+            "Netherlands", 
+            "March_27", 
+            "United_Nations"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "United_Nations"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Russia", 
+            "Soviet_war_in_Afghanistan", 
+            "Illegal_drug_trade", 
+            "Soviet_war_in_Afghanistan", 
+            "United_States", 
+            "Occupation_of_Japan", 
+            "Illegal_drug_trade", 
+            "Soviet_war_in_Afghanistan", 
+            "United_States", 
+            "Russia", 
+            "Hunting", 
+            "Poppy", 
+            "Russia", 
+            "Osama_bin_Laden", 
+            "United_States"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Asia", 
+            "China", 
+            "Dance", 
+            "NATO", 
+            "Africa", 
+            "HIV"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Third_World", 
+            "Russia", 
+            "Third_World", 
+            "Bail_out_(finance)", 
+            "Economics"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Heel", 
+            "Potato", 
+            "Russian_language", 
+            "Modern_weapons", 
+            "Russian_language", 
+            "Armed_Forces_of_the_Russian_Federation", 
+            "United_States", 
+            "Achilles'_heel", 
+            "Achilles", 
+            "Russia"
+        ], 
+        "postID": 13
+    }
+]

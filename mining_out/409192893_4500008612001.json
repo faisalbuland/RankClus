@@ -1,0 +1,636 @@
+[
+    {
+        "entity": [
+            "Tony_Blankley", 
+            "George_W._Bush", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama", 
+            "Oath", 
+            "Flash_(photography)", 
+            "DOA"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Irish_republicanism", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Cart"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Kinda_(Doctor_Who)", 
+            "Bus", 
+            "Republican_Party_(United_States)", 
+            "Earmark", 
+            "Earmark", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Omnibus_spending_bill", 
+            "Earmark", 
+            "Earmark", 
+            "Congressional_Record", 
+            "Bus", 
+            "Republicanism", 
+            "1105", 
+            "Earmark"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Economics", 
+            "Economics", 
+            "Soldier", 
+            "Diplomacy", 
+            "Democratic_Party_(United_States)", 
+            "John_McCain", 
+            "Diplomacy"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Slogan", 
+            "Barack_Obama", 
+            "Lowest_common_denominator", 
+            "Bar_association", 
+            "Denominator"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Creativity", 
+            "Veto"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "VETO_(band)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Legislation"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Stable", 
+            "Yoke", 
+            "Iraq", 
+            "Real_freedom"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Darfur", 
+            "Saddam_Hussein", 
+            "Socialism", 
+            "Iraq", 
+            "Kurdish_people", 
+            "Socialism", 
+            "Hell", 
+            "Socialism", 
+            "World_Taekwondo_Federation", 
+            "Holly", 
+            "Genocide", 
+            "Iraq", 
+            "Genocide"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Big_government", 
+            "Crisis_(economic)"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Bill_Clinton"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Demographics_of_Iraq", 
+            "Liberalism", 
+            "2009"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Bipartisanship", 
+            "Pooch"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Narcissism", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "Buck", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "John_Kerry", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "Ear", 
+            "Bill_Clinton", 
+            "Iraq", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Bash", 
+            "Weapon_of_mass_destruction", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Weapon_of_mass_destruction", 
+            "Liberalism_in_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "2003_invasion_of_Iraq", 
+            "John_Kerry", 
+            "2003_invasion_of_Iraq", 
+            "John_Kerry", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bill_Clinton"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush", 
+            "Economy", 
+            "Economy_of_the_United_States", 
+            "Social_security", 
+            "Welfare_(financial_aid)", 
+            "Welfare_state"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Governor", 
+            "Politics", 
+            "Nonsense", 
+            "Unemployment_benefits", 
+            "2009", 
+            "Unemployment", 
+            "Governor"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "White_House", 
+            "President_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "Nice", 
+            "Unemployment", 
+            "Democratic_Party_(United_States)", 
+            "Sustainability", 
+            "Insurance", 
+            "Governor", 
+            "Unemployment_benefits", 
+            "Unemployment"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Lib", 
+            "!!!", 
+            "Iraq", 
+            "Lib", 
+            "Sheeple", 
+            "Sheeple", 
+            "Darfur"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Critters", 
+            "Stimulus_(physiology)", 
+            "Iraq", 
+            "Sailor", 
+            "United_States_public_debt"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "CPAC"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Eric_Holder", 
+            "Clown", 
+            "Sheeple", 
+            "Sega_Mega_Drive"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Mirage", 
+            "Hope_(disambiguation)", 
+            "Clown"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Tony_Blankley", 
+            "George_W._Bush", 
+            "Obama,_Fukui", 
+            "Obama,_Fukui"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Barack_Obama", 
+            "Oath", 
+            "Flash_(photography)", 
+            "DOA"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Irish_republicanism", 
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Cart"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Kinda_(Doctor_Who)", 
+            "Bus", 
+            "Republican_Party_(United_States)", 
+            "Earmark", 
+            "Earmark", 
+            "Republican_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Omnibus_spending_bill", 
+            "Earmark", 
+            "Earmark", 
+            "Congressional_Record", 
+            "Bus", 
+            "Republicanism", 
+            "1105", 
+            "Earmark"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Stock_market"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Economics", 
+            "Economics", 
+            "Soldier", 
+            "Diplomacy", 
+            "Democratic_Party_(United_States)", 
+            "John_McCain", 
+            "Diplomacy"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Socialism", 
+            "Slogan", 
+            "Barack_Obama", 
+            "Lowest_common_denominator", 
+            "Bar_association", 
+            "Denominator"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Creativity", 
+            "Veto"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "VETO_(band)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Legislation"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Stable", 
+            "Yoke", 
+            "Iraq", 
+            "Real_freedom"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Darfur", 
+            "Saddam_Hussein", 
+            "Socialism", 
+            "Iraq", 
+            "Kurdish_people", 
+            "Socialism", 
+            "Hell", 
+            "Socialism", 
+            "World_Taekwondo_Federation", 
+            "Holly", 
+            "Genocide", 
+            "Iraq", 
+            "Genocide"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Big_government", 
+            "Crisis_(economic)"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Bill_Clinton"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Democracy", 
+            "Demographics_of_Iraq", 
+            "Liberalism", 
+            "2009"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Bipartisanship", 
+            "Pooch"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "George_H._W._Bush", 
+            "Narcissism", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "George_H._W._Bush", 
+            "Buck", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "!!!", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "John_Kerry", 
+            "Weapon_of_mass_destruction", 
+            "Democratic_Party_(United_States)", 
+            "Bill_Clinton", 
+            "Ear", 
+            "Bill_Clinton", 
+            "Iraq", 
+            "2003_invasion_of_Iraq", 
+            "Democratic_Party_(United_States)", 
+            "Bash", 
+            "Weapon_of_mass_destruction", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "Weapon_of_mass_destruction", 
+            "Liberalism_in_the_United_States", 
+            "Democratic_Party_(United_States)", 
+            "Liberalism_in_the_United_States", 
+            "2003_invasion_of_Iraq", 
+            "John_Kerry", 
+            "2003_invasion_of_Iraq", 
+            "John_Kerry", 
+            "George_W._Bush", 
+            "Democratic_Party_(United_States)", 
+            "George_W._Bush", 
+            "Bill_Clinton"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "George_H._W._Bush", 
+            "George_H._W._Bush", 
+            "Economy", 
+            "Economy_of_the_United_States", 
+            "Social_security", 
+            "Welfare_(financial_aid)", 
+            "Welfare_state"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Governor", 
+            "Politics", 
+            "Nonsense", 
+            "Unemployment_benefits", 
+            "2009", 
+            "Unemployment", 
+            "Governor"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "White_House", 
+            "President_of_the_United_States", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Barack_Obama", 
+            "Nice", 
+            "Unemployment", 
+            "Democratic_Party_(United_States)", 
+            "Sustainability", 
+            "Insurance", 
+            "Governor", 
+            "Unemployment_benefits", 
+            "Unemployment"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Lib", 
+            "!!!", 
+            "Iraq", 
+            "Lib", 
+            "Sheeple", 
+            "Sheeple", 
+            "Darfur"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Presidency_of_George_W._Bush", 
+            "George_W._Bush", 
+            "Barry,_Vale_of_Glamorgan", 
+            "Critters", 
+            "Stimulus_(physiology)", 
+            "Iraq", 
+            "Sailor", 
+            "United_States_public_debt"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Rush_(band)", 
+            "CPAC"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Eric_Holder", 
+            "Clown", 
+            "Sheeple", 
+            "Sega_Mega_Drive"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Mirage", 
+            "Hope_(disambiguation)", 
+            "Clown"
+        ], 
+        "postID": 60
+    }
+]

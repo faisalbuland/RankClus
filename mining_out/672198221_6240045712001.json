@@ -1,0 +1,530 @@
+[
+    {
+        "entity": [
+            "Salon.com", 
+            "Stimming", 
+            "Rubus", 
+            "Technocracy_(bureaucratic)", 
+            "Interstate_495_(Capital_Beltway)", 
+            "Niagara-on-the-Lake,_Ontario", 
+            "Fireside_chats", 
+            "Niagara_Falls", 
+            "Bank", 
+            "United_States_Secretary_of_the_Treasury", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "Toxicity", 
+            "United_States_Congress", 
+            "United_States", 
+            "Fireside_(LDS_Church)", 
+            "Barack_Obama", 
+            "Michelle_Obama", 
+            "Health_care", 
+            "Sinkhole", 
+            "2010", 
+            "Barack_Obama", 
+            "Bank", 
+            "United_States_Department_of_the_Treasury", 
+            "Home_Alone", 
+            "General_Motors", 
+            "Conservatism", 
+            "Statesman", 
+            "Great_Depression", 
+            "Franklin_D._Roosevelt", 
+            "Paralysis", 
+            "Heat", 
+            "Doogie_Howser,_M.D.", 
+            "Newsweek", 
+            "Newsweek", 
+            "Stimming", 
+            "Plea_bargain", 
+            "Riptide", 
+            "Moral_high_ground", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Saturday_Night_(magazine)", 
+            "Saturday_Night_Live", 
+            "United_States_budget_process", 
+            "Socialism", 
+            "Barack_Obama", 
+            "Energy", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Theft", 
+            "Education", 
+            "Brave_New_World", 
+            "Macaulay_Culkin", 
+            "Posse", 
+            "Treasury", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Macaulay_Culkin", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "United_States_dollar", 
+            "Tide", 
+            "Socialism", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Fife", 
+            "Sacrifice", 
+            "Surfing", 
+            "Social_engineering_(security)", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "Legislation", 
+            "Seminar", 
+            "Poster", 
+            "Citigroup", 
+            "Politics", 
+            "Canoeing", 
+            "Economy", 
+            "Bank_run", 
+            "Resurrection", 
+            "Barack_Obama", 
+            "Nobel_Prize", 
+            "Mano-a-mano", 
+            "List_of_Nobel_laureates", 
+            "Engineering", 
+            "Stimulation", 
+            "Model_(person)", 
+            "Primary_election", 
+            "Bank", 
+            "Liberalism", 
+            "Corporate_America", 
+            "Layman", 
+            "Barack_Obama", 
+            "Charitable_organization", 
+            "Barney_Fife", 
+            "Barney_Gumble"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Winger_(ice_hockey)", 
+            "Rush_(band)", 
+            "Gerald_Ford", 
+            "Rush_(band)", 
+            "George_H._W._Bush", 
+            "Ford_Motor_Company", 
+            "Fault_(geology)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Currency"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Honeymoon", 
+            "Jackass", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Hock_(zoology)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Textile", 
+            "Clothing", 
+            "Commodity"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein", 
+            "Bank", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dollar", 
+            "Confidence_trick", 
+            "Rudiment"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Beaver"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "1_E-6_s", 
+            "Al_Gore"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Mootness", 
+            "Republican_Party_(United_States)", 
+            "Legislation", 
+            "Thomas_Jefferson", 
+            "Honeymoon", 
+            "Bank", 
+            "Honeymoon"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_revenue", 
+            "Tax", 
+            "Tax_cut", 
+            "Barack_Obama", 
+            "Middle_class", 
+            "Tax"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Mathematics"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Tax"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Stalemate", 
+            "Cave", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Middle_class", 
+            "United_States", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Cave", 
+            "Congressional_hearing", 
+            "Health_care", 
+            "Barack_Obama", 
+            "2010", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Salon.com", 
+            "Stimming", 
+            "Rubus", 
+            "Technocracy_(bureaucratic)", 
+            "Interstate_495_(Capital_Beltway)", 
+            "Niagara-on-the-Lake,_Ontario", 
+            "Fireside_chats", 
+            "Niagara_Falls", 
+            "Bank", 
+            "United_States_Secretary_of_the_Treasury", 
+            "President_of_the_United_States", 
+            "Bank", 
+            "Toxicity", 
+            "United_States_Congress", 
+            "United_States", 
+            "Fireside_(LDS_Church)", 
+            "Barack_Obama", 
+            "Michelle_Obama", 
+            "Health_care", 
+            "Sinkhole", 
+            "2010", 
+            "Barack_Obama", 
+            "Bank", 
+            "United_States_Department_of_the_Treasury", 
+            "Home_Alone", 
+            "General_Motors", 
+            "Conservatism", 
+            "Statesman", 
+            "Great_Depression", 
+            "Franklin_D._Roosevelt", 
+            "Paralysis", 
+            "Heat", 
+            "Doogie_Howser,_M.D.", 
+            "Newsweek", 
+            "Newsweek", 
+            "Stimming", 
+            "Plea_bargain", 
+            "Riptide", 
+            "Moral_high_ground", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Saturday_Night_(magazine)", 
+            "Saturday_Night_Live", 
+            "United_States_budget_process", 
+            "Socialism", 
+            "Barack_Obama", 
+            "Energy", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "Theft", 
+            "Education", 
+            "Brave_New_World", 
+            "Macaulay_Culkin", 
+            "Posse", 
+            "Treasury", 
+            "United_States_Secretary_of_the_Treasury", 
+            "Macaulay_Culkin", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "United_States_dollar", 
+            "Tide", 
+            "Socialism", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States", 
+            "Fife", 
+            "Sacrifice", 
+            "Surfing", 
+            "Social_engineering_(security)", 
+            "Republican_Party_(United_States)", 
+            "Barack_Obama", 
+            "Legislation", 
+            "Seminar", 
+            "Poster", 
+            "Citigroup", 
+            "Politics", 
+            "Canoeing", 
+            "Economy", 
+            "Bank_run", 
+            "Resurrection", 
+            "Barack_Obama", 
+            "Nobel_Prize", 
+            "Mano-a-mano", 
+            "List_of_Nobel_laureates", 
+            "Engineering", 
+            "Stimulation", 
+            "Model_(person)", 
+            "Primary_election", 
+            "Bank", 
+            "Liberalism", 
+            "Corporate_America", 
+            "Layman", 
+            "Barack_Obama", 
+            "Charitable_organization", 
+            "Barney_Fife", 
+            "Barney_Gumble"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Winger_(ice_hockey)", 
+            "Rush_(band)", 
+            "Gerald_Ford", 
+            "Rush_(band)", 
+            "George_H._W._Bush", 
+            "Ford_Motor_Company", 
+            "Fault_(geology)"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Barack_Obama"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Currency"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Honeymoon", 
+            "Jackass", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Hock_(zoology)"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Textile", 
+            "Clothing", 
+            "Commodity"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Saddam_Hussein", 
+            "Bank", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Dollar", 
+            "Confidence_trick", 
+            "Rudiment"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "LOL", 
+            "Beaver"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "1_E-6_s", 
+            "Al_Gore"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Mootness", 
+            "Republican_Party_(United_States)", 
+            "Legislation", 
+            "Thomas_Jefferson", 
+            "Honeymoon", 
+            "Bank", 
+            "Honeymoon"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Vladimir_Putin"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_revenue", 
+            "Tax", 
+            "Tax_cut", 
+            "Barack_Obama", 
+            "Middle_class", 
+            "Tax"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Mathematics"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Common_sense", 
+            "Tax"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Stalemate", 
+            "Cave", 
+            "Deficit", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Middle_class", 
+            "United_States", 
+            "Barack_Obama", 
+            "Democratic_Party_(United_States)", 
+            "Barack_Obama", 
+            "Health_care", 
+            "Cave", 
+            "Congressional_hearing", 
+            "Health_care", 
+            "Barack_Obama", 
+            "2010", 
+            "Barack_Obama"
+        ], 
+        "postID": 40
+    }
+]

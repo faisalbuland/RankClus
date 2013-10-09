@@ -1,0 +1,686 @@
+[
+    {
+        "entity": [
+            "Wal-Mart", 
+            "United_States", 
+            "Official_language", 
+            "Language", 
+            "Screw", 
+            "Money"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Rah", 
+            "Rah", 
+            "Wal-Mart", 
+            "Rah", 
+            "Wal-Mart", 
+            "Wally_World", 
+            "Sis_boom_bah"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "World_government", 
+            "New_World_Order_(conspiracy_theory)", 
+            "Screw", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Neighbourhood", 
+            "Racial_profiling", 
+            "Wal-Mart", 
+            "Law", 
+            "Hispanic", 
+            "United_States_Department_of_Justice", 
+            "Spanish_language", 
+            "Latin"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Electronic_commerce", 
+            "Arizona", 
+            "The_Home_Depot", 
+            "Language", 
+            "The_Home_Depot", 
+            "States'_rights", 
+            "Mexico", 
+            "Texas", 
+            "Language", 
+            "California", 
+            "Rights_issue", 
+            "Online_shopping", 
+            "Hispanic", 
+            "Spanish_language", 
+            "Spanish_language", 
+            "Mexico", 
+            "New_Mexico", 
+            "Crackerjack"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Sears,_Roebuck_and_Company", 
+            "Bicycle"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Peanut_butter", 
+            "Peanut", 
+            "Butter", 
+            "Wal-Mart", 
+            "Packed_pixel", 
+            "John_Adams", 
+            "Yellow_dog_Updater,_Modified"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Meat", 
+            "Pastry", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bakery", 
+            "Square_foot", 
+            "Honey", 
+            "Marketing_plan", 
+            "Fish", 
+            "Marketing", 
+            "Hoss_(band)", 
+            "Haggard_(band)", 
+            "DVD", 
+            "Merle_Haggard", 
+            "Texas", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Language", 
+            "Spanish_language", 
+            "Communication", 
+            "Public_school", 
+            "Coffee", 
+            "Milk"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "English_language"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Junk_(ship)", 
+            "Haggling", 
+            "Wal-Mart_Canada", 
+            "Sat_(Sanskrit)", 
+            "Profit", 
+            "March_14", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Junk_(ship)", 
+            "Wal-Mart"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Target_Corporation"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Spanish_language"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Official_language", 
+            "United_States\u2013Mexico_border", 
+            "2050", 
+            "Mexico", 
+            "Language", 
+            "Minority_group", 
+            "Hispanic", 
+            "Liberal_Party_of_Canada", 
+            "Civil_rights", 
+            "Culture", 
+            "Spanish_language", 
+            "English_language", 
+            "Bus", 
+            "United_States", 
+            "2042"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "The_Home_Depot", 
+            "Film_trailer", 
+            "Sears,_Roebuck_and_Company", 
+            "Hardware_store", 
+            "Hardware_store"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Garden", 
+            "Miami,_Florida", 
+            "Plymouth_Duster", 
+            "Lawn", 
+            "Grocery_store", 
+            "South_Florida_metropolitan_area", 
+            "Wal-Mart", 
+            "Hardware"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Wal-Mart"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "United_States", 
+            "Official_language", 
+            "Language", 
+            "Screw", 
+            "Money"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Rah", 
+            "Rah", 
+            "Wal-Mart", 
+            "Rah", 
+            "Wal-Mart", 
+            "Wally_World", 
+            "Sis_boom_bah"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "World_government", 
+            "New_World_Order_(conspiracy_theory)", 
+            "Screw", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Neighbourhood", 
+            "Racial_profiling", 
+            "Wal-Mart", 
+            "Law", 
+            "Hispanic", 
+            "United_States_Department_of_Justice", 
+            "Spanish_language", 
+            "Latin"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Electronic_commerce", 
+            "Arizona", 
+            "The_Home_Depot", 
+            "Language", 
+            "The_Home_Depot", 
+            "States'_rights", 
+            "Mexico", 
+            "Texas", 
+            "Language", 
+            "California", 
+            "Rights_issue", 
+            "Online_shopping", 
+            "Hispanic", 
+            "Spanish_language", 
+            "Spanish_language", 
+            "Mexico", 
+            "New_Mexico", 
+            "Crackerjack"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Sears,_Roebuck_and_Company", 
+            "Bicycle"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Peanut_butter", 
+            "Peanut", 
+            "Butter", 
+            "Wal-Mart", 
+            "Packed_pixel", 
+            "John_Adams", 
+            "Yellow_dog_Updater,_Modified"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Meat", 
+            "Pastry", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bakery", 
+            "Square_foot", 
+            "Honey", 
+            "Marketing_plan", 
+            "Fish", 
+            "Marketing", 
+            "Hoss_(band)", 
+            "Haggard_(band)", 
+            "DVD", 
+            "Merle_Haggard", 
+            "Texas", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Language", 
+            "Spanish_language", 
+            "Communication", 
+            "Public_school", 
+            "Coffee", 
+            "Milk"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "English_language"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Junk_(ship)", 
+            "Haggling", 
+            "Wal-Mart_Canada", 
+            "Sat_(Sanskrit)", 
+            "Profit", 
+            "March_14", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Junk_(ship)", 
+            "Wal-Mart"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Target_Corporation"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Spanish_language"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Official_language", 
+            "United_States\u2013Mexico_border", 
+            "2050", 
+            "Mexico", 
+            "Language", 
+            "Minority_group", 
+            "Hispanic", 
+            "Liberal_Party_of_Canada", 
+            "Civil_rights", 
+            "Culture", 
+            "Spanish_language", 
+            "English_language", 
+            "Bus", 
+            "United_States", 
+            "2042"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "The_Home_Depot", 
+            "Film_trailer", 
+            "Sears,_Roebuck_and_Company", 
+            "Hardware_store", 
+            "Hardware_store"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Garden", 
+            "Miami,_Florida", 
+            "Plymouth_Duster", 
+            "Lawn", 
+            "Grocery_store", 
+            "South_Florida_metropolitan_area", 
+            "Wal-Mart", 
+            "Hardware"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Wal-Mart"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "United_States", 
+            "Official_language", 
+            "Language", 
+            "Screw", 
+            "Money"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Rah", 
+            "Rah", 
+            "Wal-Mart", 
+            "Rah", 
+            "Wal-Mart", 
+            "Wally_World", 
+            "Sis_boom_bah"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Wal_(bass)", 
+            "Wal-Mart", 
+            "World_government", 
+            "New_World_Order_(conspiracy_theory)", 
+            "Screw", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Neighbourhood", 
+            "Racial_profiling", 
+            "Wal-Mart", 
+            "Law", 
+            "Hispanic", 
+            "United_States_Department_of_Justice", 
+            "Spanish_language", 
+            "Latin"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Electronic_commerce", 
+            "Arizona", 
+            "The_Home_Depot", 
+            "Language", 
+            "The_Home_Depot", 
+            "States'_rights", 
+            "Mexico", 
+            "Texas", 
+            "Language", 
+            "California", 
+            "Rights_issue", 
+            "Online_shopping", 
+            "Hispanic", 
+            "Spanish_language", 
+            "Spanish_language", 
+            "Mexico", 
+            "New_Mexico", 
+            "Crackerjack"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Sears,_Roebuck_and_Company", 
+            "Bicycle"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Peanut_butter", 
+            "Peanut", 
+            "Butter", 
+            "Wal-Mart", 
+            "Packed_pixel", 
+            "John_Adams", 
+            "Yellow_dog_Updater,_Modified"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Meat", 
+            "Pastry", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Bakery", 
+            "Square_foot", 
+            "Honey", 
+            "Marketing_plan", 
+            "Fish", 
+            "Marketing", 
+            "Hoss_(band)", 
+            "Haggard_(band)", 
+            "DVD", 
+            "Merle_Haggard", 
+            "Texas", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Language", 
+            "Spanish_language", 
+            "Communication", 
+            "Public_school", 
+            "Coffee", 
+            "Milk"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "English_language"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "2009", 
+            "Junk_(ship)", 
+            "Haggling", 
+            "Wal-Mart_Canada", 
+            "Sat_(Sanskrit)", 
+            "Profit", 
+            "March_14", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Wal-Mart_Canada", 
+            "Junk_(ship)", 
+            "Wal-Mart"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Target_Corporation"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Wal-Mart"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Spanish_language"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Official_language", 
+            "United_States\u2013Mexico_border", 
+            "2050", 
+            "Mexico", 
+            "Language", 
+            "Minority_group", 
+            "Hispanic", 
+            "Liberal_Party_of_Canada", 
+            "Civil_rights", 
+            "Culture", 
+            "Spanish_language", 
+            "English_language", 
+            "Bus", 
+            "United_States", 
+            "2042"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Wal-Mart", 
+            "The_Home_Depot", 
+            "Film_trailer", 
+            "Sears,_Roebuck_and_Company", 
+            "Hardware_store", 
+            "Hardware_store"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Garden", 
+            "Miami,_Florida", 
+            "Plymouth_Duster", 
+            "Lawn", 
+            "Grocery_store", 
+            "South_Florida_metropolitan_area", 
+            "Wal-Mart", 
+            "Hardware"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Flag", 
+            "Wal-Mart"
+        ], 
+        "postID": 60
+    }
+]

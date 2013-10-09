@@ -1,0 +1,92 @@
+[
+    {
+        "entity": [
+            "Modernization", 
+            "Supercruise", 
+            "Navy", 
+            "United_States_Navy", 
+            "Weapon", 
+            "F-35_Lightning_II", 
+            "People's_Liberation_Army_Navy", 
+            "Chinese_language", 
+            "Supercruise", 
+            "Russian_language", 
+            "F-22_Raptor", 
+            "Modernization"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "F-22_Raptor", 
+            "Acceleration"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Technology", 
+            "Jet_engine", 
+            "Supercruise", 
+            "Engine", 
+            "Jet_aircraft", 
+            "F-22_Raptor", 
+            "China"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Engine", 
+            "F-4_Phantom_II", 
+            "Edmund_Burke", 
+            "Chengdu_J-10", 
+            "Destroyer"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "China", 
+            "China", 
+            "Korea", 
+            "Japan", 
+            "South_Korea"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "People's_Republic_of_China", 
+            "Railroad_tie", 
+            "Propeller", 
+            "Espionage", 
+            "Bill_Clinton", 
+            "Bill_Clinton", 
+            "Technology"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "F-16_Fighting_Falcon", 
+            "China", 
+            "Chavez_(band)", 
+            "Shenyang_J-11", 
+            "Supercruise", 
+            "Chengdu_J-10", 
+            "Aircraft", 
+            "Sukhoi_Su-27", 
+            "Cloning", 
+            "Russian_language"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Internet_forum", 
+            "Threaded_discussion"
+        ], 
+        "postID": 8
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "James_Buchanan", 
+            "College_football", 
+            "Mountain_West_Conference", 
+            "NCAA_Division_I_FBS_National_Football_Championship", 
+            "Thomas_Buchanan", 
+            "University", 
+            "Gerald_Ford", 
+            "Revenue_sharing", 
+            "Mountain_West_Conference", 
+            "Division_I", 
+            "NCAA_Division_I_FBS_National_Football_Championship", 
+            "Division_I", 
+            "Bowl_Championship_Series", 
+            "Bowl_Championship_Series", 
+            "The_Conference_Board"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Bowl_Championship_Series", 
+            "Ford_Motor_Company", 
+            "Gerald_Ford", 
+            "Utah_Utes"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bowl_Championship_Series", 
+            "Bowl_Championship_Series"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Gerald_Ford", 
+            "Ford_Motor_Company"
+        ], 
+        "postID": 4
+    }
+]

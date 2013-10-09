@@ -1,0 +1,596 @@
+[
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Thomas_Jefferson", 
+            "George_W._Bush", 
+            "Bank", 
+            "George_W._Bush", 
+            "Iraq_and_weapons_of_mass_destruction", 
+            "United_States", 
+            "Iraq", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Politics", 
+            "Liberal_Party_of_Canada", 
+            "Stalinism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Iraq", 
+            "Eye", 
+            "Espionage", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States_Congress", 
+            "Blindness"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Vice_President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "National_security", 
+            "Thomas_Jefferson", 
+            "Nancy", 
+            "Central_Intelligence_Agency", 
+            "Washington,_D.C.", 
+            "Nancy_Pelosi", 
+            "Bank", 
+            "Corps", 
+            "Central_Intelligence_Agency", 
+            "Classified_information", 
+            "Nancy_Pelosi", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Truth_and_reconciliation_commission", 
+            "Bubonic_plague", 
+            "Perjury", 
+            "Oath"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Treaty", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Real_number", 
+            "Republican_Party_(United_States)", 
+            "Treaty"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Irish_republicanism", 
+            "Politics", 
+            "Stalinism", 
+            "Republicanism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Truth_and_reconciliation_commission"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Fry", 
+            "Sake"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Law", 
+            "LOL", 
+            "Torture"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Jail", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Nancy", 
+            "Election", 
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Nonsense", 
+            "United_States", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Pill", 
+            "Republican_Party_(United_States)", 
+            "National_security", 
+            "Nancy", 
+            "God"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Thomas_Jefferson", 
+            "George_W._Bush", 
+            "Bank", 
+            "George_W._Bush", 
+            "Iraq_and_weapons_of_mass_destruction", 
+            "United_States", 
+            "Iraq", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Politics", 
+            "Liberal_Party_of_Canada", 
+            "Stalinism"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Iraq", 
+            "Eye", 
+            "Espionage", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States_Congress", 
+            "Blindness"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Vice_President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "National_security", 
+            "Thomas_Jefferson", 
+            "Nancy", 
+            "Central_Intelligence_Agency", 
+            "Washington,_D.C.", 
+            "Nancy_Pelosi", 
+            "Bank", 
+            "Corps", 
+            "Central_Intelligence_Agency", 
+            "Classified_information", 
+            "Nancy_Pelosi", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Truth_and_reconciliation_commission", 
+            "Bubonic_plague", 
+            "Perjury", 
+            "Oath"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Treaty", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Real_number", 
+            "Republican_Party_(United_States)", 
+            "Treaty"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Irish_republicanism", 
+            "Politics", 
+            "Stalinism", 
+            "Republicanism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Truth_and_reconciliation_commission"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Fry", 
+            "Sake"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Law", 
+            "LOL", 
+            "Torture"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Jail", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Nancy", 
+            "Election", 
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Nonsense", 
+            "United_States", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Pill", 
+            "Republican_Party_(United_States)", 
+            "National_security", 
+            "Nancy", 
+            "God"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 40
+    }, 
+    {
+        "entity": [
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Speaker_of_the_United_States_House_of_Representatives", 
+            "Thomas_Jefferson", 
+            "George_W._Bush", 
+            "Bank", 
+            "George_W._Bush", 
+            "Iraq_and_weapons_of_mass_destruction", 
+            "United_States", 
+            "Iraq", 
+            "Weapon_of_mass_destruction"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "George_W._Bush", 
+            "Politics", 
+            "Liberal_Party_of_Canada", 
+            "Stalinism"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Bench_press", 
+            "Iraq", 
+            "Eye", 
+            "Espionage", 
+            "George_W._Bush", 
+            "United_States_Congress", 
+            "Intelligence_(information_gathering)", 
+            "Iraq", 
+            "United_States_Congress", 
+            "Blindness"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Joseph_Stalin", 
+            "Politics", 
+            "Stalinism"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Vice_President_of_the_United_States", 
+            "White_House_Press_Corps", 
+            "National_security", 
+            "Thomas_Jefferson", 
+            "Nancy", 
+            "Central_Intelligence_Agency", 
+            "Washington,_D.C.", 
+            "Nancy_Pelosi", 
+            "Bank", 
+            "Corps", 
+            "Central_Intelligence_Agency", 
+            "Classified_information", 
+            "Nancy_Pelosi", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Bank", 
+            "Thomas_Jefferson"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Joseph_Stalin", 
+            "Stalinism"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [], 
+        "postID": 48
+    }, 
+    {
+        "entity": [], 
+        "postID": 49
+    }, 
+    {
+        "entity": [], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "Truth_and_reconciliation_commission", 
+            "Bubonic_plague", 
+            "Perjury", 
+            "Oath"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "United_States"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Treaty", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Democratic_Party_(United_States)", 
+            "Real_number", 
+            "Republican_Party_(United_States)", 
+            "Treaty"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Irish_republicanism", 
+            "Politics", 
+            "Stalinism", 
+            "Republicanism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Truth_and_reconciliation_commission"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Truth_and_reconciliation_commission", 
+            "Democratic_Party_(United_States)", 
+            "Republican_Party_(United_States)", 
+            "Fry", 
+            "Sake"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi", 
+            "Law", 
+            "LOL", 
+            "Torture"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Jail", 
+            "Jail", 
+            "Nancy_Pelosi"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Nancy", 
+            "Election", 
+            "Nancy_Pelosi", 
+            "Republican_Party_(United_States)", 
+            "Thomas_Jefferson", 
+            "Republican_Party_(United_States)", 
+            "Nonsense", 
+            "United_States", 
+            "Bank", 
+            "Nancy_Pelosi", 
+            "Pill", 
+            "Republican_Party_(United_States)", 
+            "National_security", 
+            "Nancy", 
+            "God"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [
+            "Thomas_Jefferson", 
+            "Bank"
+        ], 
+        "postID": 60
+    }
+]

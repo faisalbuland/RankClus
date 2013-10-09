@@ -1,0 +1,129 @@
+[
+    {
+        "entity": [
+            "Technology", 
+            "Geophysics", 
+            "Mass", 
+            "Ice_sheet", 
+            "Glacier", 
+            "Chesapeake_Bay", 
+            "Water", 
+            "Satellite", 
+            "Chesapeake", 
+            "Mountain", 
+            "NASA"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Homelessness", 
+            "Kinda_(Doctor_Who)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "George_W._Bush", 
+            "Universe"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Currency"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Duh_(album)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Pollution", 
+            "Petroleum", 
+            "Climate", 
+            "Exhalation", 
+            "Global_warming", 
+            "Carbon_dioxide", 
+            "Global_warming", 
+            "Environmentalism", 
+            "Emissions_trading", 
+            "Alarmism", 
+            "Al_Gore", 
+            "Futures_exchange", 
+            "Carbon", 
+            "Environmentalism", 
+            "Energy_policy_of_the_United_Kingdom", 
+            "Carbon", 
+            "Al_Gore", 
+            "Futures_contract", 
+            "Planet", 
+            "Economy", 
+            "Futures_exchange", 
+            "Free_market", 
+            "Petroleum", 
+            "Al_Gore", 
+            "Global_warming", 
+            "Confidence_trick", 
+            "Climate", 
+            "Al_Gore", 
+            "Emissions_trading", 
+            "Cap_(sport)", 
+            "Futures_contract", 
+            "Scrubber", 
+            "Al_Gore", 
+            "Intergovernmental_Panel_on_Climate_Change", 
+            "Al_Gore", 
+            "Greed", 
+            "Carbon_dioxide"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Zombie", 
+            "Euromissile_HOT", 
+            "Al_Gore", 
+            "All_India_Radio", 
+            "Al_Gore", 
+            "Bank"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Flood", 
+            "Sea_level", 
+            "Merle_Haggard", 
+            "Ocean", 
+            "Drought", 
+            "Iceberg", 
+            "Water", 
+            "Engine_displacement", 
+            "Texas", 
+            "Hoss_Cartwright", 
+            "Merle_Haggard", 
+            "Milk", 
+            "Honey"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Physicist", 
+            "Scientist", 
+            "NASA", 
+            "Mathematician"
+        ], 
+        "postID": 11
+    }
+]

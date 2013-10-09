@@ -1,0 +1,53 @@
+[
+    {
+        "entity": [
+            "Counter-insurgency", 
+            "Platoon", 
+            "United_States", 
+            "Afghanistan", 
+            "Infantry", 
+            "Valley", 
+            "Afghanistan", 
+            "International_Maritime_Organization", 
+            "United_States_Marine_Corps", 
+            "Soldier", 
+            "Fire_support_base", 
+            "United_States_Marine_Corps", 
+            "United_States_Marine_Corps"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Pakistan", 
+            "Afghanistan", 
+            "Taliban", 
+            "Forward_operating_base", 
+            "Dominican_Order", 
+            "Dominican_Order", 
+            "Small_arms", 
+            "Afghanistan", 
+            "Hand_grenade", 
+            "United_States", 
+            "Dominican_Order"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Afghanistan", 
+            "High_tech", 
+            "Low-technology", 
+            "New_York", 
+            "Trial_and_error", 
+            "Upstate_New_York", 
+            "United_States_Marine_Corps", 
+            "Diaper", 
+            "Afghanistan", 
+            "Technology", 
+            "Afghanistan", 
+            "Weapon"
+        ], 
+        "postID": 3
+    }
+]

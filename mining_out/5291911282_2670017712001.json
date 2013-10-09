@@ -1,0 +1,376 @@
+[
+    {
+        "entity": [
+            "High_school", 
+            "United_States_Military_Academy", 
+            "1990"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "FYI"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Discharge_(band)", 
+            "Military_discharge", 
+            "Salmon", 
+            "Secession", 
+            "United_States", 
+            "Salmon_P._Chase", 
+            "DD_Form_214", 
+            "Recruiter", 
+            "Divine_grace", 
+            "MEPS", 
+            "Treason", 
+            "1867", 
+            "Chief_Justice_of_the_United_States", 
+            "Chase,_British_Columbia", 
+            "Delayed_Entry_Program", 
+            "Jefferson_Davis", 
+            "1982", 
+            "Recruiter", 
+            "Military_of_the_United_States", 
+            "United_States_Constitution", 
+            "Recruiter"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Boot_Camp_(software)", 
+            "Advocate", 
+            "Judge_Advocate_General's_Corps_(United_States_Army)", 
+            "Data_Execution_Prevention", 
+            "Service_level_agreement", 
+            "Lawyer", 
+            "Judge_Advocate_General's_Corps"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Wendy's", 
+            "McDonald's", 
+            "Hamburger", 
+            "Burger_King"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Desertion", 
+            "Lawyer", 
+            "Uniform_Code_of_Military_Justice", 
+            "Lawyer", 
+            "United_States_Army"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Feces", 
+            "Cattle", 
+            "Odor", 
+            "Feces"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Soap", 
+            "Dude", 
+            "England"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "Portable_Document_Format", 
+            "High_school", 
+            "News_presenter", 
+            "Recruiter", 
+            "Court-martial", 
+            "Recruiter"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Travesty", 
+            "Juvenile_(organism)", 
+            "Wool", 
+            "Juvenile_(rapper)", 
+            "Diploma", 
+            "Delayed_Entry_Program", 
+            "Recruit_training", 
+            "HAMMER", 
+            "United_States_Army", 
+            "Ethics", 
+            "General_Educational_Development", 
+            "M16_rifle", 
+            "Uniform_Code_of_Military_Justice", 
+            "Recruit_training", 
+            "Boot", 
+            "Lawyer"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "General_Educational_Development", 
+            "Drug", 
+            "United_States_Army"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Data_Execution_Prevention"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "God", 
+            "E-mail", 
+            "Soldier", 
+            "Soldier", 
+            "Internet_forum", 
+            "Derelict", 
+            "Duck", 
+            "God", 
+            "Ordre_des_Arts_et_des_Lettres"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "United_States_Military_Academy", 
+            "1990"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States_Army", 
+            "FYI"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Discharge_(band)", 
+            "Military_discharge", 
+            "Salmon", 
+            "Secession", 
+            "United_States", 
+            "Salmon_P._Chase", 
+            "DD_Form_214", 
+            "Recruiter", 
+            "Divine_grace", 
+            "MEPS", 
+            "Treason", 
+            "1867", 
+            "Chief_Justice_of_the_United_States", 
+            "Chase,_British_Columbia", 
+            "Delayed_Entry_Program", 
+            "Jefferson_Davis", 
+            "1982", 
+            "Recruiter", 
+            "Military_of_the_United_States", 
+            "United_States_Constitution", 
+            "Recruiter"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Boot_Camp_(software)", 
+            "Advocate", 
+            "Judge_Advocate_General's_Corps_(United_States_Army)", 
+            "Data_Execution_Prevention", 
+            "Service_level_agreement", 
+            "Lawyer", 
+            "Judge_Advocate_General's_Corps"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Wendy's", 
+            "McDonald's", 
+            "Hamburger", 
+            "Burger_King"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Desertion", 
+            "Lawyer", 
+            "Uniform_Code_of_Military_Justice", 
+            "Lawyer", 
+            "United_States_Army"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Feces", 
+            "Cattle", 
+            "Odor", 
+            "Feces"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Jail"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Soap", 
+            "Dude", 
+            "England"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "Plymouth_Duster", 
+            "Plymouth_Duster"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "High_school", 
+            "Portable_Document_Format", 
+            "High_school", 
+            "News_presenter", 
+            "Recruiter", 
+            "Court-martial", 
+            "Recruiter"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Dude", 
+            "England"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Travesty", 
+            "Juvenile_(organism)", 
+            "Wool", 
+            "Juvenile_(rapper)", 
+            "Diploma", 
+            "Delayed_Entry_Program", 
+            "Recruit_training", 
+            "HAMMER", 
+            "United_States_Army", 
+            "Ethics", 
+            "General_Educational_Development", 
+            "M16_rifle", 
+            "Uniform_Code_of_Military_Justice", 
+            "Recruit_training", 
+            "Boot", 
+            "Lawyer"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "General_Educational_Development", 
+            "Drug", 
+            "United_States_Army"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Data_Execution_Prevention"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "D._V._Gundappa", 
+            "God", 
+            "E-mail", 
+            "Soldier", 
+            "Soldier", 
+            "Internet_forum", 
+            "Derelict", 
+            "Duck", 
+            "God", 
+            "Ordre_des_Arts_et_des_Lettres"
+        ], 
+        "postID": 40
+    }
+]

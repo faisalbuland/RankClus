@@ -1,0 +1,94 @@
+[
+    {
+        "entity": [
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "White_House", 
+            "Harry_S._Truman", 
+            "Sandy,_Utah", 
+            "United_States_Congress", 
+            "Executive_order_(United_States)", 
+            "United_States", 
+            "Browser_Helper_Object"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Executive_order_(United_States)", 
+            "President_of_the_United_States", 
+            "Don't_ask,_don't_tell"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "United_States", 
+            "Political_correctness"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Law", 
+            "Executive_order_(United_States)", 
+            "Federal_law"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Executive_order_(United_States)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Civil_rights"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Washington,_D.C.", 
+            "United_States_Senate", 
+            "United_States_Senate", 
+            "President_of_the_United_States", 
+            "United_States_Senate", 
+            "Sam_Nunn", 
+            "President_of_the_United_States", 
+            "Television_advertisement", 
+            "Signing_statement_(United_States)", 
+            "Barack_Obama", 
+            "Bill_Clinton", 
+            "Executive_order_(United_States)", 
+            "Public_relations", 
+            "Bill_Clinton", 
+            "Democratic_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "Glove", 
+            "Bill_Clinton", 
+            "Sam_Nunn", 
+            "Law", 
+            "Kid_gloves", 
+            "Federal_law", 
+            "Bill_Clinton", 
+            "Will_(law)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Federal_law", 
+            "Racial_segregation_in_the_United_States", 
+            "Law"
+        ], 
+        "postID": 9
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "entity": [
+            "Da_Nang_Air_Base", 
+            "Hospital", 
+            "E-mail", 
+            "1969", 
+            "March_13", 
+            "Hepatitis_C", 
+            "Hepatitis", 
+            "2009", 
+            "1969", 
+            "Da_Nang_Air_Base", 
+            "Morphine", 
+            "Blood", 
+            "2000"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "1998", 
+            "Vietnam", 
+            "Infection", 
+            "2000", 
+            "Hepatitis", 
+            "Morphine", 
+            "Blood", 
+            "Cirrhosis", 
+            "Liver", 
+            "Vietnam", 
+            "Blood"
+        ], 
+        "postID": 3
+    }
+]

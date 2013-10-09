@@ -1,0 +1,95 @@
+[
+    {
+        "entity": [
+            "Tax", 
+            "State", 
+            "Social_welfare_provision", 
+            "United_States", 
+            "Tax", 
+            "Income_tax", 
+            "Consumption_tax"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Public_education", 
+            "Income_tax", 
+            "Income_tax", 
+            "Discretionary_income", 
+            "Stack_(data_structure)"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Ralph_Nader", 
+            "State_Fair_(1945_film)", 
+            "Missouri", 
+            "Forbes", 
+            "Tax", 
+            "Ralph_Nader", 
+            "Steve_Forbes", 
+            "Missouri_State_Fair", 
+            "Missouri_State_University", 
+            "1996"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Missouri", 
+            "God"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Income_tax", 
+            "Consumption_tax", 
+            "Tax", 
+            "Neal_Boortz"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Dime_(United_States_coin)"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "Income_tax", 
+            "Tax", 
+            "One_Nation_(Australia)", 
+            "Tax"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax", 
+            "Crackerjack", 
+            "Reflection_(physics)", 
+            "Postage_stamp", 
+            "Social_welfare_provision", 
+            "Flat_tax", 
+            "Flat_tax", 
+            "Food_Stamp_Program"
+        ], 
+        "postID": 10
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "entity": [
+            "Emission_standard", 
+            "Gallon", 
+            "Ford_Motor_Company", 
+            "Greenhouse_gas", 
+            "Barack_Obama", 
+            "Carbon", 
+            "Carbon_dioxide", 
+            "Tank", 
+            "Gerald_Ford"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Ford_Motor_Company", 
+            "Gerald_Ford"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Oil"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Goethe_Basin", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Gallon", 
+            "Johann_Wolfgang_von_Goethe", 
+            "Mathematics", 
+            "Gallon"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Petrol_engine", 
+            "Gravy", 
+            "Sport_utility_vehicle", 
+            "Volkswagen_Caddy", 
+            "Old_Days", 
+            "Equation", 
+            "Fuel_efficiency"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Gasoline", 
+            "Tax", 
+            "Vehicle_excise_duty", 
+            "Torso", 
+            "Tax", 
+            "Highway", 
+            "Road", 
+            "Federation_Against_Copyright_Theft", 
+            "Infrastructure", 
+            "Tax_revenue", 
+            "Tax", 
+            "Tax", 
+            "Public_works", 
+            "Recession", 
+            "Use_tax", 
+            "State"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Gas"
+        ], 
+        "postID": 7
+    }
+]

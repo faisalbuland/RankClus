@@ -1,0 +1,78 @@
+[
+    {
+        "entity": [
+            "Guerrilla_warfare", 
+            "Marxism", 
+            "Communist_party", 
+            "Left-wing_politics", 
+            "Coalition", 
+            "Communism", 
+            "Guerrilla_warfare", 
+            "Left-wing_politics"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Communist_party", 
+            "Communist_party", 
+            "Communism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Communism", 
+            "Election", 
+            "Sandinista_National_Liberation_Front", 
+            "Coalition", 
+            "Revolution", 
+            "Free_election", 
+            "Dictatorship", 
+            "Democracy"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Mara_Salvatrucha"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "March_26", 
+            "Canada", 
+            "2009", 
+            "Canadian_Forces"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Soviet_Union", 
+            "Totalitarianism", 
+            "Election", 
+            "Soviet_Union", 
+            "Free_election"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Domino_Effect_(album)", 
+            "Dominoes"
+        ], 
+        "postID": 10
+    }
+]

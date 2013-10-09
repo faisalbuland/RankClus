@@ -1,0 +1,25 @@
+[
+    {
+        "entity": [
+            "Fiasco", 
+            "United_States", 
+            "Financial_Crimes_Enforcement_Network", 
+            "Great_Depression", 
+            "United_States", 
+            "National_security", 
+            "Political_corruption", 
+            "Transparency_(humanities)", 
+            "Greed"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Loophole", 
+            "Chief_executive_officer", 
+            "Law", 
+            "Umbrella"
+        ], 
+        "postID": 2
+    }
+]

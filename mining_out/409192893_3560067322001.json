@@ -1,0 +1,624 @@
+[
+    {
+        "entity": [
+            "Tax_revolt", 
+            "Tax", 
+            "California", 
+            "San_Francisco,_California", 
+            "Liberalism", 
+            "County", 
+            "Progressivism"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "California", 
+            "Entitlement", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "North_Carolina", 
+            "High_school", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Goodness_(band)", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "California", 
+            "Population"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Welfare_(financial_aid)", 
+            "Honestly"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Welfare_reform", 
+            "Welfare_(financial_aid)", 
+            "1996"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Oh_No_(rapper)", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Extraterrestrial_life", 
+            "Illegal_immigration"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Spanish_language", 
+            "Food_Stamp_Program", 
+            "College", 
+            "Welfare_(financial_aid)", 
+            "Postage_stamp", 
+            "Health_care", 
+            "Tuition", 
+            "College_tuition", 
+            "Organ_transplant", 
+            "Social_welfare_provision", 
+            "Education", 
+            "Organ_(anatomy)", 
+            "Public_education"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Redneck", 
+            "Racism"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Celebrity"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Public_housing", 
+            "Emergency_department", 
+            "Illegal_immigration", 
+            "Barack_Obama"
+        ], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Dallas_County,_Texas", 
+            "U.S._state", 
+            "Food_Stamp_Program", 
+            "Heaven", 
+            "HAL_Tejas", 
+            "Parkland,_Washington", 
+            "Dallas,_Texas", 
+            "Santiago_de_Cali", 
+            "Dallas,_Texas", 
+            "Party_line", 
+            "Heaven", 
+            "Parkland_Memorial_Hospital", 
+            "Emergency_department", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Dude_(musical)", 
+            "Welfare_(financial_aid)", 
+            "Special_Supplemental_Nutrition_Program_for_Women,_Infants_and_Children"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Visa_(document)", 
+            "President_of_the_United_States", 
+            "Gunny", 
+            "Public_housing"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Illegal_immigration", 
+            "Party_line", 
+            "Immigration", 
+            "Immigration", 
+            "Illegal_immigration", 
+            "Gunny", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "Immigration", 
+            "Party_line", 
+            "Postage_stamp", 
+            "Food_Stamp_Program", 
+            "Western_International_Communications", 
+            "Emergency_department"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Public_housing", 
+            "Visa_(document)"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Special_Supplemental_Nutrition_Program_for_Women,_Infants_and_Children", 
+            "Alien_(law)", 
+            "Food_Stamp_Program", 
+            "Postage_stamp", 
+            "Illegal_immigration"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Medicare_(United_States)", 
+            "Social_Security_(United_States)", 
+            "Uncle_Sam", 
+            "Immigration", 
+            "Social_Security_(United_States)", 
+            "Federal_government_of_the_United_States", 
+            "Federal_Insurance_Contributions_Act_tax"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_return_(United_States)", 
+            "Social_Security_number", 
+            "Social_security", 
+            "Illegal_immigration", 
+            "Alien_(law)"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Social_Security_number", 
+            "Film_director", 
+            "State", 
+            "Fiscal_year", 
+            "Tax", 
+            "Illegal_immigration", 
+            "Massachusetts", 
+            "The_Berkshires", 
+            "Social_Security_number", 
+            "Internal_Revenue_Service", 
+            "Non-profit_organization", 
+            "Non-profit_organization", 
+            "The_Berkshires", 
+            "New_Bedford,_Massachusetts", 
+            "Illegal_immigration", 
+            "Tax", 
+            "Immigration", 
+            "Bedford,_Massachusetts", 
+            "Fiscal_year", 
+            "United_States", 
+            "Tax", 
+            "Massachusetts", 
+            "Investment", 
+            "2006", 
+            "Immigration", 
+            "Massachusetts", 
+            "Immigration_to_the_United_States", 
+            "1996", 
+            "United_States", 
+            "New_Bedford,_Massachusetts", 
+            "Immigration", 
+            "Internal_Revenue_Service", 
+            "Judge", 
+            "Deportation", 
+            "Individual_Taxpayer_Identification_Number", 
+            "Internal_Revenue_Service", 
+            "2005", 
+            "Social_Security_(United_States)", 
+            "Chelsea_F.C.", 
+            "Tax", 
+            "State", 
+            "Income_tax", 
+            "Bedford,_Massachusetts", 
+            "Executive_director", 
+            "Social_Security_number", 
+            "Immigration", 
+            "Illegal_immigration", 
+            "Williams_College", 
+            "Tax", 
+            "Tax_return_(United_States)"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Tax_revolt", 
+            "Tax", 
+            "California", 
+            "San_Francisco,_California", 
+            "Liberalism", 
+            "County", 
+            "Progressivism"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [], 
+        "postID": 32
+    }, 
+    {
+        "entity": [], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "One_Heart", 
+            "California", 
+            "Entitlement", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "North_Carolina", 
+            "High_school", 
+            "Drug", 
+            "Illegal_drug_trade", 
+            "Goodness_(band)", 
+            "Speaker_(politics)"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Taxation_in_the_United_States", 
+            "California", 
+            "Population"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Nancy_Pelosi"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Extraterrestrial_life"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Foot_(length)", 
+            "Welfare_(financial_aid)", 
+            "Honestly"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)", 
+            "Welfare_reform", 
+            "Welfare_(financial_aid)", 
+            "1996"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Oh_No_(rapper)", 
+            "One_Heart", 
+            "One_Nation_(Australia)"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Extraterrestrial_life", 
+            "Illegal_immigration"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Economy"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Spanish_language", 
+            "Food_Stamp_Program", 
+            "College", 
+            "Welfare_(financial_aid)", 
+            "Postage_stamp", 
+            "Health_care", 
+            "Tuition", 
+            "College_tuition", 
+            "Organ_transplant", 
+            "Social_welfare_provision", 
+            "Education", 
+            "Organ_(anatomy)", 
+            "Public_education"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Redneck", 
+            "Racism"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "LOL"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Welfare_(financial_aid)"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "States_and_territories_of_India", 
+            "Celebrity"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "Emergency_department", 
+            "Public_housing", 
+            "Emergency_department", 
+            "Illegal_immigration", 
+            "Barack_Obama"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Dallas_County,_Texas", 
+            "U.S._state", 
+            "Food_Stamp_Program", 
+            "Heaven", 
+            "HAL_Tejas", 
+            "Parkland,_Washington", 
+            "Dallas,_Texas", 
+            "Santiago_de_Cali", 
+            "Dallas,_Texas", 
+            "Party_line", 
+            "Heaven", 
+            "Parkland_Memorial_Hospital", 
+            "Emergency_department", 
+            "Postage_stamp", 
+            "Postage_stamp", 
+            "Dude_(musical)", 
+            "Welfare_(financial_aid)", 
+            "Special_Supplemental_Nutrition_Program_for_Women,_Infants_and_Children"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Visa_(document)", 
+            "President_of_the_United_States", 
+            "Gunny", 
+            "Public_housing"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Illegal_immigration", 
+            "Party_line", 
+            "Immigration", 
+            "Immigration", 
+            "Illegal_immigration", 
+            "Gunny", 
+            "United_States", 
+            "Republican_Party_(United_States)", 
+            "Immigration", 
+            "Party_line", 
+            "Postage_stamp", 
+            "Food_Stamp_Program", 
+            "Western_International_Communications", 
+            "Emergency_department"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Public_housing", 
+            "Visa_(document)"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Income_tax", 
+            "Special_Supplemental_Nutrition_Program_for_Women,_Infants_and_Children", 
+            "Alien_(law)", 
+            "Food_Stamp_Program", 
+            "Postage_stamp", 
+            "Illegal_immigration"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Illegal_immigration", 
+            "Medicare_(United_States)", 
+            "Social_Security_(United_States)", 
+            "Uncle_Sam", 
+            "Immigration", 
+            "Social_Security_(United_States)", 
+            "Federal_government_of_the_United_States", 
+            "Federal_Insurance_Contributions_Act_tax"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Tax_return_(United_States)", 
+            "Social_Security_number", 
+            "Social_security", 
+            "Illegal_immigration", 
+            "Alien_(law)"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Social_Security_number", 
+            "Film_director", 
+            "State", 
+            "Fiscal_year", 
+            "Tax", 
+            "Illegal_immigration", 
+            "Massachusetts", 
+            "The_Berkshires", 
+            "Social_Security_number", 
+            "Internal_Revenue_Service", 
+            "Non-profit_organization", 
+            "Non-profit_organization", 
+            "The_Berkshires", 
+            "New_Bedford,_Massachusetts", 
+            "Illegal_immigration", 
+            "Tax", 
+            "Immigration", 
+            "Bedford,_Massachusetts", 
+            "Fiscal_year", 
+            "United_States", 
+            "Tax", 
+            "Massachusetts", 
+            "Investment", 
+            "2006", 
+            "Immigration", 
+            "Massachusetts", 
+            "Immigration_to_the_United_States", 
+            "1996", 
+            "United_States", 
+            "New_Bedford,_Massachusetts", 
+            "Immigration", 
+            "Internal_Revenue_Service", 
+            "Judge", 
+            "Deportation", 
+            "Individual_Taxpayer_Identification_Number", 
+            "Internal_Revenue_Service", 
+            "2005", 
+            "Social_Security_(United_States)", 
+            "Chelsea_F.C.", 
+            "Tax", 
+            "State", 
+            "Income_tax", 
+            "Bedford,_Massachusetts", 
+            "Executive_director", 
+            "Social_Security_number", 
+            "Immigration", 
+            "Illegal_immigration", 
+            "Williams_College", 
+            "Tax", 
+            "Tax_return_(United_States)"
+        ], 
+        "postID": 59
+    }, 
+    {
+        "entity": [], 
+        "postID": 60
+    }
+]

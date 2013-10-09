@@ -1,0 +1,174 @@
+[
+    {
+        "entity": [
+            "Pick_operating_system", 
+            "Guyana", 
+            "News_(band)"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "God", 
+            "Nat_Wolff", 
+            "President_of_the_United_States", 
+            "Geo", 
+            "Boxing", 
+            "Mammoth"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Supermajority", 
+            "News_conference"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "Lost_(TV_series)", 
+            "George_W._Bush"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "News_conference"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Disability", 
+            "Handicap"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Fox_Broadcasting_Company", 
+            "Fox_News_Channel", 
+            "News"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "Fox_News_Channel", 
+            "Alphabet", 
+            "Broadcast_network", 
+            "President_of_the_United_States", 
+            "Fox_Broadcasting_Company"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Loonie", 
+            "LOL", 
+            "Loonie", 
+            "Barack_Obama"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Turner_Network_Television", 
+            "SCI_FI", 
+            "Metro", 
+            "The_Simpsons", 
+            "The_Simpsons", 
+            "Right-wing_politics", 
+            "Science_fiction", 
+            "News_conference", 
+            "United_States", 
+            "Fox_News_Channel", 
+            "TBS_(TV_network)", 
+            "!!!", 
+            "Fox_Broadcasting_Company", 
+            "Metro_Area", 
+            "Conspiracy_(film)", 
+            "American_Idol", 
+            "American_Idol", 
+            "Fox_Broadcasting_Company", 
+            "CW11", 
+            "Fox_Entertainment_Group"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Photo_(French_magazine)", 
+            "GEE_(navigation)"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "News_conference"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Venezuela", 
+            "Barack_Obama", 
+            "Barack_Obama", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Spin_(physics)", 
+            "Wizard_(Middle-earth)", 
+            "Wizard_(Middle-earth)", 
+            "Kinda_(Doctor_Who)"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Actor", 
+            "George_W._Bush"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [], 
+        "postID": 25
+    }
+]

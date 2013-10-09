@@ -1,0 +1,39 @@
+[
+    {
+        "entity": [
+            "1969", 
+            "Chevrolet_Camaro"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Super_Bowl"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Dog", 
+            "Dude"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Auction", 
+            "United_States"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Auction"
+        ], 
+        "postID": 6
+    }
+]

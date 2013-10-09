@@ -1,0 +1,45 @@
+[
+    {
+        "entity": [
+            "Gold", 
+            "M1_Garand_rifle", 
+            "Republicanism", 
+            "United_States", 
+            "Democracy", 
+            "M1_Garand_rifle"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Stalinism", 
+            "Joseph_Stalin"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Faith"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Faith", 
+            "Joseph_Stalin", 
+            "Stalinism", 
+            "Politics"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Elitism", 
+            "Hell", 
+            "Interest_group", 
+            "Jail"
+        ], 
+        "postID": 5
+    }
+]

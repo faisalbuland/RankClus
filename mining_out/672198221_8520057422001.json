@@ -1,0 +1,145 @@
+[
+    {
+        "entity": [
+            "Broadway_theatre", 
+            "New_York_City", 
+            "United_States", 
+            "Pizza", 
+            "Indiana", 
+            "Jet_aircraft", 
+            "White_House", 
+            "White_American"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Truman_Doctrine", 
+            "Kitchen", 
+            "King_Lear", 
+            "Harry_S._Truman"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Hamburger", 
+            "White_House"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "News_(band)", 
+            "News_(band)", 
+            "News_(band)", 
+            "Thread_(computer_science)"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Barack_Obama", 
+            "Virginia", 
+            "Patty", 
+            "Motorcade", 
+            "Potomac_River", 
+            "Barack_Obama", 
+            "Potomac_River", 
+            "President_of_the_United_States", 
+            "White_House", 
+            "Race_and_ethnicity_in_the_United_States_Census", 
+            "Patty", 
+            "Patty", 
+            "Arlington_County,_Virginia"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "George_W._Bush", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "Plenty_(play)", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "George_W._Bush"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Savage_(rapper)"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Sorry_(Madonna_song)"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "United_States", 
+            "Employee_benefit", 
+            "President_of_the_United_States", 
+            "George_Washington", 
+            "Washington,_D.C.", 
+            "United_States_Secret_Service", 
+            "George_Washington", 
+            "Washington,_D.C.", 
+            "Washington,_D.C.", 
+            "Tax", 
+            "New_York"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Tax", 
+            "Town", 
+            "George_W._Bush", 
+            "United_States_Secret_Service", 
+            "Retirement", 
+            "United_States_Secret_Service", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "George_W._Bush", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "President_of_the_United_States", 
+            "Broadway_theatre", 
+            "New_York", 
+            "Aircraft", 
+            "Barack_Obama", 
+            "Aircraft", 
+            "United_States_Secret_Service", 
+            "Barack_Obama", 
+            "Etiquette", 
+            "Aircraft", 
+            "President_of_the_United_States"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Elementary_school", 
+            "President_of_the_United_States", 
+            "Sour_grapes", 
+            "Grape"
+        ], 
+        "postID": 13
+    }
+]

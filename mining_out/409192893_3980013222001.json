@@ -1,0 +1,146 @@
+[
+    {
+        "entity": [
+            "Health_care", 
+            "Health_care_systems", 
+            "Tax", 
+            "Life_support", 
+            "Manufacturing", 
+            "Republic", 
+            "Economy", 
+            "Alcohol", 
+            "United_States", 
+            "United_States", 
+            "Tax_law", 
+            "Tax", 
+            "United_States_Congress", 
+            "Tax", 
+            "Engineering", 
+            "Tax", 
+            "United_States_Congress", 
+            "United_States_dollar", 
+            "President_of_the_United_States", 
+            "Product_(chemistry)", 
+            "Drinking_straw", 
+            "Tobacco_smoking", 
+            "Wage", 
+            "Government_spending", 
+            "President_of_the_United_States", 
+            "United_States_dollar", 
+            "United_States"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Constitution", 
+            "Constitution", 
+            "Legislation", 
+            "Constitution", 
+            "Law", 
+            "Capitalism"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Capitalism", 
+            "Deregulation"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Tax_credit", 
+            "May_1", 
+            "United_States", 
+            "Tax", 
+            "United_States", 
+            "Marital_status", 
+            "Associated_Press", 
+            "Barack_Obama", 
+            "Retirement", 
+            "Tax", 
+            "2009", 
+            "Tax_credit", 
+            "Tax", 
+            "Tax", 
+            "Income_tax", 
+            "Tax", 
+            "Veronica_Mars_(character)", 
+            "2009", 
+            "Associated_Press", 
+            "Pension"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Libertarianism", 
+            "Libertarianism", 
+            "Democracy", 
+            "Currency", 
+            "Political_corruption", 
+            "Capitalism", 
+            "Capitalism", 
+            "Lobbying", 
+            "Accountability", 
+            "United_States", 
+            "Republicanism", 
+            "Monopoly", 
+            "Capitalism"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Regulation", 
+            "Capitalism", 
+            "1929", 
+            "Stock_market_crash"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Bill_Clinton", 
+            "United_States_Constitution", 
+            "Antonin_Scalia", 
+            "Antonin_Scalia", 
+            "Law", 
+            "Living_Constitution", 
+            "United_States_Constitution", 
+            "Barack_Obama", 
+            "Originalism", 
+            "Originalism"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Chaos"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "United_States_Congress", 
+            "United_States", 
+            "United_States", 
+            "United_States_Congress", 
+            "President_of_the_United_States", 
+            "Tax", 
+            "Private_sector", 
+            "United_States", 
+            "2009", 
+            "Private_sector", 
+            "Sat_(Sanskrit)", 
+            "United_States"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [], 
+        "postID": 11
+    }
+]

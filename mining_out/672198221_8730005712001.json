@@ -1,0 +1,698 @@
+[
+    {
+        "entity": [
+            "Taliban", 
+            "Afghanistan", 
+            "Genius", 
+            "Taliban", 
+            "Stroke"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Antiwar.com"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Canadian_Forces_Land_Force_Command", 
+            "Internet_forum", 
+            "United_States_Army", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Commonwealth_of_Nations", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Screw_thread", 
+            "United_Kingdom", 
+            "Screw_thread"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Comanche", 
+            "United_States_Congress", 
+            "WING", 
+            "Life_(magazine)", 
+            "Carl_von_Clausewitz", 
+            "ADULT._(band)", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Gravitation", 
+            "Gravitation"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Conventional_wisdom"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Anti-war", 
+            "Asymmetric_warfare", 
+            "Military_strategy", 
+            "Asymmetric_warfare", 
+            "Desert", 
+            "Taliban", 
+            "Western_world", 
+            "Military_strategy"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Critical_thinking", 
+            "Education", 
+            "Developed_country"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Iraq_War_troop_surge_of_2007", 
+            "Iraq_War"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Keystone", 
+            "Website", 
+            "Scooter_(motorcycle)", 
+            "John_Kerry", 
+            "Kemal_and_Rob_Data", 
+            "Hero", 
+            "John_Kerry", 
+            "John_Kerry", 
+            "Gravitation", 
+            "Barack_Obama", 
+            "Afghanistan", 
+            "Object_Management_Group", 
+            "Pakistan"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Pol", 
+            "Sunni_Islam", 
+            "Al-Qaeda", 
+            "Sunni_Islam", 
+            "Federation_Against_Copyright_Theft", 
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Spin_(physics)"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "California_Interscholastic_Federation", 
+            "Iraq", 
+            "2003", 
+            "M16_rifle", 
+            "Sadr", 
+            "Recruit_training", 
+            "Iraq", 
+            "Sadr_City", 
+            "Iraq", 
+            "Battalion", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "2004", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Multi-National_Security_Transition_Command_-_Iraq", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Warfighter", 
+            "Iraq", 
+            "Iraqi_security_forces", 
+            "Baghdad", 
+            "November_7", 
+            "SINCGARS", 
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "Star", 
+            "Counter-insurgency"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [
+            "US_West", 
+            "Law", 
+            "Cavalry", 
+            "Marshall_Islands"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [
+            "Parade", 
+            "Iraq"
+        ], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "March_12", 
+            "Sunni_Islam", 
+            "Baghdad", 
+            "Al-Qaeda", 
+            "Iraq", 
+            "Iraq", 
+            "2009", 
+            "Iraq", 
+            "Politics_of_Iraq"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Mahdi_Army", 
+            "Sadr_City", 
+            "Counter-insurgency", 
+            "Sadr", 
+            "Baghdad", 
+            "Battalion", 
+            "Mahdi", 
+            "Baghdad", 
+            "Iraq", 
+            "Shia_Islam", 
+            "TNA_Impact!_Zone", 
+            "Iraq", 
+            "Iraq", 
+            "Sunni_Islam", 
+            "Iraq", 
+            "United_States_Army", 
+            "Iraq"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Heckler"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Afghanistan", 
+            "Genius", 
+            "Taliban", 
+            "Stroke"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Antiwar.com"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Canadian_Forces_Land_Force_Command", 
+            "Internet_forum", 
+            "United_States_Army", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Commonwealth_of_Nations", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Screw_thread", 
+            "United_Kingdom", 
+            "Screw_thread"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Comanche", 
+            "United_States_Congress", 
+            "WING", 
+            "Life_(magazine)", 
+            "Carl_von_Clausewitz", 
+            "ADULT._(band)", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Gravitation", 
+            "Gravitation"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Conventional_wisdom"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [
+            "Anti-war", 
+            "Asymmetric_warfare", 
+            "Military_strategy", 
+            "Asymmetric_warfare", 
+            "Desert", 
+            "Taliban", 
+            "Western_world", 
+            "Military_strategy"
+        ], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Critical_thinking", 
+            "Education", 
+            "Developed_country"
+        ], 
+        "postID": 27
+    }, 
+    {
+        "entity": [
+            "Iraq_War_troop_surge_of_2007", 
+            "Iraq_War"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Keystone", 
+            "Website", 
+            "Scooter_(motorcycle)", 
+            "John_Kerry", 
+            "Kemal_and_Rob_Data", 
+            "Hero", 
+            "John_Kerry", 
+            "John_Kerry", 
+            "Gravitation", 
+            "Barack_Obama", 
+            "Afghanistan", 
+            "Object_Management_Group", 
+            "Pakistan"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Pol", 
+            "Sunni_Islam", 
+            "Al-Qaeda", 
+            "Sunni_Islam", 
+            "Federation_Against_Copyright_Theft", 
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Spin_(physics)"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "California_Interscholastic_Federation", 
+            "Iraq", 
+            "2003", 
+            "M16_rifle", 
+            "Sadr", 
+            "Recruit_training", 
+            "Iraq", 
+            "Sadr_City", 
+            "Iraq", 
+            "Battalion", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "2004", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Multi-National_Security_Transition_Command_-_Iraq", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Warfighter", 
+            "Iraq", 
+            "Iraqi_security_forces", 
+            "Baghdad", 
+            "November_7", 
+            "SINCGARS", 
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "Star", 
+            "Counter-insurgency"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [
+            "US_West", 
+            "Law", 
+            "Cavalry", 
+            "Marshall_Islands"
+        ], 
+        "postID": 35
+    }, 
+    {
+        "entity": [
+            "Parade", 
+            "Iraq"
+        ], 
+        "postID": 36
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "March_12", 
+            "Sunni_Islam", 
+            "Baghdad", 
+            "Al-Qaeda", 
+            "Iraq", 
+            "Iraq", 
+            "2009", 
+            "Iraq", 
+            "Politics_of_Iraq"
+        ], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "Mahdi_Army", 
+            "Sadr_City", 
+            "Counter-insurgency", 
+            "Sadr", 
+            "Baghdad", 
+            "Battalion", 
+            "Mahdi", 
+            "Baghdad", 
+            "Iraq", 
+            "Shia_Islam", 
+            "TNA_Impact!_Zone", 
+            "Iraq", 
+            "Iraq", 
+            "Sunni_Islam", 
+            "Iraq", 
+            "United_States_Army", 
+            "Iraq"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [
+            "Heckler"
+        ], 
+        "postID": 39
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Afghanistan", 
+            "Genius", 
+            "Taliban", 
+            "Stroke"
+        ], 
+        "postID": 41
+    }, 
+    {
+        "entity": [
+            "Sarcasm", 
+            "Antiwar.com"
+        ], 
+        "postID": 42
+    }, 
+    {
+        "entity": [
+            "Canadian_Forces_Land_Force_Command", 
+            "Internet_forum", 
+            "United_States_Army", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Commonwealth_of_Nations", 
+            "Canada", 
+            "Canadian_Forces", 
+            "Screw_thread", 
+            "United_Kingdom", 
+            "Screw_thread"
+        ], 
+        "postID": 43
+    }, 
+    {
+        "entity": [
+            "Carl_von_Clausewitz", 
+            "Comanche", 
+            "United_States_Congress", 
+            "WING", 
+            "Life_(magazine)", 
+            "Carl_von_Clausewitz", 
+            "ADULT._(band)", 
+            "Chiefs_(Super_rugby_franchise)", 
+            "Gravitation", 
+            "Gravitation"
+        ], 
+        "postID": 44
+    }, 
+    {
+        "entity": [
+            "Wisdom", 
+            "Conventional_wisdom"
+        ], 
+        "postID": 45
+    }, 
+    {
+        "entity": [
+            "Anti-war", 
+            "Asymmetric_warfare", 
+            "Military_strategy", 
+            "Asymmetric_warfare", 
+            "Desert", 
+            "Taliban", 
+            "Western_world", 
+            "Military_strategy"
+        ], 
+        "postID": 46
+    }, 
+    {
+        "entity": [
+            "Critical_thinking", 
+            "Education", 
+            "Developed_country"
+        ], 
+        "postID": 47
+    }, 
+    {
+        "entity": [
+            "Iraq_War_troop_surge_of_2007", 
+            "Iraq_War"
+        ], 
+        "postID": 48
+    }, 
+    {
+        "entity": [
+            "Bridge", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 49
+    }, 
+    {
+        "entity": [
+            "John_Kerry", 
+            "Keystone", 
+            "Website", 
+            "Scooter_(motorcycle)", 
+            "John_Kerry", 
+            "Kemal_and_Rob_Data", 
+            "Hero", 
+            "John_Kerry", 
+            "John_Kerry", 
+            "Gravitation", 
+            "Barack_Obama", 
+            "Afghanistan", 
+            "Object_Management_Group", 
+            "Pakistan"
+        ], 
+        "postID": 50
+    }, 
+    {
+        "entity": [
+            "Pol", 
+            "Sunni_Islam", 
+            "Al-Qaeda", 
+            "Sunni_Islam", 
+            "Federation_Against_Copyright_Theft", 
+            "Iraqi_insurgency", 
+            "Iraq", 
+            "Al-Qaeda", 
+            "Spin_(physics)"
+        ], 
+        "postID": 51
+    }, 
+    {
+        "entity": [
+            "Taliban", 
+            "Taliban", 
+            "Taliban"
+        ], 
+        "postID": 52
+    }, 
+    {
+        "entity": [
+            "California_Interscholastic_Federation", 
+            "Iraq", 
+            "2003", 
+            "M16_rifle", 
+            "Sadr", 
+            "Recruit_training", 
+            "Iraq", 
+            "Sadr_City", 
+            "Iraq", 
+            "Battalion", 
+            "Recruit_training", 
+            "United_States_Army", 
+            "United_States_Army", 
+            "2004", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Multi-National_Security_Transition_Command_-_Iraq", 
+            "Iraqi_Army", 
+            "Iraq", 
+            "Iraq", 
+            "Warfighter", 
+            "Iraq", 
+            "Iraqi_security_forces", 
+            "Baghdad", 
+            "November_7", 
+            "SINCGARS", 
+            "High_Mobility_Multipurpose_Wheeled_Vehicle", 
+            "Star", 
+            "Counter-insurgency"
+        ], 
+        "postID": 53
+    }, 
+    {
+        "entity": [
+            "Nazism"
+        ], 
+        "postID": 54
+    }, 
+    {
+        "entity": [
+            "US_West", 
+            "Law", 
+            "Cavalry", 
+            "Marshall_Islands"
+        ], 
+        "postID": 55
+    }, 
+    {
+        "entity": [
+            "Parade", 
+            "Iraq"
+        ], 
+        "postID": 56
+    }, 
+    {
+        "entity": [
+            "Iraq", 
+            "March_12", 
+            "Sunni_Islam", 
+            "Baghdad", 
+            "Al-Qaeda", 
+            "Iraq", 
+            "Iraq", 
+            "2009", 
+            "Iraq", 
+            "Politics_of_Iraq"
+        ], 
+        "postID": 57
+    }, 
+    {
+        "entity": [
+            "Mahdi_Army", 
+            "Sadr_City", 
+            "Counter-insurgency", 
+            "Sadr", 
+            "Baghdad", 
+            "Battalion", 
+            "Mahdi", 
+            "Baghdad", 
+            "Iraq", 
+            "Shia_Islam", 
+            "TNA_Impact!_Zone", 
+            "Iraq", 
+            "Iraq", 
+            "Sunni_Islam", 
+            "Iraq", 
+            "United_States_Army", 
+            "Iraq"
+        ], 
+        "postID": 58
+    }, 
+    {
+        "entity": [
+            "Heckler"
+        ], 
+        "postID": 59
+    }
+]

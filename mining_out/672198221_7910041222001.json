@@ -1,0 +1,151 @@
+[
+    {
+        "entity": [
+            "Human", 
+            "Europe", 
+            "United_States", 
+            "Associated_Press", 
+            "Luxembourg", 
+            "Switzerland", 
+            "Suspension_(vehicle)", 
+            "Influenza", 
+            "European_Union", 
+            "Robert_Louis_Stevenson", 
+            "Mexico", 
+            "Mexico_national_basketball_team", 
+            "Pandemic", 
+            "United_States", 
+            "Federal_government_of_the_United_States", 
+            "Influenza", 
+            "Virus", 
+            "Mexico", 
+            "Swine_flu", 
+            "World_Health_Organization", 
+            "Pig", 
+            "Mexico", 
+            "Mexico", 
+            "Infectious_disease", 
+            "Swine_flu", 
+            "Mexico", 
+            "Pig", 
+            "Pandemic", 
+            "Associated_Press", 
+            "Virus", 
+            "United_States", 
+            "Squelch", 
+            "Virus", 
+            "Europe", 
+            "CITY-TV", 
+            "Secretary_of_State_for_Health", 
+            "Swine_flu", 
+            "Pig", 
+            "Spanish_flu", 
+            "Cordova,_Alaska", 
+            "Hospital", 
+            "Influenza", 
+            "Pandemic"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Health_department", 
+            "Fort_Worth,_Texas", 
+            "District", 
+            "Fort_Worth_Independent_School_District", 
+            "Influenza", 
+            "District", 
+            "Swine_flu", 
+            "Swine_flu", 
+            "Pig", 
+            "Influenza", 
+            "Telephone_exchange", 
+            "Swine_flu", 
+            "CBS", 
+            "Melody", 
+            "Pig", 
+            "Departments_of_France", 
+            "Pig", 
+            "Fort_Worth,_Texas", 
+            "Fort_Worth_Independent_School_District", 
+            "Fort_Worth,_Texas", 
+            "McLean,_Virginia", 
+            "Fort_Worth_Independent_School_District", 
+            "Influenza", 
+            "Independent_(politician)", 
+            "Superintendent_(education)", 
+            "Centers_for_Disease_Control_and_Prevention", 
+            "School_district", 
+            "World_Health_Organization", 
+            "April_30", 
+            "Advice_and_consent", 
+            "Fort_Worth_Independent_School_District", 
+            "Fort_Worth,_Texas"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Barn", 
+            "Barn_doors"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Horse", 
+            "Plant_virus", 
+            "Prairie", 
+            "Barn", 
+            "Plant_virus", 
+            "AIDS"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Transmission_(medicine)", 
+            "Town_meeting", 
+            "Analogy", 
+            "Disease", 
+            "Transmission_(mechanics)", 
+            "Town", 
+            "Grocery_store", 
+            "Transmission_(mechanics)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Influenza_A_virus_subtype_H1N1", 
+            "Influenza", 
+            "Cinco_de_Mayo", 
+            "Disease", 
+            "Disease", 
+            "Mayo_GAA", 
+            "Regulation", 
+            "Mexico", 
+            "Animal"
+        ], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Booing", 
+            "Joe's_Own_Editor"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "World_population", 
+            "Population"
+        ], 
+        "postID": 9
+    }
+]

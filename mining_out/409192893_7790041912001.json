@@ -1,0 +1,216 @@
+[
+    {
+        "entity": [
+            "Dunlap,_Tennessee"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "President_of_the_United_States", 
+            "Brazil"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Glenn_Beck", 
+            "Barack_Obama", 
+            "Republican_Party_(United_States)", 
+            "Glenn_Beck", 
+            "Republican_Party_(United_States)", 
+            "Glenn_Beck", 
+            "!!!", 
+            "Glenn_Beck"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Oval_Office", 
+            "Beck", 
+            "Barack_Obama", 
+            "Streetwise", 
+            "Oval_tube_station", 
+            "African_American", 
+            "International_Maritime_Organization", 
+            "Glenn_Beck", 
+            "Democratic_Party_(United_States)", 
+            "President_of_the_United_States", 
+            "United_States", 
+            "The_Oval", 
+            "Beck", 
+            "President_of_the_United_States", 
+            "Glenn_Beck"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "Religion"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [
+            "Politics", 
+            "Beck_(disambiguation)"
+        ], 
+        "postID": 6
+    }, 
+    {
+        "entity": [], 
+        "postID": 7
+    }, 
+    {
+        "entity": [
+            "Concur"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Beck", 
+            "Washington", 
+            "Kettle"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Republican_Party_(United_States)", 
+            "Moron", 
+            "Republican_Party_(United_States)", 
+            "Volt", 
+            "Republican_Party_(United_States)", 
+            "Moral_Majority", 
+            "Palin_Majere", 
+            "Sarah_Palin", 
+            "Glenn_Beck", 
+            "Polarity", 
+            "Glenn_Beck", 
+            "Coil", 
+            "Groupthink"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Wind"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Oklahoma"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "Oklahoma", 
+            "Stimulus", 
+            "Marriage", 
+            "Law", 
+            "Republican_Party_(United_States)", 
+            "Bass_guitar", 
+            "Corporation", 
+            "Fishing", 
+            "Tax", 
+            "TARP", 
+            "Bass_fishing", 
+            "Lake", 
+            "Same-sex_marriage", 
+            "Unfunded_mandate", 
+            "State", 
+            "State", 
+            "Constitutional_amendment", 
+            "Legislature", 
+            "Minnesota", 
+            "Sexual_intercourse", 
+            "Law", 
+            "Felony"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Food_Stamp_Program", 
+            "Tax", 
+            "Postage_stamp", 
+            "Social_welfare_provision", 
+            "Social_welfare_provision", 
+            "Advocate", 
+            "Human_nature", 
+            "Switzerland", 
+            "Tails_(comic_character)", 
+            "UBS_AG", 
+            "Advocate", 
+            "Banking_in_Switzerland"
+        ], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [
+            "Marriage", 
+            "Trade_union", 
+            "State"
+        ], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "Heaven", 
+            "Real_estate_economics"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [
+            "Religion", 
+            "Hell"
+        ], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Indiana", 
+            "Out_(baseball)", 
+            "Beck", 
+            "Military_service", 
+            "Pitchfork", 
+            "College", 
+            "Officer_(armed_forces)", 
+            "Washington", 
+            "Crime", 
+            "Sport_utility_vehicle", 
+            "Apartment", 
+            "Homelessness", 
+            "Sport_utility_vehicle"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Beck"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Stalinism", 
+            "Joseph_Stalin", 
+            "Politics"
+        ], 
+        "postID": 25
+    }
+]

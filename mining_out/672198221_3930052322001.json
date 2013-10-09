@@ -1,0 +1,386 @@
+[
+    {
+        "entity": [
+            "Automotive_industry"
+        ], 
+        "postID": 1
+    }, 
+    {
+        "entity": [
+            "Kettle", 
+            "Coffee", 
+            "Tongue-in-cheek", 
+            "Trade_union", 
+            "Capitalization", 
+            "Trade_union", 
+            "Sheriff"
+        ], 
+        "postID": 2
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "United_States", 
+            "Yea,_Victoria", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Automotive_industry"
+        ], 
+        "postID": 3
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Automotive_industry", 
+            "Automotive_industry", 
+            "Gallon", 
+            "Tax", 
+            "Gasoline", 
+            "Barack_Obama"
+        ], 
+        "postID": 4
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Economy_of_the_United_States", 
+            "Spear"
+        ], 
+        "postID": 5
+    }, 
+    {
+        "entity": [], 
+        "postID": 6
+    }, 
+    {
+        "entity": [
+            "Plymouth_Barracuda", 
+            "Chrysler_Hemi_engine", 
+            "Desert", 
+            "Desert", 
+            "Chevrolet"
+        ], 
+        "postID": 8
+    }, 
+    {
+        "entity": [
+            "Corporate_welfare", 
+            "Welfare_(financial_aid)", 
+            "Ford_Motor_Company", 
+            "Chrysler", 
+            "United_States"
+        ], 
+        "postID": 9
+    }, 
+    {
+        "entity": [
+            "Fuel_economy_in_automobiles", 
+            "Corporate_Average_Fuel_Economy", 
+            "Camel_(band)", 
+            "National_Highway_Traffic_Safety_Administration", 
+            "United_States_Environmental_Protection_Agency", 
+            "Fuel_economy_in_automobiles", 
+            "Corporate_Average_Fuel_Economy", 
+            "Fuel_economy_in_automobiles", 
+            "Camel_(band)", 
+            "United_States_Environmental_Protection_Agency", 
+            "Economics", 
+            "Fuel", 
+            "World_energy_resources_and_consumption", 
+            "Energy", 
+            "United_States_Environmental_Protection_Agency", 
+            "1978", 
+            "Truck", 
+            "United_States_Congress", 
+            "Interference", 
+            "Rulemaking", 
+            "Corporate_Average_Fuel_Economy", 
+            "Fuel_economy_in_automobiles", 
+            "Economics", 
+            "Economics", 
+            "Consumption_(economics)", 
+            "Truck", 
+            "Corporate_Average_Fuel_Economy", 
+            "Economics", 
+            "1975", 
+            "National_Highway_Traffic_Safety_Administration"
+        ], 
+        "postID": 10
+    }, 
+    {
+        "entity": [
+            "Toyota_Camry", 
+            "Regulation", 
+            "Gasoline", 
+            "United_States", 
+            "United_States", 
+            "Chevrolet", 
+            "United_States", 
+            "Toyota_Prius", 
+            "Chevrolet_Camaro", 
+            "Regulation", 
+            "Common_sense", 
+            "2012", 
+            "Bail", 
+            "Chevrolet", 
+            "Chevrolet", 
+            "Global_warming", 
+            "United_States", 
+            "Hummer"
+        ], 
+        "postID": 11
+    }, 
+    {
+        "entity": [
+            "Wig", 
+            "Money_(magazine)", 
+            "Bail", 
+            "God", 
+            "People's_Liberation_Army_Navy", 
+            "Barack_Obama", 
+            "Putout", 
+            "Putout"
+        ], 
+        "postID": 12
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Natural_gas", 
+            "Gasoline"
+        ], 
+        "postID": 13
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Toyota", 
+            "United_States", 
+            "Hyundai_Motor_Company", 
+            "Muscle", 
+            "Environmentally_friendly"
+        ], 
+        "postID": 14
+    }, 
+    {
+        "entity": [], 
+        "postID": 15
+    }, 
+    {
+        "entity": [], 
+        "postID": 16
+    }, 
+    {
+        "entity": [], 
+        "postID": 17
+    }, 
+    {
+        "entity": [
+            "1937", 
+            "United_States", 
+            "Packard"
+        ], 
+        "postID": 18
+    }, 
+    {
+        "entity": [], 
+        "postID": 19
+    }, 
+    {
+        "entity": [], 
+        "postID": 20
+    }, 
+    {
+        "entity": [
+            "Automotive_industry"
+        ], 
+        "postID": 21
+    }, 
+    {
+        "entity": [
+            "Kettle", 
+            "Coffee", 
+            "Tongue-in-cheek", 
+            "Trade_union", 
+            "Capitalization", 
+            "Trade_union", 
+            "Sheriff"
+        ], 
+        "postID": 22
+    }, 
+    {
+        "entity": [
+            "Fault_(geology)", 
+            "United_States", 
+            "Yea,_Victoria", 
+            "Ford_Motor_Company", 
+            "Barack_Obama", 
+            "Automotive_industry"
+        ], 
+        "postID": 23
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Automotive_industry", 
+            "Automotive_industry", 
+            "Gallon", 
+            "Tax", 
+            "Gasoline", 
+            "Barack_Obama"
+        ], 
+        "postID": 24
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "United_States", 
+            "Economy_of_the_United_States", 
+            "Spear"
+        ], 
+        "postID": 25
+    }, 
+    {
+        "entity": [], 
+        "postID": 26
+    }, 
+    {
+        "entity": [
+            "Plymouth_Barracuda", 
+            "Chrysler_Hemi_engine", 
+            "Desert", 
+            "Desert", 
+            "Chevrolet"
+        ], 
+        "postID": 28
+    }, 
+    {
+        "entity": [
+            "Corporate_welfare", 
+            "Welfare_(financial_aid)", 
+            "Ford_Motor_Company", 
+            "Chrysler", 
+            "United_States"
+        ], 
+        "postID": 29
+    }, 
+    {
+        "entity": [
+            "Fuel_economy_in_automobiles", 
+            "Corporate_Average_Fuel_Economy", 
+            "Camel_(band)", 
+            "National_Highway_Traffic_Safety_Administration", 
+            "United_States_Environmental_Protection_Agency", 
+            "Fuel_economy_in_automobiles", 
+            "Corporate_Average_Fuel_Economy", 
+            "Fuel_economy_in_automobiles", 
+            "Camel_(band)", 
+            "United_States_Environmental_Protection_Agency", 
+            "Economics", 
+            "Fuel", 
+            "World_energy_resources_and_consumption", 
+            "Energy", 
+            "United_States_Environmental_Protection_Agency", 
+            "1978", 
+            "Truck", 
+            "United_States_Congress", 
+            "Interference", 
+            "Rulemaking", 
+            "Corporate_Average_Fuel_Economy", 
+            "Fuel_economy_in_automobiles", 
+            "Economics", 
+            "Economics", 
+            "Consumption_(economics)", 
+            "Truck", 
+            "Corporate_Average_Fuel_Economy", 
+            "Economics", 
+            "1975", 
+            "National_Highway_Traffic_Safety_Administration"
+        ], 
+        "postID": 30
+    }, 
+    {
+        "entity": [
+            "Toyota_Camry", 
+            "Regulation", 
+            "Gasoline", 
+            "United_States", 
+            "United_States", 
+            "Chevrolet", 
+            "United_States", 
+            "Toyota_Prius", 
+            "Chevrolet_Camaro", 
+            "Regulation", 
+            "Common_sense", 
+            "2012", 
+            "Bail", 
+            "Chevrolet", 
+            "Chevrolet", 
+            "Global_warming", 
+            "United_States", 
+            "Hummer"
+        ], 
+        "postID": 31
+    }, 
+    {
+        "entity": [
+            "Wig", 
+            "Money_(magazine)", 
+            "Bail", 
+            "God", 
+            "People's_Liberation_Army_Navy", 
+            "Barack_Obama", 
+            "Putout", 
+            "Putout"
+        ], 
+        "postID": 32
+    }, 
+    {
+        "entity": [
+            "United_States", 
+            "Natural_gas", 
+            "Gasoline"
+        ], 
+        "postID": 33
+    }, 
+    {
+        "entity": [
+            "Economy", 
+            "Toyota", 
+            "United_States", 
+            "Hyundai_Motor_Company", 
+            "Muscle", 
+            "Environmentally_friendly"
+        ], 
+        "postID": 34
+    }, 
+    {
+        "entity": [], 
+        "postID": 35
+    }, 
+    {
+        "entity": [], 
+        "postID": 36
+    }, 
+    {
+        "entity": [], 
+        "postID": 37
+    }, 
+    {
+        "entity": [
+            "1937", 
+            "United_States", 
+            "Packard"
+        ], 
+        "postID": 38
+    }, 
+    {
+        "entity": [], 
+        "postID": 39
+    }, 
+    {
+        "entity": [], 
+        "postID": 40
+    }
+]
